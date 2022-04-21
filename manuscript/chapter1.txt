@@ -1,5 +1,20 @@
 # Chapter One
 
+Near the entrance I said hello to a man and he quickly asked whether I would like to wear a sticker. When I declined he said, "I understand not wanting to be a walking poster." Pulling back my jacket to reveal my t-shirt, I said, "But I already am."
+
+The t-shirt read:
+
+Minnesota No. 1 in Voter ~~Turnout~~ Fraud
+
+
+
+Susan Smith
+Rick Weible
+
+
+
+
+
 This is an example of how to write a book chapter in plain text, formatted with Markdown formatting. This is a paragraph. You just write.
 
 Blank lines separate paragraphs. This is the second paragraph.
