@@ -1,5 +1,32 @@
 {sample: true}
-# Chapter Two
+# Chapter Two - Local Action
+
+In early 2021 A friend of mine said I should watch a video interivew between Robert David Steele and Martin Geddes. This introduced me to the Q posts and got me onto Telegram.
+
+By summer, although still working on client books, I was getting restless. A number of influencers on Telegram had said things would be cleaned up soon and Trump would be reinserted. As dates came and went, I decided I had to do something.
+
+First I tried to go to work for Project Veritas. When that didn't work out, I found an online group on Telegram whose stated mission was to produce audits in Minnesota.
+
+Early on, I volunteered to help moderate the chat room. Soon after, I was asked to be the lead for communications. There was also a lead for freedom of information act (FOIA) requests, documents, and research. At first there was one admin, who oversaw everything and was the liason to the national leaders. Later, she was removed and two admins were put in place. I didn't speak with any of the national leaders until a few days before I decided to leave this group about 45 days after I joined it.
+
+Several of the relationships formed in this mostly anonymous group were maintained and became valuable.
+
+One person, Molly mentions Rick and Midwest Swamp Watch.
+
+Still, though, I didn't go to a presentation until October 2021. (Brought camera... )
+
+Cyber Symposium
+
+
+Susan Smith
+pull in explanations from articles
+or from
+erikformn.us
+
+
+Rick Weible
+
+
 
 Writing in Markdown is easy! You can learn most of what you need to know with just a few examples.
 
@@ -27,7 +54,7 @@ When you are creating a web link, the part between the square brackets [ ] conta
 
 You can add an image to your book in a similar way.
 
-First, add the image to the "resources" folder for your book. You will find the "resources" folder in your book's "manuscript" folder, which is at the top level of your book's folder in GitHub or Bitbucket. 
+First, add the image to the "resources" folder for your book. You will find the "resources" folder in your book's "manuscript" folder, which is at the top level of your book's folder in GitHub or Bitbucket.
 
 If you look in your book's "resources" folder right now, you will see that there is an example image there with the file name "palm-trees.jpg". Here's how you can add this image to your book:
 

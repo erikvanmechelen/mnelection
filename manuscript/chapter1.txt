@@ -1,3 +1,4 @@
+{sample: true}
 # Chapter One - Minnesota No. 1 in Voter ~~Turnout~~ Fraud
 
 Near the basement entrance to VFW Post 494 in Crystal, MN, I was soon asked whether I would like to wear a sticker by a man working with one of the campaigns. When I declined he said, "I understand not wanting to be a walking poster." Nodding, I pulled back my jacket to reveal my t-shirt and said, "But I already am."
@@ -6,50 +7,16 @@ The t-shirt read:
 
 Minnesota, No. 1 in Voter ~~Turnout~~ Fraud
 
-Instead of a walking poster for any one candidate, I would advocate for the issue I was surprised to learn that few wanted to discuss that day.
+Instead of a walking poster for any one candidate, I would go on to advocate for the issue I was surprised to learn that few wanted to discuss that day.
 
-At this, the CD5 Convention of the Minnesota Republican Party, nearly 17 months after the November 3rd, 2020 General Election, very few speakers acknowledged that the election was rigged. Stating the obvious would surely have scored them political points, so why was almost everyone shying away? Only by plainly stating the problem is there any chance of going about fixing it.
+At this, the CD5 Convention of the Minnesota Republican Party, nearly 17 months after the November 3rd, 2020 General Election, very few if any speakers acknowledged that the election was rigged and none mentioned electronic voting equipment (epollbooks, tabulators, election management systems). Stating the obvious would surely have scored them political points (or so I thought) so why was almost everyone shying away? Only by plainly stating the problem is there any chance of going about fixing it. What's more, at this late hour, we're at a moment where surface level issues of the election coup are obvious—because elections have consequences we are witnessing the decades long result of leaders being (s)elected, not elected. It is easy to complain and feel good about knowing some fact that your neighbor may not yet know. But now the focus should be on solutions and taking action toward them. In the realm of elections, there are simple remedies to the overly complex and easily exploitable system currently in place.
 
-Rolling back the clock a bit, I don't pretend that I understood what exactly was happening on November 3rd, 2020 in real time. On election night (and day 46 of the absentee voting period), I had gone to bed early having read on the internet that absentee ballots in some states did not need to be fully counted for some days yet. Who would it benefit to have the work done so as to declare the winner on election night? The American people. But the failed and corrupt political establishment did not want that.
+Rolling back the clock a bit, I don't pretend that I understood exactly what was happening on November 3rd, 2020 as it was happening. On election night (and day 46 of the absentee voting period in Minnesota), I had gone to bed early having read that absentee ballots in some states did not need to be fully counted for some days yet. Who would it benefit to have the work done so as to declare the winner on election night? The American people. But the failed and corrupt political establishment did not want that.
 
-When I woke up, and in the following days, I became gradually aware of the many things wrong with our election process and systems. Many of which, whether legislative, procedural, or technical, are design features, not bugs. The breach of the border between legal and ethical domains has helped naysayers and coverup artists stall efforts to correct what went awry, but eventually God's tortoises are beating Lucifer's hares.
+When I woke up, and in the following days, I became gradually aware of the many things wrong with our election process and systems. Many of which, whether legislative, procedural, or technical, are design features, not bugs. The breach of the border between legal and ethical domains has helped naysayers and coverup artists stall efforts to correct what went awry, but eventually God's tortoises will beat Lucifer's hares.
 
-Although I'd been properly jolted from my comfortable lifestyle it took a good deal of time and effort to equip myself to understand better what had happened, how it had been done, when and where, and by whom. The answers to Why? have produced further inquiry beyond the scope of this text.
+Although I'd been properly jolted from my comfortable lifestyle it took a good deal of time and effort to equip myself to understand better what had happened, how it had been done, when and where, and by whom. The answers to Why? have produced further inquiry at times beyond the scope of this text.
 
-What I'd like to focus on is the open source intelligence. Whenever possible, the raw data. (Increasingly, this is the approach more people will take realizing they cannot trust even their favorite newscasters, influencers, and reporters to draw conclusions from the data on their behalf – truth repositories like Project Apario will grow in popularity and importance.) Since I voted and live in Minnesota, the focus will be in the land of more than 14,000 lakes ![https://seagrant.umn.edu/news-information/directors-column/minnesota-land-how-many-lakes](about 14,380).
+Whenever possible I'd like to focus on the open source intelligence. The raw data. (Increasingly, this is the approach more people will take realizing they cannot trust even their favorite newscasters, influencers, and reporters to draw conclusions from the data on their behalf – truth repositories akin to Project Apario's proof of concept will grow in popularity and importance.) Since I voted and live in Minnesota, the focus will be in the land of more than 14,000 lakes [https://seagrant.umn.edu/news-information/directors-column/minnesota-land-how-many-lakes](about 14,380).
 
-Even while focusing on verifiable data, I will not hesitate to ask questions or suggest routes you may walk yourself. And remember, the truth will resonate from within. There is great potential within each of us. Be humble and do not underestimate your ability to search, research, dig, and discern.
-
-
-
-
-Susan Smith
-Rick Weible
-
-
-
-
-
-This is an example of how to write a book chapter in plain text, formatted with Markdown formatting. This is a paragraph. You just write.
-
-Blank lines separate paragraphs. This is the second paragraph.
-
-This is the third paragraph. To make *italic text* you surround it with single asterisks. To make **bold text** you surround it with double asterisks.
-
-You can start new chapters by starting a line with a # sign and a space, and then typing your chapter title.
-
-"This is in quotes."
-
-You make a thematic break with three asterisks, like this:
-
-* * *
-
-By the way, the above formatting is actually *all* you need to know to write a novel using Markdown formatting. To write a technical book, however, you'll need to know a bit more Markdown.
-
-We have a handy manual at https://leanpub.com/markua/read and we have a Markdown quick-start guide in Chapter 2.
-
-Or, if you're ready to start writing your book, simply select all the text in this file, delete it, and then start writing! (Start with # Your Chapter Name and then a blank line, and then write your first paragraph.)
-
-* * *
-
-On behalf of everyone at Leanpub, we really hope that you enjoy the experience of writing and publishing in-progress on Leanpub. We are a bootstrapped startup which is entirely supported by our authors, and we're really grateful that you have chosen to write your book using Leanpub...
+Even while focusing on verifiable facts, I will not hesitate to ask questions or suggest routes you may walk yourself. And remember, the truth will resonate from within. There is great potential within each of us. Be humble and do not underestimate your ability to search, research, dig, and discern. May God grant us allow wisdom, strength, and discernment to carry the burden that is His truth. Only then may we see clearly and help others also come to see the lies and therefore remove the power of that deception.
