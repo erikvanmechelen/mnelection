@@ -62,7 +62,14 @@ Like Caro, I couldn’t look away from what I was seeing in late 2020 and 2021. 
 
 Even despite the lack of cooperation from elected officials, locally people like Rick Weible showed me so much evidence that I couldn't stand aside. From others around the country sharing information with me, I gradually learned how our elections were supposed to work, and how they had been taken over. The election theft in 2020 was obviously coordinated. If this has been happening for a long time, why only now was it so obvious?
 
-How was it that I'd so far lived my life believing my vote counted, but now could not so easily answer that question?
+How was it that I'd so far lived my life believing my vote counted, but now could not so easily answer that question? That will take some time to unpack. But one thing is clear: Since November 3rd, 2020, tens of millions, if not more, have asked or are now beginning to ask, Does my vote count?
+
+If our election officials, counties, and secretaries of state cannot show that the computerized election management systems used to produce election results actually do so without error, then citizens in increasing numbers will have the same question—Does my vote count? Jeffrey O'Donnell puts it well in the introduction to his Mesa County #3 Report: "If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
+
+To date, no independent audit of the machines has been done of any Minnesota county. Neither has a third party been tasked with inspecting the source code of the machines. And #3...
+(in MN statute, this can be done) 
+
+
 
 (Because they couldn't have another 4 years of Trump.)
 
