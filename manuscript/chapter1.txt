@@ -1,5 +1,6 @@
 {sample: true}
-# Chapter One - A Totalitarian Flavor
+# Chapter One
+## A Totalitarian Flavor
 
 “Since we know what we will find when we do our audits—”
 
