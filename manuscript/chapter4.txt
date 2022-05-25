@@ -1,0 +1,19 @@
+# Chapter 4 - Minnesota
+
+Dan Sundin
+You are correct in the fact that A1c Total Inactive isn't provided for Minnesota. This is the field with the corresponding field description: A1 Comment: "MINNESOTA IS NVRA EXEMPT. MINNESOTA DOES NOT CLASSIFY VOTERS AS INACTIVE PER NVRA."
+
+https://rgvisions-my.sharepoint.com/personal/rick_rgvisions_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Frick%5Frgvisions%5Fcom%2FDocuments%2FMNElectionsMain%2FPresentation%5F2022%5F02%5F03%5FDakotaCounty%2FSlide16%2EJPG&parent=%2Fpersonal%2Frick%5Frgvisions%5Fcom%2FDocuments%2FMNElectionsMain%2FPresentation%5F2022%5F02%5F03%5FDakotaCounty
+
+Voter histories are due on December 15th, 2020.
+
+However not all counties had completed their work by then:
+
+| County | Voter History Completion | MN SOS Dec 20, 2020 |
+| --- | --- | --- |
+| Dodge | Feb 4, 2021 | 536 remaining |
+| Filmore | Mar 23, 2021 | 238 remaining |
+| Pennington | Dec 21, 2020 | 15 remaining |
+| Clearwater | Dec 20, 2020 | 57 remaining |
+| Polk | Dec 23, 2020 | 53 remaining |
+| Dakota | Dec 15, 2020 | 2,496 remaining | 
