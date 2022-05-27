@@ -68,7 +68,7 @@ Col. Shawn Smith, in the Tarrant County, TX meeting in the first half of 2022:
 
 ###Certifications Are Less Than Useless
 
-Throught its [certification process](https://www.eac.gov/voting-equipment/system-certification-process), the Election Assistance Commission (EAC) which was established by [the Help America Vote Act](https://www.eac.gov/about_the_eac/help_america_vote_act.aspx) (2002) has not certified about 95% of Minnesota counties.
+Throughout its [certification process](https://www.eac.gov/voting-equipment/system-certification-process), the Election Assistance Commission (EAC) which was established by [the Help America Vote Act](https://www.eac.gov/about_the_eac/help_america_vote_act.aspx) (2002) has not certified about 95% of Minnesota counties.
 
 Those county’s electronic voting equipment are merely certified by the Minnesota Secretary of State. The few counties that are EAC certified have the problem indicated by Col. Shawn Smith, that those certifications provide the illusion of security when in fact those systems are anything but ready to run secure elections.
 
