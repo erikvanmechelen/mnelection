@@ -3,6 +3,12 @@
 
 Chapter 1 - Paper
 
+"The highest priority as a bad guy would be to subvert our election system. The reason is: you can take over a country without firing a shot. If you can decide who the leaders are, if you can put judges, if you can answer constitutional questions any which you want, over a period of time—you're not going to do it in one election, it's going to take a bunch of elections—but you can take over a country. And that would be my top priority (as a bad guy). Nuclear weapons would be a close second, but the top one would be elections."
+
+Jeff Lensberg, nation-state vulnerability expert in the May 9, 2022 Otero County, New Mexico Emergency meeting
+
+***
+
 “I consider it completely unimportant who in the party will vote, or how; but what is extraordinarily important is this—who will count the votes, and how.”
 
 Joseph Stalin, 1923 (And Amy Klobuchar, link to video on Rumble)
@@ -23,16 +29,17 @@ Joseph Stalin, 1923 (And Amy Klobuchar, link to video on Rumble)
 
 Let’s start with where we are headed.
 
-We are on our way to a future where every voter’s vote is counted and 100% auditable immediately. See this video clip from Col. Phil Waldron in a Nye County Commissioner’s meeting in March 2022 where a resolution was passed by the commissioners 5-0 to remove electronic voting equipment from future elections. (They weren’t the only county in Nevada to do so.)
+We are on our way to a future where every voter’s vote is counted and 100% auditable immediately. See [this video clip](https://youtu.be/GBKz1o_VqAE?t=2421) from Col. Phil Waldron in a Nye County Commissioner’s meeting in March 2022 where a resolution was passed by the commissioners 5-0 to remove electronic voting equipment from future elections. (They weren’t the only county in Nevada to do so.)
 
 Elections have become too complicated. Complexity breeds corruption. By contrast, simplicity yields success.
 
-Elections should:
-	- Be a single day, probably a national holiday
-	- Be machine-less
-	- Use paper ballots, hand counted, that are 100% auditable
+Elections should be:
+	- A single day, probably a national holiday
+	- Machine-less
+	- Decentralized to promote local oversight and control
+	- Conducted with paper ballots, hand counted, that are 100% auditable
 
-Elections should not have:
+Elections should **not** have:
 	- Dropboxes
 	- Mail-in ballots
 	- Long absentee and early voting periods
@@ -52,11 +59,13 @@ But if you’ve already lost confidence in machine-driven elections, you may wan
 
 Objections to the above have come from expected places, like the media, part of the cover-up, who have been forced to shift their language from a) no evidence of fraud to b) no widespread evidence of fraud to c) not significant enough fraud to alter the election outcome.
 
-Some objections have also come from legislators. “We can’t get voter ID past the Democrats.”
+Some objections have also come from legislators. In Minnesota I've heard more than once: “We can’t get voter ID past the Democrats.”
 
-Responses like this are in part discouraging because voter ID is only one simple change that is needed. Further, to make elections truly fair again would require the legislature to amend Minnesota statutes or write new ones, like the banning of electronic voting equipment. But there is good news: once the majority of Minnesotans learn how vulnerable the machines and computer systems currently in use are, legislators on both sides of the aisle will be hearing regularly from the people who will be able to articulate exactly what they want.
+Responses like this are in part discouraging because voter ID is only one simple change that is needed. Further, to make elections truly fair again would require the legislature to amend Minnesota statutes or write new ones, like the banning of electronic voting equipment.
 
-Other objections have come from local county government. Having sat in meetings with county commissioners and election officials, the common objections I’ve heard reduce to time, effort, and money.
+But there is good news: once the majority of Minnesotans learn how vulnerable the machines and computer systems currently in use are, legislators on both sides of the aisle will be hearing regularly from the people who will be able to articulate exactly what they want.
+
+Other objections have come from local county government. Having sat in meetings with county commissioners and election officials, if they agree that the machines are vulnerable and realize the people no longer trust them, the common objections I’ve heard can be summarized by concerns about time, effort, and money.
 
 Time:
 Hand counting paper takes longer than feeding ballots through a machine. However, what’s more important than speed is accuracy. 18 months after the November 3rd 2020 general election, we are still “counting”.
@@ -65,9 +74,21 @@ Effort:
 Manual labor is required to hand-count paper ballots. With enough paid staff or volunteers the overall effort is spread across those doing the work. (I imagine many people in all 87 Minnesota counties would enthusiastically join an effort to produce the first non-machine election result in decades.) Also, if the 46-day absentee election were removed, that would save election officials and ballot boards 46 days of work.
 
 Money:
-Rick Weible has compared the net cost per ballot with machines versus paper. Machine counting costs $14 per ballot. With paper counting, costs would be cut in half to $7 per ballot. Hand counting paper not only costs tax payers less in the long run but it also produces reliable and auditable results which could restore confidence in the overall election process and go a long way to minimizing fraud.
+Rick Weible has compared the net cost per ballot with machines versus paper. Machine counting costs about $14 per ballot. With paper counting, costs would be cut in half to about $7 per ballot. Hand counting paper not only costs tax payers less in the long run but it also produces reliable and auditable results which could restore confidence in the overall election process and go a long way to minimizing fraud.
 
-Public county commissioners board meetings every two weeks have been increasingly attended in late 2021 and early 2022 because changes can be made within local jurisdictions without changes to election law from the legislature. This is where the people’s voice can truly be heard and county commissioners can even add a discussion of election systems and processes as an agenda item. If change is desired, a resolution can be brought and voted upon. A no-confidence vote on the machines can lead to real change.
+Public county commissioners board meetings every two weeks have been increasingly attended in late 2021 and early 2022 in Minnesota and across the country because changes can be made within local jurisdictions without changes to election law from the legislature. This is where the people’s voice can truly be heard and county commissioners can even add a discussion of election systems and processes as an agenda item. If change is desired, a resolution can be brought and voted upon. A no-confidence vote on the machines can lead to real change.
+
+Objections have also come from the offices of the secretary of state throughout the country. In Minnesota, Secretary of State Steve Simon decline the opportunity to prove the electronic election equipment in Crow Wing County was secure when he denied the opportunity brought by a 4-1 county commissioners vote to unseal the ballots from the Crow Wing County 2020 General Election. A simple hand tallying of the paper ballots for the presidential race alone would have allowed that tally to be compared with the results reported by the Secretary of State's office. If the the hand tally matched the machine-reported counts, then trust may have been restored. Instead, the people are left to wonder why this simple request was dismissed and what was meant be his official response to the Crow Wing County Commissioners, which in part read:
+
+"Unfortunately this is another example, I fear, of disinformation taking root. A generalized feeling or vibe or hunch — and it's probably being stirred up and whipped up by those with a political or financial interest in corroding democracy."
+
+This from a Secretary of State who already admitted ...  tiny fraud every election ...
+
+END
+
+
+
+...
 
 To list only a few areas where county commissioners can make change happen right now:
 
