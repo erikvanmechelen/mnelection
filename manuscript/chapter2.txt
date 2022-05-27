@@ -1,5 +1,171 @@
 {sample: true}
-# Chapter Two - History of Voting Machines
+# Chapter Two - Machines
+
+“There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”
+
+*Col. Shawn Smith, USAF, Ret. – 25 year Air Force veteran and the former director and test manager for the operational testing of complex, computer-based weapon systems and a subject matter expert on the security of computer-based election systems, calling in to a Tarrant County, Texas meeting*
+
+https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html
+
+***
+
+##A History
+In the first place, how did we get to using machines, and *electronic* voting machines, in elections?
+
+Before voting machines, voting was often done by voice throughout the 1800s. Kentucky used voice voting until 1891. The first paper ballots arrive in the early 19th century.
+
+Then came voting machines: first lever, then punch cards.
+
+Lever voting machines have been around a long time.
+
+![Drawing of Voting Machine](1votingmachine.jpg)
+
+Here’s a physical example:
+
+![Lever Voting Machine](2votingmachine.jpg)
+
+Punch card systems were developed in the 1960s and were last used in two Idaho counties in 2014, on [the Votomatic](https://verifiedvoting.org/election-system/ess-votomatic/) provided by ES&S.
+
+![Punch Card System](3votingmachine.jpg)
+
+Fast forward to the 2000 presidential election between Al Gore and George W. Bush. Hanging chads on Sequoia Voting Systems punch-card voting system led to a recount, which Bush won.
+
+![Hanging Chads](4votingmachine.jpg)
+
+Sequoia Voting Systems got its start in the 1970s as Mathematical Systems Corporation of Anaheim, California, offering an alternative to ES&S’s Votomatic punch cards. On March 8, 2005 Smartmatic Corp. (a Venezuelan company) acquired Sequoia. This raised eyebrows since Smartmatic had only the previous year been selected to by the Chavez-era Venezuelan government to provide voting systems for the presidential recall election, it’s [first time providing machines](https://ia801704.us.archive.org/34/items/smartmatic-sequoia-and-venezuela/Smartmatic%20Sequoia%20and%20Venezuela.pdf) for an election. As of June 4, 2010 it’s parent company was Dominion Voting Systems.
+
+According to Sequoia’s own employees, Sequoia may have [been responsible](https://web.archive.org/web/20070928013625/http://www.votetrustusa.org/index.php?option=com_content&task=view&id=2560&Itemid=51) for the defective punch cards in Florida which led to “hanging chads” or undervotes to the tune of 10,000 in Palm Beach County.
+
+One of Sequoia’s workers [told](https://web.archive.org/web/20070928013625/http://www.votetrustusa.org/index.php?option=com_content&task=view&id=2560&Itemid=51) Dan Rather:
+
+“My own personal opinion was the touch screen voting system wasn't getting off the ground like that they—like they would hope. And because they weren't having any problems with paper ballots. So, I feel like they—deliberately did all this to have problems with the paper ballots so the electronically voting systems would get off the ground—and which it did in a big way.”
+
+Specifically, USC 52 Ch. 209 Subchapter I—PAYMENTS TO STATES FOR ELECTION ADMINISTRATION IMPROVEMENTS AND REPLACEMENT OF PUNCH CARD AND LEVER VOTING MACHINES. §20902 states: Replacement of punch card or lever voting machines.
+
+Sequoia benefitted from the passage of federal legislation in 2002—[the Help America Vote Act of 2002](https://www.justice.gov/crt/help-america-vote-act-2002)—because *they manufactured electronic voting equipment*.
+
+In 2003 Beverly Harris found Diebold’s source code on the internet. Diebold had only entered the elections business a year prior through its purchase of Global Elections Systems, a touch-screen voting technology producer in Texas. The source code revealed that Diebold voting systems used an unsecured access database, meaning anyone could access, change data, and erase logs.
+
+In 2007 Diebold Election Systems rebranded as Premier Election Solutions and in 2009 they sold to Election Systems & Software (ES&S), which by 2014 was the largest manufacturer of United States voting machines.
+
+The [Source Code Review of the Diebold Voting System](https://jhalderm.com/pub/papers/diebold-ttbr07.pdf) was published by 6 authors on July 20, 2007, showed the system was 1) vulnerable to malicious software, 2) susceptible to viruses, 3) failed to protect ballot secrecy, and 4) vulnerable to malicious insiders.
+
+More recently, one of the authors of the Diebold review, J. Alex Halderman of Princeton University, provided [the Halderman Declaration](https://www.documentcloud.org/documents/21038844-20210802-expert-rebuttal-declaration-of-j-alex-halderman) on Georgia’s ballot marking devices (BMD). Halderman has also issued a sealed [25,000-word report](https://libertysword.com/expert-hackers-25000-word-secret-report-threatens-to-uncover-georgias-real-election) on voting systems vulnerabilities.
+
+In an emergency meeting in Otero County, New Mexico in May 2022, nation-state vulnerability expert Jeff Lensberg further detailed vulnerabilities.
+
+##Putting the History in Context
+
+The history of voting machines spans over 100 years. However the use of electronic voting machines is very short, only two to three decades. During almost the entirety of that duration, the electronic systems have been shown to be insecure, hackable, and manipulable, sometimes if not often by design.
+
+Their lack of certifications is further troubling.
+
+Col. Shawn Smith, in the Tarrant County, TX meeting in the first half of 2022:
+
+“…And for the people who said well, the machines are certified, I would say, the space shuttle Columbia was also certified for flight. How’d that turn out? The Boeing 737 Max was certified for passenger operations, and then crashed killing over 500 people in two separate accidents before they finally let experts take a look at it. And my point in saying that is not to try to scare people, but just to say that based on my experience, and I’m not a cyber professional, but I work with cyber pros, and I know the difference between somebody who knows cyber and somebody who doesn’t. And if you don’t know the difference, then you’re in very dangerous territory when you try to make any conclusions or try to listen to someone who doesn’t really know what they’re talking about.
+
+“Our voting systems from my perspective based on the expert examiner’s report, cannot be trusted with our election. And what they require in order to for you to verify for yourself is that you become a cyber expert. Otherwise, you’re forced to trust other people who say they’re experts, people who have conflicts of interest, and people who’ve been trained essentially by the National Association of Secretaries of State, the election directors, and the Election Assistance Commission…”
+
+###Certifications Are Less Than Useless
+
+Throught its [certification process](https://www.eac.gov/voting-equipment/system-certification-process), the Election Assistance Commission (EAC) which was established by [the Help America Vote Act](https://www.eac.gov/about_the_eac/help_america_vote_act.aspx) (2002) has not certified about 95% of Minnesota counties.
+
+Those county’s electronic voting equipment are merely certified by the Minnesota Secretary of State. The few counties that are EAC certified have the problem indicated by Col. Shawn Smith, that those certifications provide the illusion of security when in fact those systems are anything but ready to run secure elections.
+
+Let's take a look at the certification maps. Note that being certified or not certified doesn’t guarantee system security, as we shall discuss shortly.
+
+In the following image, Red = Certified | White = Not Certified
+
+![USA EAC Certification Map](cert_map1.png)
+
+If we zoom in on Minnesota, we find that only 6 of 87 counties have voting equipment that is certified by the EAC. Remember, red counties are certified, white are not certified.
+
+![MN EAC Certification Map](certmap2.png)
+
+Here are the counties in Minnesota that are certified by the EAC:
+
+![County EAC Certifications](certmap3.png)
+
+Thinking that this felt off, I called the EAC and left a voicemail and sent a question by email, which was replied to the same day (04/20/2022).
+
+![EAC email reply](certmap4.png)
+
+This may have been comforting if not for a close reading of Minnesota election law.
+
+[Minnesota Statute 206.57, Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) states in full:
+
+Subd. 6.Required certification.
+
+In addition to the requirements in subdivision 1, a voting system must be certified by an independent testing authority accredited by the Election Assistance Commission or appropriate federal agency responsible for testing and certification of compliance with the federal voting systems guidelines at the time of submission of the application required by subdivision 1 to be in conformity with voluntary voting system guidelines issued by the Election Assistance Commission or other previously referenced agency. The application must be accompanied by the certification report of the voting systems test laboratory. A certification under this section from an independent testing authority accredited by the Election Assistance Commission or other previously referenced agency meets the requirement of Minnesota Rules, part [8220.0350](https://www.revisor.mn.gov/rules/8220.0350/), item L. A vendor must provide a copy of the source code for the voting system to the secretary of state. A chair of a major political party or the secretary of state may select, in consultation with the vendor, an independent third-party evaluator to examine the source code to ensure that it functions as represented by the vendor and that the code is free from defects. A major political party that elects to have the source code examined must pay for the examination. Except as provided by this subdivision, a source code that is trade secret information must be treated as nonpublic information, according to [section 13.37](https://www.revisor.mn.gov/statutes/cite/13.37). A third-party evaluator must not disclose the source code to anyone else.
+
+It is important to note that as of now there are no other appropriate federal agencies outside of the Election Assistance Commission (EAC), which itself authorizes Pro V&V and SLI Compliance.
+
+Are There Limits to Certifications from the EAC?
+
+Let’s take a look at the [EAC certification for Dominion 4.14-E](https://www.dropbox.com/s/b0efp9zqshzj1cm/EAC%20Report_DVS4.14E_FinalCert_FINAL_7.2.15.pdf?dl=0).
+
+![EAC Certification for Dominion 4.14-E](certmap5.png)
+
+On [page 1](https://www.dropbox.com/s/b0efp9zqshzj1cm/EAC%20Report_DVS4.14E_FinalCert_FINAL_7.2.15.pdf?dl=0) note the last sentence:
+
+“This certificate is not an endorsement of the product by any agency of the U.S. Government and no warranty of the product is either expressed or implied.”
+
+On page 2 it reads:
+
+![Page 2 of EAC Certification for Dominion 4.14-E](certmap6.png)
+
+Note the second to last bullet point in “Significant of EAC Certification”:
+“An EAC certification is **not**: A determination that the system is ready for use in an election.”
+
+Then what might these certifications be for?
+
+Are they meant to give the public a false sense of security?
+
+Finally, compare the full [14-page EAC certification](https://www.dropbox.com/s/b0efp9zqshzj1cm/EAC%20Report_DVS4.14E_FinalCert_FINAL_7.2.15.pdf?dl=0) to the State of Minnesota Secretary of State Certification of Dominion Democracy Suite Version 4.14-E Voting System reproduced below:
+
+![Page 1 of the State of Minnesota Secretary of State Certification of Dominion Democracy Suite Version 4.14-E Voting System](certmap7.png)
+
+And page 2 of the same:
+
+![Page 2 of the State of Minnesota Secretary of State Certification of Dominion Democracy Suite Version 4.14-E Voting System](certmap8.png)
+
+What did you notice?
+
+It reads very similarly, sometimes verbatim, to the EAC’s certifications, which the EAC admits do not indicate a voting machine is ready for use in an election.
+
+###Digging Deeper (into Known Vulnerabilities)
+
+Should the public have questions when 81 out of 87 counties in Minnesota DO NOT have certified election equipment according to the Election Assistance Commission, which under [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) those election machines should have prior to use?
+
+Are there consequences to certifications (the EAC certifications) which have disclaimers putting the value of the certification itself into question?
+
+What *should* these certifications imply in a more common-sense world?
+
+In the [3/15/2022 Nye County, Nevada County Commissioner’s meeting](https://www.youtube.com/watch?t=234&v=GBKz1o_VqAE&feature=youtu.be) cyber security consultant Mark Cook [described his experience](https://www.youtube.com/watch?v=GBKz1o_VqAE&t=234s) with computers pre-internet in the CompuServe and Prodigy days, then as a consultant to protect companies from threats and seal off vulnerability, and finally with election systems.
+
+Today, Dominion is a popular voting system which uses Microsoft SQL database, one which Mark was and is very familiar with as he used SQL databases from day 1. In the same meeting, he discussed how within the first minute of getting his hands on a Dominion system, he was able to access the backend and change votes without leaving a trace.
+
+As has now been shown, certifications (and the lack of certifications) have not protected the right of men and women to vote freely and fairly in this country. For just one example, the [Mesa County Colorado Voting Systems Report #3: Election Database and Data Process Analysis](https://magaraccoon.com/docs/MesaCountyReport3.pdf) proves database manipulation happened inside the Colorado Dominion Voting Systems (DVS) Election Management System (EMS). Not once, but twice, in both the 2020 General Election and the 2021 Grand Junction Municipal Election.
+
+Fortunately, there are signs around the country that people are becoming aware of the fundamental issue (that these machines are designed to allow manipulation) and using their voice to affect change how their county conducts elections. Yesterday, April 19, 2022, men and women spoke in Crow Wing, Dakota, and Sherburne counties ([video from Sherburne](https://erikvanmechelen.substack.com/p/open-forum-speakers-address-removing)). Recently, two counties in Nevada, Nye and Esmeralda have already decided not to use electronic voting equipment in upcoming elections. Which county commissioners will be the first in Minnesota to do the same and restore the voice that is constitutionally inherent in the right to vote to their constituents?
+
+##Summary
+
+The certifications are less than meaningless.
+
+The machines are insecure and have been from the beginning.
+
+It may not surprise you that Sequoia, which was integral to the country pivoting to electronic voting equipment through creating the hanging chad debacle, is still involved in the elections business. Sequoia was sold to Smartmatic and their current parent company is Dominion Voting Systems.
+
+Why do our county commissioners and election officials continue to feel confident in these systems? Why are more and more people showing up to county commissioner meetings to share what they've learned? Is it possible to return to hand tallying paper ballots?
+
+Next, let's begin a step by step journey following a vote through our entire election system. How a vote travels will illuminate the many flaws in our complex system.
+
+END
+
+
+
+
 
 a) non-electronic
 b) electronic
