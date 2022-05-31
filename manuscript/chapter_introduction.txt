@@ -15,6 +15,7 @@
 As the two buses converged from the left and right into our lane I wondered whether this road was safe for bicycles. When we’d agreed to tea fifteen minutes prior my family wasn’t expecting to navigate a minor highway on two wheels. Our tour guide slipped through the gap, not far behind were Mom and Dad who decided to go for it. My brothers and I were forced to brake and cars behind us honked, not in solidarity, but at least they didn’t hit us. Losing sight of Mom and Dad as the buses zipped the lane shut, I briefly imagined them being crushed. Moments later, materializing out of the cloud of exhaust on that hazy winter morning were Mom and Dad and the guide, each still in their saddle. It was 2005 and there were far fewer bikes in Beijing than I’d recalled in our 1998 visit. Just before the people’s uprising in Jakarta prompted Suharto to step aside from the Presidency after a thirty-two-year reign, on one day’s notice we flew into Singapore; after receiving word that school was canceled for the year, we decided to visit China.
 
 Biking through Beijing, we navigated the tight alleys, connecting traditional courtyard residences in Old Beijing, some dating back to the thirteenth century. Parking next to a red door beneath a slanting tiled roof, our guide knocked and announced us. A smiling, elderly woman answered and soon we stepped over the threshold and were shown to a small room adjacent the courtyard. Without heating we did not take off our coats, but here at least the walls sheltered us from the wind’s bite. We were all keen for the hot tea she soon brought but especially thankful was my older brother whose frozen hands around the cup were eventually thawed, albeit painfully. We sat around a low stone table and sipped our tea while our guide translated the woman’s story, her family’s history, and what life was like in her community. Having expended considerable physical effort and survived both the elements and the attempted bus squeeze, we were as travelers taking temporary refuge from a storm, content for simple pleasures. We were soon transported through time by our host’s tale.
+
 After receiving my high school diploma from the International School of Beijing in 2006, I soon returned to the United States to attend college in Minnesota. In short order however I learned that back in the Chinese capital several thousand traditional homes just like the one we’d visited, along with their more than seven hundred years of history, were bulldozed. Ostensibly this was done to make room for sports venues and other infrastructure for the 2008 Olympic Games, but word on the street was that the Party was embarrassed by the hutong, which were downtrodden and often occupied by the poor. I learned that the residents at the time of their evictions were not compensated appropriately to the point that they couldn’t easily find other places to live.
 We lived in Shunyi District, a rural area east of Beijing. The street between our school and the local villages was still covered in fall by corn kernels laid to dry by farmers. In their communities my new school friends once treated me to a plentiful noon meal for about a dollar a person.
 
@@ -32,9 +33,9 @@ It was a rough present, but their near-term past was arguably tougher. Mao’s p
 
 While I didn’t have a robust understanding of the comparative political models in question, I knew that when I left China it wasn’t a place I would ever want to live for very long. Evenings walking our neighborhood I wondered whether the guards were there for our safety or as our monitors. Below two fire alarms, the purpose of the second my family never did surmise, our living room television regularly went static at any mention of China. Our church services were held in a conference room since there were no churches and Chinese nationals were forbidden from attending.
 
-When I moved back to the States I had a deeper appreciation for the spirit of freedom, central to our founding and identity. As rumors of mysterious virus spread in early 2020, I immediately sensed a contest of ideas was about to play out. An attempt at total control was being instantiated with fear. Little did I know that an election would follow.
+***
 
-•
+When I moved back to the States I had a deeper appreciation for the spirit of freedom, central to our founding and identity. As rumors of mysterious virus spread in early 2020, I immediately sensed a contest of ideas was about to play out. An attempt at total control was being instantiated with fear. Little did I know that an election would follow.
 
 By mid-summer of 2020, videos documenting the horrors of the Chinese Cultural Revolution were circulating on YouTube. After several weeks of violence plaguing cities around the United States, loudly—though in substance quite loosely—tethered to the death of several United States citizens who the corporate media branded as victims. The corporate sponsored revolutionaries used the color of these citizen’s skin as justification for their looting, pillaging, assaulting, and killing. The corporate media and intellectual class graced these actors with the blessed heritage of “peaceful protest,” as small businesses were destroyed, communities (many of them populated by racial and ethnic minorities) gutted, and cities burned. No one seemed to bother to check the police reports. Why would they? Instagram and Facebook already told them what happened, and whose name (no matter how criminal, felonious, or murderous) to say. The same tactics the Maoist used in the previous century to upend China were on display in my home country—tearing down statues, disgracing public buildings, ridiculing our history, shaming any who would defend it. Where the American version of the red army (the black shirts) stopped short was public beheadings—perhaps knowing that the constitutional right to bear arms and form militias would put a swift end to what could be accomplished with a more measured and insidious approach.
 
@@ -52,7 +53,13 @@ From the 100,000-foot view, elections are simply a control mechanism and also a 
 
 Of course, maintaining control by subverting elections is not new, even if this important fact is not widely understood.
 
-In Robert A. Caro’s Working, he describes the importance of facts being made available to the public, one of which was the fact that in 1948 at the eleventh hour two hundred votes were found for Lyndon B. Johnson propelling him into the Texas Senate by a margin of eighty-seven votes in a race where more than a million votes were cast. Caro found the man responsible for carrying this out, Luis Salas, who invited him into his home where he admitted to Caro what he did and that he lied under oath about it. He gave Caro a manuscript describing his actions. Caro writes, “Thanks to that manuscript, it would not be necessary for me to write, ‘No one will ever be sure if Lyndon Johnson stole it.’ He stole it.”
+In 2004, Sequoia (acquired the next year by Smartmatic in 2005), was used to run the Venezuelan presidential recall election, even though it was the company's first time providing machines for an election.
+
+Before electronic voting machines, decades prior, in 1961, I found this airtel to the Director of the FBI while browsing the JFK files:
+
+![Perhaps they will attempt to switch voting machines](switch_voting_machines.png)
+
+In Robert A. Caro’s autobiography, *Working*, he describes the importance of facts being made available to the public, one of which was the fact that in 1948 at the eleventh hour two hundred votes were found for Lyndon B. Johnson propelling him into the Texas Senate by a margin of eighty-seven votes in a race where more than a million votes were cast. Caro found the man responsible for carrying this out, Luis Salas, who invited him into his home where he admitted to Caro what he did and that he lied under oath about it. He gave Caro a manuscript describing his actions. Caro writes, “Thanks to that manuscript, it would not be necessary for me to write, ‘No one will ever be sure if Lyndon Johnson stole it.’ He stole it.”
 
 That was in 1948.
 
@@ -64,26 +71,34 @@ How was it that I'd so far lived my life believing my vote counted, but now coul
 
 If our election officials, counties, and secretaries of state cannot show that the computerized election management systems used to produce election results actually do so without error, then citizens in increasing numbers will have the same question—Does my vote count? Jeffrey O'Donnell puts it well in the introduction to his Mesa County #3 Report (highlighted in the forthcoming (S)election Code documentary: "If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
 
-To date, no independent audit of the machines has been done of any Minnesota county. This would be welcome since DS200
+To date, no independent audit of the machines has been done of any Minnesota county. This would be welcome since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country.
 
-https://letsfixstuff.org/2021/04/modem-chips-embedded-in-voting-system-computer-motherboards/
-es&s, most-used tabulator in Minnesota
+DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
 
+In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
 
-Neither has the chair of a major political party nor the secretary of state asked for a third party to inspect the source code of the machines, which [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) allows for.
+![Telit LE910-SV1 found within ES&S enclosure](telit.png)
+
+Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) how the card was "utilizing a commercial Verizon SIM card with an APN configuration specific to the ES&S DS200 provisioning. Testing revealed that the same SIM card could be utilized in a separate wireless hotspot device and the device could then join the same APN as the ES&S voting machines. An unauthorized user could gain access to this APN by an extra SIM card pre-provisioned for this APN, or by removing a SIM from an operational device and using it in another device."
+
+To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
+
+Are you concerned that contracts with our hardware and software vendors makes it very difficult to inspect the machines or source code? Does it worry you that Minnesota Statutes make it difficult to have this done? 18 months after November 3rd, 2020, don't you think it would have been prudent to have settled the conspiracy theories by showing the public that the machines are clean?
+
+Neither the chair of a major political party nor the secretary of state asked for a third party to inspect the source code of the machines, which [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) allows for.
 
 Furthermore, according to [Patrick Colbeck](https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/), "only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity."
 
-So far no county commissions have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired.
+Even with the "defense phase" of the election coup falling apart, so far no county commissions have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired.
 
 ***
 
 This book will follow the organization of the four phases of an election coup put forward by Patrick Colbeck in his book:
 
--Preparation
--Attack
--Back-up Attack
--Defense
+- Preparation
+- Attack
+- Back-up Attack
+- Defense
 
 These phases will provide the framework to put Minnesota's 2020 election in context.
 
