@@ -1,14 +1,29 @@
 {sample: true}
 # Chapter Three - Back-up Attack
 
+
+Erik - did you see Draza's analysis of the Rhode Island cast vote record versus the show Edison played on TV?  I think that's the best synopsis of the set point phenomenon and the shuffle because that's the only place where we have apples to apples comparison between what we were told was happening on election night and what's actually stored inside the computer system. They can't be reconciled.
+
+I'd recommend watching the first part of the Otero County Commission meeting we did a few weeks ago and using some of those talking points from Mr. Lenburg. https://www.youtube.com/watch?v=Fg6Gf6QjqGM&t=939s
+^
+from Erin
+
+
+
+The Backup Attack phase is used when the initial attack doesn't go as planned. The biggest tool is the injection of votes electronically. If this can be done without detection, a race can still be won regardless of how many physical ballots were delivered absentee (dropbox or mail-in) or at the in-person polling place on election day and subsequently scanned through tabulators.
+
+There is a theory out there that the 2020 election was less an election and more a simulation disguised as an election. We don't *need* that perspective to lay out the anomalies, indicators, and evidence, but it does serve to provide a working explanation for the irregularities reported around the state and in the Edison Research data.
+
+
 ## Reported Results
 
 For the purposes of discussion, consider that in 2020 there were actually two elections, 1) the single-day in-person election at your precinct polling place on November 3, 2020, and 2) the 46-day absentee/mail-in voting election from September 18 to November 2, 2020.
-</p><p>
+
 The MN State Canvassing Board reported 1,380,333 votes cast in person—it could be said that only 42% of Minnesotans participated on election day itself. As for the second election, up from 24% in the prior election absentee or mail-in ballots represented 58% (1,906,383 votes) of a record 3,292,997 total votes. Many more Minnesotans participated in this 46-day absentee/mail-in voting election.
-</p><p>
-Minnesota <a href="https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/" target=_new>led the country</a> for the third election in a row with nearly 80% voter turnout (the highest percentage turnout since 1956). Remember that this number includes phantom voters that should not be on voter rolls to begin with. Very high voter turnout (above 60%) is a reliable indicator of potential fraud.
-</p><p>
+
+Minnesota <a href="https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/" target=_new>led the country</a> for the third election in a row with nearly 80% voter turnout (the highest percentage turnout since 1956). Remember that this number includes phantom voters that should not be on voter rolls to begin with (as shown in door-to-door canvassing efforts in 30 counties). Very high voter turnout (above 60%) is a reliable indicator of potential fraud.
+
+INSERT DR FRANK'S IMAGE?
 
 
 
