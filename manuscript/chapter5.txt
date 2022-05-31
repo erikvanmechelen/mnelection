@@ -2,6 +2,23 @@
 
 
 
+
+
+
+
+
+
+
+## Todd County CVRs
+
+put image here...
+
+then i learned it was possible to configure DS200s to act like Model 100s (a previous version of the tabulator) which does not include a CVR.
+
+why buy the new versions and then use the *old* configurations? who made this decision? 
+
+
+
 # Chapter Two - Machines
 
 “There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”

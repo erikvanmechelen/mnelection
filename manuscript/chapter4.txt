@@ -1,6 +1,66 @@
 {sample: true}
 # Chapter Three - Back-up Attack
 
+## Reported Results
+
+For the purposes of discussion, consider that in 2020 there were actually two elections, 1) the single-day in-person election at your precinct polling place on November 3, 2020, and 2) the 46-day absentee/mail-in voting election from September 18 to November 2, 2020.
+</p><p>
+The MN State Canvassing Board reported 1,380,333 votes cast in person—it could be said that only 42% of Minnesotans participated on election day itself. As for the second election, up from 24% in the prior election absentee or mail-in ballots represented 58% (1,906,383 votes) of a record 3,292,997 total votes. Many more Minnesotans participated in this 46-day absentee/mail-in voting election.
+</p><p>
+Minnesota <a href="https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/" target=_new>led the country</a> for the third election in a row with nearly 80% voter turnout (the highest percentage turnout since 1956). Remember that this number includes phantom voters that should not be on voter rolls to begin with. Very high voter turnout (above 60%) is a reliable indicator of potential fraud.
+</p><p>
+
+
+
+
+## Edison...set tone, then return to this is COVER UP, DEFENSE
+
+edit needed
+
+Next, let's take a look at how votes were reported to the media (refer back to Russ Ramsland's slide above for reference). The following graphic shows how the votes were sent through to the media from Edison Research. Notice the <strong>negative 194,846 votes</strong> near interval 50. In a system that is aggregating votes, should there ever be a drop in nearly 200,000 votes? What may have caused that?
+</p>
+<br>
+<img src=Minnesota_Percentage_Control.JPG style="height:250px">
+<br>
+<p>
+Now compare Minnesota's graph with Pennsylvania's.
+</p>
+<br>
+<img src="/MN-PA-Compare (1).JPG" alt="Compare MN and PA">
+<br>
+<p>
+<a href="https://t.me/ladydraza/511" target=_new>Draza Smith's view</a> is that each state is given a target "set point", so named because the shape of these graphs resembles a <a href="https://www.researchgate.net/profile/Utkal-Mehta/publication/49848870/figure/fig3/AS:574107383066624@1513889274474/a-Setpoint-input-Process-output-by-b-proposed-method-c-Visioli-et-als-method_Q640.jpg" target=_new>controlled industrial system</a>.
+</p>
+<br>
+<img src="/photo_2022-05-01 10.56.48.jpeg">
+<br>
+<p>
+This vote analysis, charting the nyt-api .json file (which eventually gets reported through the media), was done by Draza Smith using data from <a href="https://github.com/alex/nyt-2020-election-scraper" target=_new>this Github repository</a>, for other states, like Michigan here.
+</p>
+<br>
+<img src="/michigan_total_votes.png" alt="Michigan Total Votes">
+<br>
+<p>
+But there were set point changes on election night after Florida with its 29 electoral college votes went for Trump. Why? A presidential candidate needs 270 electoral college votes to win. So, if Florida was meant to go to Biden in the original plan, now that it had gone to Trump the other states' set points would need to be changed in order to achieve an overall Biden win. Those 29 electoral college votes would need to be found elsewhere.
+</p>
+<br>
+<img src="/mn_trump_biden.png">
+<br>
+<p>
+To emphasize the point these illustrations are making: It is likely the entire country's election were managed top-down. When it became clear that a lot of Republican voters were showing up in person on election day, the algorithm had to be reset. Only then could the desired result be achieved. But then, once it had been announced that Biden won, the work was far from over for the election cartel: now they would have to ensure that ballots were delivered across the country where the people were most likely to ask questions. Unfortunately for the cartel, citizens of every state and probably in every county of every state are working hard to decipher exactly what happened. The truth simply cannot be hidden forever so long as enough people remain focused on discovering it.
+</p><p>
+Another way of approaching the problem is through <a href="https://captk.com/" target=_new>Seth Keshel's trend analysis</a> from 2008-2020, which accounts for registration changes and population growth. His Minnesota analysis concluded there may have been around 228,000 excess Democrat votes in 2020. Keep in mind, this trend analysis is built up off of very likely manipulated elections in 2008, 2012, and 2016. Apparently, Biden's official (unofficial) vote total in 2020 was 1,717,077 (45.28%) versus Trump's 1,484,065 votes (52.40%). That's a sizeable 7.12% margin, which in my opinion is one of the tactics to get Minnesotans not to even look into whether their elections were free and fair or not while the fake news repeated 'no widespread fraud' and 'not enough fraud to change the election.' Is the media still singing this tune or have their deceptive tactics changed once more?
+</p><p>
+Based on the data currently available, it looks like Trump carried Minnesota, probably comfortably—that is the magnitude of the impact the combination of machines and mass mail-in ballots and inflated voter roles can have. They can swing actual vote counts by 10% or more if needed. But remember, this isn't only about Biden and Trump. The machines are capable of manipulating votes up and down the ballot, from president to schoolboard director. Is it any wonder then that most school boards aren't working for the benefit of children, but instead doing the opposite?
+</p>
+
+
+
+
+3% post election review
+means
+97% of election is NOT audited
+would the IRS ever leave 97% of your income un-audited?
 
 A petition to stop the certification of Minnesota's Election
 
@@ -13,6 +73,51 @@ Since that time, every point made in the petition has been confirmed by the work
 With a lack of transparency and demonstrated gaps in the election process across the country and in Minnesota, many have asked, Where are the consequences? We could shrug our shoulders and say, What can we really do? We could sit back and see if the situation improves on its own. We could even give up.
 
 Or we can decide to put the truth on the table, brick by brick, so that before long every Minnesotan knows the truth—all except those that choose the temporary comforts of willful ignorance. Once enough people see what's wrong, available remedies will be welcomed.
+
+
+MORE COVER UP
+
+Minnesota uses Dominion, ES&S, and Hart systems, although <a href="https://erikvanmechelen.substack.com/p/only-6-out-of-87-counties-in-minnesota" target=_new>only 6 of 87 counties have election machines certified by the EAC</a>, which may conflict with <a href="https://www.revisor.mn.gov/statutes/cite/206.57" target=_new>Minnesota Statute 206.57 Subd. 6. Required Certification</a>, which reads in part "...a voting system must be certified by an independent testing authority accredited by the Election Assistance Commission..."
+</p>
+<br>
+<img src=2020_general_election_equipment.png style="height:400px">
+<br>
+<p>
+In phone conversations I had with Minnesota election officials in summer 2021 and in more recent discussions that I've observed, so far none have *said* they've lost faith in the electronic voting equipment. Again, what was shown in the <a href="https://magaraccoon.com/docs/MesaCountyReport3.pdf" target=_new>Mesa County Report #3</a>, where an unauthorized creation of new election databases occurred during early voting in October 2020, was that in that case the election officials could not have been responsible for the changes. From this perspective, it's very possible that many election officials are hostages in a bad system. Will any of these election officials, recorders, or clerks come to our aid once they realize the people simply want the truth about election results? After all, isn't it their statutory duty to preserve election materials and records for 22 months after a general election?
+</p><p>
+Now, supposing you wanted to verify the output of the machine process with the results reported by precints, counties, or the secretary of state's website—how could you do that? One way would be to examine the cast vote record (CVR) reports, which are automatically generated by the tabulators as ballots are scanned in. However, to date, despite the clarity of <a href="https://www.revisor.mn.gov/statutes/cite/13" target=_new>CHAPTER 13, GOVERMENT DATA PRACTICES</a>, no CVRs have been shared with any Minnesotan requesting them, although one county attorney has said in writing that they do not have them, which either shows 1) a lack of understanding of how the machines work, 2) a lack of understanding of election record retention laws, or 3) potentially an understanding that if shared the CVR provides the public a way to check the accuracy of reported election results.
+</p><p>
+You could also do a full and complete audit of ballots, tabulators, and election management systems for a county or even for a precinct. A partial audit was done in Maricopa County, Arizona and men and women in Otero County, New Mexico are currently conducting an audit of their county's 2020 General Election. Kansas may have an audit soon as well.
+</p><p>
+Part of the Maricopa County audit scope of work which was not completed by the official audit was the door-to-door canvassing. This is a method to compare the voter rolls and histories with the responses given by those men and women themselves. It is eye-opening when the voter histories shows a person did not vote but they claim they did. This approach also is effective in confirming phantom voters in the voter rolls. In Minnesota, the results of this method (using sites like <a href="https://canvassmn.com" target=_new>https://canvassmn.com</a> were brought to the Crow Wing County commissioners board meeting and was influential in persuading them to <a href="https://erikvanmechelen.substack.com/p/motion-passed-to-request-minnesota" target=_new>pass a resolution</a> in favor of asking the Minnesota Secretary of State to help them to unseal their ballots and conduct an audit. (The request was declined.)
+</p>
+<small>Postelection reviews reveal missing ballots</small>
+<p>
+<a href="https://www.revisor.mn.gov/statutes/cite/206.89" target=_new>Minnesota Statute 206.89 POSTELECTION REVIEW OF VOTING SYSTEMS</a> hand counts ballots returned by the optical scan ballot counters in select precincts, known as a <a href="https://www.sos.state.mn.us/elections-voting/how-elections-work/post-election-reviews/" target=_new>postelection review</a>. (These are sometimes referred to as risk-limiting audits.)
+</p><p>
+In a postelection review in Dakota County's Precinct 4950, WEST ST PAUL W-2 P-2, the total unadjusted difference was 870 votes. 7 of those 870 votes were explained, but 863 were not explained. Why then does the total adjusted difference (the last column) show all zeros? The total adjusted difference should read 863 (870 minus 7). Even with 65% (863 out of 1327) of the total votes in this postelection review left unexplained, the Final Results row says this is a "Difference of not more than 0.5%" and the Total Adjusted Difference is "0%", deemed "ACCEPTABLE".
+</p>
+<br>
+<img src="/precinct4950.png" alt="Precinct 4950: Total Unadjusted Difference = 870">
+<br>
+<p>
+Of course, this is clearly <strong>not</strong> acceptable and it begs the question: How many more precincts would turn up red flags like this if more postelection reviews had been done? And how many more red flags might be raised if proper audits were done? With this work being shown to Minnesotans, it would be strange if they were not asking for audits and  accountability.
+</p>
+<small>A petition to stop the certification of Minnesota's Election</small>
+<p>
+Based on the postelection review above (but not only that) it was correct for <a href="https://shogrensmithlaw.com/about-us" target=_new>Susan Shogren Smith</a> to properly serve <a href="https://erikvanmechelen.substack.com/p/should-minnesotas-2020-election-have" target=_new>a petition</a> to each member of the Minnesota State Canvassing Board prior to its certification of the 2020 election, in part reading: "Minnesota candidates for office and voters have come forward with affadavits detailing concerns and observations about the ignored and failed election processes in counties across the state...If this Court does not take action to prevent the certification of the Minnesota election until a complete, bi-partisan statewide audit of the election occurs, including election materials, our election system, and the trust of the voters, will be irreparably harmed."
+</p><p>
+The MN State Canvassing Board is the sole entity identified in the MN Constitution carrying the duty to canvass the statewide election results. However, the MN Supreme Court erroneously ruled (in my opinion) that all 87 counties had to be served. Therefore <a href="https://www.documentcloud.org/documents/20420161-order-minnesota-supreme-court-dismisses-gop-election-contest" target=_new>the case was dismissed</a> without a hearing on the facts on Friday afternoon, December 4, 2020. This dismissal was critical to meeting the the safe harbor deadline of December 8, 2020.
+</p><p>
+Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
+</p><p>
+With a lack of transparency and demonstrated gaps in the election process across the country and in Minnesota, many have asked, Where are the consequences? We could shrug our shoulders and say, What can we really do? We could sit back and see if the situation improves on its own. We could even give up.
+</p><p>
+Or we can decide to put the truth on the table, brick by brick, so that before long every Minnesotan knows the truth—all except those that choose the temporary comforts of willful ignorance. Once enough people see what's wrong, available remedies will be welcomed.
+</p>
+
+
+
 
 
 Cover up phase

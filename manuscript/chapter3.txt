@@ -8,3 +8,9 @@ description of 2000 Mules
 see my report on that in Midwest Seeds (their hearing)
 
 quote from the hearing...
+
+
+</p><p>
+	On election day, electronic pollbooks connected to the internet provide access to the statewide voter registration system (SVRS) in the cloud. Ask yourself, what benefit might there be to the e-pollbooks being connected to the SVRS in the cloud from the perspective of monitoring or even controlling an election outcome? The current Minnesota Attorney General's [https://twitter.com/keithellison/status/1323746158557253632](tweet) at 3:57pm on election day suggests he had some knowledge of votes being cast in real time. Could it be—to name just one possibility—that the system notes which voters do not vote (neither submitting an absentee/mail-in vote nor voting in person in the precinct) and adds those voters to the phantom voter pile?
+</p>
+![Could Ellison have had access to the SVRS in real-time on election day?](ellison_tweet.png)
