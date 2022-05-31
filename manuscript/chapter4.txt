@@ -1,5 +1,21 @@
 {sample: true}
-# Chapter 4 - Minnesota
+# Chapter 4 - Defense
+
+
+A petition to stop the certification of Minnesota's Election
+
+Based on the postelection review above (but not only that) it was correct for [Susan Shogren Smith](https://shogrensmithlaw.com/about-us) to properly [serve a petition](https://erikvanmechelen.substack.com/p/should-minnesotas-2020-election-have) to each member of the Minnesota State Canvassing Board prior to its certification of the 2020 election, in part reading: "Minnesota candidates for office and voters have come forward with affadavits detailing concerns and observations about the ignored and failed election processes in counties across the state...If this Court does not take action to prevent the certification of the Minnesota election until a complete, bi-partisan statewide audit of the election occurs, including election materials, our election system, and the trust of the voters, will be irreparably harmed."
+
+The MN State Canvassing Board is the sole entity identified in the MN Constitution carrying the duty to canvass the statewide election results. However, the MN Supreme Court erroneously ruled (in my opinion) that all 87 counties had to be served. Therefore the case was dismissed without a hearing on the facts on Friday afternoon, December 4, 2020. This dismissal was critical to meeting the the safe harbor deadline of December 8, 2020.
+
+Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
+
+With a lack of transparency and demonstrated gaps in the election process across the country and in Minnesota, many have asked, Where are the consequences? We could shrug our shoulders and say, What can we really do? We could sit back and see if the situation improves on its own. We could even give up.
+
+Or we can decide to put the truth on the table, brick by brick, so that before long every Minnesotan knows the truth—all except those that choose the temporary comforts of willful ignorance. Once enough people see what's wrong, available remedies will be welcomed.
+
+
+Cover up phase
 
 Dan Sundin
 You are correct in the fact that A1c Total Inactive isn't provided for Minnesota. This is the field with the corresponding field description: A1 Comment: "MINNESOTA IS NVRA EXEMPT. MINNESOTA DOES NOT CLASSIFY VOTERS AS INACTIVE PER NVRA."

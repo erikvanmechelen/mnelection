@@ -1,170 +1,7 @@
 {sample: true}
-# Chapter One - Preparation
+# Chapter One - A Totalitarian Flavor
 
-
-laws
-registration system (ERIC) - bring in devolution image, 12 Nov statement
-but also the july 28, 2020 statememt
-machines
-put wireless modems in them
-https://letsfixstuff.org/2021/04/modem-chips-embedded-in-voting-system-computer-motherboards/
-es&s, most-used tabulator in Minnesota
-prepare dropboxes
-training ,
-absentee packet from SoS (see link on action.html)
-covid
-absentee
-influence and psych ops
-
-
-Quote from the 4 phases
-
-https://letsfixstuff.org/2021/04/modem-chips-embedded-in-voting-system-computer-motherboards/
-es&s, most-used tabulator in Minnesota
-
-https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/
-only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity
-
-1234
-
-"The election of 2020 was not counted, it was calculated."
-Draza Smith
-
-Adjust to
-prep
-attack
-backup attack
-defend
-
-
-
-Chapter 1 - Paper
-
-*"The highest priority as a bad guy would be to subvert our election system. The reason is: you can take over a country without firing a shot. If you can decide who the leaders are, if you can put judges, if you can answer constitutional questions any which you want, over a period of time—you're not going to do it in one election, it's going to take a bunch of elections—but you can take over a country. And that would be my top priority (as a bad guy). Nuclear weapons would be a close second, but the top one would be elections."*
-
-Jeff Lensberg, nation-state vulnerability expert in the May 9, 2022 Otero County, New Mexico Emergency meeting
-
-***
-
-*“I consider it completely unimportant who in the party will vote, or how; but what is extraordinarily important is this—who will count the votes, and how.”*
-
-Joseph Stalin, 1923 (And Amy Klobuchar, link to video on Rumble)
-
-***
-
-*“Since we know what we will find when we do our audits—”*
-
-*“That we’ve been duped.”*
-
-*“Yes, so what’s stopping us from reformulating our election processes as you described earlier and then immediately calling for new elections?”*
-
-*“Nothing.”*
-
-—From a conversation between Col. Phil Waldren and the author inside The Military Heritage Alliance around 6pm on Day Three of Mike Lindell’s Cyber Symposium in Sioux Falls, South Dakota.
-
-***
-
-Let’s start with where we are headed.
-
-We are on our way to a future where every voter’s vote is counted and 100% auditable immediately. See [this video clip](https://youtu.be/GBKz1o_VqAE?t=2421) from Col. Phil Waldron in a Nye County Commissioner’s meeting in March 2022 where a resolution was passed by the commissioners 5-0 to remove electronic voting equipment from future elections. (They weren’t the only county in Nevada to do so.)
-
-A win for the enemy is to keep electronic voting machines and systems. We cannot allow that to happen. That is, if you understand the anomalies, indications, and evidence showing what these machines and their code are capable of.
-
-Elections have become too complicated. And complexity breeds corruption. By contrast, simplicity yields success.
-
-Elections should be:
-	- A single day, probably a national holiday
-	- Machine-less
-	- Decentralized to promote local oversight and control
-	- Conducted with paper ballots, hand counted, that are 100% auditable immediately
-
-Elections should **not** have:
-	- Dropboxes
-	- Mail-in ballots
-	- Long absentee and early voting periods
-	- Machine-driven check-in (epollbooks)
-	- Machine-driven counting and tallying (tabulators)
-	- Machine-driven adjudicating and recording (election management systems)
-
-In Minnesota, the already opaque computer systems are increasingly networked and centralized. When centralized, it is easier for just a few bad actors to control election outcomes.
-
-Those who control the machines, control who wins.
-
-This short book will shine light on exactly how that happens.
-
-But if you’ve already lost confidence in machine-driven elections, you may want to hear some of the objections made against moving to hand-counting paper so that you can be ready to counter them.
-
-***
-
-Objections to the above have come from expected places, like the media, part of the cover-up, who have been forced to shift their language from a) no evidence of fraud to b) no widespread evidence of fraud to c) not significant enough fraud to alter the election outcome to d) admitting that Dominion machines can be hacked (CNN).
-
-Some objections have also come from legislators. In Minnesota I've heard more than once: “We can’t get voter ID past the Democrats.”
-
-Responses like this are in part discouraging because voter ID is only one simple change that is needed. Further, to make elections truly fair again would require the legislature to amend Minnesota statutes or write new ones, like the banning of electronic voting equipment.
-
-But there is good news: once the majority of Minnesotans learn how vulnerable the machines and computer systems currently in use are, legislators on both sides of the aisle will be hearing regularly from the people who will be able to articulate exactly what they want.
-
-Other objections have come from local county government. Having sat in meetings with county commissioners and election officials, if they agree that the machines are vulnerable and realize the people no longer trust them, the common objections I’ve heard can be summarized by concerns about time, effort, and money.
-
-Time:
-Hand counting paper takes longer than feeding ballots through a machine. However, what’s more important than speed is accuracy. 18 months after the November 3rd 2020 general election, we are still “counting”.
-
-Effort:
-Manual labor is required to hand-count paper ballots. With enough paid staff or volunteers the overall effort is spread across those doing the work. (I imagine many people in all 87 Minnesota counties would enthusiastically join an effort to produce the first non-machine election result in decades.) Also, if the 46-day absentee election were removed, that would save election officials and ballot boards 46 days of work.
-
-Money:
-Rick Weible has compared the net cost per ballot with machines versus paper. Machine counting costs about $14 per ballot. With paper counting, costs would be cut in half to about $7 per ballot. Hand counting paper not only costs tax payers less in the long run but it also produces reliable and auditable results which could restore confidence in the overall election process and go a long way to minimizing fraud.
-
-Public county commissioners board meetings every two weeks have been increasingly attended in late 2021 and early 2022 in Minnesota and across the country because changes can be made within local jurisdictions without changes to election law from the legislature. This is where the people’s voice can truly be heard and county commissioners can even add a discussion of election systems and processes as an agenda item. If change is desired, a resolution can be brought and voted upon. A no-confidence vote on the machines can lead to real change.
-
-Objections have also come from the offices of the secretary of state throughout the country. In Minnesota, Secretary of State Steve Simon decline the opportunity to prove the electronic election equipment in Crow Wing County was secure when he denied the opportunity brought by a 4-1 county commissioners vote to unseal the ballots from the Crow Wing County 2020 General Election. A simple hand tallying of the paper ballots for the presidential race alone would have allowed that tally to be compared with the results reported by the Secretary of State's office. If the the hand tally matched the machine-reported counts, then trust may have been restored. Instead, the people are left to wonder why this simple request was dismissed and what was meant be his official response to the Crow Wing County Commissioners, which in part read:
-
-"Unfortunately this is another example, I fear, of disinformation taking root. A generalized feeling or vibe or hunch — and it's probably being stirred up and whipped up by those with a political or financial interest in corroding democracy."
-
-This from a Secretary of State who already admitted ...  tiny fraud every election ...
-
-END
-
-
-
-...
-
-To list only a few areas where county commissioners can make change happen right now:
-
-LIST 1
-Counties may discontinue electronic pollbooks (e-pollbooks) and return to paper pollbooks, according to Minnesota Statute 201.225 Subd.1 https://www.revisor.mn.gov/statutes/cite/201.225 “A county, municipality, or school district may use electronic rosters for any election.”
-
-LIST 2
-Counties may also do away with machines *** statute number. (Nathan Org disagrees, but let’s see.)
-
-
-
-
-to not accept Machines
-to accept PAPER
-
-this happened.
-
-can't wait for further elections.
-
-awareness and action needed NOW
-
-do not accept Machines
-accept PAPER
-
-build the future of 21st century
-
-don't dwell on the past
-
-dna modified, thrown out of kingdown of heaven (demons)
-
-
-
-no room for you
-
-delusional or part of it (epstein)
-
-##A Totalitarian Flavor
+##Introduction - A Totalitarian Flavor
 
 “Since we know what we will find when we do our audits—”
 
@@ -181,6 +18,7 @@ delusional or part of it (epstein)
 As the two buses converged from the left and right into our lane I wondered whether this road was safe for bicycles. When we’d agreed to tea fifteen minutes prior my family wasn’t expecting to navigate a minor highway on two wheels. Our tour guide slipped through the gap, not far behind were Mom and Dad who decided to go for it. My brothers and I were forced to brake and cars behind us honked, not in solidarity, but at least they didn’t hit us. Losing sight of Mom and Dad as the buses zipped the lane shut, I briefly imagined them being crushed. Moments later, materializing out of the cloud of exhaust on that hazy winter morning were Mom and Dad and the guide, each still in their saddle. It was 2005 and there were far fewer bikes in Beijing than I’d recalled in our 1998 visit. Just before the people’s uprising in Jakarta prompted Suharto to step aside from the Presidency after a thirty-two-year reign, on one day’s notice we flew into Singapore; after receiving word that school was canceled for the year, we decided to visit China.
 
 Biking through Beijing, we navigated the tight alleys, connecting traditional courtyard residences in Old Beijing, some dating back to the thirteenth century. Parking next to a red door beneath a slanting tiled roof, our guide knocked and announced us. A smiling, elderly woman answered and soon we stepped over the threshold and were shown to a small room adjacent the courtyard. Without heating we did not take off our coats, but here at least the walls sheltered us from the wind’s bite. We were all keen for the hot tea she soon brought but especially thankful was my older brother whose frozen hands around the cup were eventually thawed, albeit painfully. We sat around a low stone table and sipped our tea while our guide translated the woman’s story, her family’s history, and what life was like in her community. Having expended considerable physical effort and survived both the elements and the attempted bus squeeze, we were as travelers taking temporary refuge from a storm, content for simple pleasures. We were soon transported through time by our host’s tale.
+
 After receiving my high school diploma from the International School of Beijing in 2006, I soon returned to the United States to attend college in Minnesota. In short order however I learned that back in the Chinese capital several thousand traditional homes just like the one we’d visited, along with their more than seven hundred years of history, were bulldozed. Ostensibly this was done to make room for sports venues and other infrastructure for the 2008 Olympic Games, but word on the street was that the Party was embarrassed by the hutong, which were downtrodden and often occupied by the poor. I learned that the residents at the time of their evictions were not compensated appropriately to the point that they couldn’t easily find other places to live.
 We lived in Shunyi District, a rural area east of Beijing. The street between our school and the local villages was still covered in fall by corn kernels laid to dry by farmers. In their communities my new school friends once treated me to a plentiful noon meal for about a dollar a person.
 
@@ -198,9 +36,9 @@ It was a rough present, but their near-term past was arguably tougher. Mao’s p
 
 While I didn’t have a robust understanding of the comparative political models in question, I knew that when I left China it wasn’t a place I would ever want to live for very long. Evenings walking our neighborhood I wondered whether the guards were there for our safety or as our monitors. Below two fire alarms, the purpose of the second my family never did surmise, our living room television regularly went static at any mention of China. Our church services were held in a conference room since there were no churches and Chinese nationals were forbidden from attending.
 
-When I moved back to the States I had a deeper appreciation for the spirit of freedom, central to our founding and identity. As rumors of mysterious virus spread in early 2020, I immediately sensed a contest of ideas was about to play out. An attempt at total control was being instantiated with fear. Little did I know that an election would follow.
+***
 
-•
+When I moved back to the States I had a deeper appreciation for the spirit of freedom, central to our founding and identity. As rumors of mysterious virus spread in early 2020, I immediately sensed a contest of ideas was about to play out. An attempt at total control was being instantiated with fear. Little did I know that an election would follow.
 
 By mid-summer of 2020, videos documenting the horrors of the Chinese Cultural Revolution were circulating on YouTube. After several weeks of violence plaguing cities around the United States, loudly—though in substance quite loosely—tethered to the death of several United States citizens who the corporate media branded as victims. The corporate sponsored revolutionaries used the color of these citizen’s skin as justification for their looting, pillaging, assaulting, and killing. The corporate media and intellectual class graced these actors with the blessed heritage of “peaceful protest,” as small businesses were destroyed, communities (many of them populated by racial and ethnic minorities) gutted, and cities burned. No one seemed to bother to check the police reports. Why would they? Instagram and Facebook already told them what happened, and whose name (no matter how criminal, felonious, or murderous) to say. The same tactics the Maoist used in the previous century to upend China were on display in my home country—tearing down statues, disgracing public buildings, ridiculing our history, shaming any who would defend it. Where the American version of the red army (the black shirts) stopped short was public beheadings—perhaps knowing that the constitutional right to bear arms and form militias would put a swift end to what could be accomplished with a more measured and insidious approach.
 
@@ -214,56 +52,59 @@ By the next summer, I was working with men and women around the state searching 
 
 What we know now is that those who control the machines, control the results. So long as we have machines, I will not feel any confidence whatsoever that my vote was counted.
 
-From the 100,000-foot view, elections are simply a control mechanism and also a critical vector of attack against a nation-state. Here in the United States, if you can install candidates up and down the ballot, then a county, state, and country can be usurped without firing a bullet. Meanwhile, the people could be manipulated for years or decades to think all is well in our constitutional republic, including election judges, poll challengers, and election officials.
+From the 100,000-foot view, elections are simply a control mechanism and also a critical vector of attack against a nation-state. Here in the United States, if by subverting elections you can install candidates up and down the ballot, then a county, state, and country can be usurped without firing a bullet. In the digital age, this can be done through machine code invisible to election judges, poll challengers, and election officials. Meanwhile, the public could be manipulated for years or decades to think all is well in our constitutional republic, when in fact we were on course to lose it and may indeed have lost it.
 
-Of course, control through elections is not new, even if this important fact is not well understood.
+Of course, maintaining control by subverting elections is not new, even if this important fact is not widely understood.
 
-In Robert A. Caro’s Working, he describes the importance of facts being made available to the public, one of which was the fact that in 1948 at the eleventh hour two hundred votes were found for Lyndon B. Johnson propelling him into the Texas Senate by a margin of eighty-seven votes in a race where more than a million votes were cast. Caro found the man responsible for carrying this out, Luis Salas, who invited him into his home where he admitted to Caro what he did and that he lied under oath about it. He gave Caro a manuscript describing his actions. Caro writes, “Thanks to that manuscript, it would not be necessary for me to write, ‘No one will ever be sure if Lyndon Johnson stole it.’ He stole it.”
+In 2004, Sequoia (acquired the next year by Smartmatic in 2005), was used to run the Venezuelan presidential recall election, even though it was the company's first time providing machines for an election.
+
+Before electronic voting machines, decades prior, in 1961, I found this airtel to the Director of the FBI while browsing the JFK files:
+
+![Perhaps they will attempt to switch voting machines](switch_voting_machines.png)
+
+More than a decade prior to that, in Robert A. Caro’s autobiography, *Working*, he stresses the importance of facts being made available to the public. One critical fact was that in 1948 at the eleventh hour two hundred votes were found for Lyndon B. Johnson propelling him into the Texas Senate by a margin of eighty-seven votes in a race where more than a million votes were cast. Caro found the man responsible for carrying this out, Luis Salas, who invited him into his home where he admitted to Caro what he did and that he lied under oath about it. He gave Caro a manuscript describing his actions. Caro writes, “Thanks to that manuscript, it would not be necessary for me to write, ‘No one will ever be sure if Lyndon Johnson stole it.’ He stole it.”
 
 That was in 1948.
 
-Like Caro, I couldn’t look away from what I was seeing in late 2020 and 2021. In Patrick Colbeck's framework, the preparation phase had led into the attack phase (where the mail-in ballot weakness was exploited) followed by the backup attack phase (where votes were injected electronically), and we had entered the defense phase (where election evidence was covered up or destroyed).
+Like Caro, I couldn’t look away from what I was seeing in late 2020 and 2021. In Patrick Colbeck's framework, the preparation phase (creating weaknesses) had led into the attack phase (where the mail-in ballot weakness was exploited) followed by the backup attack phase (where votes were injected electronically), and we had entered the defense phase (where election evidence was covered up or destroyed).
 
-Even despite the lack of cooperation from elected officials, locally people like Rick Weible showed me so much evidence that I couldn't stand aside. From others around the country sharing information with me, I gradually learned how our elections were supposed to work, and how they had been taken over. The election theft in 2020 was obviously coordinated. If this has been happening for a long time, why only now was it so obvious?
+Even despite the lack of cooperation from elected officials, locally people like Rick Weible showed me so much evidence from Minnesota that I couldn't stand aside. From others around the country sharing information with me, I gradually learned how our elections were supposed to work, and how they had been taken over. The election theft in 2020 was obviously coordinated. If this has been happening for a long time, why only now was it so obvious?
 
-How was it that I'd so far lived my life believing my vote counted, but now could not so easily answer that question? That will take some time to unpack. But one thing is clear: Since November 3rd, 2020, tens of millions, if not more, have asked or are now beginning to ask, Does my vote count?
+How was it that I'd so far lived my life believing my vote counted, but now could not so easily answer that question? That will take some time to unpack. But one thing is clear: Since November 3rd, 2020, tens of millions, if not more, have asked or are now beginning to ask, Does my vote count? It's only a matter of time before everyone knows.
 
-If our election officials, counties, and secretaries of state cannot show that the computerized election management systems used to produce election results actually do so without error, then citizens in increasing numbers will have the same question—Does my vote count? Jeffrey O'Donnell puts it well in the introduction to his Mesa County #3 Report: "If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
+If our election officials, counties, and secretaries of state cannot show that the computerized election management systems used to produce election results actually do so without error, then citizens in increasing numbers will have the same question—Does my vote count? Jeffrey O'Donnell puts it well in the introduction to his Mesa County #3 Report (highlighted in the forthcoming (S)election Code documentary: "If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
 
-To date, no independent audit of the machines has been done of any Minnesota county. Neither has a third party been tasked with inspecting the source code of the machines. And #3...
-(in MN statute, this can be done)
+To date, no independent audit of the machines has been done of any Minnesota county. This would be welcome since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country.
 
-RESULT?
-machines NOT ACCEPTABLE
-paper, ACCEPTABLE - NOW
+DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
 
+In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
 
-(Because they couldn't have another 4 years of Trump.)
+![Telit LE910-SV1 found within ES&S enclosure](telit.png)
 
+Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) how the card was "utilizing a commercial Verizon SIM card with an APN configuration specific to the ES&S DS200 provisioning. Testing revealed that the same SIM card could be utilized in a separate wireless hotspot device and the device could then join the same APN as the ES&S voting machines. An unauthorized user could gain access to this APN by an extra SIM card pre-provisioned for this APN, or by removing a SIM from an operational device and using it in another device."
 
+To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
 
+Are you concerned that contracts with our hardware and software vendors makes it very difficult to inspect the machines or source code? Does it worry you that Minnesota Statutes make it difficult to have this done? 18 months after November 3rd, 2020, don't you think it would have been prudent to have settled the conspiracy theories by showing the public that the machines are clean?
 
+Neither the chair of a major political party nor the secretary of state asked for a third party to inspect the source code of the machines, which [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) allows for.
 
+Furthermore, according to [Patrick Colbeck](https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/), "only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity."
 
-MOVE MINNESOTA SECTION to CHAPTER 2 or later...
+Even with the "defense phase" of the election coup falling apart, so far no county commissions have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired.
 
+***
 
-Near the basement entrance to VFW Post 494 in Crystal, MN, I was soon asked whether I would like to wear a sticker by a man working with one of the campaigns. When I declined he said, "I understand not wanting to be a walking poster." Nodding, I pulled back my jacket to reveal my t-shirt and said, "But I already am."
+This book will follow the organization of the four phases of an election coup put forward by Patrick Colbeck in his book:
 
-The t-shirt read:
+- Preparation
+- Attack
+- Back-up Attack
+- Defense
 
-Minnesota, No. 1 in Voter ~~Turnout~~ Fraud
+These phases will provide the framework to put Minnesota's 2020 election in context.
 
-Instead of a walking poster for any one candidate, I would go on to advocate for the issue I was surprised to learn that few wanted to discuss that day.
+***
 
-At this, the CD5 Convention of the Minnesota Republican Party, nearly 17 months after the November 3rd, 2020 General Election, very few if any speakers acknowledged that the election was rigged and none mentioned electronic voting equipment (epollbooks, tabulators, election management systems). Stating the obvious would surely have scored them political points (or so I thought) so why was almost everyone shying away? Only by plainly stating the problem is there any chance of going about fixing it. What's more, at this late hour, we're at a moment where surface level issues of the election coup are obvious—because elections have consequences we are witnessing the decades long result of leaders being (s)elected, not elected. It is easy to complain and feel good about knowing some fact that your neighbor may not yet know. But now the focus should be on solutions and taking action toward them. In the realm of elections, there are simple remedies to the overly complex and easily exploitable system currently in place.
-
-Rolling back the clock a bit, I don't pretend that I understood exactly what was happening on November 3rd, 2020 as it was happening. On election night (and day 46 of the absentee voting period in Minnesota), I had gone to bed early having read that absentee ballots in some states did not need to be fully counted for some days yet. Who would it benefit to have the work done so as to declare the winner on election night? The American people. But the failed and corrupt political establishment did not want that.
-
-When I woke up, and in the following days, I became gradually aware of the many things wrong with our election process and systems. Many of which, whether legislative, procedural, or technical, are design features, not bugs. The breach of the border between legal and ethical domains has helped naysayers and coverup artists stall efforts to correct what went awry, but eventually God's tortoises will beat Lucifer's hares.
-
-Although I'd been properly jolted from my comfortable lifestyle it took a good deal of time and effort to equip myself to understand better what had happened, how it had been done, when and where, and by whom. The answers to Why? have produced further inquiry at times beyond the scope of this text.
-
-Whenever possible I'd like to focus on the open source intelligence. The raw data. (Increasingly, this is the approach more people will take realizing they cannot trust even their favorite newscasters, influencers, and reporters to draw conclusions from the data on their behalf – truth repositories akin to Project Apario's proof of concept will grow in popularity and importance.) Since I voted and live in Minnesota, the focus will be in the land of more than 14,000 lakes [https://seagrant.umn.edu/news-information/directors-column/minnesota-land-how-many-lakes](about 14,380).
-
-Even while focusing on verifiable facts, I will not hesitate to ask questions or suggest routes you may walk yourself. And remember, the truth will resonate from within. There is great potential within each of us. Be humble and do not underestimate your ability to search, research, dig, and discern. May God grant us allow wisdom, strength, and discernment to carry the burden that is His truth. Only then may we see clearly and help others also come to see the lies and therefore remove the power of that deception.
+In the imminent and immediate future, the machines will become unacceptable to the majority of people. Hand counting paper will be heavily demanded. Once trust is restored in hand counting paper ballots that are 100% auditable, maybe only then should alternatives to hand counting paper may be looked into. But let's take this one step at a time. Read this book and share it with anyone who doesn't yet understand how machines and malicious code determine the outcome of elections in our state and country. Every Minnesotan deserves to know the truth. Without this information, how can the public react? Once the light is shone, deception and lies will hold no power over us.

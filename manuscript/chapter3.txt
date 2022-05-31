@@ -1,48 +1,10 @@
 {sample: true}
-# Chapter 3 Three
+# Chapter Three - Attack
 
-Getting involved
+Mail-ins...
 
-2021. Spring turned to summer. Despite moments of hope and optimism I continued to experience inner turmoil that even daily tending to the vegetable garden could not quell. There’s a scene in The Matrix before Neo meets Morpheus who offers him the red pill. They’ve stopped the car because Neo doesn’t like the gun being put to his head (a tracking device was implanted by Agent Smith in the prior scene, which Trinity wants to remove). When Neo opens the car door, Trinity asks Neo if he really wants to get out into the pouring rain. While he gazes down a shadowy alley, she reminds him that he knows where that road leads because he’s been there before. Eventually I realized that to get to the future I wanted I couldn’t sit back while others selflessly put themselves in harms way. I too had to do something, even if I didn’t know exactly what that would be.
+description of 2000 Mules
 
-Early June I applied for Project Veritas but didn't hear back after the second round questionnaire.
+see my report on that in Midwest Seeds (their hearing)
 
-Shortly thereafter, in late June, I found a Telegram group seeking audits. The bulk of our activity was to write emails and letters to elected officials who mostly ignored us. This group (at the higher levels) turned out to be controlled opposition and I left after just 45 days not long after returning from the Cyber Symposium. But it was the beginning of more focused research and study of the Minnesota 2020 election and relationships formed there are with to this day.
-
-Another Telegram group was formed around that time, which I joined despite words of caution from some. This one included a strategy room where about 60 people across the country still share information. Early on, around September 2021, I remember video calls where Jeffrey O'Donnell and Dan Sundin shared preliminary findings from the before and after server images revealed by Tina Peters on Days 1 and 2 of Lindell's Cyber Symposium. To this day I encounter folks who were disappointed by the event in Sioux Falls: I may share their confusion regarding the PCAPs but I will not hesitate to point them to Jeffrey O'Donnell's [Mesa Report #3](https://magaraccoon.com/docs/MesaCountyReport3.pdf), which showed "unauthorized creation of new election databases during early voting in the 2020 General Election on October 21, 2020, followed by the digital reloading of 20,346 ballot records into the new election databases, making the original voter intent recorded from the ballots unknown." Furthermore, "5,567 ballots in 58 batches did not have their digital records copied to the new database, although the votes from the ballots in those
-batches were recorded in the Main election database."
-
-This was only the first of seven major findings and implications. For any states using Dominion Voting Systems (DVS) Election Management System (EMS), this should be concerning. An audit of the machines would demonstrate that this did not occur in the six counties in Minnesota also using Dominion systems. Until that happens, how can voters be confident something like this didn't happen in Minnesota?
-
-That particular strategy group has gave me the pulse of what those who'd been working since November 3rd, 2020 and before were thinking about and actively doing.
-
-By late summer and autumn, I was trying to help Andrei, inventor of Project Apario, get traction with his new proof of concept while writing several client nonfiction books and continuing to cover election activities in Minnesota.
-
-On October 13th, 2021, I finally attended one of Rick Weible's presentations. I had a newly purchased video camera with me, and Teri, who sets up and promotes many of Rick's events, said I could record the presentation as someone else was a no show. That night I met a few others who had been following Rick's work for some time. One of the older men said it would soon be time for the young people like me to step up.
-
-I went on to record a few more of Rick's presentations and appearances before county commissions throughout the state.
-
-His work with [Midwest Swamp Watch](https://midwestswampwatch.com) began with a focus on what happened in 2020, but in late 2021 shifted focus to support grassroots efforts to improve their local county elections. This change led to many people standing up and taking action throughout Minnesota, an effort which in mid-2022 includes a dozen counties but affects many more.
-
-The emphasis today is on local control, accountability, and oversight. In a strict reading of restrictive Minnesota statutes, we are entering territory where county commissions and election officials will have the choice to either follow the law or decline to certify their county's elections with the awareness they were conducted on machines and software wide open to attack.
-
-In February 2022 I attended my first precinct caucus. There alongside others I became a delegate to my BPOU, and at the BPOU level became a delegate to the state convention. Between February and May I learned a lot about the inner workings of the Minnesota Republican Party, also referred to as the MNGOP.
-
-(to be covered in later chapters?... or is part of this necessary... like Susan Smith talking about PAPER at convention, YouTube video)
-
-
-keshel - if not you, who?
-draza - PID
-o'Donnell - mesa
-mark cook - walk away inspired ("i've seen you somewhere")
-col. phil waldron - what's stopping us... "Nothing."
-clements - know your stuff, Jesus
-sundin - put data in spreadsheet, knows the machines/equipment
-hoang - eyes on Jesus
-andrei - trust in Jesus, INFORMATION WARFARE
-set up by chapters, what I learned from them?
-kind of like... meditations
-
-separate chapters
-OR
-combine, connect, threads that weave
+quote from the hearing...
