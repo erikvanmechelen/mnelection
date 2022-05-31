@@ -3,25 +3,57 @@
 
 *"The highest priority as a bad guy would be to subvert our election system. The reason is: you can take over a country without firing a shot. If you can decide who the leaders are, if you can put judges, if you can answer constitutional questions any which you want, over a period of time—you're not going to do it in one election, it's going to take a bunch of elections—but you can take over a country. And that would be my top priority (as a bad guy). Nuclear weapons would be a close second, but the top one would be elections."*
 
-Jeff Lensberg, nation-state vulnerability expert in the May 9, 2022 Otero County, New Mexico Emergency meeting
+—Jeff Lensberg, nation-state vulnerability expert in the May 9, 2022 Otero County, New Mexico Emergency meeting
 
 ***
 
-As hinted at in the introduction, preparation to subvert elections occurs on multiple levels, local, state, national, as well as international, in the domains of law, electronic systems, and psychological operations.
+As hinted at in the introduction, preparation to subvert elections occurs on multiple levels, local, state, national, as well as international, not limited to the domains of law, electronic systems, and psychological operations.
 
-In studying Minnesota election laws, one can follow the history of a particular statute over time. Did the changes to a particular statute make elections more fair or less fair? Did attempts to provide access to one vulnerable voting group lead to the potential for fraud? Did judge ordered changes amount to encasing fraud within the process itself? (See witness and signature requirements waived through consent decrees.)
+In studying Minnesota election laws, one can follow the history of a particular statute over time. Did the changes to a particular statute make elections more fair or less fair? Did attempts to provide access to one vulnerable voting group such as ADA lead to the potential for fraud? Did judge ordered changes amount to encasing fraud within the process itself—for instance, by what metric are signatures verified? (See witness and signature requirements waived through consent decrees.)
 
-highest turnout... multiple years in a row.
+Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified less than 6% of Minnesota counties and certified none of its internet connected e-pollbooks. DS200s, from ES&S, were used in over 60 counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in the Antrim County, Michigan investigation. Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the Electronic Registration Information Center (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them.
+
+In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law.
 
 ## Minnesota Statutes and Law
 
-Let's start with laws.
+Let's start with just a sample:
 
-* In 1974 Minnesota became the second state to allow same-day voter registration.
-* Election day registration allowed by [Minnesota Statute 201.061 Subd.3](https://www.revisor.mn.gov/statutes/cite/201.061)
-* Voter ID not required by law
-* Dropboxes for absentee and mail-in ballots allowed by [Minnesota Statute 203B.082](https://www.revisor.mn.gov/statutes/cite/203B.082) (58% of 2020 votes were reportedly absentee/mail-in ballots in Minnesota)
-* Witness and signature requirements waived by judge order described in this judicial complaint
+1. Election day registration allowed by [Minnesota Statute 201.061 Subd.3](https://www.revisor.mn.gov/statutes/cite/201.061) (legal since 1974, when Minnesota became the second state to allow it)
+2. Voter ID not required by law
+3. Dropboxes for absentee and mail-in ballots allowed by [Minnesota Statute 203B.082](https://www.revisor.mn.gov/statutes/cite/203B.082) (58% of 2020 votes were reportedly absentee/mail-in ballots in Minnesota)
+4. LaRose v. Simon - 1) Removed witness requirements for mail voters in Primary - 2) Extended the deadline to accept mail ballots (2 days) - STIPULATION AND PARTIAL CONSENT DECREE - [Read LaRose Order 62 CV 20 3149 Order on July 31 Motions](https://www.documentcloud.org/documents/7012992-LaRose-Order-62-CV-20-3149-Order-on-July-31.html)
+5. NAACP v. Simon - 1) Removed Witness Requirements for mail voters in General, 2) Extended the deadline to accept mail ballots (7 days), 3) MN Supreme Court Scheduled for September 3, 2020 - STIPULATION AND PARTIAL CONSENT DECREE - [Read NAACP Order 62 CV 20 3625 Order on July 31 Motions](https://www.documentcloud.org/documents/7012991-NAACP-Order-62-CV-20-3625-Order-on-July-31-Motions.html)
+6. [This judicial complaint](https://img1.wsimg.com/blobby/go/47803963-5178-4387-9865-0ea08f5332bd/downloads/22%2003%2017%20grewing%20complaint%20with%20exhibits.pdf?ver=1648648812808) argues Judge Sarah Grewing's decision *not* to recuse herself from above cases
+
+No. 3 and No. 4 were put into motion after the MN Legislature, in April 2020, rejected Secretary of State Steve Simon's request for irrevocable power to alter election law during a pandemic.
+
+## Electronic Systems ????
+
+Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the <a href="https://ericstates.org/" target=_new>Electronic Registration Information Center (ERIC)</a> provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered." For instance, if member states like Minnesota do not remove voters who have moved out of state or have died, then the result is an inflated voter roll. Even if the dead or out of state voter votes, that vote technically counts since that individual will be on the statewide voter registration system with a voter ID in the system.
+</p><p>
+How do we know that voter rolls are inflated, providing an ample supply of ready-to-launch voters?
+</p><p>
+Voter rolls and histories are public information that you can request from the <a href="https://www.sos.state.mn.us/election-administration-campaigns/data-maps/registered-voter-list-requests/" target=_new>Minnesota Secretary of State's website</a> for $46. Note that your request is made at a particular moment in time. However, if you request a list before and after an election, as people like <a href="https://midwestswampwatch.com" target=_new>Rick Weible</a> did for the November 3rd, 2020 General Election, and you are handy with database management (these are big files) then you can see how the lists changed. If you were to continue to request lists every few weeks, then you could see how the lists change over time, sometimes dramatically. (Going forward, it should not require experts in database management to hold our government accountable.)
+</p><p>
+It was these voter rolls and histories that allowed Rick Weible to discover that more than 700,000 Minnesota ballots were not yet connected to a voter on November 29, 2020, only 25 days after the election and a mere 5 days after the Minnesota State Canvassing Board <a href="https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/" target=_new>certified the results</a> of the 2020 General Election. Should the Board have certified the results if the work required by Minnesota statutes was not yet complete?
+
+ERIC
+epollbooks
+voting machines
+certifications ???
+
+## Psychological Operations
+
+Polling...
+
+Covid...
+
+Absentee will favor Biden...
+
+What else?
+
+
 
 
 ## Election Process, Rules, and Procedues
