@@ -1,6 +1,69 @@
 {sample: true}
-# Chapter Two - Preparation
-Preparation
+# Chapter One - Preparation
+
+*"The highest priority as a bad guy would be to subvert our election system. The reason is: you can take over a country without firing a shot. If you can decide who the leaders are, if you can put judges, if you can answer constitutional questions any which you want, over a period of time—you're not going to do it in one election, it's going to take a bunch of elections—but you can take over a country. And that would be my top priority (as a bad guy). Nuclear weapons would be a close second, but the top one would be elections."*
+
+Jeff Lensberg, nation-state vulnerability expert in the May 9, 2022 Otero County, New Mexico Emergency meeting
+
+***
+
+As hinted at in the introduction, preparation to subvert elections occurs on multiple levels, local, state, national, as well as international, in the domains of law, electronic systems, and psychological operations.
+
+In studying Minnesota election laws, one can follow the history of a particular statute over time. Did the changes to a particular statute make elections more fair or less fair? Did attempts to provide access to one vulnerable voting group lead to the potential for fraud? Did judge ordered changes amount to encasing fraud within the process itself? (See witness and signature requirements waived through consent decrees.)
+
+highest turnout... multiple years in a row.
+
+## Minnesota Statutes and Law
+
+Let's start with laws.
+
+* In 1974 Minnesota became the second state to allow same-day voter registration.
+* Election day registration allowed by [Minnesota Statute 201.061 Subd.3](https://www.revisor.mn.gov/statutes/cite/201.061)
+* Voter ID not required by law
+* Dropboxes for absentee and mail-in ballots allowed by [Minnesota Statute 203B.082](https://www.revisor.mn.gov/statutes/cite/203B.082) (58% of 2020 votes were reportedly absentee/mail-in ballots in Minnesota)
+* Witness and signature requirements waived by judge order described in this judicial complaint
+
+
+## Election Process, Rules, and Procedues
+
+DATE - MN Legislature Rejected SOS Steve Simon’s Request for Irrovacable Power to Alter Election Law During a Pandemic. (This fact differentiates MN from other states.)
+
+LaRose v. Simon filed - Democrat activists’ groups filed suits against Democrat MN SOS demanding the changes to the law he had sought. Ignoring the MN Constitution and Separation of Power issues, MN SOS Simon, represented by Democrat AG Ellison, entered into consent decrees with their supporters to obliterate long-standing election law. The MNGOP via its attorney failed to intervene in a timely manner. The consent decree was approved by the court prior to the first hearing on the matter. (These overly broad consent decrees later approved by judges.) - SUITS FILED
+
+NAACP v. Simon filed
+
+LaRose v. Simon - 1) Removed witness requirements for mail voters in Primary - 2) Extended the deadline to accept mail ballots (2 days) - STIPULATION AND PARTIAL CONSENT DECREE
+
+NAACP v. Simon - 1) Removed Witness Requirements for mail voters in General, 2) Extended the deadline to accept mail ballots (7 days), 3) MN Supreme Court Scheduled for September 3, 2020 - STIPULATION AND PARTIAL CONSENT DECREE
+
+LaRose Order 62 CV 20 3149 Order on July 31 Motions - ORDER
+
+NAACP Order 62 CV 20 3625 Order on July 31 Motions - ORDER
+
+Absentee voting period - Vote by mail or in person
+
+The County Ballot Boards - Absentee Ballot Count Start
+
+General Election
+
+Count the Votes - Postmarked Absentee Ballots may still arrive and be counted
+
+State Canvassing Board Certifies Election
+
+MN SOS Data Shows 38.9% (more than 700,000) Not Accounted for in SVRS Voter History. Also fewer Absentee Voters Identified than Reported
+
+Voter Histories Completion Due Date Extended
+
+
+IMAGE HERE from AEON timeline
+
+
+
+
+-ERIC
+Minnesota joins ERIC
+https://www.minnpost.com/political-agenda/2014/09/minnesota-joins-multistate-voter-registration-group/
+
 
 
 laws
