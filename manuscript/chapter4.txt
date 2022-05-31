@@ -1,3 +1,4 @@
+{sample: true}
 # Chapter 4 - Minnesota
 
 Dan Sundin
@@ -16,4 +17,4 @@ However not all counties had completed their work by then:
 | Pennington | Dec 21, 2020 | 15 remaining |
 | Clearwater | Dec 20, 2020 | 57 remaining |
 | Polk | Dec 23, 2020 | 53 remaining |
-| Dakota | Dec 15, 2020 | 2,496 remaining | 
+| Dakota | Dec 15, 2020 | 2,496 remaining |
