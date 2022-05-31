@@ -1,5 +1,19 @@
 {sample: true}
-# Chapter One
+# Chapter One - Preparation
+
+https://letsfixstuff.org/2021/04/modem-chips-embedded-in-voting-system-computer-motherboards/
+es&s, most-used tabulator in Minnesota
+
+https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/
+only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity
+
+Adjust to
+prep
+attack
+backup attack
+defend
+
+
 
 Chapter 1 - Paper
 
