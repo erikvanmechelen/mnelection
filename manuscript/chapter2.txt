@@ -25,8 +25,11 @@ Let's start with just a sample:
 4. LaRose v. Simon - 1) Removed witness requirements for mail voters in Primary - 2) Extended the deadline to accept mail ballots (2 days) - STIPULATION AND PARTIAL CONSENT DECREE - [Read LaRose Order 62 CV 20 3149 Order on July 31 Motions](https://www.documentcloud.org/documents/7012992-LaRose-Order-62-CV-20-3149-Order-on-July-31.html)
 5. NAACP v. Simon - 1) Removed Witness Requirements for mail voters in General, 2) Extended the deadline to accept mail ballots (7 days), 3) MN Supreme Court Scheduled for September 3, 2020 - STIPULATION AND PARTIAL CONSENT DECREE - [Read NAACP Order 62 CV 20 3625 Order on July 31 Motions](https://www.documentcloud.org/documents/7012991-NAACP-Order-62-CV-20-3625-Order-on-July-31-Motions.html)
 6. [This judicial complaint](https://img1.wsimg.com/blobby/go/47803963-5178-4387-9865-0ea08f5332bd/downloads/22%2003%2017%20grewing%20complaint%20with%20exhibits.pdf?ver=1648648812808) argues Judge Sarah Grewing's decision *not* to recuse herself from above cases
+7. A Chair of a major political party or the Secretary of State may consult with the software vendor to hire an independent third party to inspect the source code [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57)
 
 No. 3 and No. 4 were put into motion after the MN Legislature, in April 2020, rejected Secretary of State Steve Simon's request for irrevocable power to alter election law during a pandemic.
+
+No. 7 included because to my knowledge this has not been done.
 
 ## Electronic Systems ????
 

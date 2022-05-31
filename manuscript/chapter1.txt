@@ -72,7 +72,9 @@ How was it that I'd so far lived my life believing my vote counted, but now coul
 
 If our election officials, counties, and secretaries of state cannot show that the computerized election management systems used to produce election results actually do so without error, then citizens in increasing numbers will have the same question—Does my vote count? Jeffrey O'Donnell puts it well in the introduction to his Mesa County #3 Report (highlighted in the forthcoming (S)election Code documentary: "If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
 
-To date, no independent audit of the machines has been done of any Minnesota county. This would be welcome since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country.
+To date, no counties have been able to produce a cast vote record (CVR) report from their tabulators, which is the machine tally generated as paper ballots are fed into it.
+
+Also to date, no independent audit of the machines has been done of any Minnesota county. This would be welcome since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country.
 
 DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
 

@@ -1,6 +1,6 @@
 # Chapter Four - Defense
 
-
+title/chapter 18, §2384, and §2381
 
 
 
@@ -15,7 +15,7 @@ put image here...
 
 then i learned it was possible to configure DS200s to act like Model 100s (a previous version of the tabulator) which does not include a CVR.
 
-why buy the new versions and then use the *old* configurations? who made this decision? 
+why buy the new versions and then use the *old* configurations? who made this decision?
 
 
 
