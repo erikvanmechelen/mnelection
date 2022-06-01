@@ -11,7 +11,7 @@ As hinted at in the introduction, preparation to subvert elections occurs on mul
 
 In studying Minnesota election laws, one can follow the history of a particular statute over time. Did the changes to a particular statute make elections more fair or less fair? Did attempts to provide access to one vulnerable voting group such as ADA voters lead to the potential for fraud? Did judge ordered changes amount to encasing fraud within the process itself—for instance, by what metric are signatures verified? (See witness and signature requirements waived through consent decrees.)
 
-Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified less than 6% of Minnesota counties and certified none of its internet connected e-pollbooks. DS200s, from ES&S, were used in over 60 counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in the Antrim County, Michigan investigation. Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the Electronic Registration Information Center (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them.
+Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified less than 6% of Minnesota counties and certified none of its internet connected e-pollbooks. DS200s, from ES&S, were used in over 60 counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in the Antrim County, Michigan investigation. Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the Electronic Registration Information Center (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
 
 In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law.
 
@@ -44,6 +44,8 @@ About three months before the election, on July 28, 2020, the Cybersecurity and 
 * official websites
 * storage facilities
 
+Besides storage facilities, each of these components has undergone digitization in recent years.
+
 Not long after the election, on November 12, 2020, CISA Assistant Director Bob Kolaksy, along with other members of the Election Infrastructure Government Coordinating Council (GCC) Executive Committee, made a joint statement declaring that "The November 3rd election was the most secure in American history... There is no evidence that any voting system deleted or lost votes, changed votes, or was in any way compromised."
 
 ![The most secure election, according to who?](joint_statement_CISA.png)
@@ -52,6 +54,17 @@ Rick Weible, in a workshop at the Big Lake City Hall on Wednesday May 25, 2022, 
 
 Would it be unreasonable to ask Bob Kolasky how CISA's analysis which produced the Critical Infrastructure Security and Resilience Note had changed between late July and mid November?
 
+Let's take these components one at a time.
+
+**Epollbooks**
+
+Epollbooks are generally connected to the internet so that they can both receive a precinct level abstract of the statewide voter registration system or are at minimum a digital file if not connected or networked. The internet connection also provides for real-time updating which conceivably would have allowed our attorney general in Minnesota to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day.
+
+In 2016, when Rick Weible was the mayor of St. Bonifacius, he first hacked into the proposed epollbook then declined to sign a contract. His was the only city not to use epollbooks (they used paper pollbooks) in the following election. Epollbooks are not certified by the Election Assistance Commission (EAC).
+
+**Ballot preparation**
+
+In order for ballots to be printed with the appropriate formatting, ballot styles are loaded into ...
 
 
 Members of devolution article council include Dominion, Hart, ES&S, and Smartmatic, for which a waiver was signed acknowledging a potential conflict of interest.
