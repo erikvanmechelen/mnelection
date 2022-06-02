@@ -173,7 +173,7 @@ Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "
 
 To make matters worse, however, there are indications that the DS200's ability to generate a Cast Vote Record (CVR) report was turned off via a configuration which returns the DS200 to the Model 100 configuration. This would have been done prior to the election. This would explain responses from county election officials and letters like this one from Todd County Attorney:
 
-![](imagefile)
+![The opinion of the Todd County Attorney](todd_county_atty_opinion.png)
 
 In order for ballots to be printed with the appropriate formatting, ballot styles are loaded into ...
 
