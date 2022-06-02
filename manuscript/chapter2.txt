@@ -175,7 +175,7 @@ To make matters worse, however, there are indications that the DS200's ability t
 
 ![Configurations matter](ess_configuration.png)
 
-This would have been done prior to the election. This would explain responses from county election officials and letters like this one from Todd County Attorney.
+This would have been done prior to the election. If this configuration change was made across most counties using the DS200, DS450, and DS850, this adjustment may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. This configuration decision would explain responses from county election officials and letters like this one from the Todd County Attorney.
 
 ![The opinion of the Todd County Attorney](todd_county_atty_opinion.png)
 
@@ -184,6 +184,12 @@ While some counties seem to be using dated Model 100 configurations (on their DS
 In 2020, several Minnesota counties used the DS450 and DS850. While county commissioners in other states have described these machines as being built in Omaha, Nebraska, both the DS450 and DS850 are made in Germany.
 
 ![Assembled in Germany](assembled_in_germany.png)
+
+As for assistive voting equipment, ...
+
+link to Jeff Lensburg video from Otero County???
+
+if we have identified problems with certain ones... like the Dominion ADA equipment... check if the same as "ones used in Georgia" (in Jeff Lensburg video) 
 
 EDIT CONTINUES
 ...
