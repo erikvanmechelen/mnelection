@@ -10,12 +10,59 @@ https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-u
 
 ***
 
+
+
+
+3% post election review
+means
+97% of election is NOT audited
+would the IRS ever leave 97% of your income un-audited?
+
+A petition to stop the certification of Minnesota's Election
+
+Based on the postelection review above (but not only that) it was correct for [Susan Shogren Smith](https://shogrensmithlaw.com/about-us) to properly [serve a petition](https://erikvanmechelen.substack.com/p/should-minnesotas-2020-election-have) to each member of the Minnesota State Canvassing Board prior to its certification of the 2020 election, in part reading: "Minnesota candidates for office and voters have come forward with affadavits detailing concerns and observations about the ignored and failed election processes in counties across the state...If this Court does not take action to prevent the certification of the Minnesota election until a complete, bi-partisan statewide audit of the election occurs, including election materials, our election system, and the trust of the voters, will be irreparably harmed."
+
+The MN State Canvassing Board is the sole entity identified in the MN Constitution carrying the duty to canvass the statewide election results. However, the MN Supreme Court erroneously ruled (in my opinion) that all 87 counties had to be served. Therefore the case was dismissed without a hearing on the facts on Friday afternoon, December 4, 2020. This dismissal was critical to meeting the the safe harbor deadline of December 8, 2020.
+
+Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
+
+With a lack of transparency and demonstrated gaps in the election process across the country and in Minnesota, many have asked, Where are the consequences? We could shrug our shoulders and say, What can we really do? We could sit back and see if the situation improves on its own. We could even give up.
+
+Or we can decide to put the truth on the table, brick by brick, so that before long every Minnesotan knows the truth—all except those that choose the temporary comforts of willful ignorance. Once enough people see what's wrong, available remedies will be welcomed.
+
+
 Put this in coverup section...?
 
 To date, no counties in Minnesota have been able to produce a cast vote record (CVR) report from their tabulators, which is the machine tally generated as paper ballots are fed into it.
 
 Also to date, no independent audit of the machines has been done of any Minnesota county. This would be welcome not only because the people of Crow Wing County persuaded their county commissioners to ask the Minnesota Secretary of State for a proper audit, but also since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country.
 
+BRING TODD COUNTY HERE
+
+(Anecdote about why I sent a data request to Todd County...
+
+On Day 2 of the Cyber Symposium I found a chair near the front, stage left, where Dr. Frank and Mark Cook continued to explore and explain the server images provided by Tina Peters (highlighted in the (S)election Code documentary). I had noticed Captain Seth Keshel come in and wanted to speak with him. Not long before this Code Monkey's lawyer had apparently suggested they not examine the server images since they may have been acquired illegally (untrue, as it is the duty of county clerks to preserve election materials and data). I learned from the person who gave me a ride from Minneapolis that a few of them in the back were looking at the same server images and feeding Dr. Frank and Mark Cook information. Dr. Frank's calming intonation, "This is *better* than PCAPs" still holds true today.
+
+When Seth finished speaking with Wendy Rogers and Sunny Borrelli, I introduced myself. He said to focus on the collar counties around the Twin Cities like Wright, Scott, etc. Seth's point was that we would face too much opposition in counties like Hennepin, Ramsey, Dakota, or St. Louis. And given the progress teams have made in places like Wright and Dakota, his trend and political analysis was not wrong to highlight them. But as time passed it was clear that breakthroughs might also be achieved in more rural, lower population counties.
+
+Months later, Nathan and I had been thinking about where to focus in Minnesota. Nathan said, Why not Todd County? David Clements had been urging folks to find rural counties where county commissioners might be more willing to put election discussions on the agenda or even pass favorable resolutions. And, after all, Dr. Frank's refrain is "Vote Amish," a nod to elections without unneeded technology. Todd County is one of the Amish hotspots in Minnesota. So I sent Todd County a data request for their 2020 cast vote record (CVR) report on the same day I sent a request for one from Hennepin County.
+
+You have to try... (Red Sky, Season 5, episode 5, of Stargate SG-1)
+a direct contradiction to Yoda's 'do or do not'
+Between Two Fires
+
+Here's what happened next...
+
+
+at a table with In a brief conversation at the Cyber Symposium Seth Keshel
+
+We had been thinking about what
+
+Asked them because my friend Nathan said
+
+also provided them with this ES&S manual, page 42 shows how to extract the CVR report... (if you configuration was set to include, not Model 100)
+
+MOVED BELOW TO PREP
 DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
 
 In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
@@ -66,7 +113,7 @@ why buy the new versions and then use the *old* configurations? who made this de
 
 
 
-BELOw here PASTED IN PREPARATION 
+BELOw here PASTED IN PREPARATION
 
 ##A History
 In the first place, how did we get to using machines, and *electronic* voting machines, in elections?

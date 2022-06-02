@@ -13,7 +13,7 @@ In studying Minnesota election laws, one can follow the history of a particular 
 
 Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified less than 6% of Minnesota counties and certified none of its internet connected e-pollbooks. DS200s, from ES&S, were used in 65 Minnesota counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in the Antrim County, Michigan investigation. Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the Electronic Registration Information Center (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
 
-In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law.
+In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law. In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement.
 
 ## Minnesota Statutes and Law
 
@@ -469,3 +469,42 @@ prep
 attack
 backup attack
 defend
+
+## Psychology
+
+QUOTED FROM OPENING OF THIS CHAPTER
+In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law. In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement.
+
+We'll see, primaries are tbh the big thing and there are already issues there and in republican leadership conferences
+
+wrote 'the CD5 show' - quote from it
+pull in articles
+
+saveminnesota.org
+
+listen to Nathan Wesenberg's reporting
+
+senate district 10 endorsement convention cancelled
+
+edwin hahn barred from senate 4 endorsement convention
+
+erik van mechelen not allowed to participate in state convention endorsement process for secretary of state (link to video/article)
+
+governor's asked to write on a sign, one word, jerk, loser, problem, take photo to persaude them to accept endorsement
+
+according to the electronic devices at the convention, about 55% were new people, but how many *more* people should there have been without tampering? there was no transparent audit done of the statewide delegate lists which should have been done to ensure no one was left out of the process
+
+letter from chairman david haan, calls anyone asking for paper ballots, SABOTEURS
+any campaign can ask and get the next day.
+
+at convention, another speech meant to dissuade people from standing for paper ballots - it will take too long, etc.
+
+i asked the yellow shirted guy how things were going, who i could ask questions to about process, he pointed to the people on the stage... the mngop leadership.
+
+then we use electronic devices, don't show many of the results.
+
+in sos race i asked kim and kelly, neither was able to share what the result of the 2nd round was, so i'm left wondering whether kim even reached the 60% threshold. i asked eric lucero if it was normal not to show the final results, and he said it was
+
+that may be 'how things are done' but at least in the general election we were told that Biden received 81 million votes and didn't have to take someone's word for it that he beat Trump handily.
+
+Shah's campaign asked for audits, no answer from the party.

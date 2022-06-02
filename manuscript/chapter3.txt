@@ -1,7 +1,14 @@
 {sample: true}
 # Chapter Two - Attack
 
+2000 mules
 
+quote from it,
+hearing in March
+2000 mules release
+hearing on June 1
+
+didn't focus on Minnesota... but even from taxi drivers I've heard that ballot trafficking is well understood (on the streets)
 
 Mail-ins...
 
@@ -11,7 +18,7 @@ see my report on that in Midwest Seeds (their hearing)
 
 quote from the hearing...
 
-
+this tweet signals more attack / mail-ins need to be stuffed
 </p><p>
 	On election day, electronic pollbooks connected to the internet provide access to the statewide voter registration system (SVRS) in the cloud. Ask yourself, what benefit might there be to the e-pollbooks being connected to the SVRS in the cloud from the perspective of monitoring or even controlling an election outcome? The current Minnesota Attorney General's [https://twitter.com/keithellison/status/1323746158557253632](tweet) at 3:57pm on election day suggests he had some knowledge of votes being cast in real time. Could it be—to name just one possibility—that the system notes which voters do not vote (neither submitting an absentee/mail-in vote nor voting in person in the precinct) and adds those voters to the phantom voter pile?
 </p>
