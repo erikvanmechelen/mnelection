@@ -10,8 +10,81 @@ https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-u
 
 ***
 
+Finally, the Defense Phase. This is where the attackers try to defend what Patrick Colbeck calls the #meddlingkids from discovering what they did.
 
+This phase began on election night 2020 (and before that) and it is where we are in early June 2022.
 
+The following post from Jeffrey O'Donnell, aka 'The Lone Raccoon' on Telegram, describes how the enemy's defense has been weakened:
+
+"I joined this fight full time more than nine months ago. I wilfully pushed the pause button on our lives and trusted God to provide - and he has. I have a new appreciation for the Israelites who were given manna to survive - each day's needs are supplied. The next week or month... that's where faith and trust come in. At that time, Lindell's symposium had just happened and everyone thought the pcap information would save us. We were wrong. Specifically speaking,
+
+* the process of defining the algorithms used to sway the election was still in its infancy, with Ed Solomon and Draza Smith only just starting to be able to describe the process
+
+* State voter rolls were being only cursorily examined, and little comparison was being done between states
+
+* The inner workings of the election servers was still a complete mystery
+
+* Most analysis of the 2020 fraud was being done by people within counties. Very little information was being shared between states or even counties
+
+* The clues to the whole thing in the Edison election night reporting were seen but not yet understood
+
+* No effort existed to collect, analyze, and share election data such as cast vote records and ballot images. The importance of Cast Vote Records in this fight was really not recognized yet.
+
+* Although "phantom" absentee votes were suspected, their prevalence and widespread abuse was not generally known yet.
+
+* Protecting 2022/2024, while on people's radar, had no viable plan."
+
+The Lone Raccoon goes on to contrast that August 2021 position with the June 2022 position:
+
+"Now look at today.
+
+* the algorithm used by the election servers is well understood and can even be predicted now
+* Tremendous problems with voter rolls have been loudly documented in many states.
+* We have a full understanding of the internal working of the Dominion system, with other vendors soon to come.
+* There is coordination and cooperation - and healthy competition - between groups in different states
+* Edison has been revealed to be a conspirator in the election plot, and while much is still not understood, the "edison zero" and the flipping of votes between absentee and in-person has been well-documented, as has the fact that the reporting is largely theater and does not match up well with the actual results in a state/county until the very end,
+* Cast Vote Records, ballot images, tabulator logs, voter rolls/histories and more have been obtained from many counties in many states, and their analysis has proved crucial. Any bit of data we get from a county is something they cannot destroy in September.
+* Massive absentee ballot fraud is a fact.
+* Findings from 2020 are being used in many ways to minimize the fraud potential in future elections... plus the identification of any fraud now takes minutes rather than months.
+* Serious court cases (much better than the quick ones done right after the election) are progressing in numerous states
+
+Where are the arrests? Please do not be naïve. We are forced to be a citizen's Justice Department, because our country does not currently have a functioning one. Our burden of proof is immense and unfair. We have no subpeona or warrant power. You need to think of this for what it is - a national RICO case. Read how Guliani broke up the mobs in New York. He built his case from the ground up and quietly climbed the ladder of corruption until he had the goods on ALL the bosses. Then he struck."
+
+## Part of [Their] Plan
+
+At the Cyber Symposium, Dr. Shiva gave a presentation which detailed the connections between the various players and mentioned a few of their published playbooks. One of these was The Long Fuse, by the Election Integrity Partnership.
+
+On page 3, the 'Data Cleanup' phase immediately follows the election. What data exactly needed to be cleaned up?
+
+Could this phase possibly be referring to the defense phase articulated by Patrick Colbeck in his book, where evidence is either destroyed or covered up?
+
+## Minnesota Post Election Review Reveals Missing Ballots
+
+In Minnesota about 3% of of precincts per county are subject to a post-election review according to [Minnesota Statute 206.89 POSTELECTION REVIEW OF VOTING SYSTEMS](https://www.revisor.mn.gov/statutes/cite/206.89).
+
+A [post election review](https://www.sos.state.mn.us/elections-voting/how-elections-work/post-election-reviews/) hand counts ballots returned by the optical scan ballot counters in select precincts. (These are sometimes referred to as risk-limiting audits, although how much risk do they truly mitigate?)
+
+![863 votes not explained but considered ACCEPTABLE](precinct_4950.png)
+
+In a postelection review in Dakota County's Precinct 4950, WEST ST PAUL W-2 P-2, the total unadjusted difference was 870 votes. 7 of those 870 votes were explained, but 863 were not explained. Why then does the total adjusted difference (the last column) show all zeros? The total adjusted difference should read 863 (870 minus 7). Even with 65% (863 out of 1327) of the total votes in this postelection review left unexplained, the Final Results row says this is a "Difference of not more than 0.5%" and the Total Adjusted Difference is "0%", deemed "ACCEPTABLE".
+</p>
+<br>
+<img src="/precinct4950.png" alt="Precinct 4950: Total Unadjusted Difference = 870">
+<br>
+<p>
+	Of course, this is clearly <strong>not</strong> acceptable and it begs the question: How many more precincts would turn up red flags like this if more postelection reviews had been done? And how many more red flags might be raised if proper audits were done? With this work being shown to Minnesotans, it would be strange if they were not asking for audits and  accountability.
+</p>
+<small>A petition to stop the certification of Minnesota's Election</small>
+<p>
+	Based on the postelection review above (but not only that) it was correct for <a href="https://shogrensmithlaw.com/about-us" target=_new>Susan Shogren Smith</a> to properly serve <a href="https://erikvanmechelen.substack.com/p/should-minnesotas-2020-election-have" target=_new>a petition</a> to each member of the Minnesota State Canvassing Board prior to its certification of the 2020 election, in part reading: "Minnesota candidates for office and voters have come forward with affadavits detailing concerns and observations about the ignored and failed election processes in counties across the state...If this Court does not take action to prevent the certification of the Minnesota election until a complete, bi-partisan statewide audit of the election occurs, including election materials, our election system, and the trust of the voters, will be irreparably harmed."
+</p><p>
+	The MN State Canvassing Board is the sole entity identified in the MN Constitution carrying the duty to canvass the statewide election results. However, the MN Supreme Court erroneously ruled (in my opinion) that all 87 counties had to be served. Therefore <a href="https://www.documentcloud.org/documents/20420161-order-minnesota-supreme-court-dismisses-gop-election-contest" target=_new>the case was dismissed</a> without a hearing on the facts on Friday afternoon, December 4, 2020. This dismissal was critical to meeting the the safe harbor deadline of December 8, 2020.
+</p><p>
+	Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
+	</p><p>
+	With a lack of transparency and demonstrated gaps in the election process across the country and in Minnesota, many have asked, Where are the consequences? We could shrug our shoulders and say, What can we really do? We could sit back and see if the situation improves on its own. We could even give up.
+
+pull from article on this... actually on action.html
 
 3% post election review
 means
