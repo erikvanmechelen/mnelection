@@ -31,12 +31,13 @@ No. 3 and No. 4 were put into motion after the MN Legislature, in April 2020, re
 
 No. 7 included because to my knowledge this has not been done.
 
-## Electronic Systems ????
+## Electronic Systems
 
 In 2017 the Department of Homeland Security designated elections as critical infrastructure, alongside food, water, and electricity.
 
 About three months before the election, on July 28, 2020, the Cybersecurity and Infrastructure Security Agency (CISA) identified the following components as lacking security:
 
+* voter registration systems
 * epollbooks
 * ballot preparation
 * voting machines
@@ -58,11 +59,121 @@ Let's take these components one at a time.
 
 **Epollbooks**
 
-Epollbooks are generally connected to the internet so that they can both receive a precinct level abstract of the statewide voter registration system or are at minimum a digital file if not connected or networked. The internet connection also provides for real-time updating which conceivably would have allowed our attorney general in Minnesota to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day.
+Epollbooks are generally connected to the internet so that they can both receive a precinct-level extract of the statewide voter registration system or are at minimum a digital file if not connected or networked. The internet connection also provides for real-time updating which conceivably would have allowed our attorney general in Minnesota to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day.
 
-In 2016, when Rick Weible was the mayor of St. Bonifacius, he first hacked into the proposed epollbook then declined to sign a contract. His was the only city not to use epollbooks (they used paper pollbooks) in the following election. Epollbooks are not certified by the Election Assistance Commission (EAC).
+In 2016, when Rick Weible was the mayor of St. Bonifacius, he first hacked into the proposed epollbook within minutes and then declined to sign a contract to use them in St. Bonifacius. His was the only city in Hennepin County *not* to use epollbooks (they used paper pollbooks) in the following election. Epollbooks are not certified by the Election Assistance Commission (EAC).
 
 **Ballot preparation**
+
+This is a complicated process. But Patrick Colbeck does us a favor of simplifying the complex in his book:
+
+"Ballots are another key election infrastructure component with security vulnerabilities. Modern ballots are much more sophisticated than a piece of paper with checkboxes next to names. Today's ballots are sophisticated paper and/or digital documents. In fact, in some cases, ballots are replaced by Direct-Recording Electronic (DRE) voting machines.
+
+"Ballot preparation is a complicated process of overlaying political geographies with the contests and candidates specific to each district and then translating those layouts into unique combinations of ballot data. Ballot preparation data takes multiple forms such as ballot images (both paper and electronic), the data files necessary to build ballot images, audio files for special use ballots, and specific files for export to external systems such as websites for Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)-focused digital systems. Ballot preparation also generates the data necessary for tabulating votes within a voting machine and aggregating tabulated votes within a jurisdiction or state. This process is usually completed in an election documents and records management system (EDRMS), which is special software designed to manage documents and records throughout the document lifecycle, from creation to destruction. Access to the information in such systems would enable anyone attempting to subert the integrity of an election with the information necessary to create ballots independently of election officials. Of course, ballots are also where voters record their votes. Vote tallies are generated from the information on ballots therefore their integrity is very important to protect."
+
+While Minnesota uses paper ballots in all 87 counties, we are not hand-counting them. Instead, we use voting machines.
+
+**Voting Machines**
+
+In the Introduction we already discussed the potential presence of 4G wireless modems in an enclosure of the DS200s used in the majority of Minnesota's 87 counties.
+
+Here is a table of electronic voting equipment used in the 2020 general election, provided by Dan Sundin who pulled this information from the county websites.
+
+| County Name | Absentee and Mail Ballot Tabulation Equipment | Assistive Voting Equipment |
+| --- | --- | --- |
+| Aitkin | ImageCast Central | ImageCast Evolution |
+| Anoka | Digital Scan 200, Digital Scan 450, Digital Scan 850 | AutoMARK |
+| Becker | Model 100 | AutoMARK |
+| Beltrami | Digital Scan 200, Digital Scan 450 | AutoMARK |
+| Benton | Digital Scan 450 | AutoMARK |
+| Big Stone | Verity Scan | Verity Touch Writer |
+| Blue Earth | Digital Scan 200, Digital Scan 450 | OmniBallot |
+| Brown | Digital Scan 450 | AutoMARK |
+| Carlton | Digital Scan 200 | AutoMARK |
+| Carver | Digital Scan 200, Digital Scan 450 | AutoMARK |
+| Cass | Digital Scan 200, Digital Scan 450 | OmniBallot |
+| Chippewa | Digital Scan 200 | AutoMARK |
+| Chisago | Verity Central, Verity Scan | Verity Touch Writer |
+| Clay | Digital Scan 200, Digital Scan 450 | AutoMARK |
+| Clearwater | Digital Scan 200 | AutoMARK |
+| Cook | Digital Scan 200 | AutoMARK |
+| Cottonwood | Digital Scan 200 | AutoMARK |
+| Crow Wing | ImageCast Central | ImageCast Evolution |
+| Dakota | ImageCast Central | ImageCast Evolution |
+| Dodge | Digital Scan 200 | AutoMARK |
+| Douglas | Digital Scan 200, Digital Scan 450 | OmniBallot |
+|Faribault | Digital Scan 200 | AutoMARK |
+| Fillmore | Digital Scan 200 | AutoMARK |
+| Freeborn | Digital Scan 200, Digital Scan 450 | AutoMARK |
+| Goodhue | Digital Scan 450 | AutoMARK |
+| Grant | Digital Scan 200 | AutoMARK |
+| Hennepin | Digital Scan 200, Digital Scan 850 | AutoMARK |
+| Houston | Digital Scan 200 | AutoMARK |
+| Hubbard | Digital Scan 450 | OmniBallot |
+| Isanti | Digital Scan 200 | OmniBallot |
+| Itasca | Digital Scan 200 | OmniBallot |
+| Jackson | Digital Scan 200 | OmniBallot |
+| Kanabec | Digital Scan 200 | AutoMARK |
+| Kandiyohi | Digital Scan 200 | AutoMARK |
+| Kittson | Digital Scan 450 | AutoMARK |
+| Koochiching | Digital Scan 200 | AutoMARK |
+| Lac Qui Parle | Digital Scan 450 | OmniBallot |
+| Lake | Digital Scan 200 | AutoMARK |
+| Lake Of The Woods | Digital Scan 200 | OmniBallot |
+| Le Sueur | Digital Scan 200 | AutoMARK |
+| Lincoln | Digital Scan 200 | AutoMARK |
+| Lyon | Digital Scan 200 | AutoMARK |
+| Mcleod | Digital Scan 200, Digital Scan 450 | AutoMARK |
+| Mahnomen | ImageCast Evolution | ImageCast Evolution |
+| Marshall | Digital Scan 850 | AutoMARK |
+| Martin | Digital Scan 200, Digital Scan 450 | AutoMARK |
+| Meeker | Digital Scan 200 | OmniBallot |
+| Mille Lacs | Digital Scan 200 | AutoMARK |
+| Morrison | Digital Scan 200, Digital Scan 450 | AutoMARK |
+| Mower | Digital Scan 200 | AutoMARK |
+| Murray | Digital Scan 200 | AutoMARK |
+| Nicollet | Digital Scan 200 | AutoMARK |
+| Nobles | Digital Scan 200 | AutoMARK |
+| Norman | Digital Scan 200 | AutoMARK |
+|Olmsted | Digital Scan 850 | AutoMARK |
+| Otter Tail | Digital Scan 200 | AutoMARK |
+| Pennington | Digital Scan 200 | AutoMARK |
+| Pine | Digital Scan 200, Model 100 | AutoMARK |
+| Pipestone | Digital Scan 200 | OmniBallot |
+| Polk | Digital Scan 450 | OmniBallot, AutoMARK |
+| Pope | Digital Scan 200 | AutoMARK |
+| Ramsey | Digital Scan 850, Verity Central, Verity Scan | Verity Touch Writer, AutoMARK |
+| Red Lake | Digital Scan 200 | AutoMARK |
+| Redwood | Digital Scan 200 | AutoMARK |
+| Renville | Digital Scan 200 | AutoMARK |
+| Rice | Digital Scan 200, Digital Scan 450 | AutoMARK |
+| Rock | Digital Scan 200 | OmniBallot |
+| Roseau | Digital Scan 200 | OmniBallot |
+| St. Louis | Digital Scan 200, Digital Scan 850, Model 100 | AutoMARK |
+| Scott | ImageCast Central, ImageCast Evolution | ImageCast Evolution |
+| Sherburne | ImageCast Central | ImageCast Evolution |
+| Sibley | Digital Scan 200 | AutoMARK |
+| Stearns | Digital Scan 450, Digital Scan 850 | AutoMARK |
+| Steele | Digital Scan 200 | AutoMARK |
+| Stevens | Digital Scan 200 | AutoMARK |
+| Swift | Digital Scan 200 | OmniBallot |
+| Todd | Digital Scan 200 | OmniBallot |
+| Traverse | Digital Scan 200 | AutoMARK |
+| Wabasha | Digital Scan 200 | AutoMARK |
+| Wadena | Digital Scan 200 | AutoMARK |
+| Waseca | Digital Scan 200 | OmniBallot, AutoMARK |
+| Washington | Digital Scan 850, Verity Central | Verity Touch Writer, AutoMARK |
+| Watonwan | Digital Scan 200 | AutoMARK |
+| Wilkin | Digital Scan 200 | OmniBallot |
+| Winona | Digital Scan 200 | AutoMARK |
+| Wright | Digital Scan 200, Digital Scan 450 | AutoMARK |
+| Yellow Medicine | Digital Scan 200 | AutoMARK |
+
+Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". It was in use in over 60 counties in 2020.
+
+To make matters worse, however, there are indications that the DS200's ability to generate a Cast Vote Record (CVR) report was turned off via a configuration which returns the DS200 to the Model 100 configuration. This would have been done prior to the election. This would explain responses from county election officials and letters like this one from Todd County Attorney:
+
+![](imagefile)
 
 In order for ballots to be printed with the appropriate formatting, ballot styles are loaded into ...
 
