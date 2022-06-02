@@ -11,7 +11,7 @@ As hinted at in the introduction, preparation to subvert elections occurs on mul
 
 In studying Minnesota election laws, one can follow the history of a particular statute over time. Did the changes to a particular statute make elections more fair or less fair? Did attempts to provide access to one vulnerable voting group such as ADA voters lead to the potential for fraud? Did judge ordered changes amount to encasing fraud within the process itself—for instance, by what metric are signatures verified? (See witness and signature requirements waived through consent decrees.)
 
-Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified less than 6% of Minnesota counties and certified none of its internet connected e-pollbooks. DS200s, from ES&S, were used in over 60 counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in the Antrim County, Michigan investigation. Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the Electronic Registration Information Center (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
+Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified less than 6% of Minnesota counties and certified none of its internet connected e-pollbooks. DS200s, from ES&S, were used in 65 Minnesota counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in the Antrim County, Michigan investigation. Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the Electronic Registration Information Center (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
 
 In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law.
 
@@ -169,11 +169,24 @@ Here is a table of electronic voting equipment used in the 2020 general election
 | Wright | Digital Scan 200, Digital Scan 450 | AutoMARK |
 | Yellow Medicine | Digital Scan 200 | AutoMARK |
 
-Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". It was in use in over 60 counties in 2020.
+Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". It was in use in 65 Minnesota counties in 2020.
 
-To make matters worse, however, there are indications that the DS200's ability to generate a Cast Vote Record (CVR) report was turned off via a configuration which returns the DS200 to the Model 100 configuration. This would have been done prior to the election. This would explain responses from county election officials and letters like this one from Todd County Attorney:
+To make matters worse, however, there are indications that the DS200's ability to generate a Cast Vote Record (CVR) report was turned off via a configuration which returns the DS200 to the Model 100 configuration.
+
+![Configurations matter](ess_configuration.png)
+
+This would have been done prior to the election. This would explain responses from county election officials and letters like this one from Todd County Attorney.
 
 ![The opinion of the Todd County Attorney](todd_county_atty_opinion.png)
+
+While some counties seem to be using dated Model 100 configurations (on their DS200 scanners), Saint Louis County recently purchased [the DS950](https://www.essvote.com/products/ds950/), one of the newest electronic voting machines on the market, likely costing about $250,000.
+
+In 2020, several Minnesota counties used the DS450 and DS850. While county commissioners in other states have described these machines as being built in Omaha, Nebraska, both the DS450 and DS850 are made in Germany.
+
+![Assembled in Germany](assembled_in_germany.png)
+
+EDIT CONTINUES
+...
 
 In order for ballots to be printed with the appropriate formatting, ballot styles are loaded into ...
 
