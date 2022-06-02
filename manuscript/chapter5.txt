@@ -2,6 +2,46 @@
 
 title/chapter 18, §2384, and §2381
 
+“There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”
+
+*Col. Shawn Smith, USAF, Ret. – 25 year Air Force veteran and the former director and test manager for the operational testing of complex, computer-based weapon systems and a subject matter expert on the security of computer-based election systems, calling in to a Tarrant County, Texas meeting*
+
+https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html
+
+***
+
+Put this in coverup section...?
+
+To date, no counties in Minnesota have been able to produce a cast vote record (CVR) report from their tabulators, which is the machine tally generated as paper ballots are fed into it.
+
+Also to date, no independent audit of the machines has been done of any Minnesota county. This would be welcome not only because the people of Crow Wing County persuaded their county commissioners to ask the Minnesota Secretary of State for a proper audit, but also since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country.
+
+DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
+
+In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
+
+![Telit LE910-SV1 found within ES&S enclosure](telit.png)
+
+Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) how the card was "utilizing a commercial Verizon SIM card with an APN configuration specific to the ES&S DS200 provisioning. Testing revealed that the same SIM card could be utilized in a separate wireless hotspot device and the device could then join the same APN as the ES&S voting machines. An unauthorized user could gain access to this APN by an extra SIM card pre-provisioned for this APN, or by removing a SIM from an operational device and using it in another device."
+
+To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
+
+Are you concerned that contracts with our hardware and software vendors makes it very difficult to inspect the machines or source code? Does it worry you that Minnesota Statutes make it difficult to have this done? 18 months after November 3rd, 2020, don't you think it would have been prudent to have settled the conspiracy theories by showing the public that the machines are clean?
+
+Neither the chair of a major political party nor the secretary of state asked for a third party to inspect the source code of the machines, which [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) allows for.
+
+Furthermore, according to [Patrick Colbeck](https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/), "only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity."
+
+Even with the "defense phase" (cover up and destruction of evidence) of the election coup falling apart, so far no county commissions have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired. The people should continue going to their county commissioner board meetings to inform them of available fixes to restore trust to all voters.
+
+
+
+People working to figure out whether our voter rolls are clean, because the secretary of state won't provide.
+
+And ERIC
+
+see Erin Clements in Torrance, Tarrance? Cty
+link to rumbleRumble
 
 Robin Sylvestre, canvass Results
 
@@ -26,15 +66,7 @@ why buy the new versions and then use the *old* configurations? who made this de
 
 
 
-# Chapter Two - Machines
-
-“There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”
-
-*Col. Shawn Smith, USAF, Ret. – 25 year Air Force veteran and the former director and test manager for the operational testing of complex, computer-based weapon systems and a subject matter expert on the security of computer-based election systems, calling in to a Tarrant County, Texas meeting*
-
-https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html
-
-***
+BELOw here PASTED IN PREPARATION 
 
 ##A History
 In the first place, how did we get to using machines, and *electronic* voting machines, in elections?
@@ -186,6 +218,7 @@ It may not surprise you that Sequoia, which was integral to the country pivoting
 
 Why do our county commissioners and election officials continue to feel confident in these systems? Why are more and more people showing up to county commissioner meetings to share what they've learned? Is it possible to return to hand tallying paper ballots?
 
+EDIT
 Next, let's begin a step by step journey following a vote through our entire election system. How a vote travels will illuminate the many flaws in our complex system.
 
 END

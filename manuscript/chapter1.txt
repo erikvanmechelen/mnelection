@@ -99,28 +99,6 @@ How was it that I'd so far lived my life believing my vote counted, but now coul
 
 If our election officials, counties, and secretaries of state cannot show that the computerized election management systems used to produce election results actually do so without error, then citizens in increasing numbers will have the same question—Does my vote count? Jeffrey O'Donnell puts it well in the introduction to his [Mesa County #3 Report](https://magaraccoon.com/docs/MesaCountyReport3.pdf), highlighted in the forthcoming (S)election Code documentary: "If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
 
-To date, no counties in Minnesota have been able to produce a cast vote record (CVR) report from their tabulators, which is the machine tally generated as paper ballots are fed into it.
-
-Also to date, no independent audit of the machines has been done of any Minnesota county. This would be welcome since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country.
-
-DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
-
-In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
-
-![Telit LE910-SV1 found within ES&S enclosure](telit.png)
-
-Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) how the card was "utilizing a commercial Verizon SIM card with an APN configuration specific to the ES&S DS200 provisioning. Testing revealed that the same SIM card could be utilized in a separate wireless hotspot device and the device could then join the same APN as the ES&S voting machines. An unauthorized user could gain access to this APN by an extra SIM card pre-provisioned for this APN, or by removing a SIM from an operational device and using it in another device."
-
-To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
-
-Are you concerned that contracts with our hardware and software vendors makes it very difficult to inspect the machines or source code? Does it worry you that Minnesota Statutes make it difficult to have this done? 18 months after November 3rd, 2020, don't you think it would have been prudent to have settled the conspiracy theories by showing the public that the machines are clean?
-
-Neither the chair of a major political party nor the secretary of state asked for a third party to inspect the source code of the machines, which [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) allows for.
-
-Furthermore, according to [Patrick Colbeck](https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/), "only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity."
-
-Even with the "defense phase" (cover up and destruction of evidence) of the election coup falling apart, so far no county commissions have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired. The people should continue going to their county commissioner board meetings to inform them of available fixes to restore trust to all voters.
-
 ***
 
 This book will follow the organization of the four phases of an election coup put forward by Patrick Colbeck in his book:
@@ -139,3 +117,33 @@ In the imminent and immediate future, the machines will become unacceptable to t
 Then, hand counting paper will be even more heavily demanded. Once trust is restored in hand counting paper ballots that are 100% auditable, maybe only then should alternatives to hand counting paper may be looked into. But let's take this one step at a time.
 
 Read this book and share it with anyone who doesn't yet understand how machines and malicious code determine the outcome of elections in our state and country. Every Minnesotan deserves to know the truth. Without this information, how can the public react? Once the light is shone, deception and lies will hold no power over us.
+
+END
+
+
+
+
+
+Put this in coverup section...?
+
+To date, no counties in Minnesota have been able to produce a cast vote record (CVR) report from their tabulators, which is the machine tally generated as paper ballots are fed into it.
+
+Also to date, no independent audit of the machines has been done of any Minnesota county. This would be welcome not only because the people of Crow Wing County persuaded their county commissioners to ask the Minnesota Secretary of State for a proper audit, but also since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country.
+
+DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
+
+In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
+
+![Telit LE910-SV1 found within ES&S enclosure](telit.png)
+
+Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) how the card was "utilizing a commercial Verizon SIM card with an APN configuration specific to the ES&S DS200 provisioning. Testing revealed that the same SIM card could be utilized in a separate wireless hotspot device and the device could then join the same APN as the ES&S voting machines. An unauthorized user could gain access to this APN by an extra SIM card pre-provisioned for this APN, or by removing a SIM from an operational device and using it in another device."
+
+To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
+
+Are you concerned that contracts with our hardware and software vendors makes it very difficult to inspect the machines or source code? Does it worry you that Minnesota Statutes make it difficult to have this done? 18 months after November 3rd, 2020, don't you think it would have been prudent to have settled the conspiracy theories by showing the public that the machines are clean?
+
+Neither the chair of a major political party nor the secretary of state asked for a third party to inspect the source code of the machines, which [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) allows for.
+
+Furthermore, according to [Patrick Colbeck](https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/), "only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity."
+
+Even with the "defense phase" (cover up and destruction of evidence) of the election coup falling apart, so far no county commissions have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired. The people should continue going to their county commissioner board meetings to inform them of available fixes to restore trust to all voters.
