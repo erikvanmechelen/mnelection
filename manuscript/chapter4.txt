@@ -12,7 +12,17 @@ from Erin
 
 The Backup Attack phase is used when the initial attack doesn't go as planned. The biggest tool is the injection of votes electronically. If this can be done without detection, a race can still be won regardless of how many physical ballots were delivered absentee (dropbox or mail-in) or at the in-person polling place on election day and subsequently scanned through tabulators.
 
-There is a theory out there that the 2020 election was less an election and more a simulation disguised as an election. We don't *need* that perspective to lay out the anomalies, indicators, and evidence, but it does serve to provide a working explanation for the irregularities reported around the state and in the Edison Research data.
+There is a theory out there that the 2020 election was less an election and more a simulation disguised as an election. (This is in part why I made the acronym for the title of this book is SIM.) We don't *need* that perspective to lay out the anomalies, indicators, and evidence, but it does serve to provide a working explanation for the irregularities reported around the state and in the Edison Research data.
+
+Once the simulation concept is understood, lower level manipulation can occur in the databases or voting machines in counties and precincts to achieve results at that lower level which align with the top-down algorithms.
+
+***
+
+One of the best ways to understand the set point phenomenon and the shuffle is through Draza Smith's Rhode Island analysis. According to Erin Clements, "that's the only only place where we have apples to apples comparison between what we were told was happening on election night and what's actually stored inside the computer system." Note that these two sets of data cannot be reconciled.
+
+The reason we are starting with Rhode Island is because the state is smaller than many counties in other states *and* provides a cast vote record (CVR) for the entire state, which is very useful.
+
+
 
 
 ## Reported Results
