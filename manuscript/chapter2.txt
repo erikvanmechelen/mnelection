@@ -13,7 +13,7 @@ In studying Minnesota election laws, one can follow the history of a particular 
 
 Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified less than 6% of Minnesota counties and certified none of its internet connected e-pollbooks. DS200s, from ES&S, were used in 65 Minnesota counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in the Antrim County, Michigan investigation. Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the Electronic Registration Information Center (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
 
-In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law. In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement.
+In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law. In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters.
 
 ## Minnesota Statutes and Law
 
@@ -366,6 +366,9 @@ Ballots
 Tabulators
 websites...
 
+Dr. Frank's chart of all 50 States
+
+![Minnesota Ranks First in Percent of 18+ Voted](election_participation.jpeg)
 
 
 Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the <a href="https://ericstates.org/" target=_new>Electronic Registration Information Center (ERIC)</a> provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered." For instance, if member states like Minnesota do not remove voters who have moved out of state or have died, then the result is an inflated voter roll. Even if the dead or out of state voter votes, that vote technically counts since that individual will be on the statewide voter registration system with a voter ID in the system.
@@ -541,8 +544,52 @@ MN
 check primary results
 https://magaraccoon.com/primaryresults.asp
 
+## Endorsements
 
 this could also happen in the minnesota primary on august 9 for select races
+
+I think I understand your frustration with Wardlow apparently going back on his word.
+
+In my opinion Wardlow should not have agreed to honor the endorsement: However if he had said that, likely that admission would have been used against him as well.
+
+How *should* he have played it?
+
+Maybe he could have learned from how Trump answered when asked in his debate vs. Biden.
+
+Trump said if the election is fair, I’ll accept it, but if there’s fraud, I won’t.
+
+Instead of giving a Yes/No answer which can be used against him.
+
+Jesus, when asked if taxes should be paid to Ceasar:
+
+Give unto Ceasar what is Ceaser’s, give unto God what is God’s.
+
+Neil Shah asked for audits of the Rochester state convention results, which David Haan explicitly said would be available to any campaign after the convention. No response from MNGOP.
+
+I don’t have a good feeling at all about how MNGOP ran state convention.
+
+Am writing a bit about this in the short free book that will be ready in coming weeks.
+
+***
+
+Isabelle,
+from Ecuador
+communism, mom and dad lost everything
+she wanted to speak about the machines
+it possibly was "out of order"
+so she was asked to stop speaking
+she went back to her seat, clearly distraught
+i went a few sections over to her, looking for her make america great again hat
+found her, crying
+i said she did the right thing
+to speak the truth
+then she told me
+people here don't understand
+what don't they understand?
+what's going to happen
+tells me story of mom and dad
+
+
 
 Kari W
 not listed in Intro as Minnesota person
