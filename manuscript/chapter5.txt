@@ -1,12 +1,47 @@
 # Chapter Four - Defense
 
+*“Since we know what we will find when we do our audits—”*
+
+*“That we’ve been duped.”*
+
+*“Yes, so what’s stopping us from reformulating our election processes as you described earlier and then immediately calling for new elections?”*
+
+*“Nothing.”*
+
+—From a conversation between Col. Phil Waldren and the author inside The Military Heritage Alliance around 6pm on Day Three of Mike Lindell’s Cyber Symposium in Sioux Falls, South Dakota on August 12, 2021.
+
+***
+
+
+Put this in coverup section...?
+
+To date, no counties in Minnesota have been able to produce a cast vote record (CVR) report from their tabulators, which is the machine tally generated as paper ballots are fed into it.
+
+Also to date, no independent audit of the machines has been done of any Minnesota county. This would be welcome not only because the people of Crow Wing County persuaded their county commissioners to ask the Minnesota Secretary of State for a proper audit, but also since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country.
+
+DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
+
+In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
+
+![Telit LE910-SV1 found within ES&S enclosure](telit.png)
+
+Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) how the card was "utilizing a commercial Verizon SIM card with an APN configuration specific to the ES&S DS200 provisioning. Testing revealed that the same SIM card could be utilized in a separate wireless hotspot device and the device could then join the same APN as the ES&S voting machines. An unauthorized user could gain access to this APN by an extra SIM card pre-provisioned for this APN, or by removing a SIM from an operational device and using it in another device."
+
+To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
+
+Are you concerned that contracts with our hardware and software vendors makes it very difficult to inspect the machines or source code? Does it worry you that Minnesota Statutes make it difficult to have this done? 18 months after November 3rd, 2020, don't you think it would have been prudent to have settled the conspiracy theories by showing the public that the machines are clean?
+
+Neither the chair of a major political party nor the secretary of state asked for a third party to inspect the source code of the machines, which [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) allows for.
+
+Furthermore, according to [Patrick Colbeck](https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/), "only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity."
+
+Even with the "defense phase" (cover up and destruction of evidence) of the election coup falling apart, so far no county commissions have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired. The people should continue going to their county commissioner board meetings to inform them of available fixes to restore trust to all voters.
+
+
+
 title/chapter 18, §2384, and §2381
 
-“There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”
 
-*Col. Shawn Smith, USAF, Ret. – 25 year Air Force veteran and the former director and test manager for the operational testing of complex, computer-based weapon systems and a subject matter expert on the security of computer-based election systems, calling in to a Tarrant County, Texas meeting*
-
-https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html
 
 ***
 
@@ -14,41 +49,7 @@ Finally, the Defense Phase. This is where the attackers try to defend what Patri
 
 This phase began on election night 2020 (and before that) and it is where we are in early June 2022.
 
-The following post from Jeffrey O'Donnell, aka 'The Lone Raccoon' on Telegram, describes how the enemy's defense has been weakened:
-
-"I joined this fight full time more than nine months ago. I wilfully pushed the pause button on our lives and trusted God to provide - and he has. I have a new appreciation for the Israelites who were given manna to survive - each day's needs are supplied. The next week or month... that's where faith and trust come in. At that time, Lindell's symposium had just happened and everyone thought the pcap information would save us. We were wrong. Specifically speaking,
-
-* the process of defining the algorithms used to sway the election was still in its infancy, with Ed Solomon and Draza Smith only just starting to be able to describe the process
-
-* State voter rolls were being only cursorily examined, and little comparison was being done between states
-
-* The inner workings of the election servers was still a complete mystery
-
-* Most analysis of the 2020 fraud was being done by people within counties. Very little information was being shared between states or even counties
-
-* The clues to the whole thing in the Edison election night reporting were seen but not yet understood
-
-* No effort existed to collect, analyze, and share election data such as cast vote records and ballot images. The importance of Cast Vote Records in this fight was really not recognized yet.
-
-* Although "phantom" absentee votes were suspected, their prevalence and widespread abuse was not generally known yet.
-
-* Protecting 2022/2024, while on people's radar, had no viable plan."
-
-The Lone Raccoon goes on to contrast that August 2021 position with the June 2022 position:
-
-"Now look at today.
-
-* the algorithm used by the election servers is well understood and can even be predicted now
-* Tremendous problems with voter rolls have been loudly documented in many states.
-* We have a full understanding of the internal working of the Dominion system, with other vendors soon to come.
-* There is coordination and cooperation - and healthy competition - between groups in different states
-* Edison has been revealed to be a conspirator in the election plot, and while much is still not understood, the "edison zero" and the flipping of votes between absentee and in-person has been well-documented, as has the fact that the reporting is largely theater and does not match up well with the actual results in a state/county until the very end,
-* Cast Vote Records, ballot images, tabulator logs, voter rolls/histories and more have been obtained from many counties in many states, and their analysis has proved crucial. Any bit of data we get from a county is something they cannot destroy in September.
-* Massive absentee ballot fraud is a fact.
-* Findings from 2020 are being used in many ways to minimize the fraud potential in future elections... plus the identification of any fraud now takes minutes rather than months.
-* Serious court cases (much better than the quick ones done right after the election) are progressing in numerous states
-
-Where are the arrests? Please do not be naïve. We are forced to be a citizen's Justice Department, because our country does not currently have a functioning one. Our burden of proof is immense and unfair. We have no subpeona or warrant power. You need to think of this for what it is - a national RICO case. Read how Guliani broke up the mobs in New York. He built his case from the ground up and quietly climbed the ladder of corruption until he had the goods on ALL the bosses. Then he struck."
+MORE WRITING TO SUMMARIZE EACH SECTION
 
 ## Part of [Their] Plan
 
@@ -60,29 +61,38 @@ Could this phase possibly be referring to the defense phase articulated by Patri
 
 ## Minnesota Post Election Review Reveals Missing Ballots
 
-In Minnesota about 3% of of precincts per county are subject to a post-election review according to [Minnesota Statute 206.89 POSTELECTION REVIEW OF VOTING SYSTEMS](https://www.revisor.mn.gov/statutes/cite/206.89).
+In Minnesota only about 3% of of precincts per county are subject to a post-election review according to [Minnesota Statute 206.89 POSTELECTION REVIEW OF VOTING SYSTEMS](https://www.revisor.mn.gov/statutes/cite/206.89).
 
 A [post election review](https://www.sos.state.mn.us/elections-voting/how-elections-work/post-election-reviews/) hand counts ballots returned by the optical scan ballot counters in select precincts. (These are sometimes referred to as risk-limiting audits, although how much risk do they truly mitigate?)
 
 ![863 votes not explained but considered ACCEPTABLE](precinct_4950.png)
 
 In a postelection review in Dakota County's Precinct 4950, WEST ST PAUL W-2 P-2, the total unadjusted difference was 870 votes. 7 of those 870 votes were explained, but 863 were not explained. Why then does the total adjusted difference (the last column) show all zeros? The total adjusted difference should read 863 (870 minus 7). Even with 65% (863 out of 1327) of the total votes in this postelection review left unexplained, the Final Results row says this is a "Difference of not more than 0.5%" and the Total Adjusted Difference is "0%", deemed "ACCEPTABLE".
-</p>
-<br>
-<img src="/precinct4950.png" alt="Precinct 4950: Total Unadjusted Difference = 870">
-<br>
-<p>
-	Of course, this is clearly <strong>not</strong> acceptable and it begs the question: How many more precincts would turn up red flags like this if more postelection reviews had been done? And how many more red flags might be raised if proper audits were done? With this work being shown to Minnesotans, it would be strange if they were not asking for audits and  accountability.
-</p>
-<small>A petition to stop the certification of Minnesota's Election</small>
-<p>
-	Based on the postelection review above (but not only that) it was correct for <a href="https://shogrensmithlaw.com/about-us" target=_new>Susan Shogren Smith</a> to properly serve <a href="https://erikvanmechelen.substack.com/p/should-minnesotas-2020-election-have" target=_new>a petition</a> to each member of the Minnesota State Canvassing Board prior to its certification of the 2020 election, in part reading: "Minnesota candidates for office and voters have come forward with affadavits detailing concerns and observations about the ignored and failed election processes in counties across the state...If this Court does not take action to prevent the certification of the Minnesota election until a complete, bi-partisan statewide audit of the election occurs, including election materials, our election system, and the trust of the voters, will be irreparably harmed."
-</p><p>
-	The MN State Canvassing Board is the sole entity identified in the MN Constitution carrying the duty to canvass the statewide election results. However, the MN Supreme Court erroneously ruled (in my opinion) that all 87 counties had to be served. Therefore <a href="https://www.documentcloud.org/documents/20420161-order-minnesota-supreme-court-dismisses-gop-election-contest" target=_new>the case was dismissed</a> without a hearing on the facts on Friday afternoon, December 4, 2020. This dismissal was critical to meeting the the safe harbor deadline of December 8, 2020.
-</p><p>
-	Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
-	</p><p>
-	With a lack of transparency and demonstrated gaps in the election process across the country and in Minnesota, many have asked, Where are the consequences? We could shrug our shoulders and say, What can we really do? We could sit back and see if the situation improves on its own. We could even give up.
+
+Of course, this is clearly **not** acceptable and it begs the question: How many more precincts would turn up red flags like this if more postelection reviews had been done? And how many more red flags might be raised if proper audits were done? With this work being shown to Minnesotans, it would be strange if they were not asking for audits and  accountability.
+
+What this example demonstrates even more is the difficulty of reconciling the paper ballots to the machine counts. If a top-down simulation is being run that needs to be backfilled after the fact with ballot deliveries to precincts and counties, but that last-minute work isn't completed, then the outcome would be what we've seen in Dakota County's Precinct 4950.
+
+What's more, by comparing the increases to Trump votes (from hand count to total votes) with the increases to Biden votes (from hand count to total votes), we also gain insight into how an weighted ratio algorithm might have been used to increase Biden votes by almost 269% while Trump votes only increased by 95%.
+
+You be the judge. Was this data cleaned up well?
+
+## A petition to stop the certification of Minnesota's Election
+
+Based on the postelection review above (but not only that) it was correct for [Susan Shogren Smith](https://shogrensmithlaw.com/about-us) to properly serve [a petition](https://erikvanmechelen.substack.com/p/should-minnesotas-2020-election-have) to each member of the Minnesota State Canvassing Board prior to its certification of the 2020 election, in part reading:
+
+"Minnesota candidates for office and voters have come forward with affadavits detailing concerns and observations about the ignored and failed election processes in counties across the state...If this Court does not take action to prevent the certification of the Minnesota election until a complete, bi-partisan statewide audit of the election occurs, including election materials, our election system, and the trust of the voters, will be irreparably harmed."
+
+The MN State Canvassing Board is the sole entity identified in the MN Constitution carrying the duty to canvass the statewide election results. However, the MN Supreme Court erroneously ruled (in my opinion) that all 87 counties had to be served. Therefore [the case was dismissed](https://www.documentcloud.org/documents/20420161-order-minnesota-supreme-court-dismisses-gop-election-contest) without a hearing on the facts on Friday afternoon, December 4, 2020. This dismissal was critical to meeting the the safe harbor deadline of December 8, 2020.
+
+Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
+
+
+
+
+
+
+
 
 pull from article on this... actually on action.html
 
@@ -135,24 +145,48 @@ Asked them because my friend Nathan said
 
 also provided them with this ES&S manual, page 42 shows how to extract the CVR report... (if you configuration was set to include, not Model 100)
 
-MOVED BELOW TO PREP
-DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
 
-In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
 
-![Telit LE910-SV1 found within ES&S enclosure](telit.png)
+## Summary from Jeffrey O'Donnell
 
-Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) how the card was "utilizing a commercial Verizon SIM card with an APN configuration specific to the ES&S DS200 provisioning. Testing revealed that the same SIM card could be utilized in a separate wireless hotspot device and the device could then join the same APN as the ES&S voting machines. An unauthorized user could gain access to this APN by an extra SIM card pre-provisioned for this APN, or by removing a SIM from an operational device and using it in another device."
+The following post from Jeffrey O'Donnell, aka 'The Lone Raccoon' on Telegram, describes how the enemy's defense has been weakened:
 
-To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
+"I joined this fight full time more than nine months ago. I wilfully pushed the pause button on our lives and trusted God to provide - and he has. I have a new appreciation for the Israelites who were given manna to survive - each day's needs are supplied. The next week or month... that's where faith and trust come in. At that time, Lindell's symposium had just happened and everyone thought the pcap information would save us. We were wrong. Specifically speaking,
 
-Are you concerned that contracts with our hardware and software vendors makes it very difficult to inspect the machines or source code? Does it worry you that Minnesota Statutes make it difficult to have this done? 18 months after November 3rd, 2020, don't you think it would have been prudent to have settled the conspiracy theories by showing the public that the machines are clean?
+* the process of defining the algorithms used to sway the election was still in its infancy, with Ed Solomon and Draza Smith only just starting to be able to describe the process
 
-Neither the chair of a major political party nor the secretary of state asked for a third party to inspect the source code of the machines, which [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) allows for.
+* State voter rolls were being only cursorily examined, and little comparison was being done between states
 
-Furthermore, according to [Patrick Colbeck](https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/), "only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity."
+* The inner workings of the election servers was still a complete mystery
 
-Even with the "defense phase" (cover up and destruction of evidence) of the election coup falling apart, so far no county commissions have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired. The people should continue going to their county commissioner board meetings to inform them of available fixes to restore trust to all voters.
+* Most analysis of the 2020 fraud was being done by people within counties. Very little information was being shared between states or even counties
+
+* The clues to the whole thing in the Edison election night reporting were seen but not yet understood
+
+* No effort existed to collect, analyze, and share election data such as cast vote records and ballot images. The importance of Cast Vote Records in this fight was really not recognized yet.
+
+* Although "phantom" absentee votes were suspected, their prevalence and widespread abuse was not generally known yet.
+
+* Protecting 2022/2024, while on people's radar, had no viable plan."
+
+The Lone Raccoon goes on to contrast that August 2021 position with the June 2022 position:
+
+"Now look at today.
+
+* the algorithm used by the election servers is well understood and can even be predicted now
+* Tremendous problems with voter rolls have been loudly documented in many states.
+* We have a full understanding of the internal working of the Dominion system, with other vendors soon to come.
+* There is coordination and cooperation - and healthy competition - between groups in different states
+* Edison has been revealed to be a conspirator in the election plot, and while much is still not understood, the "edison zero" and the flipping of votes between absentee and in-person has been well-documented, as has the fact that the reporting is largely theater and does not match up well with the actual results in a state/county until the very end,
+* Cast Vote Records, ballot images, tabulator logs, voter rolls/histories and more have been obtained from many counties in many states, and their analysis has proved crucial. Any bit of data we get from a county is something they cannot destroy in September.
+* Massive absentee ballot fraud is a fact.
+* Findings from 2020 are being used in many ways to minimize the fraud potential in future elections... plus the identification of any fraud now takes minutes rather than months.
+* Serious court cases (much better than the quick ones done right after the election) are progressing in numerous states"
+
+Where are the arrests? Please do not be naïve. We are forced to be a citizen's Justice Department, because our country does not currently have a functioning one. Our burden of proof is immense and unfair. We have no subpeona or warrant power. You need to think of this for what it is - a national RICO case. Read how Guliani broke up the mobs in New York. He built his case from the ground up and quietly climbed the ladder of corruption until he had the goods on ALL the bosses. Then he struck."
+
+
+
 
 
 

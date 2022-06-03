@@ -189,11 +189,11 @@ Are they meant to give the public a false sense of security?
 
 Finally, compare the full [14-page EAC certification](https://www.dropbox.com/s/b0efp9zqshzj1cm/EAC%20Report_DVS4.14E_FinalCert_FINAL_7.2.15.pdf?dl=0) to the State of Minnesota Secretary of State Certification of Dominion Democracy Suite Version 4.14-E Voting System reproduced below:
 
-![Page 1 of the State of Minnesota Secretary of State Certification of Dominion Democracy Suite Version 4.14-E Voting System](certmap7.png)
+![Page 1 of the State of Minnesota Secretary of State Certification of Dominion Democracy Suite Version 4.14-E Voting System](certmap7.jpeg)
 
 And page 2 of the same:
 
-![Page 2 of the State of Minnesota Secretary of State Certification of Dominion Democracy Suite Version 4.14-E Voting System](certmap8.png)
+![Page 2 of the State of Minnesota Secretary of State Certification of Dominion Democracy Suite Version 4.14-E Voting System](certmap8.jpeg)
 
 What did you notice?
 
