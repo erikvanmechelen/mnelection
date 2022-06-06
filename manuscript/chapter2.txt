@@ -75,7 +75,7 @@ In 2016, when Rick Weible was the mayor of St. Bonifacius, he first hacked into 
 
 **Ballot preparation**
 
-This is a complicated process. But Patrick Colbeck does us a favor of simplifying the complex in his book:
+This is a complicated process. But Patrick Colbeck does us a favor of simplifying the complex in his book, *The 2020 Coup*:
 
 "Ballots are another key election infrastructure component with security vulnerabilities. Modern ballots are much more sophisticated than a piece of paper with checkboxes next to names. Today's ballots are sophisticated paper and/or digital documents. In fact, in some cases, ballots are replaced by Direct-Recording Electronic (DRE) voting machines.
 
