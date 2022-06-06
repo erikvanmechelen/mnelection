@@ -1,3 +1,4 @@
+{sample: true}
 # Introduction - A Totalitarian Flavor
 
 “There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”
@@ -65,11 +66,7 @@ In April 2022 I decided to run for secretary of state in Minnesota to continue s
 
 At the time the decision felt partially absurd. What good would it do to run in a system that was unfair and lacked transparency? I thought to myself, *They will probably just rig it against me.* In my childhood I saw millions go to the streets in Jakarta, Indonesia which influenced the then three-decade president Suharto to resign. And yet this is a different place and time. We can do this by the book. County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent.
 
-We do not presently have fairness nor transparency but day by day we have the chance to regain it and set things right. Elections should be on one day where paper ballots are hand counted, very achievable if polling places are organized into small, manageable precincts.
-
-[Minnesota Statute 204C.04 EMPLOYEES; TIME OFF TO VOTE](https://www.revisor.mn.gov/statutes/cite/204C/full) in subdivision 1 already provides the the **Right to be Absent** in order to "appear at the employee's polling place, cast a ballot, and return to work on the day of that election, without penalty or deduction from salary or wages because of the absence."
-
-Going forward, if additional man power is needed to hand count paper ballots in precinct polling places on election day, a statute could be written similar to Minnesota Statute 204C.04 which allows for election judges (who would count the votes under existing election law) to be absent without penalty or deduction from salary or wages. (22 out of 87 Minnesota counties had fewer than 5,700 votes in 2020 and could perhaps more swiftly move to hand tallying, which is already acceptable by law.) I have met many people who have said they would count the votes for no compensation just so that everyone can regain confidence that the election was conducted fairly and transparently in their precinct and county.
+We do not presently have fairness nor transparency but day by day we have the chance to regain it and set things right. Elections should be on one day where paper ballots are hand counted, very achievable if polling places are organized into small, manageable precincts. 22 out of 87 Minnesota counties had fewer than 5,700 votes in 2020 and could perhaps more swiftly move to hand tallying, which is already acceptable by law. 
 
 | County | Votes |
 | --- | --- |
@@ -95,6 +92,12 @@ Going forward, if additional man power is needed to hand count paper ballots in 
 | Watonwan | 5090 |
 | Wilkin | 3354 |
 | Yellow Medicine | 5422 |
+
+[Minnesota Statute 204C.04 EMPLOYEES; TIME OFF TO VOTE](https://www.revisor.mn.gov/statutes/cite/204C/full) in subdivision 1 already provides the the **Right to be Absent** in order to "appear at the employee's polling place, cast a ballot, and return to work on the day of that election, without penalty or deduction from salary or wages because of the absence."
+
+Going forward, if additional man power is needed to hand count paper ballots in precinct polling places on election day, [204B.195 TIME OFF FROM WORK TO SERVE AS ELECTION JUDGE](https://www.revisor.mn.gov/statutes/cite/204B.195) allows for absence without penalty.
+
+I have met many people who have said they would count the votes for no compensation just so that everyone can regain confidence that the election was conducted fairly and transparently in their precinct and county.
 
 As uneasy as I felt about running for secretary of state in Minnesota, I was also eager to take the opportunity set before me. If I hadn't decided to run, a few things would not have happened:
 1. I wouldn't have been excluded without a satisfying reason by the MNGOP from the secretary of state endorsement process at the Rochester state convention on May 12 and 13, 2022
