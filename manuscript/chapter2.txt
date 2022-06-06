@@ -21,13 +21,13 @@ In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covi
 
 ## Minnesota Statutes and Law
 
-Minnesota election laws 
+As noted in the introduction, 2020 was filled with what could be called distractions but in reality were outright attacks on the American people. While those occurred, the preparation phase was shaping the battlefield. Published in 1999, a translated version of the original People's Liberation Army documents, *Un-Restricted Warfare*, by Col. Qiao Liang and Col. Wang Xiangsui provides context for how the George Floyd incident might relate to or be part of the same attack upon our country. In particular, chapter 7: Ten Thousand Methods Combined as One: Combinations That Transcend Boundaries, the authors argue for the necessity to exceed the previous limitations of warfare, perhaps in Machiavellian fashion going beyond those laid down in *The United States Department of Defense Law of War Manual*, a guide to international humanitarian law. Qiao and Wang go on to discuss supra-national combinations, that is efforts that include national, international, and non-state organizations.
 
-Let's start with just a sample:
+In Minnesota, let's start with just a sample of election laws and orders which affected the November 2020 general election:
 
 1. Election day registration allowed by [Minnesota Statute 201.061 Subd.3](https://www.revisor.mn.gov/statutes/cite/201.061) (legal since 1974, when Minnesota became the second state to allow it)
 2. Voter ID not required by law
-3. Dropboxes for absentee and mail-in ballots allowed by [Minnesota Statute 203B.082](https://www.revisor.mn.gov/statutes/cite/203B.082) (58% of 2020 votes were reportedly absentee/mail-in ballots in Minnesota)
+3. Dropboxes for absentee and mail-in ballots allowed by [Minnesota Statute 203B.082](https://www.revisor.mn.gov/statutes/cite/203B.082) (58% of 2020 votes were reportedly absentee/mail-in ballots in Minnesota, over 1.9 million votes and more than 1.2 million *more* than the prior election)
 4. LaRose v. Simon - 1) Removed witness requirements for mail voters in Primary - 2) Extended the deadline to accept mail ballots (2 days) - STIPULATION AND PARTIAL CONSENT DECREE - [Read LaRose Order 62 CV 20 3149 Order on July 31 Motions](https://www.documentcloud.org/documents/7012992-LaRose-Order-62-CV-20-3149-Order-on-July-31.html)
 5. NAACP v. Simon - 1) Removed Witness Requirements for mail voters in General, 2) Extended the deadline to accept mail ballots (7 days), 3) MN Supreme Court Scheduled for September 3, 2020 - STIPULATION AND PARTIAL CONSENT DECREE - [Read NAACP Order 62 CV 20 3625 Order on July 31 Motions](https://www.documentcloud.org/documents/7012991-NAACP-Order-62-CV-20-3625-Order-on-July-31-Motions.html)
 6. [This judicial complaint](https://img1.wsimg.com/blobby/go/47803963-5178-4387-9865-0ea08f5332bd/downloads/22%2003%2017%20grewing%20complaint%20with%20exhibits.pdf?ver=1648648812808) argues Judge Sarah Grewing's decision *not* to recuse herself from above cases
@@ -35,11 +35,11 @@ Let's start with just a sample:
 
 No. 3 and No. 4 were put into motion after the MN Legislature, in April 2020, rejected Secretary of State Steve Simon's request for irrevocable power to alter election law during a pandemic.
 
-No. 7 included because to my knowledge this has not been done.
+No. 7 included because to my knowledge this has not been done but would go a long way toward providing transparency.
 
 ## Electronic Systems
 
-In 2017 the Department of Homeland Security designated elections as critical infrastructure, alongside food, water, and electricity.
+On January 6, 2017 the Department of Homeland Security [designated elections as critical infrastructure](https://www.dhs.gov/news/2017/01/06/statement-secretary-johnson-designation-election-infrastructure-critical), alongside food, water, and electricity.
 
 About three months before the election, on July 28, 2020, the Cybersecurity and Infrastructure Security Agency (CISA) identified the following components as lacking security:
 
@@ -61,7 +61,11 @@ Rick Weible, in a workshop at the Big Lake City Hall on Wednesday May 25, 2022, 
 
 Would it be unreasonable to ask Bob Kolasky how CISA's analysis which produced the Critical Infrastructure Security and Resilience Note had changed between late July and mid November?
 
-Let's take these components one at a time.
+On June 3, 2022, CISA [issued an advisory](https://www.cisa.gov/uscert/ics/advisories/icsa-22-154-01), "Vulnerabilities Affecting Dominion Voting Systems ImageCast X", which focuses on Dominion (but ES&S and Hart also have glaring vulnerabilities) and may have been released to get ahead of the Halderman report. The advisory detailed weaknesses including [hidden functionality](https://cwe.mitre.org/data/definitions/912.html) and [improper protection of alternate path](https://cwe.mitre.org/data/definitions/424.html). Now, the Halderman report focuses on the internet connectivity of election equipment. But, I tend to agree with Draza Smith that we shouldn't over-focus on that given what she wrote on Telegram in March, 2022: "The thing we need to get everyone to understand is that it is the software the vendors have baked into the machines that is cheating the American people."
+
+It's not that internet connectivity isn't a problem but that it isn't the only vulnerability and even a machine *without* internet connectivity can be a huge problem for fairness and transparency.
+
+Now, let's take the CISA-identified components one at a time.
 
 **Epollbooks**
 
