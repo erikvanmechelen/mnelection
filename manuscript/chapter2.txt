@@ -67,13 +67,13 @@ It's not that internet connectivity isn't a problem but that it isn't the only v
 
 Now, let's take the CISA-identified components one at a time.
 
-**Epollbooks**
+### Epollbooks
 
 Epollbooks are generally connected to the internet so that they can both receive a precinct-level extract of the statewide voter registration system or are at minimum a digital file if not connected or networked. The internet connection also provides for real-time updating which conceivably would have allowed our attorney general in Minnesota to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day.
 
 In 2016, when Rick Weible was the mayor of St. Bonifacius, he first hacked into the proposed epollbook within minutes and then declined to sign a contract to use them in St. Bonifacius. His was the only city in Hennepin County *not* to use epollbooks (they used paper pollbooks) in the following election. Epollbooks are not certified by the Election Assistance Commission (EAC).
 
-**Ballot preparation**
+### Ballot Preparation
 
 This is a complicated process. But Patrick Colbeck does us a favor of simplifying the complex in his book, *The 2020 Coup*:
 
@@ -83,9 +83,10 @@ This is a complicated process. But Patrick Colbeck does us a favor of simplifyin
 
 While Minnesota uses paper ballots in all 87 counties, we are not hand-counting them. Instead, we use voting machines.
 
-**Voting Machines**
+### Voting Machines
 
-##A History
+*A Brief History*
+
 In the first place, how did we get to using machines, and *electronic* voting machines, in elections?
 
 Before voting machines, voting was often done by voice throughout the 1800s. Kentucky used voice voting until 1891. The first paper ballots arrive in the early 19th century.
@@ -108,9 +109,9 @@ Fast forward to the 2000 presidential election between Al Gore and George W. Bus
 
 ![Hanging Chads](4votingmachine.jpg)
 
-Sequoia Voting Systems got its start in the 1970s as Mathematical Systems Corporation of Anaheim, California, offering an alternative to ES&S’s Votomatic punch cards. On March 8, 2005 Smartmatic Corp. (a Venezuelan company) acquired Sequoia. This raised eyebrows since Smartmatic had only the previous year been selected to by the Chavez-era Venezuelan government to provide voting systems for the presidential recall election, it’s [first time providing machines](https://ia801704.us.archive.org/34/items/smartmatic-sequoia-and-venezuela/Smartmatic%20Sequoia%20and%20Venezuela.pdf) for an election. As of June 4, 2010 it’s parent company was Dominion Voting Systems.
+Sequoia Voting Systems got its start in the 1970s as Mathematical Systems Corporation of Anaheim, California, offering an alternative to ES&S’s Votomatic punch cards. On March 8, 2005 Smartmatic Corp. (a Venezuelan company) acquired Sequoia. This raised eyebrows since Smartmatic had only the previous year been selected to by the Chavez-era Venezuelan government to provide voting systems for the presidential recall election, it’s [first time providing machines](https://ia801704.us.archive.org/34/items/smartmatic-sequoia-and-venezuela/Smartmatic%20Sequoia%20and%20Venezuela.pdf) for an election. Since June 4, 2010, Smartmatic’s parent company has been Dominion Voting Systems.
 
-According to Sequoia’s own employees, Sequoia may have [been responsible](https://web.archive.org/web/20070928013625/http://www.votetrustusa.org/index.php?option=com_content&task=view&id=2560&Itemid=51) for the defective punch cards in Florida which led to “hanging chads” or undervotes to the tune of 10,000 in Palm Beach County.
+Back to 2000. According to Sequoia’s own employees, Sequoia may have [been responsible](https://web.archive.org/web/20070928013625/http://www.votetrustusa.org/index.php?option=com_content&task=view&id=2560&Itemid=51) for the defective punch cards in Florida which led to “hanging chads” or undervotes to the tune of 10,000 in Palm Beach County.
 
 One of Sequoia’s workers [told](https://web.archive.org/web/20070928013625/http://www.votetrustusa.org/index.php?option=com_content&task=view&id=2560&Itemid=51) Dan Rather:
 
@@ -122,19 +123,21 @@ Sequoia benefitted from the passage of federal legislation in 2002—[the Help A
 
 In 2003 Beverly Harris found Diebold’s source code on the internet. Diebold had only entered the elections business a year prior through its purchase of Global Elections Systems, a touch-screen voting technology producer in Texas. The source code revealed that Diebold voting systems used an unsecured access database, meaning anyone could access, change data, and erase logs.
 
-In 2007 Diebold Election Systems rebranded as Premier Election Solutions and in 2009 they sold to Election Systems & Software (ES&S), which by 2014 was the largest manufacturer of United States voting machines.
+In 2007 Diebold Election Systems rebranded as Premier Election Solutions and in 2009 they sold to Election Systems & Software (ES&S), which by 2014 was the largest manufacturer of United States voting machines (and still used in the majority of Minnesota counties).
 
 The [Source Code Review of the Diebold Voting System](https://jhalderm.com/pub/papers/diebold-ttbr07.pdf) was published by 6 authors on July 20, 2007, showed the system was 1) vulnerable to malicious software, 2) susceptible to viruses, 3) failed to protect ballot secrecy, and 4) vulnerable to malicious insiders.
 
 More recently, one of the authors of the Diebold review, J. Alex Halderman of Princeton University, provided [the Halderman Declaration](https://www.documentcloud.org/documents/21038844-20210802-expert-rebuttal-declaration-of-j-alex-halderman) on Georgia’s ballot marking devices (BMD). Halderman has also issued a sealed [25,000-word report](https://libertysword.com/expert-hackers-25000-word-secret-report-threatens-to-uncover-georgias-real-election) on voting systems vulnerabilities.
 
-In an emergency meeting in Otero County, New Mexico in May 2022, nation-state vulnerability expert Jeff Lensberg further detailed vulnerabilities.
+In an emergency meeting in Otero County, New Mexico in May 2022, nation-state vulnerability expert Jeff Lensberg [provided further vulnerabilities](https://www.youtube.com/watch?v=Fg6Gf6QjqGM&t=939s), some of which he'd uncovered previously in the Antrim County, Michigan investigation.
 
-##Putting the History in Context
+**Putting the History in Context**
 
 The history of voting machines spans over 100 years. However the use of electronic voting machines is very short, only two to three decades. During almost the entirety of that duration, the electronic systems have been shown to be insecure, hackable, and manipulable, sometimes if not often by design.
 
-Their lack of certifications is further troubling.
+If access can be gained, whether remotely, over a network, or through the internet, and once inside the machines or databases are configured to be manipulable, then there is ample room for subversion. Even if internet connectivity could be proven not to occur (it has been shown to have occurred), should citizens trust machines that have disturbing baked in features?
+
+The lack of certifications of voting machines is further troubling.
 
 Col. Shawn Smith, in the Tarrant County, TX meeting in the first half of 2022:
 
@@ -142,13 +145,13 @@ Col. Shawn Smith, in the Tarrant County, TX meeting in the first half of 2022:
 
 “Our voting systems from my perspective based on the expert examiner’s report, cannot be trusted with our election. And what they require in order to for you to verify for yourself is that you become a cyber expert. Otherwise, you’re forced to trust other people who say they’re experts, people who have conflicts of interest, and people who’ve been trained essentially by the National Association of Secretaries of State, the election directors, and the Election Assistance Commission…”
 
-###Certifications Are Less Than Useless
+### Certifications Are Less Than Useless
 
-Throughout its [certification process](https://www.eac.gov/voting-equipment/system-certification-process), the Election Assistance Commission (EAC) which was established by [the Help America Vote Act](https://www.eac.gov/about_the_eac/help_america_vote_act.aspx) (2002) has not certified about 95% of Minnesota counties.
+Throughout its [certification process](https://www.eac.gov/voting-equipment/system-certification-process), the Election Assistance Commission (EAC) which was established by [the Help America Vote Act](https://www.eac.gov/about_the_eac/help_america_vote_act.aspx) (2002) has *not* certified about 95% of Minnesota counties.
 
-Those county’s electronic voting equipment are merely certified by the Minnesota Secretary of State. The few counties that are EAC certified have the problem indicated by Col. Shawn Smith, that those certifications provide the illusion of security when in fact those systems are anything but ready to run secure elections.
+Those county’s electronic voting equipment are merely certified by the Minnesota Secretary of State. The few counties that are EAC certified have the problem indicated by Col. Shawn Smith, that those certifications provide the illusion of security when in fact those systems are anything but ready to run secure elections, and by the EAC certificates own language not an endorsement of the products.
 
-Let's take a look at the certification maps. Note that being certified or not certified doesn’t guarantee system security, as we shall discuss shortly.
+Let's take a look at the certification maps. Remember, being certified or not certified doesn’t guarantee system security, as we shall discuss shortly.
 
 In the following image, Red = Certified | White = Not Certified
 
@@ -158,7 +161,7 @@ If we zoom in on Minnesota, we find that only 6 of 87 counties have voting equip
 
 ![MN EAC Certification Map](certmap2.png)
 
-Here are the counties in Minnesota that are certified by the EAC:
+Here are the counties in Minnesota that were certified by the EAC as of April 2022:
 
 ![County EAC Certifications](certmap3.png)
 
@@ -176,7 +179,7 @@ In addition to the requirements in subdivision 1, a voting system must be certif
 
 It is important to note that as of now there are no other appropriate federal agencies outside of the Election Assistance Commission (EAC), which itself authorizes Pro V&V and SLI Compliance.
 
-Are There Limits to Certifications from the EAC?
+**Are There Limits to Certifications from the EAC?**
 
 Let’s take a look at the [EAC certification for Dominion 4.14-E](https://www.dropbox.com/s/b0efp9zqshzj1cm/EAC%20Report_DVS4.14E_FinalCert_FINAL_7.2.15.pdf?dl=0).
 
@@ -207,9 +210,7 @@ And page 2 of the same:
 
 What did you notice?
 
-It reads very similarly, sometimes verbatim, to the EAC’s certifications, which the EAC admits do not indicate a voting machine is ready for use in an election.
-
-###Digging Deeper (into Known Vulnerabilities)
+It reads very similarly, sometimes verbatim, to the EAC’s certifications, which the EAC admits do not indicate a voting machine is ready for use in an election. If the secretary of state is using much of the EAC's language to describe the certification, and the EAC certificates themselves say they are not a determination of whether a system is ready for use in an election, how then did the secretary of state deem them ready for use?
 
 Should the public have questions when 81 out of 87 counties in Minnesota DO NOT have certified election equipment according to the Election Assistance Commission, which under [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) those election machines should have prior to use?
 
@@ -217,7 +218,7 @@ Are there consequences to certifications (the EAC certifications) which have dis
 
 What *should* these certifications imply in a more common-sense world?
 
-## MN voting equipment
+## Voting Machines in Minnesota
 
 MOVE 4G here from ch5.txt
 
@@ -315,7 +316,7 @@ Here is a table of electronic voting equipment used in the 2020 general election
 | Wright | Digital Scan 200, Digital Scan 450 | AutoMARK |
 | Yellow Medicine | Digital Scan 200 | AutoMARK |
 
-INSERT 4G from ch5 text
+There are potential vulnerabilities in all voting machines, but let's zoom in for a moment on the most-used equipment in Minnesota.
 
 DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
 
@@ -327,15 +328,20 @@ Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/p
 
 To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
 
-Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". It was in use in 65 Minnesota counties in 2020.
+Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". To repeat: the ES&S DS200 was in use in 65 Minnesota counties in 2020.
 
-To make matters worse, however, there are indications that the DS200's ability to generate a Cast Vote Record (CVR) report was turned off via a configuration which returns the DS200 to the Model 100 configuration.
+To make matters worse, however, there are indications that the DS200's ability to generate a Cast Vote Record (CVR) report was turned off on at least some of the tabulators. This is a big problem because it turns off the machine audit trail. Where this decision was made, it may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phases discussion in the next two chapters.)
 
-![Configurations matter](ess_configuration.png)
-
-This would have been done prior to the election. If this configuration change was made across most counties using the DS200, DS450, and DS850, this adjustment may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. This configuration decision would explain responses from county election officials and letters like this one from the Todd County Attorney.
+Turning off the functionality to generate CVRs would also explain why Minnesotans sending public data requests have been met with letters like this one from the Todd County Attorney.
 
 ![The opinion of the Todd County Attorney](todd_county_atty_opinion.png)
+
+CONTINUE EDITING HERE, JUNE 6, 2020
+CONTINUE EDITING HERE, JUNE 6, 2020
+CONTINUE EDITING HERE, JUNE 6, 2020
+CONTINUE EDITING HERE, JUNE 6, 2020
+CONTINUE EDITING HERE, JUNE 6, 2020
+CONTINUE EDITING HERE, JUNE 6, 2020
 
 While some counties seem to be using dated Model 100 configurations (on their DS200 scanners), Saint Louis County recently purchased [the DS950](https://www.essvote.com/products/ds950/), one of the newest electronic voting machines on the market, likely costing about $250,000.
 
