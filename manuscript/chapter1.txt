@@ -53,18 +53,7 @@ In the working group, I started meeting people from across the country. Some had
 
 Jeffrey O'Donnell, a data analyst, was among those I sat in virtual meetings with early on, who in April 2022 shared the following:
 
-"Not since the Manhattan Project, which developed the
-Atom Bomb, have so many smart people worked together to
-solve such a critical problem. We have hard evidence now of
-ballot manipulation in the Mesa County database, and this is
-serving as a “Rosetta Stone” allowing us to find the same
-“fingerprints” in other counties. Vote records and Voter Rolls
-have been acquired from dozens of states and counties all over
-the country, and myriad phantom voters have been identified.
-The existence of paid “ballot mules” is now a proven fact. Every
-method of attack we identify and publish can be prevented,
-mitigated, or at the very least quickly identified in the next
-election."
+"Not since the Manhattan Project, which developed the Atom Bomb, have so many smart people worked together to solve such a critical problem. We have hard evidence now of ballot manipulation in the Mesa County database, and this is serving as a “Rosetta Stone” allowing us to find the same “fingerprints” in other counties. Vote records and Voter Rolls have been acquired from dozens of states and counties all over the country, and myriad phantom voters have been identified. The existence of paid “ballot mules” is now a proven fact. Every method of attack we identify and publish can be prevented, mitigated, or at the very least quickly identified in the next election."
 
 In early 2022 my work led to county commissioner meetings in Dakota, Sherburne, and Wright County and closed door meetings with commissioners and election officials in Dakota and Morrison County. These interactions confirmed many concerns I had from reviewing the data and convinced me change was needed.
 
@@ -152,7 +141,7 @@ Even despite the lack of cooperation from elected officials, locally people like
 
 How was it that I'd so far lived my life believing my vote counted, but now could not so easily answer that question? That will take some time to unpack. But one thing is clear: Since November 3, 2020, tens of millions of Americans, if not more, have asked or are now beginning to ask, Does my vote count? It's only a matter of time before everyone knows the facts and understands the sobering implications.
 
-If our election officials, counties, and secretaries of state cannot show that the computerized election management systems used to produce election results actually do so without error, then citizens in increasing numbers will have the same question—Does my vote count? Jeffrey O'Donnell puts it well in the introduction to his [Mesa County #3 Report](https://magaraccoon.com/docs/MesaCountyReport3.pdf), highlighted in the forthcoming (S)election Code documentary: "If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
+If our election officials, counties, and secretaries of state cannot show that the computerized election management systems used to produce election results actually do so without error, then citizens in increasing numbers will have the same question—Does my vote count? Jeffrey O'Donnell puts it well in the introduction to his [Mesa County #3 Report](https://magaraccoon.com/docs/MesaCountyReport3.pdf), highlighted in the forthcoming [S]election Code documentary: "If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
 
 ***
 
@@ -171,6 +160,4 @@ In the imminent and immediate future, the machines will become unacceptable to t
 
 Then, hand counting paper will be even more heavily demanded. Once trust is restored in hand counting paper ballots that are 100% auditable, maybe only then should alternatives to hand counting paper may be looked into. But let's take this one step at a time.
 
-Read this book and share it with anyone who doesn't yet understand how machines and malicious code determine the outcome of elections in our state and country. Every Minnesotan deserves to know the truth. Without this information, how can the public react? Once the light is shone, deception and lies will hold no power over us.
-
-END
+Read this book and share it with anyone who doesn't yet understand how machines and malicious code determine the outcome of elections in our state and country. Every Minnesotan deserves to know the truth. Without this information, how can the public react? Once the light is shone, deception and lies will hold no power over us. It's not who votes or who counts the vote, it very well may be who codes the vote that matters most.
