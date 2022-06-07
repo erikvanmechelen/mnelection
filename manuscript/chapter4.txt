@@ -10,6 +10,22 @@ from Erin
 
 ***
 
+also, look at this
+
+![modified](modified_ballot_image.png)
+
+make MIXONIUM of the little ways software can be baked in.
+
+weighted ratio - diebold, source code leak 2003, Bev Harris
+flag to go to adjudication
+2020 coup book - quote from early chapters
+make a new database (simulation) as seen in Mesa County (ACTUALLY HAPPENED)
+...many more 
+
+
+
+***
+
 
 The Backup Attack phase is used when the initial attack doesn't go as planned. The biggest tool is the injection of votes electronically. If this can be done without detection, a race can still be won regardless of how many physical ballots were delivered absentee (dropbox or mail-in) or at the in-person polling place on election day and subsequently scanned through tabulators.
 
