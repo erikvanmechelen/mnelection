@@ -116,7 +116,9 @@ What we know now what will be shown in documentaries like [Selection Code](https
 
 ## Control Through Machines
 
-From the 100,000-foot view, elections are simply a control mechanism and also a critical vector of attack against a nation-state. Here in the United States, if by subverting elections you can routinely install candidates up and down the ballot, then a county, state, and country can over time be usurped without firing a bullet. In the digital age, this can be done through machine code invisible to election judges, poll challengers, and election officials. Meanwhile, the public (myself very much included) could be manipulated for years or decades through influence operations and other means to think all is well in our constitutional republic, when in fact we were on course to lose it and may indeed have lost it for good, unless we act decisively.
+From the 100,000-foot view, elections are simply a control mechanism and also a critical vector of attack against a nation-state. Here in the United States, we arguably made this easier not only by allowing private entities like Dominion or ES&S or Hart Inter Civic to provide the majority of our electronic voting equipment but also by outsourcing some of the coding involved in that critical infrastructure to places like Serbia in the case of Dominion's source code as proven by the name of a Serbian developer found in the code.
+
+Here in the United States, if by subverting elections you can routinely install candidates up and down the ballot, then a county, state, and country can over time be usurped without firing a bullet. In the digital age, this can be done through machine code invisible to election judges, poll challengers, and election officials. Meanwhile, the public (myself very much included) could be manipulated for years or decades through influence operations and other means to think all is well in our constitutional republic, when in fact we were on course to lose it and may indeed have lost it for good, unless we act decisively.
 
 Of course, maintaining control by subverting elections is not new, even if this important fact is not widely understood.
 

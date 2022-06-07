@@ -8,6 +8,7 @@ I'd recommend watching the first part of the Otero County Commission meeting we 
 ^
 from Erin
 
+***
 
 
 The Backup Attack phase is used when the initial attack doesn't go as planned. The biggest tool is the injection of votes electronically. If this can be done without detection, a race can still be won regardless of how many physical ballots were delivered absentee (dropbox or mail-in) or at the in-person polling place on election day and subsequently scanned through tabulators.
@@ -41,7 +42,7 @@ mock election at Cyber symposium,
 anyone have video?
 compare with Jeff Lensburg
 
-![Draza Smith, Mark Cook, and Col. Shawn Smith](mock_election.png) 
+![Draza Smith, Mark Cook, and Col. Shawn Smith](mock_election.png)
 
 
 
