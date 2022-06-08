@@ -67,6 +67,24 @@ It's not that internet connectivity isn't a problem but that it isn't the only v
 
 Now, let's take the CISA-identified components one at a time.
 
+### The Statewide Voter Registration System (SVRS)
+
+The registration file is critical because it stores the data which helps determine who in the state is eligible to vote.
+
+Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the <a href="https://ericstates.org/" target=_new>Electronic Registration Information Center (ERIC)</a> provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered."
+
+For instance, if member states like Minnesota do not remove voters who have moved out of state or have died, then the result is an inflated voter roll. Even if the dead or out of state voter votes, that vote technically counts since that individual will be on the statewide voter registration system with a voter ID in the system.
+
+How do we know that voter rolls are inflated, providing an ample supply of ready-to-launch voters?
+
+Voter rolls and histories are public information that you can request from the <a href="https://www.sos.state.mn.us/election-administration-campaigns/data-maps/registered-voter-list-requests/" target=_new>Minnesota Secretary of State's website</a> for $46. Note that your request is made at a particular moment in time. However, if you request a list before and after an election, as people like <a href="https://midwestswampwatch.com" target=_new>Rick Weible</a> did for the November 3rd, 2020 General Election, and you are handy with database management (these are big files) then you can see how the lists changed. If you were to continue to request lists every few weeks, then you could see how the lists change over time, sometimes dramatically. (Going forward, it should not require experts in database management to hold our government accountable.)
+
+It was these voter rolls and histories that allowed Rick Weible to discover that more than 700,000 reported absentee votes were not yet connected to a voter in the SVRS on November 29, 2020, only 25 days after the election and a mere 5 days after the Minnesota State Canvassing Board <a href="https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/" target=_new>certified the results</a> of the 2020 General Election.
+
+When comparing voter rolls with census population data, one can chart turnout of the voting age population. In the following chart, we see that Minnesota ranks 1st in voting age population turnout, an indicator of fraud.
+
+![Minnesota Ranks First in Percent of 18+ Voted](election_participation.jpeg)
+
 ### Epollbooks
 
 Epollbooks are generally connected to the internet so that they can both receive a precinct-level extract of the statewide voter registration system or are at minimum a digital file if not connected or networked. The internet connection also provides for real-time updating which conceivably would have allowed our attorney general in Minnesota to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day.
@@ -75,15 +93,15 @@ In 2016, when Rick Weible was the mayor of St. Bonifacius, he first hacked into 
 
 ### Ballot Preparation
 
-This is a complicated process. But Patrick Colbeck does us a favor of simplifying the complex in his book, *The 2020 Coup*:
+Ballot preparation is a complicated process. But Patrick Colbeck does us a favor of simplifying the complex in his book, *The 2020 Coup*:
 
 "Ballots are another key election infrastructure component with security vulnerabilities. Modern ballots are much more sophisticated than a piece of paper with checkboxes next to names. Today's ballots are sophisticated paper and/or digital documents. In fact, in some cases, ballots are replaced by Direct-Recording Electronic (DRE) voting machines.
 
 "Ballot preparation is a complicated process of overlaying political geographies with the contests and candidates specific to each district and then translating those layouts into unique combinations of ballot data. Ballot preparation data takes multiple forms such as ballot images (both paper and electronic), the data files necessary to build ballot images, audio files for special use ballots, and specific files for export to external systems such as websites for Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)-focused digital systems. Ballot preparation also generates the data necessary for tabulating votes within a voting machine and aggregating tabulated votes within a jurisdiction or state. This process is usually completed in an election documents and records management system (EDRMS), which is special software designed to manage documents and records throughout the document lifecycle, from creation to destruction. Access to the information in such systems would enable anyone attempting to subert the integrity of an election with the information necessary to create ballots independently of election officials. Of course, ballots are also where voters record their votes. Vote tallies are generated from the information on ballots therefore their integrity is very important to protect."
 
-After watching 2000 Mules Erin Clements asked where the NGOs that printed the ballots for the mules may have gotten the ballot formatting and ballot styles to correctly print ballots.
+After watching 2000 Mules Erin Clements asked where the NGOs that printed the ballots for the mules may have gotten the ballot formatting and ballot styles to correctly print ballots. I imagine True the Vote's Catherine Engelbrecht and Gregg Phillips' team were asking the same questions, leading to their follow-on work from the Wisconsin hearing to the Maricopa County senate hearing to the work on the ground in Yuma County.
 
-While Minnesota uses paper ballots in all 87 counties, we are not hand-counting them. Instead, we use voting machines.
+While Minnesota uses paper ballots in all 87 counties, we are not hand-counting them. Instead, we use voting machines, also called tabulators, to count the votes. The tallies from the tabulators are then aggregated in tabulation software known as an election management system.
 
 ### Voting Machines
 
@@ -324,23 +342,23 @@ Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/p
 
 To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
 
-I include this information in the preparation phase of our discussion because this 4G wireless modem implementation would have to be installed *before* the election.
+I include this information in the preparation phase of our discussion because this 4G wireless modem implementation would likely need to be installed *before* or *during* the election in order to be used by bad actors.
 
-Scientist Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". To repeat: the ES&S DS200 was in use in 65 Minnesota counties in 2020.
+Additionally, scientist Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". Because the code is not open source, it is difficult to know all the vulnerabilities that may exist. And since its "System and Method for Decoding Marks on a Paper Ballot" is proprietary, patent law means ES&S owns that intellectual property. That being said, former cyber analyst for the Air Force Jake Stauffer's [vulnerability report](https://www.scribd.com/document/513400991/ESS-RedTeam-Jake-Stauffer-Vulnerability-Security-Assessment-Report) is revealing, demonstrating among other details that "file systems are not encrypted [which] allowed the team to recover system configuration information, password hashes, and ES&S specific binaries."
 
-To make matters worse, however, there are settings which allow the ballot images to not be saved (reducing the audit trail) and potentially settings which turn off the Cast Vote Record (CVR) report functionality.
+To repeat: the ES&S DS200 was in use in 65 Minnesota counties in 2020.
 
-This is a big problem because it turns off the machines' audit trail. Where this decision was made, it may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phases discussion in the next two chapters.)
+To make matters worse, however, there are apparently settings which allow the ballot images to not be saved (reducing the audit trail) and potentially settings which turn off the Cast Vote Record (CVR) report functionality.
+
+This is a big problem because it turns off the machines' ability to tell on itself. Where this decision was made, it may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phases discussion in the next two chapters.)
 
 Turning off the functionality to generate CVRs would also explain why Minnesotans sending public data requests have been met with letters like this one from the Todd County Attorney.
 
 ![The opinion of the Todd County Attorney](todd_county_atty_opinion.png)
 
-In 2020, some counties began upgrading to DS450s and DS850s.
+Moving on to other ES&S equipment: In 2020, some counties began upgrading to DS450s and DS850s.
 
 ![DS450 Pricing Quote Sent to ](ds450_pricing_mcleod.png)
-
-In 2020, several Minnesota counties used the DS450 and DS850.
 
 While county commissioners in other states have described these machines as being built in Omaha, Nebraska, both the DS450 and DS850 are made in Germany.
 
@@ -364,6 +382,8 @@ The following two emails between staff at ES&S and the County Elections Administ
 
 Are we asking too much of our election officials at the county level to not only maintain and operate but also mitigate cyber threats to these machines?
 
+*Please note that although we have focused on ES&S, there are several Minnesota counties that use Dominion systems and several that use Hart systems. Neither are safe or secure from cyber threats nor is their source code available to be examined with the notable exception of the Dominion Voting Systems (DVS) Election Management System (EMS) server from Mesa County, Colorado, which is the focus of the [Mesa County Report #3](https://magaraccoon.com/docs/MesaCountyReport3.pdf) and featured in the [Selection Code](https://selectioncode.com) documenatary.
+
 ## Tabulation Systems
 
 In the [3/15/2022 Nye County, Nevada County Commissioner’s meeting](https://www.youtube.com/watch?t=234&v=GBKz1o_VqAE&feature=youtu.be) cyber security consultant Mark Cook [described his experience](https://www.youtube.com/watch?v=GBKz1o_VqAE&t=234s) with computers pre-internet in the CompuServe and Prodigy days, then as a consultant to protect companies from threats and seal off vulnerability, and finally with election systems.
@@ -376,9 +396,11 @@ It turned out to be a lot.
 
 The [Mesa County Colorado Voting Systems Report #3: Election Database and Data Process Analysis](https://magaraccoon.com/docs/MesaCountyReport3.pdf) proves database manipulation happened inside the Colorado Dominion Voting Systems (DVS) Election Management System (EMS). Not once, but twice, in both the 2020 General Election and the 2021 Grand Junction Municipal Election.
 
+These not so trust-worthy software updates were performed by Dominion employees across the country, possibly destroying evidence of election tampering and manipulation.
+
 ## Influence Operations
 
-I have chosen to borrow this term from Patrick Colbeck since it is less frequently used when compared to *psychological operations*. The screens which bring us our daily inspiration and fear, information from loved ones and our 2-minute's hate (à la *1984*), are seemingly a blessing and a curse.
+I have chosen to borrow this term from Patrick Colbeck since it is less frequently used when compared to *psychological operations* or *psyops*. The screens which bring us our daily inspiration and fear, information from loved ones and our 2-minute's hate (à la *1984*), are seemingly a blessing and a curse.
 
 A blessing because it is only with the internet that information can be shared quickly enough and widely enough to outflank centralized media platforms and censorship regimes.
 
@@ -392,13 +414,15 @@ A few months later, I biked there once and another time walked there. Roads were
 
 This was a trying time to the point that I even asked one of my clients if I could take time off from a gig.
 
-Covid-19 led to lockdowns and the sheepening of the population.
-
-All the while, preparations continued to be made for the election with little if any reporting of substance regarding the consent decrees which stripped witness and signature requirements from absentee ballots.
+Covid-19 led to lockdowns and the sheepening of the population. The monthly discussion groups I'd held ended and I resorted for a time to arguing needlessly with friends online. Then came the experimental vaccines, only qualifying to be called as such because of dictionaries redefining the term. Perhaps suspecting I had exercised my right not to partake, a Mayo Clinic ICU doctor before a pickup soccer game asked if I had questions about Covid-19. Months later, I was on the phone with the head of a hospital in Seattle who declared that the inventors of the mRNA vaccines would get Nobel prizes. Maybe so. But so did Barrack Hussein Obama (*before* many realized what he was up to). When I asked him if he got his booster, he said he probably wouldn't get the next one.
 
 The chaos played into the enemy's hands.
 
 The subversion of our elections was well under way.
+
+All the while, preparations continued to be made for the election with little if any reporting of substance regarding the consent decrees which stripped witness and signature requirements from absentee ballots, nor the mass installment of Zuckerboxes, nor the preparations the work of True the Vote has shone light upon in the first half of 2022.
+
+
 
 
 END of edit?
@@ -421,24 +445,7 @@ Members of devolution article council include Dominion, Hart, ES&S, and Smartmat
 
 CISA statement, pull from Colbeck
 
-statewide voter registration list
-epollbooks
-Ballots
-Tabulators
-websites...
 
-Dr. Frank's chart of all 50 States
-
-![Minnesota Ranks First in Percent of 18+ Voted](election_participation.jpeg)
-
-
-Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the <a href="https://ericstates.org/" target=_new>Electronic Registration Information Center (ERIC)</a> provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered." For instance, if member states like Minnesota do not remove voters who have moved out of state or have died, then the result is an inflated voter roll. Even if the dead or out of state voter votes, that vote technically counts since that individual will be on the statewide voter registration system with a voter ID in the system.
-</p><p>
-How do we know that voter rolls are inflated, providing an ample supply of ready-to-launch voters?
-</p><p>
-Voter rolls and histories are public information that you can request from the <a href="https://www.sos.state.mn.us/election-administration-campaigns/data-maps/registered-voter-list-requests/" target=_new>Minnesota Secretary of State's website</a> for $46. Note that your request is made at a particular moment in time. However, if you request a list before and after an election, as people like <a href="https://midwestswampwatch.com" target=_new>Rick Weible</a> did for the November 3rd, 2020 General Election, and you are handy with database management (these are big files) then you can see how the lists changed. If you were to continue to request lists every few weeks, then you could see how the lists change over time, sometimes dramatically. (Going forward, it should not require experts in database management to hold our government accountable.)
-</p><p>
-It was these voter rolls and histories that allowed Rick Weible to discover that more than 700,000 Minnesota ballots were not yet connected to a voter on November 29, 2020, only 25 days after the election and a mere 5 days after the Minnesota State Canvassing Board <a href="https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/" target=_new>certified the results</a> of the 2020 General Election. Should the Board have certified the results if the work required by Minnesota statutes was not yet complete?
 
 ERIC
 epollbooks
