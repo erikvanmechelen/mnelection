@@ -7,23 +7,23 @@
 
 ***
 
-As hinted at in the introduction, preparation to subvert elections occurs on multiple levels, local, state, national, as well as international, not limited to the domains of law, electronic systems, and psychological operations.
+As noted in the introduction, 2020 was filled with what could be called distractions but in reality were outright attacks on the American people. While those occurred, the preparation phase was shaping the battlefield. Published in 1999, a translated version of the original People's Liberation Army documents, [*Un-Restricted Warfare*](https://www.amazon.com/Unrestricted-Warfare-Chinas-Destroy-America/dp/1626543054), by Col. Qiao Liang and Col. Wang Xiangsui provides context for how the George Floyd incident might relate to or be part of the same attack upon our country. In particular, chapter 7: Ten Thousand Methods Combined as One: Combinations That Transcend Boundaries, the authors argue for the necessity to exceed the previous limitations of warfare, perhaps in Machiavellian fashion going beyond those laid down in [*The United States Department of Defense Law of War Manual*](https://projectapario.com/Browse?document=DQTBLMQK9&filename=DoD%20Law%20of%20War%20Manual%20-%20June%202015%20Updated%20Dec%202016.pdf), a guide to international humanitarian law. Qiao and Wang go on to discuss supra-national combinations, that is efforts that include national, international, and non-state organizations.
+
+Preparation to subvert elections occurs on multiple levels, local, state, national, as well as international, not limited to the domains of law, electronic systems, and psychological operations. The unraveling of this national election theft is likely to take some time; it's implications may be difficult for some of us to comprehend, but try we must.
 
 Subversion can occur legally or illegally, constitutionally or unconstitutionally, ethically or unethically, by individuals or by coordinated groups. In the pages that follow, bear in mind that the mere fact that something is legal does not make it right. In the elections domain, a statute could be well intentioned but in practice weaken the fairness or transparency of an election. Just because ballot dropboxes found their way into state statute in a bi-partisan manner does not dropboxes a friend of fair elections.
 
-In studying Minnesota election laws, one can follow the history of a particular statute over time. Did the changes to a particular statute make elections more fair or less fair? Did attempts to provide access to one vulnerable voting group such as ADA voters lead to the potential for fraud? Did judge ordered changes amount to encasing fraud within the process itself—for instance, by what metric are signatures verified? Did the waiving of witness and signature requirements for absentee ballots make it more convenient for voters? Probably. But it also opened the door to ballot trafficking rings discovered by Gregg Phillips and Katherine Engelbrecht, highlighted in the documentary 2000 Mules.
+In studying Minnesota election laws, one can follow the history of a particular statute over time. Did the changes to a particular statute make elections more fair or less fair? Did attempts to provide access to one vulnerable voting group such as ADA voters lead to the potential for fraud? Did judge ordered changes amount to encasing fraud within the process itself—for instance, by what metric are signatures verified? Did the waiving of witness and signature requirements for absentee ballots make it more convenient for voters? Probably. But it also opened the door to ballot trafficking rings discovered by Gregg Phillips and Catherine Engelbrecht, highlighted in the documentary 2000 Mules.
 
-Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified [less than 6% of Minnesota counties](https://erikvanmechelen.substack.com/p/only-6-out-of-87-counties-in-minnesota) and certified none of its internet connected e-pollbooks. The DS200, a scanner and tabulator from ES&S, was used in 65 Minnesota counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in the Antrim County, Michigan investigation in late 2020 after it was discovered that 7,000 votes had been flipped.
+Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified [less than 6% of Minnesota counties](https://erikvanmechelen.substack.com/p/only-6-out-of-87-counties-in-minnesota) and certified none of its internet connected e-pollbooks. The DS200, a scanner and tabulator from ES&S, was used in 65 Minnesota counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in [the Antrim County, Michigan investigation](https://www.depernolaw.com/uploads/2/7/0/2/27029178/ex_5-10.pdf) in late 2020 after it was discovered that 7,000 votes had been flipped.
 
-Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the Electronic Registration Information Center (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
+Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the [Electronic Registration Information Center](https://ericstates.org/) (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
 
 In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law. In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters.
 
 ## Minnesota Statutes and Law
 
-As noted in the introduction, 2020 was filled with what could be called distractions but in reality were outright attacks on the American people. While those occurred, the preparation phase was shaping the battlefield. Published in 1999, a translated version of the original People's Liberation Army documents, *Un-Restricted Warfare*, by Col. Qiao Liang and Col. Wang Xiangsui provides context for how the George Floyd incident might relate to or be part of the same attack upon our country. In particular, chapter 7: Ten Thousand Methods Combined as One: Combinations That Transcend Boundaries, the authors argue for the necessity to exceed the previous limitations of warfare, perhaps in Machiavellian fashion going beyond those laid down in *The United States Department of Defense Law of War Manual*, a guide to international humanitarian law. Qiao and Wang go on to discuss supra-national combinations, that is efforts that include national, international, and non-state organizations.
-
-In Minnesota, let's start with just a sample of election laws and orders which affected the November 2020 general election:
+Let's start with just a sample of Minnesota election laws and orders which affected the rules and procedures in the November 2020 general election:
 
 1. Election day registration allowed by [Minnesota Statute 201.061 Subd.3](https://www.revisor.mn.gov/statutes/cite/201.061) (legal since 1974, when Minnesota became the second state to allow it)
 2. Voter ID not required by law
@@ -37,7 +37,7 @@ No. 3 and No. 4 were put into motion after the MN Legislature, in April 2020, re
 
 No. 7 included because to my knowledge this has not been done but would go a long way toward providing transparency.
 
-## Electronic Systems
+## Modern Electronic Election Systems
 
 On January 6, 2017 the Department of Homeland Security [designated elections as critical infrastructure](https://www.dhs.gov/news/2017/01/06/statement-secretary-johnson-designation-election-infrastructure-critical), alongside food, water, and electricity.
 
@@ -81,6 +81,8 @@ This is a complicated process. But Patrick Colbeck does us a favor of simplifyin
 
 "Ballot preparation is a complicated process of overlaying political geographies with the contests and candidates specific to each district and then translating those layouts into unique combinations of ballot data. Ballot preparation data takes multiple forms such as ballot images (both paper and electronic), the data files necessary to build ballot images, audio files for special use ballots, and specific files for export to external systems such as websites for Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)-focused digital systems. Ballot preparation also generates the data necessary for tabulating votes within a voting machine and aggregating tabulated votes within a jurisdiction or state. This process is usually completed in an election documents and records management system (EDRMS), which is special software designed to manage documents and records throughout the document lifecycle, from creation to destruction. Access to the information in such systems would enable anyone attempting to subert the integrity of an election with the information necessary to create ballots independently of election officials. Of course, ballots are also where voters record their votes. Vote tallies are generated from the information on ballots therefore their integrity is very important to protect."
 
+After watching 2000 Mules Erin Clements asked where the NGOs that printed the ballots for the mules may have gotten the ballot formatting and ballot styles to correctly print ballots.
+
 While Minnesota uses paper ballots in all 87 counties, we are not hand-counting them. Instead, we use voting machines.
 
 ### Voting Machines
@@ -121,7 +123,7 @@ Specifically, USC 52 Ch. 209 Subchapter I—PAYMENTS TO STATES FOR ELECTION ADMI
 
 Sequoia benefitted from the passage of federal legislation in 2002—[the Help America Vote Act of 2002](https://www.justice.gov/crt/help-america-vote-act-2002)—because *they manufactured electronic voting equipment*.
 
-In 2003 Beverly Harris found Diebold’s source code on the internet. Diebold had only entered the elections business a year prior through its purchase of Global Elections Systems, a touch-screen voting technology producer in Texas. The source code revealed that Diebold voting systems used an unsecured access database, meaning anyone could access, change data, and erase logs.
+In 2003 [Beverly Harris found Diebold’s source code](https://www.computerworld.com/article/2547648/diebold-source-code-leaked-again.html) on the internet. Diebold had only entered the elections business a year prior through its purchase of Global Elections Systems, a touch-screen voting technology producer in Texas. The source code revealed that Diebold voting systems used an unsecured access database, meaning anyone could access, change data, and erase logs.
 
 In 2007 Diebold Election Systems rebranded as Premier Election Solutions and in 2009 they sold to Election Systems & Software (ES&S), which by 2014 was the largest manufacturer of United States voting machines (and still used in the majority of Minnesota counties).
 
@@ -129,17 +131,17 @@ The [Source Code Review of the Diebold Voting System](https://jhalderm.com/pub/p
 
 More recently, one of the authors of the Diebold review, J. Alex Halderman of Princeton University, provided [the Halderman Declaration](https://www.documentcloud.org/documents/21038844-20210802-expert-rebuttal-declaration-of-j-alex-halderman) on Georgia’s ballot marking devices (BMD). Halderman has also issued a sealed [25,000-word report](https://libertysword.com/expert-hackers-25000-word-secret-report-threatens-to-uncover-georgias-real-election) on voting systems vulnerabilities.
 
-In an emergency meeting in Otero County, New Mexico in May 2022, nation-state vulnerability expert Jeff Lensberg [provided further vulnerabilities](https://www.youtube.com/watch?v=Fg6Gf6QjqGM&t=939s), some of which he'd uncovered previously in the Antrim County, Michigan investigation.
+In an emergency meeting in Otero County, New Mexico in May 2022, nation-state vulnerability expert Jeff Lensberg [provided further vulnerabilities](https://www.youtube.com/watch?v=Fg6Gf6QjqGM&t=939s), some of which he'd uncovered previously in the Antrim County, Michigan investigation. Of particular concern was his [vote switching demonstration](https://www.mixonium.com/public/post/11555).
 
 **Putting the History in Context**
 
 The history of voting machines spans over 100 years. However the use of electronic voting machines is very short, only two to three decades. During almost the entirety of that duration, the electronic systems have been shown to be insecure, hackable, and manipulable, sometimes if not often by design.
 
-If access can be gained, whether remotely, over a network, or through the internet, and once inside the machines or databases are configured to be manipulable, then there is ample room for subversion. Even if internet connectivity could be proven not to occur (it has been shown to have occurred), should citizens trust machines that have disturbing baked in features?
+If access can be gained, whether remotely, over a network, or through the internet, and once inside the machines or databases are configured to be manipulable, then there is ample room for subversion. Even if internet connectivity could be proven not to occur (it has been shown to have occurred), should citizens trust machines that have disturbing baked-in features?
 
-The lack of certifications of voting machines is further troubling.
+The lack of certifications (and the uselessness of certifications) of voting machines is further troubling.
 
-Col. Shawn Smith, in the Tarrant County, TX meeting in the first half of 2022:
+In the Tarrant County, TX, in the first half of 2022, [Col. Shawn smith describes why]((https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html):
 
 “…And for the people who said well, the machines are certified, I would say, the space shuttle Columbia was also certified for flight. How’d that turn out? The Boeing 737 Max was certified for passenger operations, and then crashed killing over 500 people in two separate accidents before they finally let experts take a look at it. And my point in saying that is not to try to scare people, but just to say that based on my experience, and I’m not a cyber professional, but I work with cyber pros, and I know the difference between somebody who knows cyber and somebody who doesn’t. And if you don’t know the difference, then you’re in very dangerous territory when you try to make any conclusions or try to listen to someone who doesn’t really know what they’re talking about.
 
@@ -214,11 +216,9 @@ It reads very similarly, sometimes verbatim, to the EAC’s certifications, whic
 
 Should the public have questions when 81 out of 87 counties in Minnesota DO NOT have certified election equipment according to the Election Assistance Commission, which under [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) those election machines should have prior to use?
 
-Are there consequences to certifications (the EAC certifications) which have disclaimers putting the value of the certification itself into question?
+Are there consequences to certifications (the EAC certifications) which have disclaimers putting the value of the certification itself into question? Should we be concerned when our secretary of state basically copy-pasted the EAC's certificate language into his own machine certifications?
 
-What *should* these certifications imply in a more common-sense world?
-
-## Voting Machines in Minnesota
+## Voting Machines Used in Minnesota's 2020 General Election
 
 Here is a table of electronic voting equipment used in the 2020 general election, provided by Dan Sundin who pulled this information from the county websites.
 
@@ -328,57 +328,83 @@ I include this information in the preparation phase of our discussion because th
 
 Scientist Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". To repeat: the ES&S DS200 was in use in 65 Minnesota counties in 2020.
 
-To make matters worse, however, there are settings which allow the ballot images to not be saved (reducing the audit trail) and
+To make matters worse, however, there are settings which allow the ballot images to not be saved (reducing the audit trail) and potentially settings which turn off the Cast Vote Record (CVR) report functionality.
 
-indications that the DS200's ability to generate a Cast Vote Record (CVR) report was turned off on at least some of the tabulators. This is a big problem because it turns off the machine audit trail. Where this decision was made, it may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phases discussion in the next two chapters.)
+This is a big problem because it turns off the machines' audit trail. Where this decision was made, it may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phases discussion in the next two chapters.)
 
 Turning off the functionality to generate CVRs would also explain why Minnesotans sending public data requests have been met with letters like this one from the Todd County Attorney.
 
 ![The opinion of the Todd County Attorney](todd_county_atty_opinion.png)
 
-CONTINUE EDITING HERE, JUNE 6, 2020
-CONTINUE EDITING HERE, JUNE 6, 2020
-CONTINUE EDITING HERE, JUNE 6, 2020
-CONTINUE EDITING HERE, JUNE 6, 2020
-CONTINUE EDITING HERE, JUNE 6, 2020
-CONTINUE EDITING HERE, JUNE 6, 2020
-
-While some counties seem to be using dated Model 100 configurations (on their DS200 scanners), Saint Louis County recently purchased [the DS950](https://www.essvote.com/products/ds950/), one of the newest electronic voting machines on the market, likely costing about $250,000.
-
-In 2020, some counties began upgrading to DS450s.
+In 2020, some counties began upgrading to DS450s and DS850s.
 
 ![DS450 Pricing Quote Sent to ](ds450_pricing_mcleod.png)
 
 In 2020, several Minnesota counties used the DS450 and DS850.
 
-These are quite expensive.
+While county commissioners in other states have described these machines as being built in Omaha, Nebraska, both the DS450 and DS850 are made in Germany.
+
+![Assembled in Germany](assembled_in_germany.png)
+
+These newer models are quite expensive.
 
 ![Purchase Proposal Quote for McLeod County in 2020](MCCC_DS450_purchase_proposal_quote.png)
 
 Even the Site Support at $4,250 *alone* could be repurposed toward 20 election judges at $20 an hour for 10 hours. Many more election judges could be hired with the $50,000 spent on the DS450 tabulator.
 
-INSERT IMAGES WITH SEACHANGE, WRITE IN CAPTURE IMAGES?
-INSERT IMAGES ABOUT UPDATING ABSENTEE RESULTS MANUALLY?
+Meanwhile, Saint Louis County recently purchased [the DS950](https://www.essvote.com/products/ds950/), one of the newest electronic voting machines on the market, likely costing about $250,000.
 
-Even just looking at this quote for McLeod County, one may wonder ...
+It's one thing to spend a lot of tax-payer money on vulnerable machines, but another to actually use them correctly. The [DS200 Operator Guide](https://www.dropbox.com/s/9tgjadp53l7e34o/ES%26S%20DS%20200%20Operator%20Guide.pdf?dl=0) is 222 pages long.
 
-While county commissioners in other states have described these machines as being built in Omaha, Nebraska, both the DS450 and DS850 are made in Germany.
+The following two emails between staff at ES&S and the County Elections Administrator in McLeod County demonstrate that there is much vendor hand-holding to maintain and operate these machines.
 
-![Assembled in Germany](assembled_in_germany.png)
+![](absentee_mcleod_county_1of2.png)
 
-As for assistive voting equipment, ...
+![](absentee_mcleod_county_2of2.png)
 
-link to Jeff Lensburg video from Otero County???
-
-if we have identified problems with certain ones... like the Dominion ADA equipment... check if the same as "ones used in Georgia" (in Jeff Lensburg video)
+Are we asking too much of our election officials at the county level to not only maintain and operate but also mitigate cyber threats to these machines?
 
 ## Tabulation Systems
 
 In the [3/15/2022 Nye County, Nevada County Commissioner’s meeting](https://www.youtube.com/watch?t=234&v=GBKz1o_VqAE&feature=youtu.be) cyber security consultant Mark Cook [described his experience](https://www.youtube.com/watch?v=GBKz1o_VqAE&t=234s) with computers pre-internet in the CompuServe and Prodigy days, then as a consultant to protect companies from threats and seal off vulnerability, and finally with election systems.
 
-Today, Dominion is a popular voting system which uses Microsoft SQL database, one which Mark was and is very familiar with as he used SQL databases from day 1. In the same meeting, he discussed how within the first minute of getting his hands on a Dominion system, he was able to access the backend and change votes without leaving a trace.
+Today, Dominion is a popular voting system which uses Microsoft SQL database, one which Mark was and is very familiar with as he used SQL databases from day 1. In the [same meeting](https://www.youtube.com/watch?t=234&v=GBKz1o_VqAE&feature=youtu.be), he discussed how within the first minute of getting his hands on a Dominion system, he was able to access the backend and change votes...without leaving a trace.
 
-As has now been shown, certifications (and the lack of certifications) have not protected the right of men and women to vote freely and fairly in this country. For just one example, the [Mesa County Colorado Voting Systems Report #3: Election Database and Data Process Analysis](https://magaraccoon.com/docs/MesaCountyReport3.pdf) proves database manipulation happened inside the Colorado Dominion Voting Systems (DVS) Election Management System (EMS). Not once, but twice, in both the 2020 General Election and the 2021 Grand Junction Municipal Election.
+When Tina Peters secured a before and after image of her Dominion Voting Systems (DVS) Election Management System (EMS) servers, data analysts began working to detect what Dominion's "Trusted Build" may have changed.
+
+It turned out to be a lot.
+
+The [Mesa County Colorado Voting Systems Report #3: Election Database and Data Process Analysis](https://magaraccoon.com/docs/MesaCountyReport3.pdf) proves database manipulation happened inside the Colorado Dominion Voting Systems (DVS) Election Management System (EMS). Not once, but twice, in both the 2020 General Election and the 2021 Grand Junction Municipal Election.
+
+## Influence Operations
+
+I have chosen to borrow this term from Patrick Colbeck since it is less frequently used when compared to *psychological operations*. The screens which bring us our daily inspiration and fear, information from loved ones and our 2-minute's hate (à la *1984*), are seemingly a blessing and a curse.
+
+A blessing because it is only with the internet that information can be shared quickly enough and widely enough to outflank centralized media platforms and censorship regimes.
+
+But a curse because influence operations are deployed on those screens which provide an unobstructed path to our brain.
+
+For me, the most significant influence operations in the preparation phase in Minnesota were George Floyd, its extended aftermath, and of course, Covid-19.
+
+At the time I lived not far from 38th and Chicago.
+
+A few months later, I biked there once and another time walked there. Roads were blocked making it difficult for locals to even leave their streets. Shops were closed replaced by vendors selling t-shirts and BLM masks. Flowers were laid before the provocative murals and around the monument at the intersection.
+
+This was a trying time to the point that I even asked one of my clients if I could take time off from a gig.
+
+Covid-19 led to lockdowns and the sheepening of the population.
+
+All the while, preparations continued to be made for the election with little if any reporting of substance regarding the consent decrees which stripped witness and signature requirements from absentee ballots.
+
+The subversion of our elections was well under way.
+
+
+END of edit?
+
+
+
+
+Even though to my knowledge inspection has not been allowed to occur on ES&S's Electionware election management system, I am eager to
 
 Fortunately, there are signs around the country that people are becoming aware of the fundamental issue (that these machines are designed to allow manipulation) and using their voice to affect change how their county conducts elections. Yesterday, April 19, 2022, men and women spoke in Crow Wing, Dakota, and Sherburne counties ([video from Sherburne](https://erikvanmechelen.substack.com/p/open-forum-speakers-address-removing)). Recently, two counties in Nevada, Nye and Esmeralda have already decided not to use electronic voting equipment in upcoming elections. Which county commissioners will be the first in Minnesota to do the same and restore the voice that is constitutionally inherent in the right to vote to their constituents?
 
