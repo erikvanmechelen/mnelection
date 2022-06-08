@@ -220,10 +220,6 @@ What *should* these certifications imply in a more common-sense world?
 
 ## Voting Machines in Minnesota
 
-MOVE 4G here from ch5.txt
-
-In the Introduction we already discussed the potential presence of 4G wireless modems in an enclosure of the DS200s used in the majority of Minnesota's 87 counties.
-
 Here is a table of electronic voting equipment used in the 2020 general election, provided by Dan Sundin who pulled this information from the county websites.
 
 | County Name | Absentee and Mail Ballot Tabulation Equipment | Assistive Voting Equipment |
@@ -318,7 +314,7 @@ Here is a table of electronic voting equipment used in the 2020 general election
 
 There are potential vulnerabilities in all voting machines, but let's zoom in for a moment on the most-used equipment in Minnesota.
 
-DS200s were used in more than 60 of Minnesota's 87 counties in 2020.
+DS200s were used in 65 of Minnesota's 87 counties in 2020.
 
 In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
 
@@ -328,9 +324,13 @@ Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/p
 
 To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
 
-Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". To repeat: the ES&S DS200 was in use in 65 Minnesota counties in 2020.
+I include this information in the preparation phase of our discussion because this 4G wireless modem implementation would have to be installed *before* the election.
 
-To make matters worse, however, there are indications that the DS200's ability to generate a Cast Vote Record (CVR) report was turned off on at least some of the tabulators. This is a big problem because it turns off the machine audit trail. Where this decision was made, it may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phases discussion in the next two chapters.)
+Scientist Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". To repeat: the ES&S DS200 was in use in 65 Minnesota counties in 2020.
+
+To make matters worse, however, there are settings which allow the ballot images to not be saved (reducing the audit trail) and
+
+indications that the DS200's ability to generate a Cast Vote Record (CVR) report was turned off on at least some of the tabulators. This is a big problem because it turns off the machine audit trail. Where this decision was made, it may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phases discussion in the next two chapters.)
 
 Turning off the functionality to generate CVRs would also explain why Minnesotans sending public data requests have been met with letters like this one from the Todd County Attorney.
 
@@ -345,7 +345,24 @@ CONTINUE EDITING HERE, JUNE 6, 2020
 
 While some counties seem to be using dated Model 100 configurations (on their DS200 scanners), Saint Louis County recently purchased [the DS950](https://www.essvote.com/products/ds950/), one of the newest electronic voting machines on the market, likely costing about $250,000.
 
-In 2020, several Minnesota counties used the DS450 and DS850. While county commissioners in other states have described these machines as being built in Omaha, Nebraska, both the DS450 and DS850 are made in Germany.
+In 2020, some counties began upgrading to DS450s.
+
+![DS450 Pricing Quote Sent to ](ds450_pricing_mcleod.png)
+
+In 2020, several Minnesota counties used the DS450 and DS850.
+
+These are quite expensive.
+
+![Purchase Proposal Quote for McLeod County in 2020](MCCC_DS450_purchase_proposal_quote.png)
+
+Even the Site Support at $4,250 *alone* could be repurposed toward 20 election judges at $20 an hour for 10 hours. Many more election judges could be hired with the $50,000 spent on the DS450 tabulator.
+
+INSERT IMAGES WITH SEACHANGE, WRITE IN CAPTURE IMAGES?
+INSERT IMAGES ABOUT UPDATING ABSENTEE RESULTS MANUALLY?
+
+Even just looking at this quote for McLeod County, one may wonder ...
+
+While county commissioners in other states have described these machines as being built in Omaha, Nebraska, both the DS450 and DS850 are made in Germany.
 
 ![Assembled in Germany](assembled_in_germany.png)
 
@@ -496,16 +513,37 @@ In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covi
 
 We'll see, primaries are tbh the big thing and there are already issues there and in republican leadership conferences
 
+ALL OF THIS EQUIVALENT TO INFLATING VOTER ROLLS (WITH ILLEGITIMATE VOTERS)
+ALL OF THIS IS EQUIVALENT TO STUFFING BALLOT BOX
+
 wrote 'the CD5 show' - quote from it
 pull in articles
 
 saveminnesota.org
 
+https://saveminnesota.org/otter-tail/f/otter-tail-report-election-tampering-in-10-precincts
+
+https://drive.google.com/file/d/1Mq8vRXwOQTw9ZsQQCm3MRIYwrD_khx10/view
+
+If this can happen in Otter Tail County, it can happen in any county in Minnesota. This was why some were calling for a full and transparent audit of all county delegate lists to compare with state lists prior to further BPOU and endorsing conventions. These audits did not satisfyingly occur.
+
+I asked my BPOU Chair for an audit and the request was declined.
+
+In Morrison County,
 listen to Nathan Wesenberg's reporting
+
+ALL OF THIS EQUIVALENT TO INFLATING VOTER ROLLS (WITH ILLEGITIMATE VOTERS)
+ALL OF THIS IS EQUIVALENT TO STUFFING BALLOT BOX
+
+EVEN A 15% TAMPERING WOULD HAVE A 30% EFFECT SIZE - JUST LIKE VOTE SWAPPING IN AN ELECTION, IF I TAKE A TRUMP VOTE AND SWAP TO BIDE, -1 TO TRUMP, +1 TO BIDEN, OR NET +2
+
+IF YOU WERE TAMPERING WITH LISTS, YOU WERE PUTTING PEOPLE ON LIST WHO YOU **KNEW** WOULD VOTE YOUR DIRECTION, CHOOSING THE DELEGATE INSTEAD OF LETTING THEM BE VOTED UPON AS IN THE RULES AND MNGOP CONSTITUTION AND BPOU RULES, ETC.
 
 senate district 10 endorsement convention cancelled
 
-edwin hahn barred from senate 4 endorsement convention
+edwin hahn barred from senate 4 endorsement convention and participation in state convention as a delegate
+
+who knows how many more this may have occurred to if people had spoken up about what they were seeing
 
 erik van mechelen not allowed to participate in state convention endorsement process for secretary of state (link to video/article)
 https://erikvanmechelen.substack.com/p/proposed-rule-29-to-prevent-new-sos
