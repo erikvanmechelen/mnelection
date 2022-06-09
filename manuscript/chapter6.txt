@@ -16,9 +16,9 @@ title/chapter 18, §2384, and §2381
 
 County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent.
 
-link to MINNESOTA LEGAL BRIEF
+link to MINNESOTA LEGAL BRIEF (DO THIS)
 link to videos
-inspiration ! 
+inspiration !
 
 ## Hand Tallying is Cheaper (and more Reliable) (and Auditable)
 
