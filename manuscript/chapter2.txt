@@ -101,7 +101,11 @@ Epollbooks are generally connected to the internet so that they can both receive
 
 ![This tweet hasn't aged well](this_tweet_wont_age_well.png)
 
-In 2016, when Rick Weible was the mayor of St. Bonifacius, he first hacked into the proposed epollbook within minutes and then declined to sign a contract to use them in St. Bonifacius. His was the only city in Hennepin County *not* to use epollbooks (they used paper pollbooks) in the following election.
+As recently as the New Jersey primaries in early June 2022, evidence of the Nighthawk providing internet connectivity to 8 Tenex epollbooks was documented at one polling place. For the first three hours, no one noticed. Then, the county board of elections office called one of the senior poll workers on her cell phone to remind her to set up the Nighthawk because prior to that the board officials were unable to monitor the processing of voters.
+
+![Real Time Monitoring of Processing of Voters](nighthawk_new_jersey.png)
+
+In 2016, when Rick Weible was the mayor of St. Bonifacius, he hacked into the proposed epollbook within minutes. Then he declined to sign a contract to use them in St. Bonifacius. His was the only city in Hennepin County *not* to use epollbooks (they used paper pollbooks) in the following election.
 
 As shown on [the Verified Voting website](https://verifiedvoting.org/verifier/#mode/navigate/map/ppEquip/mapType/normal/year/2022/state/27), the majority if not all of Minnesota's counties use the KNOWiNK Poll Pads, which are essentially converted iPads for epollbook use. These electronic poll pads are not certified by the Election Assistance Commission (EAC).
 
@@ -113,13 +117,17 @@ Ballot preparation is a complicated process. But Patrick Colbeck does us a favor
 
 "Ballot preparation is a complicated process of overlaying political geographies with the contests and candidates specific to each district and then translating those layouts into unique combinations of ballot data. Ballot preparation data takes multiple forms such as ballot images (both paper and electronic), the data files necessary to build ballot images, audio files for special use ballots, and specific files for export to external systems such as websites for Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)-focused digital systems. Ballot preparation also generates the data necessary for tabulating votes within a voting machine and aggregating tabulated votes within a jurisdiction or state. This process is usually completed in an election documents and records management system (EDRMS), which is special software designed to manage documents and records throughout the document lifecycle, from creation to destruction. Access to the information in such systems would enable anyone attempting to subert the integrity of an election with the information necessary to create ballots independently of election officials. Of course, ballots are also where voters record their votes. Vote tallies are generated from the information on ballots therefore their integrity is very important to protect."
 
-After watching 2000 Mules Erin Clements asked where the NGOs that printed the ballots for the mules may have gotten the ballot formatting and ballot styles to correctly print ballots. I imagine True the Vote's Catherine Engelbrecht and Gregg Phillips' team were asking the same questions, leading to their follow-on work from the Wisconsin hearing to the Maricopa County senate hearing to the work on the ground in Yuma County.
+After watching 2000 Mules Erin Clements asked where the NGOs that printed the ballots for the mules may have gotten the ballot formatting and ballot styles to correctly print ballots. I imagine True the Vote's Catherine Engelbrecht and Gregg Phillips' team were asking the same questions, leading to their follow-on work from the Wisconsin hearing in March 2022 to the Maricopa County senate hearing in early June to the work on the ground in Yuma County.
 
-While Minnesota uses paper ballots in all 87 counties, we are *not* hand-counting them. Because there is no hand tally, we are putting our trust completely in the voting machines and tabulation systems. The voting machines, also called tabulators, scan and count the votes. The tallies from the tabulators are then aggregated in tabulation software known as an election management system.
+While Minnesota uses paper ballots in all 87 counties, we are *not* hand-counting them. Because there is no hand tally, we are putting our trust completely in the voting machines and tabulation systems. The voting machines, also called tabulators, scan and count the votes. Simply put—but the process is anything *but* simple—the tallies from the tabulators are then aggregated in tabulation software known as an election management system.
 
 ## Voting Machines
 
-Here is a table of electronic voting equipment used in the 2020 general election, provided by Dan Sundin, part of the decentralized Telegram group mentioned in the introduction, who pulled this information from the county websites.
+Optical scanners are essentially interpreting pixels on a bitmap and translating that into vote tallies.
+
+Vendors largely keep to themselves their standards for interpreting ovals. In certain situations, the tabulators are programmed to send ballots to adjudication, where election judges are responsible (not the voter) for deciding the intent of the voter. This includes situations like blank ballot, overvotes, ambiguous marks, and ballot misreads.
+
+Here is a table of electronic voting equipment used in the 2020 general election, provided by Dan Sundin, part of the decentralized Telegram group mentioned in the introduction, who despite not living in Minnesota did me a favor and pulled this information from each of the county websites.
 
 | County Name | Absentee and Mail Ballot Tabulation Equipment | Assistive Voting Equipment |
 | --- | --- | --- |
@@ -229,7 +237,7 @@ I include this information in the preparation phase of our discussion because th
 
 Additionally, scientist Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". Because the code is not open source, it is difficult to know all the vulnerabilities that may exist. And since its "System and Method for Decoding Marks on a Paper Ballot" is proprietary, patent law means ES&S owns that intellectual property. That being said, former cyber analyst for the Air Force Jake Stauffer's [vulnerability report](https://www.scribd.com/document/513400991/ESS-RedTeam-Jake-Stauffer-Vulnerability-Security-Assessment-Report) is revealing, demonstrating among other details that "file systems are not encrypted [which] allowed the team to recover system configuration information, password hashes, and ES&S specific binaries."
 
-To repeat: the ES&S DS200 was in use in 65 Minnesota counties in 2020.
+For emphasis: the ES&S DS200 was in use in 65 Minnesota counties in 2020.
 
 To make matters worse, however, there are apparently settings which allow the ballot images to not be saved (reducing the audit trail) and potentially settings which turn off the Cast Vote Record (CVR) report functionality.
 
@@ -239,7 +247,7 @@ Turning off the functionality to generate CVRs would also explain why Minnesotan
 
 ![The opinion of the Todd County Attorney](todd_county_atty_opinion.png)
 
-*Please note that although we have focused on ES&S, there are several Minnesota counties that use Dominion systems and several that use Hart systems. Neither are safe or secure from cyber threats nor is their source code available to be examined with the notable exception of the Dominion Voting Systems (DVS) Election Management System (EMS) server from Mesa County, Colorado, which is the focus of the [Mesa County Report #3](https://magaraccoon.com/docs/MesaCountyReport3.pdf) and featured in the [Selection Code](https://selectioncode.com) documenatary.
+Please note that although we have focused on the ES&S DS200s, there are several Minnesota counties that use Dominion ImageCast machines and several that use Hart Verity Scan tabulators. Equipment from these vendors are also insecure from cyber threats. More importantly, their source code is not available to be examined.
 
 ## Tabulation Systems
 
@@ -258,7 +266,7 @@ The following diagram shows how five elements of the ES&S EVS tabulation system 
 
 In the [3/15/2022 Nye County, Nevada County Commissioner’s meeting](https://www.youtube.com/watch?t=234&v=GBKz1o_VqAE&feature=youtu.be) cyber security consultant Mark Cook [described his experience](https://www.youtube.com/watch?v=GBKz1o_VqAE&t=234s) with computers pre-internet in the CompuServe and Prodigy days, then as a consultant to protect companies from threats and seal off vulnerability, and finally with election systems.
 
-Today, Dominion is a popular voting system which uses Microsoft SQL database, one which Mark was and is very familiar with as he used SQL databases from day 1. In the [same meeting](https://www.youtube.com/watch?t=234&v=GBKz1o_VqAE&feature=youtu.be), he discussed how within the first minute of getting his hands on a Dominion system, he was able to access the backend and change votes...without leaving a trace.
+Today, Dominion is a popular voting system which uses Microsoft SQL database, one which Mark was and is very familiar with as he used SQL databases from day 1. In the same meeting, he discussed how within the first minute of getting his hands on a Dominion system, he was able to access the backend and change votes...without leaving a trace.
 
 In 2021, when Tina Peters learned that a Dominion vendor was planning to visit her office to make a software update, she took action in line with her statutory duties to preserve election data as the Mesa County Clerk. She worked with consultants to save a copy of the before and after image of her Dominion Voting Systems (DVS) Election Management System (EMS) servers, which data analysts then began investigating to detect what Dominion's "Trusted Build" may have changed.
 
@@ -266,7 +274,7 @@ It turned out to be a lot.
 
 The [Mesa County Colorado Voting Systems Report #3: Election Database and Data Process Analysis](https://magaraccoon.com/docs/MesaCountyReport3.pdf) proves database manipulation happened inside the Colorado Dominion Voting Systems (DVS) Election Management System (EMS). Not once, but twice, in both the 2020 General Election and the 2021 Grand Junction Municipal Election.
 
-That report has been called the "Rosetta Stone" because it provided the fingerprints of the nefarious activity.
+That report has been called the "Rosetta Stone" because it provided the fingerprints of the nefarious activity and will be featured in the [Selection Code](https://selectioncode.com) documentary.
 
 These not so trust-worthy software updates were performed by Dominion employees across the country, possibly destroying evidence of election tampering and manipulation. It is possible that such an update may have occurred in the six Minnesota counties using the Domininon Voting System (DVS) Election Management System (EMS). So far, just the one before/after image of the servers exists, truly a God send.
 

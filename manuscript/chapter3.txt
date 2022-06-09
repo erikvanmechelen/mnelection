@@ -1,6 +1,70 @@
 {sample: true}
 # Chapter Two - Attack
 
+QUOTE
+
+
+By now many are familiar with suitcases of ballots being scanned by Ruby Freeman or the truckloads of ballots being delivered to the TCF Center in Detroit.
+
+But ballot harvesting and trafficking operations were in effect across the country.
+
+In Minnesota we perhaps caught a small glimpse of this through Project Veritas reporting on [Ilhan-Omar connected ballot harvesting schemes](https://www.projectveritas.com/news/ilhan-omar-connected-cash-for-ballots-voter-fraud-scheme-corrupts-elections/) in September 2020. However, the ballot harvesting being done in those videos only sheds light on traditional ballot harvesting, in that case exploiting the elderly in apartment towers for which the in-person polling place was within walking distance if not in the same building.
+
+What True the Vote's work showed in documentaries like 2000 Mules is a likely nationwide coordinated effort to print ballots at NGOs and have them dropped off in dropboxes (or the mail) by mules.
+
+True the Vote's [election integrity report](https://www.truethevote.org/wp-content/uploads/2022/03/FILE_5193_no-meta.pdf) titled "Delivery of Absentee Ballots by Intermediaries to Milwaukee County Area Drop Boxes October 20 – November 3, 2020 was published on March 18, 2022. The next day in Madison, Wisconsin, Catherine Engelbrecht and Gregg Phillips [gave testimony in an informational hearing](https://www.truethevote.org/election-integrity-testimony-in-wisconsin-on-thursday-march-24-2022/) before the Assembly Committee on Campaigns and Elections.
+
+The work of True the Vote and their consultants is bringing into focus David Clements' [vote trafficking parable](https://rumble.com/vl2qbo-mike-lindell-cyber-symposium-professor-david-clements-the-vote-trafficking-.html) delivered at Mike Lindell's Cyber Symposium.
+
+## Did Ballot Traffickers Work in Minnesota?
+
+If this could happen at scale in Wisconsin, what makes Minnesotans denying the reality of ballot trafficking reason this could not happen only a few miles away?
+
+The scale of absentee or mail-in ballots was immense. Over 1.9 million votes were apparently cast this way. That's a more than 1.2 million increase over the previous record.
+
+Not only could absentee ballots sent to phantom voters that came back return-to-sender be collected, but NGOs may have had the ability to print ballots en masse and use mules to deliver them.
+
+The rate at which canvassing in 30 Minnesota counties has shown that voters who reported voting in person were recorded as voting absentee raises questions.
+
+The fact that more than 700,000 reported absentee votes were not connected to a voter in the statewide voter registration system (SVRS) 25 days after the election and only 5 days after the MN State Canvassing Board certified the election raises further questions.
+
+Could it be that some percentage of these 700,000 reported absentee votes were coordinated by bad actors and therefore were not easily reconcilable in the electronic systems?
+
+This is an ongoing and unresolved issue.
+
+The following table with data from [Rick Weible](https://midwestswampwatch.com) shows the absentee ballots not connected by November 29th, 2020, in the MN SOS data in the Twin Cities area. Note that this work should be done immediately according to [Minnesota Statute 203B.121 BALLOT BOARDS](https://www.revisor.mn.gov/statutes/cite/203B.121).
+
+| County | Absentee Ballots Not Connected |
+| --- | --- |
+| Anoka | 4,537 |
+| Hennepin | 17,830 |
+| Carver | 33,741 |
+| Scott | 46,220 |
+| Dakota | 154,756 |
+| Ramsey | 8,350 |
+| Washington | 81,414 |
+
+This is not an exhaustive list.
+
+Furthermore, there is data gap between October 30 and November 3 which makes it difficult to audit the "must immediately" clause. The next table shows the absentee data and how it changed over time on the secretary of state's website.
+
+| Date Requested | Quantity | Date Accepted | Quantity |
+| --- | --- | --- | --- |
+| 10/25/2020 | 1,765,327 | 10/23/2020 | 1,186,522 |
+| 11/01/2020 | 1,969,728 | 10/30/2020 | 1,581,193 |
+| 11/04/2020 | 2,129,804 | 11/03/2020 | 1,846,668 |
+| 12/01/2020 | 2,129,804 | 11/03/2020 | 1,846,668 |
+| 1/16/2021 | 2,193,411 | 1/14/2021 | 1,909,701 |
+| 2/14/2021 | 2,193,411 | 1/14/2021 | 1,909,701 |
+
+
+
+
+
+links to True the Vote's work...
+
+
+
 
 
 Quote from Gregg Phillips or Katherine Engelbrecht from
@@ -10,10 +74,6 @@ search on Midwest seeds articles ... (titel " data everyone should look at")
 
 and more
 
-so much on This
-RICO
-
-makes the VOTE TRAFFICKING PARABLE by DAVID CLEMENTS at CYBER SYMPOSIUM ring very prophetic...
 
 
 ***
