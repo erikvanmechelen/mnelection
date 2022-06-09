@@ -127,7 +127,11 @@ Optical scanners are essentially interpreting pixels on a bitmap and translating
 
 Vendors largely keep to themselves their standards for interpreting ovals. In certain situations, the tabulators are programmed to send ballots to adjudication, where election judges are responsible (not the voter) for deciding the intent of the voter. This includes situations like blank ballot, overvotes, ambiguous marks, and ballot misreads.
 
-Here is a table of electronic voting equipment used in the 2020 general election, provided by Dan Sundin, part of the decentralized Telegram group mentioned in the introduction, who despite not living in Minnesota did me a favor and pulled this information from each of the county websites.
+It's conceivable that these tabulators make mistakes that humans would not make. Erin Clements [demonstrated evidence of this](https://www.youtube.com/watch?v=Z_2SNcUSdlI) from the Otero County audit in the Otero County Special Meeting on June 9, 2022. She concluded, "The tabulators are not smarter than people."
+
+In that same audit, there was a software mismatch between the tabulators and the election management system (a violation of the election code in New Mexico law), and yet the mismatch did not prevent the tabulation systems from processing vote tallies.
+
+Here is a table of electronic voting equipment used in Minnesota's 2020 general election, provided by Dan Sundin, part of the decentralized Telegram group mentioned in the introduction, who despite not living in Minnesota did me a favor and pulled this information from each of the county websites.
 
 | County Name | Absentee and Mail Ballot Tabulation Equipment | Assistive Voting Equipment |
 | --- | --- | --- |
