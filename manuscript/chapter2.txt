@@ -17,7 +17,7 @@ In studying Minnesota election laws, one can follow the history of a particular 
 
 Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified [less than 6% of Minnesota counties](https://erikvanmechelen.substack.com/p/only-6-out-of-87-counties-in-minnesota) and certified none of its internet connected e-pollbooks. The DS200, a scanner and tabulator from ES&S, was used in 65 Minnesota counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in [the Antrim County, Michigan investigation](https://www.depernolaw.com/uploads/2/7/0/2/27029178/ex_5-10.pdf) in late 2020 after it was discovered that 7,000 votes had been flipped.
 
-Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the [Electronic Registration Information Center](https://ericstates.org/) (ERIC) which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
+Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the [Electronic Registration Information Center](https://ericstates.org/)(ERIC), having [joined in 2014](https://www.minnpost.com/political-agenda/2014/09/minnesota-joins-multistate-voter-registration-group/), which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
 
 In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law. In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters.
 
@@ -422,7 +422,7 @@ The subversion of our elections was well under way.
 
 All the while, preparations continued to be made for the election with little if any reporting of substance regarding the consent decrees which stripped witness and signature requirements from absentee ballots, nor the mass installment of Zuckerboxes, nor the preparations the work of True the Vote has shone light upon in the first half of 2022.
 
-PICK UP HERE 
+PICK UP HERE
 
 
 END of edit?
@@ -541,10 +541,34 @@ attack
 backup attack
 defend
 
-## Psychology
+## Preparation for 2022 in Minnesota
+
+It matters a lot which candidates are on the ballot for a primary or general election. Imagine if Jeb Bush or Ted Cruz had faced off against Hillary Clinton, instead of Donald Trump. In that event, some percentage of republican voters may have stayed home. Unexciting candidates have that effect. If voters stay home a vote can be cast in their stead.
+
+The method of putting forward unexciting candidates is also effective in state and local elections. As the media tries to get us talking about a red wave, we must stay vigilant and put forward America First candidates. It does no one any good to elect candidates who can be bought by the highest bidder or be influenced away from the principles of upholding the constitution.
 
 QUOTED FROM OPENING OF THIS CHAPTER
-In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law. In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement.
+In the psychological realm, in mid-2020, George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law.
+
+Just as there were distractions in 2020, in the runup to the 2022 midterm elections, there has been no shortage of diversions attempted by those who wish to keep us from reclaiming our government.
+
+This Rasmussen survey shows what voters care about versus what the media cares about:
+
+![61% Very Concerned About Election Integrity](ras_survey.png)
+
+Back in February, the beginning of the election process started in Minnesota at the precinct caucuses.
+
+There, the key item of business is electing delegates. Those chosen in their precincts will then serve as delegates at the basic political organizing unit (BPOU) level. From there, another round of voting happens to elect delegates to the congressional district and state conventions, where endorsements occur for governor, attorney general, state auditor, and secretary of state.
+
+Right from the jump, there were issues at the precinct caucuses.
+
+Link to soundcloud...
+
+As precinct caucuses ca
+
+all this amounts to...
+
+there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement.
 
 We'll see, primaries are tbh the big thing and there are already issues there and in republican leadership conferences
 
