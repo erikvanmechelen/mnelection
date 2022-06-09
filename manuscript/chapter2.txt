@@ -7,7 +7,7 @@
 
 ***
 
-As noted in the introduction, 2020 was filled with what could be called distractions but in reality were outright attacks on the American people. While those occurred, the preparation phase was shaping the battlefield. Published in 1999, a translated version of the original People's Liberation Army documents, [*Un-Restricted Warfare*](https://www.amazon.com/Unrestricted-Warfare-Chinas-Destroy-America/dp/1626543054), by Col. Qiao Liang and Col. Wang Xiangsui provides context for how the George Floyd incident might relate to or be part of the same attack upon our country. In particular, chapter 7: Ten Thousand Methods Combined as One: Combinations That Transcend Boundaries, the authors argue for the necessity to exceed the previous limitations of warfare, perhaps in Machiavellian fashion going beyond acceptable methods laid down in [*The United States Department of Defense Law of War Manual*](https://projectapario.com/Browse?document=DQTBLMQK9&filename=DoD%20Law%20of%20War%20Manual%20-%20June%202015%20Updated%20Dec%202016.pdf), a guide to international humanitarian law. Qiao and Wang go on to discuss supra-national combinations, that is efforts that include national, international, and non-state organizations.
+As noted in the introduction, 2020 was filled with what could be called distractions but in reality were outright attacks on the American people. While those occurred, the preparation phase was shaping the battlefield. Published in 1999, a translated version of the original People's Liberation Army documents, [*Un-Restricted Warfare*](https://www.amazon.com/Unrestricted-Warfare-Chinas-Destroy-America/dp/1626543054), by Col. Qiao Liang and Col. Wang Xiangsui provides context for how the George Floyd incident might relate to or be part of the same attack upon our country. In particular, chapter 7: Ten Thousand Methods Combined as One: Combinations That Transcend Boundaries, the authors argue for the necessity to exceed the previous limitations of warfare, perhaps in Machiavellian fashion going beyond acceptable methods laid down in [*The United States Department of Defense Law of War Manual*](https://projectapario.com/Browse?document=DQTBLMQK9&filename=DoD%20Law%20of%20War%20Manual%20-%20June%202015%20Updated%20Dec%202016.pdf), a guide to international humanitarian law. Qiao and Wang go on to discuss supra-national combinations, that is efforts that include national, international, and non-state organizations. The [fog of war](https://projectapario.com/Browse?page=NKR1KBMNN&from_search_query=stumble_into) makes seeing how all these elements work together difficult.
 
 Preparation to subvert elections occurs on multiple levels, local, state, national, as well as international, not limited to the domains of law, electronic systems, and psychological operations. The unraveling of this national election theft is likely to take some time; it's implications may be difficult for some of us to comprehend, but try we must. What other option do we have?
 
@@ -21,7 +21,7 @@ Electronic voting equipment and election management software from Dominion and H
 
 In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law. In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters.
 
-## Minnesota Statutes and Law
+## Minnesota Statutes and Election Law
 
 Let's start with just a sample of Minnesota election laws and orders which affected the rules and procedures in the November 2020 general election:
 
@@ -63,25 +63,25 @@ Further, would it be unreasonable to ask Bob Kolasky how CISA's analysis which p
 
 About a year and a half later, on June 3, 2022, CISA [issued an advisory](https://www.cisa.gov/uscert/ics/advisories/icsa-22-154-01), "Vulnerabilities Affecting Dominion Voting Systems ImageCast X", which focuses on Dominion (but ES&S and Hart also have glaring vulnerabilities) and may have been released to get ahead of the Halderman report. The advisory detailed weaknesses including [hidden functionality](https://cwe.mitre.org/data/definitions/912.html) and [improper protection of alternate path](https://cwe.mitre.org/data/definitions/424.html). Now, the Halderman report focuses on the internet connectivity of election equipment. But, I tend to agree with Draza Smith that we shouldn't over-focus on that given what she wrote on Telegram in March, 2022: "The thing we need to get everyone to understand is that it is the software the vendors have baked into the machines that is cheating the American people."
 
-It's not that internet connectivity isn't a problem—it's a big problem. But it isn't the only vulnerability. Even a machine *without* internet connectivity can be a huge problem for fairness and transparency based on its programming or chosen configurations.
+It's not that internet connectivity isn't a problem—it's a big problem because for one thing, it allows centralized real-time communication between devices. But internet-connected, networked, or remote-accessable devices aren't the only vulnerability. Even a machine *without* internet connectivity can be a huge problem for fairness and transparency based on its programming or chosen configurations.
 
 Now, let's take the CISA-identified components one at a time.
 
-### The Statewide Voter Registration System (SVRS)
+## The Statewide Voter Registration System (SVRS)
 
 The registration files known as voter rolls or rosters are critical because they store the data which helps determine who in the state is eligible to vote. An extract of these files is pulled into the epollbooks to allow a voter to receive a ballot if voting in person on election day.
 
-Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the <a href="https://ericstates.org/" target=_new>Electronic Registration Information Center (ERIC)</a> provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered."
+Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the [Electronic Registration Information Center](https://ericstates.org/) (ERIC) provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered."
 
 For instance, if member states like Minnesota do not remove voters who have moved out of state or have died, then the result is an inflated voter roll. Even if the dead or out of state voter votes, that vote technically counts since that individual will be on the statewide voter registration system with a voter ID in the system. On the second night of the Cyber Symposium, I met someone named Russ working on several problems including the problem of voters showing up in multiple states.
 
 But how do we know that voter rolls are inflated, providing an ample supply of ready-to-launch voters, a credit or slush fund to be used during the attack phase?
 
-Voter rolls and histories are public information that you can request from the <a href="https://www.sos.state.mn.us/election-administration-campaigns/data-maps/registered-voter-list-requests/" target=_new>Minnesota Secretary of State's website</a> for $46. Note that your request is made at a particular moment in time. However, if you request a list before and after an election, as people like <a href="https://midwestswampwatch.com" target=_new>Rick Weible</a> did for the November 3rd, 2020 General Election, and you are handy with database management (these are big files) then you can see how the lists changed. If you were to continue to request lists every few weeks, then you could see how the lists change over time, sometimes dramatically. (Going forward, it should not require experts in database management to hold our government accountable.)
+Voter rolls and histories are public information that you can request from the [Minnesota Secretary of State's website](https://www.sos.state.mn.us/election-administration-campaigns/data-maps/registered-voter-list-requests/) for $46. Note that your request is made at a particular moment in time. However, if you request a list before and after an election, as people like Rick Weible did for the November 3rd, 2020 General Election, and you are handy with database management (these are big files) then you can see how the lists changed. If you were to continue to request lists every few weeks, then you could see how the lists change over time, sometimes dramatically. (Going forward, it should not require experts in database management to hold our government accountable.)
 
 ![Historical Highs in Minnesota Absentee Votes](mn_absentee.png)
 
-It was these voter rolls and histories that allowed Rick Weible to discover that more than 700,000 reported absentee votes [reported by the secretary of state's website](https://www.sos.state.mn.us/election-administration-campaigns/data-maps/absentee-data/) were not yet connected to a voter in the SVRS on November 29, 2020, only 25 days after the election and a mere 5 days after the Minnesota State Canvassing Board <a href="https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/" target=_new>certified the results</a> of the 2020 General Election.
+It was these voter rolls and histories that allowed Rick Weible to discover that more than 700,000 reported absentee votes [reported by the secretary of state's website](https://www.sos.state.mn.us/election-administration-campaigns/data-maps/absentee-data/) were not yet connected to a voter in the SVRS on November 29, 2020, only 25 days after the election and a mere 5 days after the Minnesota State Canvassing Board [certified the results](https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/) of the 2020 General Election.
 
 When comparing voter rolls with census population data, one can chart turnout of the voting age population. In the following chart, we see that Minnesota ranks 1st in voting age population turnout, an indicator of fraud.
 
@@ -95,15 +95,17 @@ In neighboring Wisconsin, [Jeffrey O'Donnell's analysis of data from August 2021
 
 Rick Weible has acquired voter rolls and histories from multiple states. When examined collectively, the inflation either inspired by or influenced directly by organizations like the Electronic Registration Information Center (ERIC) is plain to see.
 
-### Epollbooks
+## Epollbooks
 
 Epollbooks are generally connected to the internet so that they can both receive a precinct-level extract of the statewide voter registration system or are at minimum a digital file if not connected or networked. The internet connection also provides for real-time updating which conceivably would have allowed our attorney general in Minnesota to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day.
 
-In 2016, when Rick Weible was the mayor of St. Bonifacius, he first hacked into the proposed epollbook within minutes and then declined to sign a contract to use them in St. Bonifacius. His was the only city in Hennepin County *not* to use epollbooks (they used paper pollbooks) in the following election. Epollbooks are not certified by the Election Assistance Commission (EAC).
+![This tweet hasn't aged well](this_tweet_wont_age_well.png)
 
-As shown on [the Verified Voting website](https://verifiedvoting.org/verifier/#mode/navigate/map/ppEquip/mapType/normal/year/2022/state/27), the majority if not all of Minnesota's counties use the KNOWiNK Poll Pads, which are essentially converted iPads for epollbook use.
+In 2016, when Rick Weible was the mayor of St. Bonifacius, he first hacked into the proposed epollbook within minutes and then declined to sign a contract to use them in St. Bonifacius. His was the only city in Hennepin County *not* to use epollbooks (they used paper pollbooks) in the following election.
 
-### Ballot Preparation
+As shown on [the Verified Voting website](https://verifiedvoting.org/verifier/#mode/navigate/map/ppEquip/mapType/normal/year/2022/state/27), the majority if not all of Minnesota's counties use the KNOWiNK Poll Pads, which are essentially converted iPads for epollbook use. These electronic poll pads are not certified by the Election Assistance Commission (EAC).
+
+## Ballot Preparation
 
 Ballot preparation is a complicated process. But Patrick Colbeck does us a favor of simplifying the complex in his book, *The 2020 Coup*:
 
@@ -115,7 +117,7 @@ After watching 2000 Mules Erin Clements asked where the NGOs that printed the ba
 
 While Minnesota uses paper ballots in all 87 counties, we are *not* hand-counting them. Because there is no hand tally, we are putting our trust completely in the voting machines and tabulation systems. The voting machines, also called tabulators, scan and count the votes. The tallies from the tabulators are then aggregated in tabulation software known as an election management system.
 
-### Voting Machines
+## Voting Machines
 
 Here is a table of electronic voting equipment used in the 2020 general election, provided by Dan Sundin, part of the decentralized Telegram group mentioned in the introduction, who pulled this information from the county websites.
 
@@ -249,7 +251,7 @@ The following diagram shows how five elements of the ES&S EVS tabulation system 
 1. Election Data Management
 2. Ballot Formatting and Printing
 3. Voting Equipment Configuration
-4. Voting and Tabulation 
+4. Voting and Tabulation
 5. Results Consolidation and Reporting
 
 ![The Complicated System Configuration of ES&S Electionware](evs_5.2)
