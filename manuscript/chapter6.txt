@@ -12,6 +12,81 @@ title/chapter 18, §2384, and §2381
 
 ***
 
+## The County Commission Strategy
+
+County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent.
+
+link to MINNESOTA LEGAL BRIEF
+link to videos
+inspiration ! 
+
+## Hand Tallying is Cheaper (and more Reliable) (and Auditable)
+
+put link to Nye County video
+
+We do not presently have fairness nor transparency but day by day we have the chance to regain it and set things right. Elections should be on one day where paper ballots are hand counted, very achievable if polling places are organized into small, manageable precincts. 22 out of 87 Minnesota counties had fewer than 5,700 votes in 2020 and could perhaps more swiftly move to hand tallying, which is already acceptable by law.
+
+| County | Votes |
+| --- | --- |
+| Big Stone | 2916 |
+| Clearwater | 4632 |
+| Cook | 3699 |
+| Grant | 3569 |
+| Jackson | 5693 |
+| Kittson | 2552 |
+| Lac Qui Parle | 3974 |
+| Lake of the Woods | 2375 |
+| Lincoln | 3058 |
+| Mahnomen | 2254 |
+| Marshall | 5016 |
+| Murray | 4812 |
+| Norman | 3357 |
+| Pipestone | 4859 |
+| Red Lake | 2145 |
+| Rock | 5139 |
+| Stevens | 4966 |
+| Swift | 5100 |
+| Traverse | 1833 |
+| Watonwan | 5090 |
+| Wilkin | 3354 |
+| Yellow Medicine | 5422 |
+
+[Minnesota Statute 204C.04 EMPLOYEES; TIME OFF TO VOTE](https://www.revisor.mn.gov/statutes/cite/204C/full) in subdivision 1 already provides the the **Right to be Absent** in order to "appear at the employee's polling place, cast a ballot, and return to work on the day of that election, without penalty or deduction from salary or wages because of the absence."
+
+Going forward, if additional man power is needed to hand count paper ballots in precinct polling places on election day, [204B.195 TIME OFF FROM WORK TO SERVE AS ELECTION JUDGE](https://www.revisor.mn.gov/statutes/cite/204B.195) allows for absence without penalty.
+
+I have met many people who have said they would count the votes for no compensation just so that everyone can regain confidence that the election was conducted fairly and transparently in their precinct and county.
+
+BELOW PULLED FROM PREPARATIOn
+
+Moving on to other ES&S equipment: In 2020, some counties began upgrading to DS450s and DS850s.
+
+![DS450 Pricing Quote Sent to ](ds450_pricing_mcleod.png)
+
+While county commissioners in other states have described these machines as being built in Omaha, Nebraska, both the DS450 and DS850 are made in Germany.
+
+![Assembled in Germany](assembled_in_germany.png)
+
+These newer models are quite expensive.
+
+![Purchase Proposal Quote for McLeod County in 2020](MCCC_DS450_purchase_proposal_quote.png)
+
+Even the Site Support at $4,250 *alone* could be repurposed toward 20 election judges at $20 an hour for 10 hours. Many more election judges could be hired with the $50,000 spent on the DS450 tabulator.
+
+Meanwhile, Saint Louis County recently purchased [the DS950](https://www.essvote.com/products/ds950/), one of the newest electronic voting machines on the market, likely costing about $250,000.
+
+It's one thing to spend a lot of tax-payer money on vulnerable machines, but another to actually use them correctly. The [DS200 Operator Guide](https://www.dropbox.com/s/9tgjadp53l7e34o/ES%26S%20DS%20200%20Operator%20Guide.pdf?dl=0) is 222 pages long.
+
+The following two emails between staff at ES&S and the County Elections Administrator in McLeod County demonstrate that there is much vendor hand-holding to maintain and operate these machines.
+
+![](absentee_mcleod_county_1of2.png)
+
+![](absentee_mcleod_county_2of2.png)
+
+Are we asking too much of our election officials at the county level to not only maintain and operate but also mitigate cyber threats to these machines?
+
+
+
 <h2>Available Remedies</h2>
 <p>
 	Speaking of remedies... In other states like Nevada, county commissioners are already <a href="https://www.youtube.com/watch?v=GBKz1o_VqAE" target=_new> making decisions</a> to remove electronic voting equipment from upcoming elections and making plans to return to counterfeit-proof paper ballots hand-counted in precinct on a single election day, greatly simplifying the process. Minnesotans have attended their county commissioner meetings and <a href="https://erikvanmechelen.substack.com/p/open-forum-speakers-address-removing" target=_new>have spoken</a> toward those same ends—that trend is likely to continue.

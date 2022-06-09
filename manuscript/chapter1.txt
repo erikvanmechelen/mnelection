@@ -67,40 +67,7 @@ Through work toward audits, reporting on the work of others, and attending count
 
 In April 2022 I decided to run for secretary of state in Minnesota to continue sharing what I've learned about what happened in 2020 and how we can heal our sick election system.
 
-At the time the decision felt partially absurd. What good would it do to run in a system that was unfair and lacked transparency? I thought to myself, *They will probably just rig it against me.* In my childhood I saw millions go to the streets in Jakarta, Indonesia which influenced the then three-decade president Suharto to resign. And yet this is a different place and time. We can do this by the book. County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent.
-
-We do not presently have fairness nor transparency but day by day we have the chance to regain it and set things right. Elections should be on one day where paper ballots are hand counted, very achievable if polling places are organized into small, manageable precincts. 22 out of 87 Minnesota counties had fewer than 5,700 votes in 2020 and could perhaps more swiftly move to hand tallying, which is already acceptable by law.
-
-| County | Votes |
-| --- | --- |
-| Big Stone | 2916 |
-| Clearwater | 4632 |
-| Cook | 3699 |
-| Grant | 3569 |
-| Jackson | 5693 |
-| Kittson | 2552 |
-| Lac Qui Parle | 3974 |
-| Lake of the Woods | 2375 |
-| Lincoln | 3058 |
-| Mahnomen | 2254 |
-| Marshall | 5016 |
-| Murray | 4812 |
-| Norman | 3357 |
-| Pipestone | 4859 |
-| Red Lake | 2145 |
-| Rock | 5139 |
-| Stevens | 4966 |
-| Swift | 5100 |
-| Traverse | 1833 |
-| Watonwan | 5090 |
-| Wilkin | 3354 |
-| Yellow Medicine | 5422 |
-
-[Minnesota Statute 204C.04 EMPLOYEES; TIME OFF TO VOTE](https://www.revisor.mn.gov/statutes/cite/204C/full) in subdivision 1 already provides the the **Right to be Absent** in order to "appear at the employee's polling place, cast a ballot, and return to work on the day of that election, without penalty or deduction from salary or wages because of the absence."
-
-Going forward, if additional man power is needed to hand count paper ballots in precinct polling places on election day, [204B.195 TIME OFF FROM WORK TO SERVE AS ELECTION JUDGE](https://www.revisor.mn.gov/statutes/cite/204B.195) allows for absence without penalty.
-
-I have met many people who have said they would count the votes for no compensation just so that everyone can regain confidence that the election was conducted fairly and transparently in their precinct and county.
+At the time the decision felt partially absurd. What good would it do to run in a system that was unfair and lacked transparency? I thought to myself, *They will probably just rig it against me.* In my childhood I saw millions go to the streets in Jakarta, Indonesia which influenced the then three-decade president Suharto to resign. And yet this is a different place and time. We can do this by the book. In the Recommendations chapter you will find detailed steps every Minnesota county can take *right now*. We cannot afford to wait for the primary or the general election to makes changes happen.
 
 As uneasy as I felt about running for secretary of state in Minnesota, I was also eager to take the opportunity set before me. If I hadn't decided to run, a few things would not have happened:
 1. I wouldn't have been excluded without a satisfying reason by the MNGOP from the secretary of state endorsement process at the Rochester state convention on May 12 and 13, 2022
@@ -164,8 +131,12 @@ These phases will provide the framework to put Minnesota's 2020 election in cont
 
 ***
 
-In the imminent and immediate future, the machines will become unacceptable to the majority of people, perhaps as soon as July 16 when [the documentary Selection Code](https://selectioncode.com) is released digitally for free to the world.
+In the imminent and immediate future, machines will become unacceptable to the majority of Americans. I predict that in a similar way to how 2000 Mules showed how orchestrated ballot trafficking was nationally and made it easier to talk about, the [Selection Code documentary](https://selectioncode.com) will open the door a deeper understanding of how the machines [s]elect candidates at the local, state, and national level.
 
 Then, hand counting paper will be even more heavily demanded. Once trust is restored in hand counting paper ballots that are 100% auditable, maybe only then should alternatives to hand counting paper may be looked into. But let's take this one step at a time.
 
-Read this book and share it with anyone who doesn't yet understand how machines and malicious code determine the outcome of elections in our state and country. Every Minnesotan deserves to know the truth. Without this information, how can the public react? Once the light is shone, deception and lies will hold no power over us. It's not who votes or who counts the vote, it very well may be who codes the vote that matters most.
+Read this book and share it with anyone who doesn't yet understand how machines and malicious code determine the outcome of elections in our state and country. Keep in mind this is only an introduction to the topic, as I too work daily to learn more of the details.
+
+Every Minnesotan deserves to know the truth. Without this information, how could the public react? And how could we hold elected officials accountable? Once the information is available, we can react. We can hold elected officials accountable and return to a state of government of, by, and for the people.
+
+Once the light is shone, deception and lies will hold no power over us. It's not who votes or who counts the vote, it very well may be who codes the vote that matters most. May we all be given the wisdom, strength, and discernment to carry the burden of truth.
