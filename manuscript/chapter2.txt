@@ -73,9 +73,9 @@ The registration files known as voter rolls or rosters are critical because they
 
 Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the <a href="https://ericstates.org/" target=_new>Electronic Registration Information Center (ERIC)</a> provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered."
 
-For instance, if member states like Minnesota do not remove voters who have moved out of state or have died, then the result is an inflated voter roll. Even if the dead or out of state voter votes, that vote technically counts since that individual will be on the statewide voter registration system with a voter ID in the system.
+For instance, if member states like Minnesota do not remove voters who have moved out of state or have died, then the result is an inflated voter roll. Even if the dead or out of state voter votes, that vote technically counts since that individual will be on the statewide voter registration system with a voter ID in the system. On the second night of the Cyber Symposium, I met someone named Russ working on several problems including the problem of voters showing up in multiple states.
 
-How do we know that voter rolls are inflated, providing an ample supply of ready-to-launch voters?
+But how do we know that voter rolls are inflated, providing an ample supply of ready-to-launch voters, a credit or slush fund to be used during the attack phase?
 
 Voter rolls and histories are public information that you can request from the <a href="https://www.sos.state.mn.us/election-administration-campaigns/data-maps/registered-voter-list-requests/" target=_new>Minnesota Secretary of State's website</a> for $46. Note that your request is made at a particular moment in time. However, if you request a list before and after an election, as people like <a href="https://midwestswampwatch.com" target=_new>Rick Weible</a> did for the November 3rd, 2020 General Election, and you are handy with database management (these are big files) then you can see how the lists changed. If you were to continue to request lists every few weeks, then you could see how the lists change over time, sometimes dramatically. (Going forward, it should not require experts in database management to hold our government accountable.)
 
@@ -86,6 +86,14 @@ It was these voter rolls and histories that allowed Rick Weible to discover that
 When comparing voter rolls with census population data, one can chart turnout of the voting age population. In the following chart, we see that Minnesota ranks 1st in voting age population turnout, an indicator of fraud.
 
 ![Minnesota Ranks First in Percent of 18+ Voted](election_participation.jpeg)
+
+[The USEIP Canvassing Report](https://useipdotus.files.wordpress.com/2022/03/useip-colorado-canvassing-report.pdf) from March 11, 2022 visited 4,601 of 9,472 residences in Douglas, El Paso, Pueblo, and Weld Counties, Colorado. They found that about 8% of voters (123,852 of 1.1M) were affected by unexplained irregularities in Colorado’s voter rolls and voting records.
+
+This rate of irregularities was similar to a 30-county canvassing effort led by Robin Sylvestre in Minnesota.
+
+In neighboring Wisconsin, [Jeffrey O'Donnell's analysis of data from August 2021 voter rolls](https://magaraccoon.com/docs/wisconsin1.pdf) showed over 7 million separate voter records in a state with less than 6 million people.
+
+Rick Weible has acquired voter rolls and histories from multiple states. When examined collectively, the inflation either inspired by or influenced directly by organizations like the Electronic Registration Information Center (ERIC) is plain to see.
 
 ### Epollbooks
 
@@ -107,10 +115,9 @@ After watching 2000 Mules Erin Clements asked where the NGOs that printed the ba
 
 While Minnesota uses paper ballots in all 87 counties, we are *not* hand-counting them. Because there is no hand tally, we are putting our trust completely in the voting machines and tabulation systems. The voting machines, also called tabulators, scan and count the votes. The tallies from the tabulators are then aggregated in tabulation software known as an election management system.
 
-
 ### Voting Machines
 
-Here is a table of electronic voting equipment used in the 2020 general election, provided by Dan Sundin who pulled this information from the county websites.
+Here is a table of electronic voting equipment used in the 2020 general election, provided by Dan Sundin, part of the decentralized Telegram group mentioned in the introduction, who pulled this information from the county websites.
 
 | County Name | Absentee and Mail Ballot Tabulation Equipment | Assistive Voting Equipment |
 | --- | --- | --- |
@@ -234,7 +241,7 @@ Turning off the functionality to generate CVRs would also explain why Minnesotan
 
 ## Tabulation Systems
 
-Here I lean on Patrick Colbeck's description once again:
+Here I lean on Patrick Colbeck's description from page 10 in *The 2020 Coup*:
 
 "Tabulators are critical election infrastructure components with significant security vulnerabilities. At the precinct-level, tabulators are used to read a ballot, convert the ballot image to votes, and add the vote data on a given ballot to the running tally of votes stored in a digital table. Precint-level vote tallies are then aggregated by centralized vote tabulation systems at the municipal, county, and state levels. Collectively, these systems help determine and communicate the results of an election. If tabulators are compromised, they can shift votes from one candidate to another. THese votes shifts can change the results of an election."
 
@@ -266,15 +273,18 @@ At the time I lived not far from 38th and Chicago.
 
 A few months later, I biked there once and another time walked there. Roads were blocked making it difficult for locals to even leave their streets. Shops were closed replaced by vendors selling t-shirts and BLM masks. Flowers were laid before the provocative murals and around the monument at the intersection.
 
-In the days following the incident, there were protests and looting and riots. The 3rd precinct police station burned. It was a trying time to the point that I even asked one of my clients if I could take time off from a gig. One protest organized by Royce White went to the Federal Reserve, an interesting choice that got the attention of many, though I missed it at the time.
+In the days following the incident, there were protests and looting and riots. The 3rd precinct police station burned. It was a trying time to the point that I even asked one of my clients if I could take time off from a gig. One protest organized by Royce White went to the Federal Reserve, an interesting and significant choice that got the attention of many, though I missed it at the time.
 
-Covid-19 led to lockdowns worldwide. The monthly discussion groups I'd held ended and I resorted for a time to arguing needlessly with friends online. Then came the experimental vaccines, only qualifying to be called as such because of dictionaries redefining the term. Perhaps suspecting I had exercised my right not to partake, a Mayo Clinic ICU doctor before a pickup soccer game asked if I had questions about Covid-19. Months later, I was on the phone with the head of a hospital in Seattle who declared that the inventors of the mRNA vaccines would get Nobel prizes. Maybe so. But so did Barrack Hussein Obama (*before* many realized what he was up to). When I asked him if he got his booster, he said he probably wouldn't get the next one.
+Covid-19 led to the deployment of eerily similar lockdowns and language worldwide. The monthly discussion groups I'd held ended and I resorted for a time to arguing needlessly with friends online. Then came the experimental vaccines, only qualifying to be called as such because of dictionaries redefining the term. Perhaps suspecting I had exercised my right not to partake, a Mayo Clinic ICU doctor before a pickup soccer game asked if I had questions about Covid-19. Months later, I was on the phone with the head of a hospital in Seattle who declared that the inventors of the mRNA vaccines would get Nobel prizes. Maybe so. But so did Barrack Hussein Obama (*before* many realized what he was up to). When I asked him if he got his booster, he said he probably wouldn't get the next one.
 
 The chaos played into the enemy's hands.
 
 The subversion of our elections was well under way.
 
 All the while, preparations continued to be made for the election with little if any reporting of substance regarding the consent decrees which stripped witness and signature requirements from absentee ballots, nor the mass installment of Zuckerboxes, nor the preparations the work of True the Vote has shone light upon in the first half of 2022.
+
+
+
 
 PICK UP HERE
 

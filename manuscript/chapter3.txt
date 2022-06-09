@@ -1,6 +1,26 @@
 {sample: true}
 # Chapter Two - Attack
 
+Quote from the 4 phases
+
+https://letsfixstuff.org/2021/04/modem-chips-embedded-in-voting-system-computer-motherboards/
+es&s, most-used tabulator in Minnesota
+
+https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/
+only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity
+
+1234
+
+"The election of 2020 was not counted, it was calculated."
+Draza Smith
+
+Adjust to
+prep
+attack
+backup attack
+defend
+
+
 Quote from Gregg Phillips or Katherine Engelbrecht from
 first hearing in Wisconsin?
 

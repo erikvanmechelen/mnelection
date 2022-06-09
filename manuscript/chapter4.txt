@@ -1,6 +1,10 @@
 {sample: true}
 # Chapter Three - Back-up Attack
 
+"The election of 2020 was not counted, it was calculated."
+Draza Smith
+
+Cruise Control
 
 Erik - did you see Draza's analysis of the Rhode Island cast vote record versus the show Edison played on TV?  I think that's the best synopsis of the set point phenomenon and the shuffle because that's the only place where we have apples to apples comparison between what we were told was happening on election night and what's actually stored inside the computer system. They can't be reconciled.
 
@@ -20,7 +24,7 @@ weighted ratio - diebold, source code leak 2003, Bev Harris
 flag to go to adjudication
 2020 coup book - quote from early chapters
 make a new database (simulation) as seen in Mesa County (ACTUALLY HAPPENED)
-...many more 
+...many more
 
 
 
