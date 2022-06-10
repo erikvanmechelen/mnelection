@@ -12,6 +12,20 @@ title/chapter 18, §2384, and §2381
 
 ***
 
+In the early 1900s it took Bertrand Russell over 300 pages to prove that 1 + 1 = 2. Thankfully with the work being done around the country since November 3rd, 2020 (and long before), it has not take nearly as long here to unpack the state of our rigged election system and how to fix it.
+
+We the People have lost confidence in our elections process. This has been in the water a long time and has only intensified as evidence mounts in all 50 states. We don't trust the machines which slice and dice our votes nor the backdoors into election management systems; we don't like insecure mass mail-in absentee ballots and drop boxes exploited by vote trafficking organizations; we have lost faith in internet-connected poll books and inflated voter rolls obscured from public view.
+
+Here in Minnesota, roadblocks were put in our path when we wanted proper audits of the ballots and the machines or simply to have a look at the cast vote record (CVR) reports which are automatically generated once ballots are scanned (these allow the machines to tell on themselves). These obstructions lit a greater fire under us to discover the truth and share it with anyone who has humble heart and a desire to learn.
+
+We are aiming for a future voting process where the end results are provable as per the votes cast representing the will of the people.
+
+The sheer amount of data and evidence available to date does not change the fact that machines are still counting our votes. Nor the fact that epollbooks, drop boxes, mail-in ballots, absentee ballots, early voting, and other vulnerabilities are still in play.
+
+We can change this. And we will.
+
+***
+
 ## The County Commission Strategy
 
 County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent.

@@ -110,9 +110,61 @@ Then, on the 21st of May, 2022, Draza announced this:
 
 ## Minnesota's Simulation
 
-No Minnesotan has been given any cast vote records from their county and it is hard to say whether any counties actually have them, for various reasons.
+No Minnesotan has been given any cast vote records from their county and it is hard to say whether any counties actually have them, for various reasons. Not being able to produce an audit trail of the machine count, when the machine count is the primary method of counting, is unacceptable.
 
+Since we do not have the cast vote records from any county, let alone the entire state as Rhode Island was able to produce, let's make do with what we can.
 
+Let's start take a look at how votes were reported to the media (refer back to Russ Ramsland's slide above for reference). The following graphic shows how the votes were sent through to the media from Edison Research. Notice the negative 194,846 votes near interval 50. In a system that is aggregating votes, should there ever be a drop in nearly 200,000 votes? What may have caused that?
+
+Here again I will quote Draza Smith:
+
+"So - Minnesota had some really interesting things going on that took a little bit of thought. I am finding a lot of events that happen across states that help me try to convince all of you our elections are completely controlled events. Minnesota - I believe - kinda went like this:"
+
+![Minnesota Total Votes](Minnesota_Percentage_Control.JPG)
+
+"The overall votes have a very high correlation with an R value of 0.9978, which is higher than Pennsylvania, but Pennsylvania was the states that had the same "event" happen, with regard to the loss of votes during counting. I pulled up the similar curve from Pennsylvania and, not only is the shape factor almost exactly the same, but it happened during almost the same counting interval number - around 50 - which, timewise, was shortly after the Florida surprise."
+
+![Comparing MN to PA](MN-PA-Compare.JPG)
+
+"The difference in the shape that follows whatever was happening that caused the similarity between the events in PA and MN is the result of the difference in the initial perturbation that was assigned to each state. PA had one that was more chaotic that MN."
+
+![Setpoint Input Process](setpoint.jpeg)
+
+"The "setpoint change" that appears to occur later on is most likely the result of a slight shifting in position as MI was being moved in the lineup. I refer to this as a setpoint change, because it bears a striking resemblance to what we would see in any industrial system that is being controlled and experiences a setpoint change. This is the image that I used on the graph above that - should - have nothing to do with elections."
+
+When Draza refers to MI (Michigan) being moved in the lineup, consider that since Florida's Trump turnout was so high the algorithm was not going to be set in such a way to achieve a Biden win. It appears the decision was made by the powers that be to let Trump win Florida but pick up those electoral college votes elsewhere. Thus Michigan being moved in the lineup.
+
+![National Key for Setpoints](setpoint_national.png)
+
+"If we go back and look at the national key calculated from the final values, you can see that MN is right there at the edge of the shuffle - and probably was affected by the moving of MI into the Biden side of the curve."
+
+![Ratio of Trump to Biden votes](MN_trump_biden.png)
+
+"Here you can see the ratio control curve with a bit of a chaotic start and that "event" after Florida was called. But, after she got her final setpoint, the curve just eased its way into the final setpoint, like we have seen in so many other states."
+
+![Adjustment to final setpoint](MN_adjustment.png)
+
+"Now, the adjustment to that final setpoint was really a herculean effort by our vote counters. We were able to report 289157 votes in 17 seconds. This reduced the percentage from 83% to 77% Trump to Biden votes, because Biden received the lion's share of that valiant effort."
+
+![194,846 vote reduction](MN_reduction.png)
+
+"So - that number - 194846 - is kinda like the other reductions we have seen in other states. If you take that number and divide it by the total on the line above, it is usually apparent that is it a calculated reduction. If we do that here 194846/2071091 = 9.41% reduction. I would have expected it to be 9.5% of 10%...a nice round reduction like seen in other states. So, I looked as what we have going on. If we look at the reduction in just Trump's votes, what we have on this line is a reduction coupled with a flip from the 3rd party. If we remove the flip from the 3rd party, we get a reduction of 87049.15 votes from Trump's tally, which is a 4.20% reduction in Trump's overall vote at that time."
+
+![Cleanup reductions](MN_finish_up.png)
+
+"Annnddd - we finish up, much like the other states. We have our percentage control of the interval hanging tight - while we find places for the reductions to happen, without changing either the interval percentage distribution or the overall percentage ratio. These cleanup reductions are in between the reports that take about 10 minutes for each single vote to be counted. I guess they were tired from the big push earlier."
+
+***
+
+Does reviewing this data make you view our election process differently?
+
+I know when I first saw this data about nine months ago my jaw dropped. I hadn't considered this possibility. But with this new information I went forth with new questions.
+
+Remember that the Backup Attack phase is used when the initial attack doesn't go as planned. The biggest tool is the injection of votes electronically. If this can be done without detection, a race can still be won regardless of how many physical ballots were delivered absentee (dropbox or mail-in) or at the in-person polling place on election day and subsequently scanned through tabulators.
+
+There is a theory out there which Draza's data begins to provide evidence for that the 2020 election was less an election and more a simulation disguised as an election. (This is in part why I made the acronym for the title of this book is SIM.) We don't *need* that perspective to lay out the anomalies, indicators, and evidence, but it does serve to provide a working explanation for the irregularities reported around the state and in the Edison Research data.
+
+Once the simulation concept is understood, lower level manipulation can occur in the databases or voting machines in counties and precincts to achieve results at that lower level which align with the top-down algorithms.
 
 
 
