@@ -1,8 +1,11 @@
 {sample: true}
 # Chapter Two - Attack
 
-QUOTE
+"It's an organized crime. It was perpetrated on Americans by advancing bad process: dirty voter rolls, ballot boxes, all sorts of mail-in ballot capabilities. And you roll all that up and it's quite evident to those of us who've spent the last 15 months of our lives developing these numbers that this was indeed an organized crime that was perpetrated on Americans."
 
+—Gregg Phillips in [the informational hearing](https://www.truethevote.org/election-integrity-testimony-in-wisconsin-on-thursday-march-24-2022/)(see 32:32 time stamp) before the Assembly Committee on Campaigns and Elections in Madison, Wisconsin on March 24, 2022.
+
+***
 
 By now many are familiar with suitcases of ballots being scanned by Ruby Freeman or the truckloads of ballots being delivered to the TCF Center in Detroit.
 
@@ -10,17 +13,35 @@ But ballot harvesting and trafficking operations were in effect across the count
 
 In Minnesota we perhaps caught a small glimpse of this through Project Veritas reporting on [Ilhan-Omar connected ballot harvesting schemes](https://www.projectveritas.com/news/ilhan-omar-connected-cash-for-ballots-voter-fraud-scheme-corrupts-elections/) in September 2020. However, the ballot harvesting being done in those videos only sheds light on traditional ballot harvesting, in that case exploiting the elderly in apartment towers for which the in-person polling place was within walking distance if not in the same building.
 
-What True the Vote's work showed in documentaries like 2000 Mules is a likely nationwide coordinated effort to print ballots at NGOs and have them dropped off in dropboxes (or the mail) by mules.
+What True the Vote's work showed in documentaries like 2000 Mules is a likely nationwide coordinated effort to print ballots at NGOs and have them dropped off in drop boxes (or the mail) by mules.
 
 True the Vote's [election integrity report](https://www.truethevote.org/wp-content/uploads/2022/03/FILE_5193_no-meta.pdf) titled "Delivery of Absentee Ballots by Intermediaries to Milwaukee County Area Drop Boxes October 20 – November 3, 2020 was published on March 18, 2022. The next day in Madison, Wisconsin, Catherine Engelbrecht and Gregg Phillips [gave testimony in an informational hearing](https://www.truethevote.org/election-integrity-testimony-in-wisconsin-on-thursday-march-24-2022/) before the Assembly Committee on Campaigns and Elections.
+
+From the True the Vote (TTV) report:
+
+"In 2021, in response to whistleblower reports, TTV began purchasing and analyzing publicly available drop box surveillance video and commercially available geospatial (mobile device) data generated at CTCL grant-funded drop box locations during the time periods in which drop boxes were in use for the 2020 General Election."
 
 The work of True the Vote and their consultants is bringing into focus David Clements' [vote trafficking parable](https://rumble.com/vl2qbo-mike-lindell-cyber-symposium-professor-david-clements-the-vote-trafficking-.html) delivered at Mike Lindell's Cyber Symposium.
 
 ## Did Ballot Traffickers Work in Minnesota?
 
-If this could happen at scale in Wisconsin, what makes Minnesotans denying the reality of ballot trafficking reason this could not happen only a few miles away?
+If Minnesota was going to be comfortably won by Biden, it stands to reason that ballot traffickers would not need to be called into duty in large numbers.
 
-The scale of absentee or mail-in ballots was immense. Over 1.9 million votes were apparently cast this way. That's a more than 1.2 million increase over the previous record.
+But many now understand that Minnesota may well have voted in favor of President Trump on November 3rd, 2020 (and possibly in 2016, too). [The trends](https://rumble.com/vkf6t5-minnesota-election-audit-debrief-captain-seth-keshel.html)(Capt. Seth Keshel), lawn signs, and word on the street in 2020 suggested it would be a close call and Attorney General Keith Ellison even seemed worried based upon his 3:57pm tweet on election day: “…We don’t have all the votes we need quite yet. So, help a friend (even a brand new friend) vote. Right now would be awesome.” Was this a signal to unleash additional mules? Or could it be—to name just one more possibility—that the epollbook system notes which voters do not vote (neither submitting an absentee/mail-in vote nor voting in person in the precinct) and adds those voters to the phantom voter pile?
+
+![Could Ellison have had access to the SVRS in real-time on election day?](ellison_tweet.png)
+
+Therefore do not let Biden’s official (unofficial) 7.2% margin deceive you; would Trump really have spent as much time and money here if Minnesota's 10 electoral college votes were not in play?
+
+Now, many Minnesotans are aware their state is well known for daycare fraud and food fraud. It is emerging that voter, ballot, and election fraud are probably as prevalent, or worse, as indicated by a combination of trends, forensic analysis of Dominion systems also used in several Minnesota counties, and coordinated vote trafficking findings presented by True the Vote in the informational hearing before the Assembly Committee on Campaigns and Elections on March 24th, 2022 in Madison.
+
+Even though Milwaukee officials failed to provide the requested video surveillance, geospatial data and cell phone signal data revealed vote or ballot trafficking into drop boxes to the tune of 137,000 ballots, or 7% of all WI ballots (in the sample, 138 people met a minimum threshold of visiting 5 NGOs and 25 drop boxes during the 2020 election election period, and 10% of that group were also present at a violent riot).
+
+Is there any reason to believe organized ballot abuse isn’t happening a few hundred miles west here in Minnesota? (Around this time, in the cab ride to the Crystal Lake VFW, the driver said he’d heard it was happening in Minneapolis—word of mouth has long been effective but is especially powerful in our censorship-ridden world.)
+
+Nationwide, about 160 million votes were apparently cast after experts predicted about 145 million would be. About 45% of the 160 million were absentee or mail-in ballots. In Minnesota, absentee or mail-in ballots represented 58% of the total reported votes by the secretary of state.
+
+The scale of absentee or mail-in ballots in Minnesota was immense. Over 1.9 million votes were apparently cast this way. That's a more than 1.2 million increase over the previous record.
 
 Not only could absentee ballots sent to phantom voters that came back return-to-sender be collected, but NGOs may have had the ability to print ballots en masse and use mules to deliver them.
 
@@ -28,7 +49,7 @@ The rate at which canvassing in 30 Minnesota counties has shown that voters who 
 
 The fact that more than 700,000 reported absentee votes were not connected to a voter in the statewide voter registration system (SVRS) 25 days after the election and only 5 days after the MN State Canvassing Board certified the election raises further questions.
 
-Could it be that some percentage of these 700,000 reported absentee votes were coordinated by bad actors and therefore were not easily reconcilable in the electronic systems?
+Could it be that some percentage of these 700,000 reported absentee votes were coordinated by bad actors and therefore were not easily reconcilable in the electronic systems? For emphasis: 25 days after the election and 5 days after certification by the MN State Canvassing Board the numbers did not check out. And not by a little bit. By over 700,000.
 
 This is an ongoing and unresolved issue.
 
@@ -57,59 +78,6 @@ Furthermore, there is data gap between October 30 and November 3 which makes it 
 | 1/16/2021 | 2,193,411 | 1/14/2021 | 1,909,701 |
 | 2/14/2021 | 2,193,411 | 1/14/2021 | 1,909,701 |
 
+I've watched the room as Rick Weible has presented this data around the state. Many understand and are deeply concerned. They expect better from government especially when the issue concerns the sanctity of the elective franchise. People want to know whether their vote counted, whether it was cancelled out by a phantom vote, and whether a machine altered their vote.
 
-
-
-
-links to True the Vote's work...
-
-
-
-
-
-Quote from Gregg Phillips or Katherine Engelbrecht from
-first hearing in Wisconsin?
-
-search on Midwest seeds articles ... (titel " data everyone should look at")
-
-and more
-
-
-
-***
-
-By
-
-hearing
-Madison
-
-hearing
-Maricopa
-10x as big...
-
-...
-
-
-
-2000 mules
-
-quote from it,
-hearing in March
-2000 mules release
-hearing on June 1
-
-didn't focus on Minnesota... but even from taxi drivers I've heard that ballot trafficking is well understood (on the streets)
-
-Mail-ins...
-
-description of 2000 Mules
-
-see my report on that in Midwest Seeds (their hearing)
-
-quote from the hearing...
-
-this tweet signals more attack / mail-ins need to be stuffed
-</p><p>
-	On election day, electronic pollbooks connected to the internet provide access to the statewide voter registration system (SVRS) in the cloud. Ask yourself, what benefit might there be to the e-pollbooks being connected to the SVRS in the cloud from the perspective of monitoring or even controlling an election outcome? The current Minnesota Attorney General's [https://twitter.com/keithellison/status/1323746158557253632](tweet) at 3:57pm on election day suggests he had some knowledge of votes being cast in real time. Could it be—to name just one possibility—that the system notes which voters do not vote (neither submitting an absentee/mail-in vote nor voting in person in the precinct) and adds those voters to the phantom voter pile?
-</p>
-![Could Ellison have had access to the SVRS in real-time on election day?](ellison_tweet.png)
+On this last point, we turn next to the Backup Attack Phase.
