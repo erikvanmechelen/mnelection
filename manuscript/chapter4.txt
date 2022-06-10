@@ -1,8 +1,9 @@
 {sample: true}
 # Chapter Three - Backup Attack
 
-"The election of 2020 was not counted, it was calculated."
-—Draza Smith
+*"The election of 2020 was not counted, it was calculated."*
+
+—Draza Smith, mathmetician
 
 For those asking - the Edison data reports the cumulative votes and the percentage that each candidate has during the election. But - during the Nov 2020 election, these reporting values all went through a rolling zero that then returned to relatively the same values on the next reporting cycle. It happened in series to each state and DC.  I suspect that this was application of new setpoints and/or new control constants to drive the vote totals to the setpoint within the number of votes remaining in the count.
 
@@ -120,7 +121,7 @@ Here again I will quote Draza Smith:
 
 "So - Minnesota had some really interesting things going on that took a little bit of thought. I am finding a lot of events that happen across states that help me try to convince all of you our elections are completely controlled events. Minnesota - I believe - kinda went like this:"
 
-![Minnesota Total Votes](Minnesota_Percentage_Control.JPG)
+![Minnesota Total Votes](MinnesotaPercentageControl.JPG)
 
 "The overall votes have a very high correlation with an R value of 0.9978, which is higher than Pennsylvania, but Pennsylvania was the states that had the same "event" happen, with regard to the loss of votes during counting. I pulled up the similar curve from Pennsylvania and, not only is the shape factor almost exactly the same, but it happened during almost the same counting interval number - around 50 - which, timewise, was shortly after the Florida surprise."
 
@@ -156,15 +157,23 @@ When Draza refers to MI (Michigan) being moved in the lineup, consider that sinc
 
 ***
 
-Does reviewing this data make you view our election process differently?
+Does reviewing this data make you look at our election process differently?
 
-I know when I first saw this data about nine months ago my jaw dropped. I hadn't considered this possibility. But with this new information I went forth with new questions.
+I know when I first saw this data about nine months ago I was unsettled—I hadn't considered this possibility. But with this new information I went forth with new questions. (See chapter 10 for a brief history of voting machines.)
 
 Remember that the Backup Attack phase is used when the initial attack doesn't go as planned. The biggest tool is the injection of votes electronically. If this can be done without detection, a race can still be won regardless of how many physical ballots were delivered absentee (dropbox or mail-in) or at the in-person polling place on election day and subsequently scanned through tabulators.
 
-There is a theory out there which Draza's data begins to provide evidence for that the 2020 election was less an election and more a simulation disguised as an election. (This is in part why I made the acronym for the title of this book is SIM.) We don't *need* that perspective to lay out the anomalies, indicators, and evidence, but it does serve to provide a working explanation for the irregularities reported around the state and in the Edison Research data.
+There is a theory out there which Draza's data begins to provide evidence for that the 2020 election was less an election and more a simulation disguised as an election. (This is in part why I made the acronym for the title of this book = SIM.) We don't *need* that perspective to lay out the anomalies, indicators, and evidence, but it does serve to provide a working explanation for the irregularities reported around the state and in the Edison Research data.
 
 Once the simulation concept is understood, lower level manipulation can occur in the databases or voting machines in counties and precincts to achieve results at that lower level which align with the top-down algorithms.
+
+
+
+
+
+
+
+
 
 
 
