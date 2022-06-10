@@ -1,18 +1,129 @@
 {sample: true}
-# Chapter Three - Back-up Attack
+# Chapter Three - Backup Attack
 
 "The election of 2020 was not counted, it was calculated."
-Draza Smith
+—Draza Smith
+
+For those asking - the Edison data reports the cumulative votes and the percentage that each candidate has during the election. But - during the Nov 2020 election, these reporting values all went through a rolling zero that then returned to relatively the same values on the next reporting cycle. It happened in series to each state and DC.  I suspect that this was application of new setpoints and/or new control constants to drive the vote totals to the setpoint within the number of votes remaining in the count.
 
 Cruise Control
 
-Erik - did you see Draza's analysis of the Rhode Island cast vote record versus the show Edison played on TV?  I think that's the best synopsis of the set point phenomenon and the shuffle because that's the only place where we have apples to apples comparison between what we were told was happening on election night and what's actually stored inside the computer system. They can't be reconciled.
-
+From Erin:
 I'd recommend watching the first part of the Otero County Commission meeting we did a few weeks ago and using some of those talking points from Mr. Lenburg. https://www.youtube.com/watch?v=Fg6Gf6QjqGM&t=939s
 ^
 from Erin
 
+
 ***
+
+If the Attack Phase fails, the Backup Attack Phase comes into play.
+
+This is the part where the narrative up till this point begins to take an interesting turn which may shake your previous understanding of how elections work.
+
+For all the years of my life until 2020, I thought my vote counted. Then, in late 2020, I realized it probably didn't, but I didn't know how exactly.
+
+Then, sometime in 2021, when I was introduced to Draza Smith's work and later met her at the Cyber Symposium, my perspective changed dramatically. As Draza put it well: "The election of 2020 was not counted, it was calculated."
+
+Start with an electoral college map of the United States. To win the presidential election takes 270 electoral college votes. Then, use a PID controller to generate outcomes at the state level in such a way that the desired candidate wins.
+
+Easier said than done, because you don't know how many voters will turn out, either for the desired candidate or for the undesired candidate.
+
+It's possible that the original set point in each state might need to be adjusted to get the desired outcome. Is this why vote counting needed to suddenly stop in multiple states in the middle of the night?
+
+***
+
+Erin Clements recommended I have a look at Draza's analysis of the Rhode Island cast vote record (CVR) and compare it with what Edison played on TV. Reason being that it was the "best synopsis of the set point phenomenon and the shuffle because that's the only place where we have apples to apples comparison between what we were told was happening on election night and what's actually stored inside the computer system—they can't be reconciled."
+
+For background on Edison data, recall this chart from Russ Ramsland's Georgia presentation in December 2020.
+
+![Edison receives data from "Unofficial Database"](Russ_Ramsland_Presentation_Georgia_State_House_Elections_Hearing)
+
+On [Draza Smith's Telegram channel](https://t.me/ladydraza), all of the following charts and descriptions can be found by using the search function and typing "Rhode Island".
+
+On August 3, 2021 Draza said: "So - Rhode Island is one of the more surprising plots I have seen so far. During the entire election reporting, the ratio of votes was on the Trump side of the line...until they were slammed down into their setpoint...
+
+![Rhode Island Edison Data](rhode_island_2021_1.jpeg)
+
+"Looking at the total vote trend, there was a clear preference, until that pesky Edison zero reset...."
+
+![Set Point Reset](rhode_island_2021_2.jpeg)
+
+"From the Edison reported percentages, you can see the HUGE spike in the Biden votes prior to the reset, which has been indicative of receiving a new setpoint and higher tuning constants."
+
+![Spike in Biden votes prior to reset](rhode_island_2021_3.jpeg)
+
+"For those asking - the Edison data reports the cumulative votes and the percentage that each candidate has during the election. But - during the Nov 2020 election, these reporting values all went through a rolling zero that then returned to relatively the same values on the next reporting cycle. It happened in series to each state and DC.  I suspect that this was application of new setpoints and/or new control constants to drive the vote totals to the setpoint within the number of votes remaining in the count."
+
+![Setpoint Driven from 97% to 66%](rhode_island_2021_4.jpeg)
+
+"In the data you can see it happen here. The ratio setpoint is driven from 97% to 66% and the Edison zero happens 4 minutes later."
+
+Then, on the 21st of May, 2022, Draza announced this:
+
+"I am so grateful our smallest state today. Because the entire state is smaller than many counties in other states, they do things a little more efficiently there, including counting all of their statewide votes with a single system that produces a STATEWIDE CVR.
+
+"So, I have been saying for a while now that I have been confused about the fact that none of our counties/precincts can give a good explanation of how Edison and Scytl and SP are getting the election data to the NYT, etc. for election night reporting and CALLING THE RACES ON!
+
+"But, I believe these companies know the playbook and just provide a probabilistic model to the viewers at home - so how can you question the results? You watched them come in live on TV! All the while the mules and machines and NGO's with electronic access to the voter rolls/poll books are working magic on the real votes have them end in the same place."
+
+![Trump to Biden ratio on election night](rhode_island_2022_1.jpeg)
+
+"So, here is the results as we saw them election night for the State of Rhode Island! This is how the ratio of Trump to Biden votes were reported by the news to all of us sitting at home on election night.
+
+"That Drop towards Biden looks a little funny right there after FL was called for Trump, doesn't it?"
+
+![Trump and Biden votes on election night](rhode_island_2022_2.jpeg)
+
+"Here are the actual votes for each candidate that were reported over time. Did you realize little Rhode Island had their very own "F curve"?
+
+"Well, actually it looks kind of like a snake in the grass..."
+
+"So - now we have the CVR data to see what the MACHINE says about how the votes counted up. Before I show the plot, remember what we have learned through the work by Jeff O'Donnell on finding the two sets of books in the database. And my theory that they reshuffle the database to push those muled in votes that come in just under the wire forward in time to make it look like they were always there.
+
+"This produces a distinctive curve with a drop and then a scoop (which Dr. D has termed the "Biden Boost" and then the votes float back upwards to the final setpoint, with corrections here and there. Right?
+
+"Well, even here in RI where it would be totally obvious, the machines could not help themselves. It is in their code."
+
+![Rhode Island - How the votes actually came in](rhode_island_2022_3.jpeg)
+
+"So - here is what the machine told us with the CVR report of how the ratio of votes ACTUALLY *cough, cough* came in for Rhode Island over time.
+
+"The blue graph below shows the precinct index that each ballot came in from. This is  term I have developed for places that do not have numbered precincts. I take the list of precincts and record the precincts in order as they show up as precincts 1,2,3... and then I can plot them. Anyone that is interested - I can provide you my precinct name-to-number key.
+
+"But what is notable here is - just like in other places, ALL the precincts report in at the very beginning (REPRESENT!) and then are shuffled to look almost too perfectly randomized with keeping some from every precinct in the back pocket to add at the end of counting.
+
+"But - remember - if we were getting in votes perfectly randomized from all over the state - would the Law of Large Numbers dictate that this rollercoaster would be the shape we would expect?"
+
+![Trump and Biden votes in CVR](rhode_island_2022_4.jpeg)
+
+"And - if you could possible believe it, just look how evenly over time the votes came in for each candidate!! No snakes in the grass here...just in the programmers' seats."
+
+"And - believe it or not - those RI Patriots collected more data - interim reports of vote counts, etc. NOTHING MATCHES, not the news data, to the machine data to the SecState data - sure , they all end up in the same place after a month or 2 of making 'corrections'."
+
+![Edison corrections](rhode_island_2022_5.jpeg)
+
+"Check out the corrections that the Edison data made to get to the final results - after over a month worth of "corrections and updates" - because this is how we should count election votes.
+
+"P.S: I dropped out the reported vote from the AP that wasn't Edison because they appear to not have ben synchronized and make even more crazy jumps, as a result."
+
+***
+
+## Minnesota's Simulation
+
+No Minnesotan has been given any cast vote records from their county and it is hard to say whether any counties actually have them, for various reasons.
+
+
+
+
+
+
+After I've written this book, do you think Dominion, ES&S, or Hart will (s)elect me in the primary? If I somehow get through the primary, how about the general?
+
+
+
+
+
+
 
 Quote from the 4 phases
 
