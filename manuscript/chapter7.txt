@@ -2,9 +2,9 @@
 
 ## Preparation for 2022 in Minnesota
 
-It matters a lot which candidates are on the ballot for a primary or general election. Imagine if Jeb Bush or Ted Cruz had faced off against Hillary Clinton, instead of Donald Trump. In that event, some percentage of republican voters may have stayed home. Unexciting candidates have that effect. If voters stay home a vote can be cast in their stead.
+It matters a lot which candidates are on the ballot for a primary or general election. Imagine if Jeb Bush or Ted Cruz had faced off against Hillary Clinton, instead of Donald Trump. In that event, some percentage of republican voters may have stayed home. Unexciting candidates have that effect. If voters stay home a vote can be cast in their stead in the manner already described in the Attack Phase.
 
-The method of putting forward unexciting candidates is also effective in state and local elections. As the media tries to get us talking about a red wave, we must stay vigilant and put forward America First candidates. It does no one any good to elect candidates who can be bought by the highest bidder or be influenced away from the principles of upholding the constitution.
+The method of putting forward unexciting candidates is also effective in state and local elections. As the media tries to get us talking about a red wave, we must stay vigilant and put forward America First candidates. That also requires that America First candidates stand up and join races. It does no one any good to elect candidates who can be influenced away from the principles of upholding the constitution.
 
 QUOTED FROM OPENING OF THIS CHAPTER
 In the psychological realm, in mid-2020, George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law.
@@ -19,7 +19,38 @@ Back in February, the beginning of the election process started in Minnesota at 
 
 There, the key item of business is electing delegates. Those chosen in their precincts will then serve as delegates at the basic political organizing unit (BPOU) level. From there, another round of voting happens to elect delegates to the congressional district and state conventions, where endorsements occur for governor, attorney general, state auditor, and secretary of state.
 
-Right from the jump, there were issues at the precinct caucuses.
+Right from the jump, there were issues at the precinct caucuses. [Numerous reports of tampering](https://saveminnesota.org) suggested delegate lists were being changed either at the BPOU level or the state level. Unless an audit was done, reconciling the eyewitness and documented accounts would be difficult. No audits were done.
+
+Seeing how the confirmed reports were handled, I couldn't help wondering how many more delegate list incidents went unnoticed and therefore unreported. I emailed my BPOU Chair about this to see whether our lists could be confirmed.
+
+![Feb 16 email to my BPOU Chair](diane_feb16_1.png)
+
+Diane responded suggesting this happened because of previous delegates somehow  including previous delegate attendees. When she suggests "that was the bulk of the problem" it indicates to me that she was aware of the larger issue bubbling up in other areas.
+
+I responded the next day.
+
+![Feb 17 email to my BPOU Chair](diane_caucus.png)
+
+Her response doesn't answer all my questions and suggests she was taking direction from the state party.
+
+![Feb 17 reply from my BPOU Chair(diane_caucus3.png)
+
+This exchange had me wondering how many delegates at BPOU conventions, endorsing conventions, and finally the state convention would ultimately be illegitimate?
+
+For just one example that soon emerged, consider the [delegate lists from Otter Tail County](https://saveminnesota.org/otter-tail/f/otter-tail-report-election-tampering-in-10-precincts).
+
+![Otter Tail Delegate List Discrepancies](otter_tail_delegates.png)
+
+From [this detailed report](https://drive.google.com/file/d/1Mq8vRXwOQTw9ZsQQCm3MRIYwrD_khx10/view) It was discovered that "two individuals whose eligibility is in question, were elected at the March 19th County Convention to represent the county at the State and Congressional District Conventions – one as a delegate, the other as an alternate." The opening sentence of the conclusion of this report reads: "If caucus precinct delegations have been systemically altered, it would appear to undermine the foundational integrity of our democratic process."
+
+Having reviewed many of [these reports](https://saveminnesota.org) and having spoken with dozens of people about this from across the state, including people like Nathan Wesenberg [in this conversation](https://soundcloud.com/user-191695017/caucus-conventions-and-corruption-in-the-mngop-with-nathan-wesenberg-part-1-of-2), my gut feeling says that perhaps as much as 12-15% of state convention delegates in Rochester were not legitimate. (Remember, this could be more *or* less, but since BPOUs and the party were not able to reconcile the lists, we may never know.)
+
+![Counties Affected So Far - saveminnesota.org](save_minnesota_counties.png)
+
+Even if we conservatively speculated that only about 1 state delegate per county (87 counties) should not have been included (replacing someone else), then that would represent a large voting bloc shift. If only about 100 people were replaced, that is a potential swing of a net 200 votes, about a 10% swing as there were about 2,200 seated casting votes for the endorsing segments in Rochester.
+
+
+
 
 Link to soundcloud...
 
