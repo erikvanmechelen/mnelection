@@ -33,23 +33,27 @@ I responded the next day.
 
 Her response doesn't answer all my questions and suggests she was taking direction from the state party.
 
-![Feb 17 reply from my BPOU Chair(diane_caucus3.png)
+![Feb 17 reply from my BPOU Chair](diane_caucus3.png)
 
-This exchange had me wondering how many delegates at BPOU conventions, endorsing conventions, and finally the state convention would ultimately be illegitimate?
+I sent one more email which did not recieve a reply.
+
+![Feb 18, to BPOU Chair](diane_feb18)
+
+What I'd already learned about Morrison County combined with this exchange had me wondering: How many delegates at BPOU conventions, endorsing conventions, and finally the state convention would ultimately be illegitimate?
 
 For just one example that soon emerged, consider the [delegate lists from Otter Tail County](https://saveminnesota.org/otter-tail/f/otter-tail-report-election-tampering-in-10-precincts).
 
 ![Otter Tail Delegate List Discrepancies](otter_tail_delegates.png)
 
-From [this detailed report](https://drive.google.com/file/d/1Mq8vRXwOQTw9ZsQQCm3MRIYwrD_khx10/view) It was discovered that "two individuals whose eligibility is in question, were elected at the March 19th County Convention to represent the county at the State and Congressional District Conventions – one as a delegate, the other as an alternate." The opening sentence of the conclusion of this report reads: "If caucus precinct delegations have been systemically altered, it would appear to undermine the foundational integrity of our democratic process."
+From [this detailed report](https://drive.google.com/file/d/1Mq8vRXwOQTw9ZsQQCm3MRIYwrD_khx10/view) it was discovered that "two individuals whose eligibility is in question, were elected at the March 19th County Convention to represent the county at the State and Congressional District Conventions – one as a delegate, the other as an alternate." The opening sentence of the conclusion of this report reads: "If caucus precinct delegations have been systemically altered, it would appear to undermine the foundational integrity of our democratic process."
 
-Having reviewed many of [these reports](https://saveminnesota.org) and having spoken with dozens of people about this from across the state, including people like Nathan Wesenberg [in this conversation](https://soundcloud.com/user-191695017/caucus-conventions-and-corruption-in-the-mngop-with-nathan-wesenberg-part-1-of-2), my gut feeling says that perhaps as much as 12-15% of state convention delegates in Rochester were not legitimate. (Remember, this could be more *or* less, but since BPOUs and the party were not able to reconcile the lists, we may never know.)
+Having reviewed some of [these reports](https://saveminnesota.org) and having spoken with dozens of people about delegate lists from across the state, including people like Nathan Wesenberg [in this conversation](https://soundcloud.com/user-191695017/caucus-conventions-and-corruption-in-the-mngop-with-nathan-wesenberg-part-1-of-2), my gut feeling says that perhaps as much as 12-15% of state convention delegates in Rochester were not legitimate. Remember, this could be more *or* less, but since BPOUs and the party were not able to reconcile the lists, we may never know. The lack of a tight yet transparent chain of custody of the data is as much an issue with these lists as it is with our votes cast at conventions or in primary or general elections.
 
 ![Counties Affected So Far - saveminnesota.org](save_minnesota_counties.png)
 
-Even if we conservatively speculated that only about 1 state delegate per county (87 counties) should not have been included (replacing someone else), then that would represent a large voting bloc shift. If only about 100 people were replaced, that is a potential swing of a net 200 votes, about a 10% swing as there were about 2,200 seated casting votes for the endorsing segments in Rochester.
+Even if we conservatively speculated that only about 1 state delegate per county (87 counties) should not have been included (replacing someone else), then that would represent a large voting bloc shift. If only about 100 people were replaced, that is a potential swing of a net 200 votes, about a 10% swing as there were about 2,200 seated casting votes for the endorsing segments in Rochester. Of course, no one is duty bound to vote for one candidate or another in advance, but if it is true that delegates were being replaced—and that has been shown to be the case—why was that being done?
 
-
+From one point of view, the result is equivalent to inflating voter rolls (in the statewide voter registration system). From another vantage point, the result is equivalent to a [vote swap in an election management system](https://www.mixonium.com/public/post/11555) (see "Vote Switching Demonstration" in bottom left tab).
 
 
 Link to soundcloud...
