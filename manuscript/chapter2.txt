@@ -1,7 +1,7 @@
 {sample: true}
 # Chapter One - Preparation
 
-*"The highest priority as a bad guy would be to subvert our election system. The reason is: you can take over a country without firing a shot. If you can decide who the leaders are, if you can put judges, if you can answer constitutional questions any which you want, over a period of time—you're not going to do it in one election, it's going to take a bunch of elections—but you can take over a country. And that would be my top priority (as a bad guy). Nuclear weapons would be a close second, but the top one would be elections."*
+*"The highest priority as a bad guy would be to subvert our election system. The reason is: you can take over a country without firing a shot. If you can decide who the leaders are, if you can put judges, if you can answer constitutional questions any way you want, over a period of time—you're not going to do it in one election, it's going to take a bunch of elections—but you can take over a country. And that would be my top priority (as a bad guy). Nuclear weapons would be a close second, but the top one would be elections."*
 
 —Jeff Lenberg, nation-state vulnerability expert in the [May 9, 2022 Otero County, New Mexico Emergency meeting](https://www.youtube.com/watch?v=Fg6Gf6QjqGM&t=939s)
 
@@ -125,7 +125,7 @@ While Minnesota uses paper ballots in all 87 counties, we are *not* hand-countin
 
 Optical scanners are essentially interpreting pixels on a bitmap and translating that into vote tallies.
 
-Vendors largely keep to themselves their standards for interpreting ovals. In certain situations, the tabulators are programmed to send ballots to adjudication, where election judges are responsible (not the voter) for deciding the intent of the voter. This includes situations like blank ballot, overvotes, ambiguous marks, and ballot misreads.
+Vendors largely keep to themselves their standards for interpreting ovals. In certain situations, the tabulators are programmed to send ballots to adjudication, where election judges are responsible (not the voter) for deciding the intent of the voter. This includes situations like blank ballots, overvotes, ambiguous marks, and ballot misreads.
 
 It's conceivable that these tabulators make mistakes that humans would not make. Erin Clements [demonstrated evidence of this](https://www.youtube.com/watch?v=Z_2SNcUSdlI) from the Otero County audit in the Otero County Special Meeting on June 9, 2022. She concluded, "The tabulators are not smarter than people."
 
@@ -223,11 +223,11 @@ Here is a table of electronic voting equipment used in Minnesota's 2020 general 
 | Wright | Digital Scan 200, Digital Scan 450 | AutoMARK |
 | Yellow Medicine | Digital Scan 200 | AutoMARK |
 
-Another way to view which equipment will be in use for 2022 is on the [Verified Voting website](https://verifiedvoting.org/verifier/#mode/navigate/map/ppEquip/mapType/normal/year/2022/state/27).
+Another way to view which equipment was in use in 2020 or will be in use for 2022 is on the [Verified Voting website](https://verifiedvoting.org/verifier/#mode/navigate/map/ppEquip/mapType/normal/year/2022/state/27).
 
 Remember, there are known and potential vulnerabilities in all voting machines, but let's zoom in for a moment on the most-used equipment in Minnesota.
 
-DS200s were used in 65 of Minnesota's 87 counties in 2020.
+ES&S DS200s were used in 65 of Minnesota's 87 counties in 2020.
 
 In April 2021, the DS200 used in Antrim, County Michigan was found to have a [4G wireless modem installed](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1) within the enclosure of the machine.
 
@@ -241,9 +241,11 @@ I include this information in the preparation phase of our discussion because th
 
 Additionally, scientist Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". Because the code is not open source, it is difficult to know all the vulnerabilities that may exist. And since its "System and Method for Decoding Marks on a Paper Ballot" is proprietary, patent law means ES&S owns that intellectual property. That being said, former cyber analyst for the Air Force Jake Stauffer's [vulnerability report](https://www.scribd.com/document/513400991/ESS-RedTeam-Jake-Stauffer-Vulnerability-Security-Assessment-Report) is revealing, demonstrating among other details that "file systems are not encrypted [which] allowed the team to recover system configuration information, password hashes, and ES&S specific binaries."
 
-For emphasis: the ES&S DS200 was in use in 65 Minnesota counties in 2020.
+To understand how the DS200 plays into the overall system, here's a diagram ES&S sent to Travis County, Texas in a contract proposal.
 
-To make matters worse, however, there are apparently settings which allow the ballot images to not be saved (reducing the audit trail) and potentially settings which turn off the Cast Vote Record (CVR) report functionality.
+![Part of an ES&S contract proposal sent to Travis County, Texas](ESS_DS200.png)
+
+To make matters worse, however, there are apparently settings on the DS200 which allow the ballot images to not be saved (reducing the audit trail) and potentially settings which turn off the Cast Vote Record (CVR) report functionality.
 
 This is a big problem because it turns off the machines' ability to tell on itself. Where this decision was made, it may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phase chapters.)
 
@@ -266,7 +268,7 @@ The following diagram shows how five elements of the ES&S EVS tabulation system 
 4. Voting and Tabulation
 5. Results Consolidation and Reporting
 
-![The Complicated System Configuration of ES&S Electionware](evs_5.2)
+![The Complicated System Configuration of ES&S Electionware](evs_5.2.png)
 
 In the [3/15/2022 Nye County, Nevada County Commissioner’s meeting](https://www.youtube.com/watch?t=234&v=GBKz1o_VqAE&feature=youtu.be) cyber security consultant Mark Cook [described his experience](https://www.youtube.com/watch?v=GBKz1o_VqAE&t=234s) with computers pre-internet in the CompuServe and Prodigy days, then as a consultant to protect companies from threats and seal off vulnerability, and finally with election systems.
 

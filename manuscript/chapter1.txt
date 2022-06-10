@@ -1,9 +1,9 @@
 {sample: true}
 # Introduction - A Totalitarian Flavor
 
-“There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”
+*“There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”*
 
-*Col. Shawn Smith, USAF, Ret. – 25 year Air Force veteran and the former director and test manager for the operational testing of complex, computer-based weapon systems and a subject matter expert on the security of computer-based election systems, [calling into a Tarrant County, Texas meeting](https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html)*
+—Col. Shawn Smith, USAF, Ret. – 25 year Air Force veteran and the former director and test manager for the operational testing of complex, computer-based weapon systems and a subject matter expert on the security of computer-based election systems, [calling into a Tarrant County, Texas meeting](https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html)
 
 ***
 **2005 – Beijing, China**
@@ -42,7 +42,7 @@ Living in Minneapolis, the totalitarian flavor of the air, food, and water I rem
 
 After months of isolation, fear, confusion, anxiety, and frustration, with (major sporting leagues around the world shut down) nothing to watch and nowhere to go, a series of provocative images from the corner of 38th and Chicago in Minneapolis’s Powderhorn neighborhood lit a powder keg. The nation, within moments, went from “stronger together” to irredeemably and systemically racist. With half-truth history populating the minds of the highly educated and the pages of the New York Times, the Maoist attempt at unraveling of the American consciousness was now out in the open. Minneapolis would be center stage of the supposedly anti-fascist to deliver their first blow to the supposedly white supremacist fabric of our nation’s past, present, and future. Soon, the epicenter of the charade would ripple out to its final landing place in Portland where the (apparently well-funded) black shirts terrorized a city ironically praised for its leftist ideals. But while the nightly news celebrated the “mostly peaceful” protests that were plainly seen as nothing of the sort, a more profound war was raging across the country in state houses of government and county elections commissions…
 
-From Patrick Colbeck's *The 2020 Coup: What Happend. What We Can Do.*, the preparation phase (before the main attack, backup attack, and defense phases) was well under way. The elections commissions, the non-profits, the state legislatures, judicial permissions, and corporate media swirled in a whirlwind of confusion that unconstitutionally set the election to the tune they wanted to play.
+From Patrick Colbeck's *The 2020 Coup: What Happened. What We Can Do.*, the preparation phase (before the main attack, backup attack, and defense phases) was well under way. The elections commissions, the non-profits, the state legislatures, judicial permissions, and corporate media swirled in a whirlwind of confusion that unconstitutionally set the election to the tune they wanted to play.
 
 ![Dr. Shiva, MIT PhD and inventor of email, with Mike Lindell nearby](dr_shiva_at_symposium.png)
 
@@ -136,10 +136,10 @@ Jeffrey O'Donnell puts it well in the introduction to his [Mesa County #3 Report
 
 This book will follow the organization of the four phases of an election coup put forward by [Patrick Colbeck in *The 2020 Coup*](https://www.amazon.com/2020-Coup-What-Happened-Can/dp/1955043655/), currently the best book on this topic (and excerpted at the end of this one):
 
-1. Preparation - create weaknesses and shape the landscape through laws, procedures, rules, electronic systems, and influence operations
-2. Main Attack - exploit the greatest weakness, absentee and mail-in ballots
-3. Backup Attack - execute contingency plans such as injecting votes digitally
-4. Defense - cover up or destroy evidence of the main attack and backup attack
+1. **Preparation** - create weaknesses and shape the landscape through laws, procedures, rules, electronic systems, and influence operations
+2. **Main Attack** - exploit the greatest weakness, absentee and mail-in ballots
+3. **Backup Attack** - execute contingency plans such as injecting votes digitally
+4. **Defense** - cover up or destroy evidence of the main attack and backup attack
 
 These phases will provide the framework to put Minnesota's 2020 election in context.
 
