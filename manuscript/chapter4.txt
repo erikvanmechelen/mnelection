@@ -5,7 +5,20 @@
 
 —Draza Smith, mathmetician
 
-For those asking - the Edison data reports the cumulative votes and the percentage that each candidate has during the election. But - during the Nov 2020 election, these reporting values all went through a rolling zero that then returned to relatively the same values on the next reporting cycle. It happened in series to each state and DC.  I suspect that this was application of new setpoints and/or new control constants to drive the vote totals to the setpoint within the number of votes remaining in the count.
+![Draza Smith, Mark Cook, and Col. Shawn Smith](mock_election.png)
+
+
+
+
+
+***
+
+
+image from kaliv in audit force... when the edison zero happened...
+
+
+
+COME BACK HERE
 
 Cruise Control
 
@@ -33,11 +46,21 @@ It's possible that the original set point in each state might need to be adjuste
 
 ***
 
-Erin Clements recommended I have a look at Draza's analysis of the Rhode Island cast vote record (CVR) and compare it with what Edison played on TV. Reason being that it was the "best synopsis of the set point phenomenon and the shuffle because that's the only place where we have apples to apples comparison between what we were told was happening on election night and what's actually stored inside the computer system—they can't be reconciled."
+## Edison Zero
 
 For background on Edison data, recall this chart from Russ Ramsland's Georgia presentation in December 2020.
 
 ![Edison receives data from "Unofficial Database"](Russ_Ramsland_Presentation_Georgia_State_House_Elections_Hearing)
+
+Draza also writes: "For those asking - the Edison data reports the cumulative votes and the percentage that each candidate has during the election. But - during the Nov 2020 election, these reporting values all went through a rolling zero that then returned to relatively the same values on the next reporting cycle. It happened in series to each state and DC. I suspect that this was application of new setpoints and/or new control constants to drive the vote totals to the setpoint within the number of votes remaining in the count."
+
+Here's an example of New Jersey's Edison Zero on November 4, 20202 starting at 4:01:23 AM and lasting until 11:35:48 AM.
+
+![New Jersey's Edison Zero](new_jersey_edison_zero.png)
+
+## Rhode Island
+
+Erin Clements recommended I have a look at Draza's analysis of the Rhode Island cast vote record (CVR) and compare it with what Edison played on TV. Reason being that it was the "best synopsis of the set point phenomenon and the shuffle because that's the only place where we have apples to apples comparison between what we were told was happening on election night and what's actually stored inside the computer system—they can't be reconciled."
 
 On [Draza Smith's Telegram channel](https://t.me/ladydraza), all of the following charts and descriptions can be found by using the search function and typing "Rhode Island".
 
@@ -128,6 +151,10 @@ Here again I will quote Draza Smith:
 ![Comparing MN to PA](MN-PA-Compare.JPG)
 
 "The difference in the shape that follows whatever was happening that caused the similarity between the events in PA and MN is the result of the difference in the initial perturbation that was assigned to each state. PA had one that was more chaotic that MN."
+
+![Wisconsin and Michigan - %Trump Votes/%Biden Votes](wisconsin_vs_michigan.png)
+
+To demonstrate that similarites between states are not isolated, notice Wisconsin compared with Michigan.
 
 ![Setpoint Input Process](setpoint.jpeg)
 
@@ -244,7 +271,6 @@ mock election at Cyber symposium,
 anyone have video?
 compare with Jeff Lensburg
 
-![Draza Smith, Mark Cook, and Col. Shawn Smith](mock_election.png)
 
 
 
