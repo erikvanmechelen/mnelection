@@ -23,7 +23,7 @@ Electronic voting equipment and election management software from Dominion and H
 
 In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law.
 
-(To be covered in the chapter on Minnesota in 2022: In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters.)
+*To be covered in the chapter on Minnesota in 2022: In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters.*
 
 ## Minnesota Statutes and Election Law
 
@@ -246,7 +246,7 @@ Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/p
 
 To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
 
-The presence of these would seem to also disqualify a voting system according to the VVSG 2.0 (relevant to county commissioners considering whether to certify their upcoming local elections):
+The presence of these would seem to also disqualify a voting system [according to the VVSG 2.0](https://www.eac.gov/sites/default/files/TestingCertification/Voluntary_Voting_System_Guidelines_Version_2_0.pdf) (relevant to county commissioners considering whether to certify their upcoming local elections):
 
 ![Voting systems should be incapable of broadcasting a wireless network](internal_wireless.png)
 

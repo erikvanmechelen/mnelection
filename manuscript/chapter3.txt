@@ -1,7 +1,7 @@
 {sample: true}
 # Chapter Two - Attack
 
-"It's an organized crime. It was perpetrated on Americans by advancing bad process: dirty voter rolls, ballot boxes, all sorts of mail-in ballot capabilities. And you roll all that up and it's quite evident to those of us who've spent the last 15 months of our lives developing these numbers that this was indeed an organized crime that was perpetrated on Americans."
+*"It's an organized crime. It was perpetrated on Americans by advancing bad process: dirty voter rolls, ballot boxes, all sorts of mail-in ballot capabilities. And you roll all that up and it's quite evident to those of us who've spent the last 15 months of our lives developing these numbers that this was indeed an organized crime that was perpetrated on Americans."*
 
 —Gregg Phillips in [the informational hearing](https://www.truethevote.org/election-integrity-testimony-in-wisconsin-on-thursday-march-24-2022/)(see 32:32 time stamp) before the Assembly Committee on Campaigns and Elections in Madison, Wisconsin on March 24, 2022.
 
@@ -27,7 +27,7 @@ The work of True the Vote and their consultants is bringing into focus David Cle
 
 If Minnesota was going to be comfortably won by Biden, it stands to reason that ballot traffickers would not need to be called into action in large numbers.
 
-But many now understand that Minnesota may well have voted in favor of President Trump on November 3rd, 2020 (and possibly in 2016, too).
+But many now understand that Minnesota may well have voted in favor of President Trump on November 3rd, 2020 (and possibly in 2016, too). A simple vote trend analysis of counties like [Blue Earth](https://www.youtube.com/watch?v=Wy5WJgyNtBQ) begins to raise questions and noticing the [vote trend similarities across multiple counties](https://www.youtube.com/playlist?list=PLCG2E0xbfHuBdl9DTuxkHRuvgxvO7vfjw) begs further inquiry.
 
 ![Blue Earth vote trend - https://www.youtube.com/watch?v=Wy5WJgyNtBQ](blue_earth.png)
 
@@ -41,9 +41,9 @@ Now, many Minnesotans are aware their state is well known for daycare fraud and 
 
 Even though Milwaukee officials failed to provide the requested video surveillance, geospatial data and cell phone signal data revealed vote or ballot trafficking into drop boxes to the tune of 137,000 ballots, or 7% of all WI ballots (in the sample, 138 people met a minimum threshold of visiting 5 NGOs and 25 drop boxes during the 2020 election election period, and 10% of that group were also present at a violent riot).
 
-Is there any reason to believe organized ballot abuse isn’t happening a few hundred miles west here in Minnesota? (Around this time, in the cab ride to the Crystal Lake VFW, the driver said he’d heard it was happening in Minneapolis—word of mouth has long been effective but is especially powerful in our censorship-ridden world.)
+Is there any reason to believe organized ballot abuse isn’t happening a few hundred miles west here in Minnesota? (In the cab ride to the Crystal Lake VFW for [the CD5 Show](https://erikvanmechelen.substack.com/p/the-cd5-show) on Saturday April 2, 2022, the driver said he’d heard ballot harvesting and possible trafficking was happening in Minneapolis—word of mouth has long been effective but is especially powerful in our censorship-ridden world.)
 
-Nationwide, about 160 million votes were apparently cast after experts predicted about 145 million would be. About 45% of the 160 million were absentee or mail-in ballots. In Minnesota, absentee or mail-in ballots represented 58% of the total reported votes by the secretary of state.
+Nationwide, about 160 million votes were apparently cast after experts predicted about 145 million would be. About 45% of the 160 million were absentee or mail-in ballots. In Minnesota, absentee or mail-in ballots represented 58% of the total reported votes by the secretary of state. In Minnesota, we have mail-in counties which speaks to the variance with nationwide numbers, but Minnesota's record absentee numbers may also suggest the success of the absentee voting marketing campaigns and influence operations.
 
 The scale of absentee or mail-in ballots in Minnesota was immense. Over 1.9 million votes were apparently cast this way. That's a more than 1.2 million increase over the previous record.
 
@@ -55,7 +55,7 @@ The fact that more than 700,000 reported absentee votes were not connected to a 
 
 Could it be that some percentage of these 700,000 reported absentee votes were coordinated by bad actors and therefore were not easily reconcilable in the electronic systems? For emphasis: 25 days after the election and 5 days after certification by the MN State Canvassing Board the numbers did not check out. And not by a little bit. By over 700,000.
 
-This is an ongoing and unresolved issue.
+The reasons for this remains an unresolved issue.
 
 The following table with data from [Rick Weible](https://midwestswampwatch.com) shows the absentee ballots not connected by November 29th, 2020, in the MN SOS data in the Twin Cities area. Note that this work should be done immediately according to [Minnesota Statute 203B.121 BALLOT BOARDS](https://www.revisor.mn.gov/statutes/cite/203B.121).
 
@@ -86,10 +86,10 @@ I've watched the room as Rick Weible has presented this data around the state. M
 
 Minnesotans want to know whether their vote counted, whether it was cancelled out by a phantom vote, and whether a machine altered their vote.
 
-On this last point, we turn next to the Backup Attack Phase.
+On this last point, we turn to next in the Backup Attack Phase.
 
-One of my friends recently asked me why a ground game as seen in 2000 Mules was needed if forensic audits can be denied and votes can be injected electronically. My simple response here is that the enemy would have preferred we not learn about the depth of cheating available through the machines.
+One of my friends recently asked me why a ground game as seen in 2000 Mules was needed if forensic audits can be denied and votes can be injected electronically. My simple response here is that the enemy would have preferred we not learn about the depth of cheating available through the machines. The illusions we are under need to be plausible enough, else our instincts to spot a lie kick in.
 
-In other words, if you can cheat enough to win by inflating voter rolls and by stuffing the ballot box, you can potentially reduce the chances that people will ask questions about the machines in the first place.
+In other words, if you can cheat enough to win by inflating voter rolls and by stuffing the ballot box, you can potentially reduce the chances that people will ask questions about the machines in the first place. And those who control the machines, control who wins. Better to keep this reality under wraps.
 
 This is part of the reason, I think, that while Hillary said she thought there was fraud in 2016, she may not have wanted to call for any audits. And history shows that she did not.
