@@ -30,6 +30,15 @@ Candidates who have campaigned for over a year are now starting to see results i
 
 
 
+206.56 subd 8
+an electronic voting sys includes ....
+
+In Minnesota Statute 206.56 Subd. 8. Electronic voting system.
+
+"Electronic voting system" means a system in which the voter records votes by means of marking a ballot, so that votes may be counted by automatic tabulating equipment in the polling place where the ballot is cast or at a counting center.
+
+An electronic voting system includes automatic tabulating equipment; nonelectronic ballot markers; electronic ballot markers, including electronic ballot display, audio ballot reader, and devices by which the voter will register the voter's voting intent; software used to program automatic tabulators and layout ballots; computer programs used to accumulate precinct results; ballots; secrecy folders; system documentation; and system testing results.
+
 
 
 

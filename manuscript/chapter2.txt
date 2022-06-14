@@ -132,7 +132,7 @@ While Minnesota uses paper ballots in all 87 counties, we are *not* hand-countin
 
 ## Voting Machines
 
-Optical scanners are essentially interpreting pixels on a bitmap and translating that into vote tallies.
+The most common voting machines is otherwise known as a tabulator. These optical scanners take in paper ballots and then are essentially interpreting pixels on a bitmap and translating that into vote tallies.
 
 Vendors largely keep to themselves their standards for interpreting ovals. In certain situations, the tabulators are programmed to send ballots to adjudication, where election judges are responsible (not the voter) for deciding the intent of the voter. This includes situations like blank ballots, overvotes, ambiguous marks, and ballot misreads.
 
