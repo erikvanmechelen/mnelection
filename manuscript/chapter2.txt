@@ -258,19 +258,19 @@ To understand how the DS200 plays into the overall system, here's a diagram ES&S
 
 ![Part of an ES&S contract proposal sent to Travis County, Texas](ESS_DS200.png)
 
-To make matters worse, however, there are apparently settings on the DS200 which allow the ballot images to not be saved (reducing the audit trail) and potentially settings which turn off the Cast Vote Record (CVR) report functionality.
+To make matters worse, however, there are apparently settings on the DS200 which allow the ballot images to *not* be saved (reducing the audit trail) and potentially configuration settings which turn off the Cast Vote Record (CVR) report functionality, though the details of this are still being verified.
 
-This is a big problem because it turns off the machines' ability to tell on itself. Where this decision was made, it may have prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phase chapters.)
+If true, this is a big problem because it turns off the machines' ability to tell on itself. Where this decision was made, it may have ultimately prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phase chapters because of how *key* they are.)
 
-Turning off the functionality to generate CVRs would also explain why Minnesotans sending public data requests have been met with letters like this one from the Todd County Attorney.
+Turning off the functionality to generate CVRs may also have explained why Minnesotans sending public data requests have been met with letters like this one from the Todd County Attorney.
 
 ![The opinion of the Todd County Attorney](todd_county_atty_opinion.png)
 
-Please note that although we have focused on the ES&S DS200s, there are several Minnesota counties that use Dominion ImageCast machines and several that use Hart Verity Scan tabulators. Equipment from these vendors are also insecure from cyber threats. More importantly, their source code is not available to be examined.
+*Please note that although we have focused on the ES&S DS200s, there are several Minnesota counties that use Dominion ImageCast machines and several that use Hart Verity Scan tabulators. Equipment from these vendors are also insecure from cyber threats. More importantly, their source code is not available to be examined. That said, any commissioners opting to withhold their certifications of local elections could request a micro-audit, to be performed in under a day, of their voting machines to ensure that security and accuracy were maintained throughout the election.*
 
 ## Tabulation Systems
 
-Here I lean on Patrick Colbeck's description from page 10 in *The 2020 Coup*:
+Here again I lean on Patrick Colbeck's description, this time from page 10 in *The 2020 Coup*:
 
 "Tabulators are critical election infrastructure components with significant security vulnerabilities. At the precinct-level, tabulators are used to read a ballot, convert the ballot image to votes, and add the vote data on a given ballot to the running tally of votes stored in a digital table. Precint-level vote tallies are then aggregated by centralized vote tabulation systems at the municipal, county, and state levels. Collectively, these systems help determine and communicate the results of an election. If tabulators are compromised, they can shift votes from one candidate to another. These votes shifts can change the results of an election."
 
@@ -287,19 +287,21 @@ In the [3/15/2022 Nye County, Nevada County Commissioner’s meeting](https://ww
 
 Today, Dominion is a popular voting system which uses Microsoft SQL database, one which Mark was and is very familiar with as he used SQL databases from day 1. In the same meeting, he discussed how within the first minute of getting his hands on a Dominion system, he was able to access the backend and change votes...without leaving a trace.
 
+In the Antrim County, Michigan investigation, nation-state vulnerability expert Jeff Lenburg [demonstrated vote swapping](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) that allowed the election management system and tabulator printouts to match (for the canvass). The problem? The EMS and the tabulator tapes would not match the paper ballots initially scanned through the tabulator. (This is still one of my favorite videos and mirrors a mock election experience that Draza Smith, Col. Shawn Smith, and Mark Cook created alongside Patrick Colbeck at the Cyber Symposium. Once you see how easy it is to swap votes, it cannot be unseen, and this is only one of many exploitable vulnerabilities.)
+
 In 2021, when Tina Peters learned that a Dominion vendor was planning to visit her office to make a software update, she took action in line with her statutory duties to preserve election data as the Mesa County Clerk. She worked with consultants to save a copy of the before and after image of her Dominion Voting Systems (DVS) Election Management System (EMS) servers, which data analysts then began investigating to detect what Dominion's "Trusted Build" may have changed.
 
 It turned out to be a lot.
 
-The [Mesa County Colorado Voting Systems Report #3: Election Database and Data Process Analysis](https://magaraccoon.com/docs/MesaCountyReport3.pdf) proves database manipulation happened inside the Colorado Dominion Voting Systems (DVS) Election Management System (EMS). Not once, but twice, in both the 2020 General Election and the 2021 Grand Junction Municipal Election.
+The [Mesa County Colorado Voting Systems Report #3: Election Database and Data Process Analysis](https://magaraccoon.com/docs/MesaCountyReport3.pdf) proves database manipulation happened inside the Colorado Dominion Voting Systems (DVS) Election Management System (EMS). Not once, but twice, in both the 2020 General Election and the 2021 Grand Junction Municipal Election. (The [first report](http://kevinlundberg.com/wp-content/uploads/2021/09/Exhibit-F.pdf) and the [second report](https://useipdotus.files.wordpress.com/2022/03/mesa-county-forensic-report-no.-2.pdf) are also very useful.)
 
-That report has been called the "Rosetta Stone" because it provided the fingerprints of the nefarious activity and will be featured in the [Selection Code](https://selectioncode.com) documentary.
+The third report has been called the "Rosetta Stone" by one of its authors because it provided the fingerprints of the nefarious activity and will be featured in the [Selection Code](https://selectioncode.com) documentary.
 
 These not so trust-worthy software updates were performed by Dominion employees across the country, possibly destroying evidence of election tampering and manipulation. It is possible that such an update may have occurred in the six Minnesota counties using the Domininon Voting System (DVS) Election Management System (EMS). So far, just the one before/after image of the servers exists, truly a God send.
 
 ## Influence Operations
 
-I have chosen to borrow this term from Patrick Colbeck since it is less frequently used when compared to *psychological operations* or *psyops*. The screens which bring us our daily inspiration and fear, information from loved ones and our 2-minute's hate (à la *1984*), are seemingly a blessing and a curse.
+I have chosen to borrow the term *influence operations* from Patrick Colbeck since it is less frequently used when compared to *psychological operations* or *psyops*. The screens which bring us our daily inspiration and fear, information from loved ones and our 2-minute's hate (à la *1984*), are seemingly a blessing and a curse.
 
 A blessing because it is only with the internet that information can be shared quickly enough and widely enough to outflank centralized media platforms and censorship regimes.
 
@@ -309,11 +311,11 @@ For me, the most significant influence operations in the preparation phase in Mi
 
 At the time I lived not far from 38th and Chicago.
 
-A few months later, I biked there once and another time walked there. Roads were blocked making it difficult for locals to even leave their streets. Shops were closed replaced by vendors selling t-shirts and BLM masks. Flowers were laid before the provocative murals and around the monument at the intersection.
+A few months later, I biked there once and another time went on foot. Roads were blocked making it difficult for locals to leave area in cars. Shops were closed replaced by vendors selling t-shirts and BLM masks. Flowers were laid before the provocative murals and around the monument at the intersection.
 
-In the days following the incident, there were protests and looting and riots. The 3rd precinct police station burned. It was a trying time to the point that I even asked one of my clients if I could take time off from a gig. One protest organized by Royce White, now [a candidate for Congress in CD5](https://roycewhite.us/), went to the Federal Reserve, an interesting and significant choice that got the attention of many, though I missed it at the time.
+In the days following May 25, 2022, there were protests and looting and riots. The 3rd precinct police station burned. It was a trying time to the point that I even asked one of my clients if I could take time off from a gig. One protest organized by Royce White, now [a candidate for Congress in CD5](https://roycewhite.us/), went to the Federal Reserve, an interesting and significant choice that got the attention of many, though I missed it at the time.
 
-Covid-19 led to the deployment of eerily similar lockdowns and language worldwide. The monthly discussion groups I'd held ended and I resorted for a time to arguing needlessly with friends online. Then came the experimental vaccines, only qualifying to be called as such because of dictionaries redefining the term. Perhaps suspecting I had exercised my right not to partake, a Mayo Clinic ICU doctor before a pickup soccer game asked if I had questions about Covid-19. Months later, I was on the phone with the head of a hospital in Seattle who declared that the inventors of the mRNA vaccines would get Nobel prizes. Maybe so. But so did Barrack Hussein Obama (*before* many realized what he was up to). When I asked him if he got his booster, he said he probably wouldn't get the next one.
+Covid-19 led to the deployment of eerily similar lockdowns and language worldwide. The monthly discussion groups I'd held ended and I resorted for a time to arguing needlessly with friends online. One day I saw Jacob Frey, Mayor of Minneapolis, jogging maskless near the fairly crowded Stone Arch Bridge—that evening he was wearing a mask announcing new recommendations and rules. Then came the experimental vaccines, only qualifying to be called as such because of dictionaries redefining the term. Perhaps suspecting I had exercised my right not to partake, a Mayo Clinic ICU doctor before a pickup soccer game asked if I had questions about Covid-19. It was great to see people like Lisa Hanson [defy shutdown orders](https://minnesota.cbslocal.com/2021/12/10/bar-owner-who-defied-covid-orders-sentenced-to-90-days-in-jail/) and people like Mark Bishofsky [organize rallies](https://theminnesotasun.com/2021/09/28/thousands-attended-medical-freedom-rally-featuring-del-bigtree/) at the St. Paul Capitol. When Mayor Frey and Mayor Carter announced in a joint press conference the vaccine card requirements, I wrote [this article](https://erikvanmechelen.substack.com/p/as-coronavirus-narrative-collapses) questioning their judgment. Months later, I was on the phone with the head of a hospital in Seattle who predicted that the inventors of the mRNA vaccines would get Nobel prizes. Maybe they will. But so did Barrack Hussein Obama (*before* many realized what he was up to). When I asked this head of hospital if he got his booster, he said he probably wouldn't get the next one.
 
 The chaos played into the enemy's hands.
 
