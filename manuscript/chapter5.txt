@@ -1,7 +1,5 @@
 # Chapter Four - Defense
 
-ERIC, no decreases in voter rolls, should see
-
 *“Since we know what we will find when we do our audits—”*
 
 *“That we’ve been duped.”*
@@ -10,7 +8,7 @@ ERIC, no decreases in voter rolls, should see
 
 *“Nothing.”*
 
-—From a conversation between Col. Phil Waldren and the author inside The Military Heritage Alliance around 6pm on Day Three of Mike Lindell’s Cyber Symposium in Sioux Falls, South Dakota on August 12, 2021.
+—From a conversation between Col. Phil Waldren and the author inside The Military Heritage Alliance around 6pm on Day Three of Mike Lindell’s Cyber Symposium in Sioux Falls, South Dakota on August 12, 2021
 
 ***
 
@@ -18,6 +16,92 @@ That's what happens when you have a TRUSTED BUILD. Which by the way should be te
 
 
 ***
+
+The Defense Phase is where the attackers try to defend against what Patrick Colbeck calls the meddling kids from discovering what they did.
+
+This phase began on election night 2020 (and before that) and it is where we are in early June 2022.
+
+Some object to the prospect of coordinated fraud on the grounds that it would not be so easy to cover up.
+
+But if there were people smart enough, sophisticated enough, and resourceful enough to pull off such a heist nationally (and likely involving international components), don't you think they would have some kind of plan to get away with it? They did, although in retrospect it was a bit sloppy. And fortunately there were eyes on their actions. People like Patrick Colbeck, author of *The 2020 Coup*, were on the scene at the TCF center in Detroit serving as a certified Poll Challenger.
+
+The people that did this may be clever, but it was an uphill task to pull every lever and not spring a leak.
+
+The first leak was on election night when there was [a coordinated pause to vote counting](https://www.mixonium.com/public/post/11555) in multiple states.
+
+That alerted millions if not tens of millions to the coup right from the start. It was only a matter of time before the riddle could be solved, despite extensive interference from many you might have thought would have supported election accuracy and transparency, but who have revealed that they do not.
+
+## Part of [Their] Plan
+
+At the Cyber Symposium, Dr. Shiva gave a presentation which detailed the connections between the various players and mentioned a few of their published playbooks. One of these was [The Long Fuse](https://projectapario.com/Browse?document=WJT9LCRAJ&filename=EIP-Final-Report.pdf), by the Election Integrity Partnership.
+
+On page 3, the 'Data Cleanup' phase immediately follows the election. What data exactly needed to be cleaned up?
+
+![Part of the plan](data_cleanup.png)
+
+Part of the data cleanup being done would need to happen with the voter rolls. Public requests of these rolls and comparisons between them show large changes across time in registrations. Presumably this could cover up large additions of phantom voters just prior to elections.
+
+But what is harder to cover up is detailed comparisons across counties in a single state, as was shown by Erin Clements in New Mexico.
+
+![image of 12 counties with same graph](...)
+
+
+## More than 700,000 Reported Absentee Voters Not Connected in SVRS
+
+[Rick Weible's database analysis](https://midwestswampwatch.com) of Minnesota's statewide voter registration system (SVRS) highlighted that there were more than 700,000 absentee voters reported than documented in the SVRS five days *after* the MN Canvassing Board certified the election.
+
+In a June 7, 2022 GGP meeting in Dakota County, election official Andy Lokken said that after the fact comparative analysis of SOS-reported data with the SVRS data was not an effective way to verify results.
+
+EDIT ADD ANDY LOKKEN VIDEO ON SAME (find on Dropbox upload)
+
+Then how *should* an election be verified by the people?
+
+Bear in mind that no statewide nor any county-wide full forensic audits (of all election materials, not a recount of ballots) has been done in Minnesota. Citizens have faced considerable resistance from those responsible for ensuring that no voter is disenfranchised and have succeeded in finding numerous indicators and proof that election processes were not followed according to statute and that the results are therefore seriously in question.
+
+Regarding the absentee voters: If the SOS data was not at all consistent with the SVRS data 25 days *after* the November 3, 2020 election, *when* was it going to be? And how did the MN State Canvassing Board certify the election 5 days prior with such a large discrepancy? To repeat, on November 29, 2020, just 5 days after the MN Canvassing Board certified the election, more than 700,000 reported absentee voters were not connected in the statewide voter registration system.
+
+This fact alone should have triggered a statewide audit and uproar from any elected officials that care about election integrity. If you are unsure about your local elected officials, ask them what they think about this issue and whether they believe we ought to have higher standards for our absentee ballot process as it pertains to data accuracy in our statewide voter registration system.
+
+From the perspective of the defense phase relating to absentee ballot coverup, deflection and obfuscation of this fact (it still remains unresolved) should be expected—the general public learning this certainly threatens to undermine the credibility of those at the helm.
+
+## Minnesota Post Election Review Reveals Missing Ballots
+
+The local media likes to report on the success of risk-limiting audits (RLAs), recounts, and post-election reviews. Let's discuss why these are not suitable to demonstrate the total accuracy and integrity of a machine-driven election.
+
+In Minnesota only about 3% of of precincts per county are subject to a post-election review according to [Minnesota Statute 206.89 POSTELECTION REVIEW OF VOTING SYSTEMS](https://www.revisor.mn.gov/statutes/cite/206.89).
+
+A [post election review](https://www.sos.state.mn.us/elections-voting/how-elections-work/post-election-reviews/) hand counts ballots returned by the optical scan ballot counters in select precincts. (These are sometimes referred to as risk-limiting audits, although how much risk do they truly mitigate?)
+
+![863 votes not explained but considered ACCEPTABLE](precinct_4950.png)
+
+In a postelection review in Dakota County's Precinct 4950, WEST ST PAUL W-2 P-2, the total unadjusted difference was 870 votes. 7 of those 870 votes were explained, but 863 were not explained. Why then does the total adjusted difference (the last column) show all zeros? The total adjusted difference should read 863 (870 minus 7). Even with 65% (863 out of 1327) of the total votes in this postelection review left unexplained, the Final Results row says this is a "Difference of not more than 0.5%" and the Total Adjusted Difference is "0%", deemed "ACCEPTABLE".
+
+Of course, this is clearly **not** acceptable and it begs the question: How many more precincts would turn up red flags like this if more postelection reviews had been done? And how many more red flags might be raised if proper audits were done? Is this why cast vote records (CVRs) have not been forthcoming from local election officials? With this work being shown to Minnesotans, it would be strange if they were not asking for audits and accountability.
+
+What this example demonstrates even more is the difficulty of reconciling the paper ballots to the machine counts. If a top-down simulation is being run that needs to be backfilled after the fact with ballot (or printer) deliveries to precincts and counties 2000-Mules style, but that last-minute work isn't completed, then the outcome would be what we've seen in Dakota County's Precinct 4950.
+
+What's more, by comparing the increases to Trump votes (from hand count to total votes) with the increases to Biden votes (from hand count to total votes), we also gain insight into how an weighted ratio algorithm might have been used to increase Biden votes by almost 269% while Trump votes only increased by 95%.
+
+You be the judge. Was this data cleaned up well?
+
+When Kim Bauer received in June 2022 the receipts from post-election reviews done in Dakota County for 2020 as well as 2021 (when her school board election took place), it was discovered that some of the post-election review documentation differed from the originals.
+
+## A petition to stop the certification of Minnesota's Election
+
+Based on the postelection review above (but not only that) it was correct for [Susan Shogren Smith](https://shogrensmithlaw.com/about-us) to properly serve [a petition](https://erikvanmechelen.substack.com/p/should-minnesotas-2020-election-have) to each member of the Minnesota State Canvassing Board prior to its certification of the 2020 election, in part reading:
+
+"Minnesota candidates for office and voters have come forward with affadavits detailing concerns and observations about the ignored and failed election processes in counties across the state...If this Court does not take action to prevent the certification of the Minnesota election until a complete, bi-partisan statewide audit of the election occurs, including election materials, our election system, and the trust of the voters, will be irreparably harmed."
+
+The MN State Canvassing Board is the sole entity identified in the MN Constitution carrying the duty to canvass the statewide election results. However, the MN Supreme Court erroneously ruled (in my opinion) that all 87 counties had to be served. Therefore [the case was dismissed](https://www.documentcloud.org/documents/20420161-order-minnesota-supreme-court-dismisses-gop-election-contest) without a hearing on the facts on Friday afternoon, December 4, 2020. This dismissal was critical to meeting the the safe harbor deadline of December 8, 2020.
+
+Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
+
+
+
+
+
+
+ERIC, no decreases in voter rolls, should see
 
 
 minnesota did not reach the audit stage...
@@ -34,15 +118,6 @@ when i was in a room with david clements for the 3rd time, and meeting him for t
 
 
 
-Some object to the prospect of coordinated fraud on the grounds that it would not be so easy to cover up.
-
-But if there were people smart enough, sophisticated enough, and resourceful enough to pull off such a heist nationally (and likely involving international components), don't you think they would have some kind of plan to get away with it? They did, although in retrospect it was a bit sloppy. And fortunately there were eyes on their actions. People like Patrick Colbeck, author of *The 2020 Coup*, were on the scene at the TCF center in Detroit serving as a certified Poll Challenger.
-
-The people that did this may be clever, but it was an uphill task to pull every lever and not spring a leak.
-
-The first leak was on election night when there was a coordinated pause to vote counting in multiple states.
-
-That alerted millions if not tens of millions to the coup right from the start.
 
 
 
@@ -87,70 +162,6 @@ Even with the "defense phase" (cover up and destruction of evidence) of the elec
 
 
 
-
-***
-
-Finally, the Defense Phase. This is where the attackers try to defend what Patrick Colbeck calls the meddling kids from discovering what they did.
-
-This phase began on election night 2020 (and before that) and it is where we are in early June 2022.
-
-MORE WRITING TO SUMMARIZE EACH SECTION
-
-## Part of [Their] Plan
-
-At the Cyber Symposium, Dr. Shiva gave a presentation which detailed the connections between the various players and mentioned a few of their published playbooks. One of these was The Long Fuse, by the Election Integrity Partnership.
-
-On page 3, the 'Data Cleanup' phase immediately follows the election. What data exactly needed to be cleaned up?
-
-Could this phase possibly be referring to the defense phase articulated by Patrick Colbeck in his book, where evidence is either destroyed or covered up?
-
-## More than 700,000 Reported Absentee Voters Not Connected in SVRS
-
-[Rick Weible's database analysis](https://midwestswampwatch.com) of the statewide voter registration system (SVRS) highlighted that there were more than 700,000 absentee voters reported than documented in the SVRS five days *after* the MN Canvassing Board certified the election.
-
-In a June 7, 2022 GGP meeting in Dakota County, election official Andy Lokken said that after the fact comparative analysis of SOS-reported data with the SVRS data was not an effective way to verify results.
-
-Then how *should* an election be verified by the people?
-
-Bear in mind that no statewide nor any county-wide full forensic audits (of all election materials, not a recount of ballots) has been done in Minnesota. Citizens have faced considerable resistance from those responsible for ensuring that no voter is disenfranchised and have succeeded in finding numerous indicators and proof that election processes were not followed according to statute and that the results are therefore seriously in question.
-
-Regarding the absentee voters: If the SOS data was not at all consistent with the SVRS data 25 days *after* the November 3, 2020 election, *when* was it going to be? And how did the MN State Canvassing Board certify the election 5 days prior with such a large discrepancy? To repeat, on November 29, 2020, just 5 days after the MN Canvassing Board certified the election, more than 700,000 reported absentee voters were not connected in the statewide voter registration system.
-
-This fact alone should have triggered a statewide audit and uproar from any elected officials that care about election integrity. If you are unsure about your local elected officials, ask them what they think about this issue and whether they believe we ought to have higher standards for our absentee ballot process as it pertains to data accuracy in our statewide voter registration system.
-
-From the perspective of the defense phase relating to absentee ballot coverup, deflection and obfuscation of this fact (it still remains unresolved) should be expected—the general public learning this certainly threatens to undermine the credibility of those at the helm.
-
-## Minnesota Post Election Review Reveals Missing Ballots
-
-The local media likes to report on the success of risk-limiting audits (RLAs), recounts, and post-election reviews. Let's discuss why these are not suitable to demonstrate the total accuracy and integrity of a machine-driven election.
-
-In Minnesota only about 3% of of precincts per county are subject to a post-election review according to [Minnesota Statute 206.89 POSTELECTION REVIEW OF VOTING SYSTEMS](https://www.revisor.mn.gov/statutes/cite/206.89).
-
-A [post election review](https://www.sos.state.mn.us/elections-voting/how-elections-work/post-election-reviews/) hand counts ballots returned by the optical scan ballot counters in select precincts. (These are sometimes referred to as risk-limiting audits, although how much risk do they truly mitigate?)
-
-![863 votes not explained but considered ACCEPTABLE](precinct_4950.png)
-
-In a postelection review in Dakota County's Precinct 4950, WEST ST PAUL W-2 P-2, the total unadjusted difference was 870 votes. 7 of those 870 votes were explained, but 863 were not explained. Why then does the total adjusted difference (the last column) show all zeros? The total adjusted difference should read 863 (870 minus 7). Even with 65% (863 out of 1327) of the total votes in this postelection review left unexplained, the Final Results row says this is a "Difference of not more than 0.5%" and the Total Adjusted Difference is "0%", deemed "ACCEPTABLE".
-
-Of course, this is clearly **not** acceptable and it begs the question: How many more precincts would turn up red flags like this if more postelection reviews had been done? And how many more red flags might be raised if proper audits were done? Is this why cast vote records (CVRs) have not been forthcoming from local election officials? With this work being shown to Minnesotans, it would be strange if they were not asking for audits and accountability.
-
-What this example demonstrates even more is the difficulty of reconciling the paper ballots to the machine counts. If a top-down simulation is being run that needs to be backfilled after the fact with ballot (or printer) deliveries to precincts and counties 2000-Mules style, but that last-minute work isn't completed, then the outcome would be what we've seen in Dakota County's Precinct 4950.
-
-What's more, by comparing the increases to Trump votes (from hand count to total votes) with the increases to Biden votes (from hand count to total votes), we also gain insight into how an weighted ratio algorithm might have been used to increase Biden votes by almost 269% while Trump votes only increased by 95%.
-
-You be the judge. Was this data cleaned up well?
-
-When Kim Bauer received in June 2022 the receipts from post-election reviews done in Dakota County for 2020 as well as 2021 (when her school board election took place), it was discovered that some of the post-election review documentation differed from the originals.
-
-## A petition to stop the certification of Minnesota's Election
-
-Based on the postelection review above (but not only that) it was correct for [Susan Shogren Smith](https://shogrensmithlaw.com/about-us) to properly serve [a petition](https://erikvanmechelen.substack.com/p/should-minnesotas-2020-election-have) to each member of the Minnesota State Canvassing Board prior to its certification of the 2020 election, in part reading:
-
-"Minnesota candidates for office and voters have come forward with affadavits detailing concerns and observations about the ignored and failed election processes in counties across the state...If this Court does not take action to prevent the certification of the Minnesota election until a complete, bi-partisan statewide audit of the election occurs, including election materials, our election system, and the trust of the voters, will be irreparably harmed."
-
-The MN State Canvassing Board is the sole entity identified in the MN Constitution carrying the duty to canvass the statewide election results. However, the MN Supreme Court erroneously ruled (in my opinion) that all 87 counties had to be served. Therefore [the case was dismissed](https://www.documentcloud.org/documents/20420161-order-minnesota-supreme-court-dismisses-gop-election-contest) without a hearing on the facts on Friday afternoon, December 4, 2020. This dismissal was critical to meeting the the safe harbor deadline of December 8, 2020.
-
-Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
 
 
 
