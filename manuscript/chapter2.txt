@@ -50,7 +50,7 @@ No. 7 is included because this provides just one legal basis upon which to stand
 
 On January 6, 2017 the Department of Homeland Security [designated elections as critical infrastructure](https://www.dhs.gov/news/2017/01/06/statement-secretary-johnson-designation-election-infrastructure-critical), alongside food, water, and electricity.
 
-About three months before the election, on July 28, 2020, the Cybersecurity and Infrastructure Security Agency (CISA) identified the following components as lacking security:
+About three months before the election, on July 28, 2020, the Cybersecurity and Infrastructure Security Agency (CISA) identified the following components as lacking security in its [Critical Infrastructure Security Resilience Note](https://www.cisa.gov/sites/default/files/publications/cisa-mail-in-voting-infrastructure-risk-assessment_508.pdf):
 
 * voter registration systems
 * epollbooks
@@ -70,9 +70,9 @@ Rick Weible, in a workshop at the Big Lake City Hall on Wednesday May 25, 2022, 
 
 Further, would it be unreasonable to ask Bob Kolasky how CISA's analysis which produced the Critical Infrastructure Security and Resilience Note had changed between late July and mid November?
 
-About a year and a half later, on June 3, 2022, CISA [issued an advisory](https://www.cisa.gov/uscert/ics/advisories/icsa-22-154-01), "Vulnerabilities Affecting Dominion Voting Systems ImageCast X", which focuses on Dominion (but ES&S and Hart also have glaring vulnerabilities) and may have been released to get ahead of the Halderman report. The advisory detailed weaknesses including [hidden functionality](https://cwe.mitre.org/data/definitions/912.html) and [improper protection of alternate path](https://cwe.mitre.org/data/definitions/424.html). Now, the Halderman report focuses on the internet connectivity of election equipment. But, I tend to agree with Draza Smith that we shouldn't over-focus on that given what she wrote on Telegram in March, 2022: "The thing we need to get everyone to understand is that it is the software the vendors have baked into the machines that is cheating the American people."
+About a year and a half later, on June 3, 2022, CISA [issued an advisory](https://www.cisa.gov/uscert/ics/advisories/icsa-22-154-01), "Vulnerabilities Affecting Dominion Voting Systems ImageCast X", which focuses on Dominion (but ES&S and Hart also have glaring vulnerabilities) and may have been released to get ahead of a potential leaking of the Halderman report. The advisory detailed weaknesses including [hidden functionality](https://cwe.mitre.org/data/definitions/912.html) and [improper protection of alternate path](https://cwe.mitre.org/data/definitions/424.html). Now, the Halderman report focuses on the internet connectivity of election equipment. But, I tend to agree with Draza Smith that we shouldn't over-focus on that given what she wrote on Telegram in March, 2022: "The thing we need to get everyone to understand is that it is the software the vendors have baked into the machines that is cheating the American people."
 
-It's not that internet connectivity isn't a problem—it's a big problem because for one thing, it allows centralized real-time communication between devices. But internet-connected, networked, or remote-accessable devices aren't the only vulnerability. Even a machine *without* internet connectivity can be a huge problem for fairness and transparency based on its programming or chosen configurations.
+It's not that internet connectivity *isn't* a problem—it's a big problem because for one thing, it allows centralized real-time communication between devices. But internet-connected, networked, or remote-accessable devices aren't the only vulnerability. Even a machine *without* internet connectivity can be a huge problem for fairness and transparency based on its programming or chosen configurations.
 
 Now, let's take the CISA-identified components one at a time.
 
@@ -80,11 +80,11 @@ Now, let's take the CISA-identified components one at a time.
 
 The registration files known as voter rolls or rosters are critical because they store the data which helps determine who in the state is eligible to vote. An extract of these files is pulled into the epollbooks to allow a voter to receive a ballot if voting in person on election day.
 
-Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the [Electronic Registration Information Center](https://ericstates.org/) (ERIC) provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered."
+Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the [Electronic Registration Information Center](https://ericstates.org/) (ERIC) could provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered."
 
 For instance, if member states like Minnesota do not remove voters who have moved out of state or have died, then the result is an inflated voter roll. Even if the dead or out of state voter votes, that vote technically counts since that individual will be on the statewide voter registration system with a voter ID in the system. On the second night of the Cyber Symposium, I met someone named Russ working on several problems including the problem of voters showing up in multiple states.
 
-But how do we know that voter rolls are inflated, providing an ample supply of ready-to-launch voters, a credit or slush fund to be used during the attack phase?
+But how would you verify for yourself that voter rolls are inflated, providing an ample supply of ready-to-launch voters, a credit or slush fund to be used during the attack phase?
 
 Voter rolls and histories are public information that you can request from the [Minnesota Secretary of State's website](https://www.sos.state.mn.us/election-administration-campaigns/data-maps/registered-voter-list-requests/) for $46. Note that your request is made at a particular moment in time. However, if you request a list before and after an election, as people like Rick Weible did for the November 3rd, 2020 General Election, and you are handy with database management (these are big files) then you can see how the lists changed. If you were to continue to request lists every few weeks, then you could see how the lists change over time, sometimes dramatically. (Going forward, it should not require experts in database management to hold our government accountable.)
 
@@ -98,7 +98,7 @@ When comparing voter rolls with census population data, one can chart turnout of
 
 [The USEIP Canvassing Report](https://useipdotus.files.wordpress.com/2022/03/useip-colorado-canvassing-report.pdf) from March 11, 2022 visited 4,601 of 9,472 residences in Douglas, El Paso, Pueblo, and Weld Counties, Colorado. They found that about 8% of voters (123,852 of 1.1M) were affected by unexplained irregularities in Colorado’s voter rolls and voting records.
 
-This rate of irregularities was similar to a 30-county canvassing effort led by Robin Sylvestre in Minnesota.
+This rate of irregularities was similar to a 30-county canvassing effort led by Robin Sylvestre in Minnesota, which so far has canvassed about 2,000 homes and found just under 300 suspicious records.
 
 In neighboring Wisconsin, [Jeffrey O'Donnell's analysis of data from August 2021 voter rolls](https://magaraccoon.com/docs/wisconsin1.pdf) showed over 7 million separate voter records in a state with less than 6 million people.
 
@@ -106,7 +106,7 @@ Rick Weible has acquired voter rolls and histories from multiple states. When ex
 
 ## Epollbooks
 
-Epollbooks are generally connected to the internet so that they can both receive a precinct-level extract of the statewide voter registration system or are at minimum a digital file if not connected or networked. The internet connection also provides for real-time updating which conceivably would have allowed our attorney general in Minnesota to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day.
+Epollbooks are generally connected to the internet so that they can both receive a precinct-level extract of the statewide voter registration system or are at minimum a digital file if not connected or networked. The internet connection also provides for real-time updating which conceivably would have allowed the Minnesota Attorney General to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day, which may have been a signal to the ballot mules.
 
 ![This tweet hasn't aged well](this_tweet_wont_age_well.png)
 
@@ -128,7 +128,7 @@ Ballot preparation is a complicated process. But Patrick Colbeck does us a favor
 
 After watching 2000 Mules Erin Clements asked where the NGOs that printed the ballots for the mules may have gotten the ballot formatting and ballot styles to correctly print ballots. I imagine True the Vote's Catherine Engelbrecht and Gregg Phillips' team were asking the same questions, leading to their follow-on work from the Wisconsin hearing in March 2022 to the Maricopa County senate hearing in early June to the work on the ground in Yuma County.
 
-While Minnesota uses paper ballots in all 87 counties, we are *not* hand-counting them. Because there is no hand tally, we are putting our trust completely in the voting machines and tabulation systems. The voting machines, also called tabulators, scan and count the votes. Simply put—but the process is anything *but* simple—the tallies from the tabulators are then aggregated in tabulation software known as an election management system.
+While Minnesota uses paper ballots in all 87 counties, we are *not* hand-counting them. Because there is no hand tally, we are putting our trust completely in the voting machines and tabulation systems. The voting machines, also called tabulators, scan and count the votes. Simply put—but the process is anything *but* simple—the tallies from the tabulators are then aggregated in tabulation software known as an election management system. Results from this election management system are then supposed to be passed through reporting providers like Edison Research and eventually through the media to your living room. However, Jeffrey O'Donnell and Draza Smith have speculated that this election night reporting could well be theater and not directly connected to actual results recorded in tabulators.
 
 ## Voting Machines
 
@@ -140,7 +140,7 @@ It's conceivable that these tabulators make mistakes that humans would not make.
 
 In that same audit, there was a software mismatch between the tabulators and the election management system (a violation of the election code in New Mexico law), and yet the mismatch did not prevent the tabulation systems from processing vote tallies.
 
-Here is a table of electronic voting equipment used in Minnesota's 2020 general election, provided by Dan Sundin, part of the decentralized Telegram group mentioned in the introduction, who despite not living in Minnesota did me a favor and pulled this information from each of the county websites.
+Here is a table of electronic voting equipment used in Minnesota's 2020 general election, provided by Dan Sundin, part of the decentralized Telegram group mentioned in the introduction, who despite not living in Minnesota did me a favor and pulled this information from each of the county websites (in addition to precinct-level results for all counties).
 
 | County Name | Absentee and Mail Ballot Tabulation Equipment | Assistive Voting Equipment |
 | --- | --- | --- |
@@ -246,7 +246,11 @@ Furthermore, [the exhibit describes](https://letsfixstufforg-my.sharepoint.com/p
 
 To repeat: This wireless modem was found on an enclosed part of the machine. Therefore if these same or similar wireless modems were also installed on the DS200s throughout Minnesota, it would be invisible to election judges, poll challengers, and even election officials.
 
-I include this information in the preparation phase of our discussion because this 4G wireless modem implementation would likely need to be installed *before* or *during* the election in order to be used by bad actors.
+The presence of these would seem to also disqualify a voting system according to the VVSG 2.0 (relevant to county commissioners considering whether to certify their upcoming local elections):
+
+![Voting systems should be incapable of broadcasting a wireless network](internal_wireless.png)
+
+I also include this information in the preparation phase of our discussion because this 4G wireless modem implementation would likely need to be installed *before* or *during* the election in order to be used by bad actors.
 
 Additionally, scientist Dr. Douglas Frank [has called the ES&S DS200](https://t.me/FollowTheData/1985) "one of the most hackable ballot scanners in the country". Because the code is not open source, it is difficult to know all the vulnerabilities that may exist. And since its "System and Method for Decoding Marks on a Paper Ballot" is proprietary, patent law means ES&S owns that intellectual property. That being said, former cyber analyst for the Air Force Jake Stauffer's [vulnerability report](https://www.scribd.com/document/513400991/ESS-RedTeam-Jake-Stauffer-Vulnerability-Security-Assessment-Report) is revealing, demonstrating among other details that "file systems are not encrypted [which] allowed the team to recover system configuration information, password hashes, and ES&S specific binaries."
 
