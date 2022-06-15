@@ -312,20 +312,29 @@ I don't know who the "we" is that Kelly is refering to. Wasn't Kelly eager to ve
 Right after that, I crossed paths with Kim. She too could not confirm the results of the second round of voting. But a woman next to her said she must have won by a lot.
 
 Now I wasn't sure. There were several possibilities, including but not limited to the below:
-1. Kim had reached 60%—Kelly had decided to concede, either requesting or accepting an offer to make a concession speech in exchange for not having the results shared on the big screen for the delegates
-2. Kim had not eclipsed 60%—a deal was struck where Kelly conceded
-3. Kelly (or Kelly *and* Kim) were told Kim had won—Kelly decided to concede without verifying whether Kim had indeed reached 60% or not
+1. Kim had reached 60%—as a result, Kelly decides to concede, either requesting or accepting an offer to make a concession speech in exchange for not having the results shared on the big screen for the delegates
+2. Kim had again not eclipsed 60%—a deal is struck where Kelly concedes even though the rules state a third round of voting must occur if no candidate reaches 60%
+3. Kelly (or Kelly *and* Kim) were told Kim had won—Kelly decides to concede without verifying whether Kim had indeed reached 60% or not
 
 Any of these three may have occurred, the third being slightly more likely in my opinion based on the fact that Kelly says she did not see the second round results: "I, um, no, because we knew they were good."
 
-When not many people seemed to have notice the problem with the lack of transparency, my attention to detail was heightened.
+I later asked Rep. Eric Lucero what he thought. He said that was normal, not indicating he took issue with it.
+
+Now, it may be how things have been done in the past, but that doesn't make it right. Chair David Haan had stood before the more than two thousand attendees talking about how great the electronic voting equipment was. And not only would they not share the source code nor demonstrate its auditability, but in this case they weren't even going to put the results on the big screen. Someone else suggested to me this was a common face-saving practice. That was not satisfying to me.
+
+When not many people seemed share my concern about the lack of transparency, my attention to detail was further heightened.
+
+I think the overall endorsement process in Minnesota is rife with irregularities which water down the value of endorsements in general, but each endorsement should be evaluated on a case by case basis. For example, candidates like Mark Bishofsky worked really hard to get delegates favorable to him into the process in order to comfortably win his District 33B endorsement.
+
+In the case of secretary of state, I'm not sure what to think. And what may have happened if a third candidate who couldn't be accommodated had been given the chance to speak?
 
 
 
 
-I later asked Eric Lucero what he thought. He said that was normal, not indicating he took issue with it.
 
-Now, it may be how things have been done in the past, but that doesn't make it right. Chair David Haan had stood before the more than two thousand attendees talking about how great the electronic voting equipment was. And not only would they not share the source code nor demonstrate its auditability, but they weren't even going to put the results on the big screen. Someone else suggested to me this was a face-saving practice. That was not satisfying to me.
+
+
+
 
 
 senate district
