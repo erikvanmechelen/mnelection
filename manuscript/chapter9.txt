@@ -1,8 +1,66 @@
 # Chapter 8 - Recommendations
 
-General George Patton understood this concept wholeheartedly and said:
+*"After we kick electronic voting systems out of our country, and go back to all-paper, one-day elections - we need to make Election Day a national holiday. It needs to be a holiday not for convenience or to make sure everyone has time to get to the polls. It needs to be a holiday so that once a year we will remember how Americans defeated tyranny within our borders for a second time. That we reaffirmed that our rights come from our Creator and our liberty is a responsibility. And under that framework our government derives its powers only from the consent of the governed."*
 
-“Never tell people how to do things.  Tell them what to do and they will surprise you with their ingenuity.”
+—[Erin Clements](https://t.me/NewMexicoAuditForce/2205)
+
+
+INSERT IMAGE OF TRUMP TWEET WITH one day election? (Trump/Patton connection)
+
+***
+
+Actual elections that are not controlled by machines or easily exploited by other means are possible.
+
+The simplest way might be to return to hand counting paper ballots in small, manageable precincts. Local control and oversight. That is easy to understand, and implementable right now. There is no reason for county commissioners to wait for further data to come in. The machines in Minnesota are not in compliance with the latest VVSG 2.0 guidelines and therefore violate our election code, [Minnesota Statute 206.57 Subd.6 Required Certification](https://www.revisor.mn.gov/statutes/cite/206.57).
+
+Although I prefer the simplicity and the community involvement (imagine neighbors getting together on election day to count the votes together), but I recognize that hand counting paper is not the only way.
+
+Machines might be used under certain conditions.
+
+Jeffrey O'Donnell says it very well:
+
+"If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
+
+Here Jeff describes a possible future where we still use machines but with conditions to increase clarity that the currently less than useless certifications don't have.
+
+This jives well with advocates who can't yet stomach the idea of hand counting paper ballots.
+
+But a method to [hand counting paper ballots is viable](https://youtu.be/GBKz1o_VqAE?t=2501) and is described well by Col. Phil Waldron in the Nye County Commission meeting here where the board voted unanimously to move away from electronic voting equipment in their county elections.
+
+Counties and state legislatures around the country will decide how they want to make elections fair again, and possibly to make every voter's vote count for the first time in decades.
+
+*“Never tell people how to do things.  Tell them what to do and they will surprise you with their ingenuity.”*
+
+—General George Patton
+
+
+
+It's possible. It's happening. And it could happen in your county.
+
+Will you help to get it done?
+
+## Legal Brief
+
+Type it out or copy-paste here from .docx
+
+Minnesota BRIEF legal
+
+13/4 <-- new Mexico
+
+13 breaches of election code
+4 more pieces of evidence
+
+
+
+US Congressional Oversight Committee was investigating our audit
+2
+3
+
+then commissioners
+Couy Griffin - arrested for praying outside of the Capitol
+Vicki Marquort?
+Gerald Matterly (skeptic), but he came around and was powerful
+
 
 
 It takes very little talent or creativity to complain about problems.  After all, the people directly impacted by a problem, and eventually those indirectly impacted by the problem, feel the weight and consequences stemming from it.  When I speak in front of an audience, I need not complain at length about the violations of liberty underway in America, because the people know the personal toll exacted by those who corrupt the foundation of self-government.  The audiences come to hear solutions and to commit to action.
@@ -19,6 +77,67 @@ https://t.me/NewMexicoAuditForce/2205
 ![Data Request from Hennepin County](foia_submit.png)
 
 also link to magaraccoon.com/foia.html
+
+## Raising Awareness
+
+County commissioner strategy...
+
+what to ask for?
+
+resolutions -
+1. Remove Machines (epollbooks, tabulators, election management systems)
+2. Turn on Cast Vote Records (CVRs) in tabulators and tabulation systems
+3.
+4.
+5. Balanced absentee ballot boards
+6. No drop boxes
+
+This is based on priority.
+
+Start at the top and move down.
+
+1. Remove Machines
+
+Epollbooks (poll pads), tabulators, and election management systems violate 206.57 Subd.6 Required Certification because the EAC has not designated any testing lab to perform its VVSG 2.0 certifications, and 206.57. Subd.6 requires that voting equipment be in compliance with those standards.
+
+2. Turn on Cast Vote Records (CVRs) in tabulators and tabulation systems
+
+No Minnesotan has yet received cast vote record (CVR) reports from any of the 87 counties in the state, even though these reports represent a key element in the machine audit trail. For instance, a comparison of paper ballots with the cast vote record in a precinct would represent a version of a micro-audit. Notice that this comparison is *different* from what post-election reviews are doing, which is comparing the aggregate vote totals (stored in the election management system database and tabulator tapes) with the hand counted ballots. Jeff Lenburg has shown the [ability to manipulate the database and the tapes to match](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) while leaving them non-matching with the paper ballots.
+
+3. Demonstrate clean voter rolls ... (to match canvass?)
+
+4.
+
+5.
+
+6. No Drop Boxes
+
+I put drop boxes last because mail-in fraud and mule-based fraud will still be simple enough so long as there are *some* drop boxes sprinkled throughout the state. Even if all drop boxes were removed, absentee ballot cheating could still occur. Note that legislation requiring 24-hour surveillance of drop boxes does little to prevent fraud occurring. Once a ballot is in the drop box, it is a legal ballot. See 2000 Mules for proof that 4,000,000 minutes of surveillance footage did next to nothing to preventing ballot traffickers from exploiting this critical weakness in our election system. 
+
+vid
+vid
+vid
+
+repost what David did:
+
+[David's advice](https://t.me/theprofessorsrecord/7412) on June 15, 2022 was spot on:
+
+People asking what you can do.  Use a search engine.  Locate your commissioners' email and phone numbers.  Call, write, and show up to your next commission meeting, and support our efforts for transparency.  Likewise, find a contact for the SOS and AG's office and give them hell.  Stop being a spectator.
+
+
+## Are You a Candidate?
+
+Prepare to challenge results of elections.
+
+have extra cash?
+-spend a little less than normal on marketing AND
+-SAVE IT FOR DISCRETIONARY AUDIT
+-we are in uncharted waters, think ahead, this is coming very soon, primaries in 2 months, we cannot say 'better luck next time'
+
+-link to discretionary audit
+
+are CVRs turned on?
+
 
 ## What can you do?
 
