@@ -231,20 +231,49 @@ Even if we conservatively speculated that only about 1 state delegate per county
 From one point of view, the result is equivalent to inflating voter rolls (in the statewide voter registration system). From another vantage point, the result is equivalent to a [vote swap in an election management system](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html).
 
 ## Endorsing Conventions
-...
 
+Endorsing conventions allow the MNGOP to select an "endorsed" candidate, who will get to carry that badge forward. These conventions happen at the senate district, congressional district, and state level.
 
+How do you get to participate and vote in these conventions?
+
+By becoming a delegate.
+
+Starting at the precinct level, then the BPOU level (Basic Political Organizing Unit), then the congressional district and finally the state convention.
+
+At each stage you may nominate yourself and then your peers must elect you to move forward.
+
+Eventually, a bit over 2,000 delegates make their way to the state convention to select the endorsed candidates for state auditor, secretary of state, attorney general, and governor.
+
+Candidates can still run as republicans in the primary elections, this year happening on August 9. The winners of the democratic and republican primaries face off in the midterm elections on November 8, 2022.
 
 ***
 
-My Precinct,
-almost wasn't a delegate
-missed the pre-signup, and only got onto list to be considered with a few minutes to spare by leaving my seat, going across the room, and asking my BPOU Chair Diana. There was a printed list to which I added my handwritten name. Several others, also apparently unaware of how to get their names on that list previously, saw me walk over and also did so to get their names written down for consideration. the list was 12 people and jumped to about 19. each of us gave 30 second speeches as to why we should become delegates.
+Precinct caucus took place on February 1, 2022. There were five people total at my table, including my neighbor, his wife, and his son, plus one more woman thankfully wearing the only mask in the room. Because our precinct was alotted five BPOU delegate slots, each of us was able to nominate ourselves and become delegates without any speeches or voting. A couple of us had brought resolutions we wanted sent up to the next stage for consideration. One close to my heart was a resolution to remove electronic voting equipment.
 
-Carleton's lol speech
+Of note was I believe an unnecessary governor straw poll, which we were urged to complete by a certain time. One benefit of the straw poll was the opportunity to learn that while about 10,000 republicans voted in it in 2018, more than 17,000 did so in 2022.
+
+Also of note was the attendance of friends who had voted for democrats in the previous election but had come looking for something new. I hope they read this book so they can see I might have observed some of the things they also did.
+
+***
+
+At the BPOU stage, about 34 of the delegates elected at the precinct caucus showed up. There were only 9 slots for delegates moving onto the congressional district convention and the state convention.
+
+I almost *wasn't* a delegate.
+
+Having missed the pre-signup, I only got onto the list to be considered with a few minutes to spare by leaving my seat, going across the room, and asking my BPOU Chair Diana to be included. There was a printed list to which I added my handwritten name. Several others, also apparently unaware of how to get their names on that printed list (printed prior to the meeting), saw me walk over and also did so to get their names written down for consideration. The printed list was 12 people and jumped to about 19. Each of us then gave 30-second speeches as to why we should become delegates.
+
+I said I care about election integrity and plan to support candidates demonstrating courage and a dedication to the truth.
+
+Carleton Crawford, former acting chair and former deputy chair for the MNGOP and current employee of Hennepin County, gave an interesting speech. He said he was going to list himself as an alternate, so no need to vote for him. But please consider voting for those who have put in the time and effort previously into the party. That could be seen as an encouraging nod to his workmates or a clever influence tactic to ensure the regulars got enough votes to move into the next round. Would anyone have cried foul if my speech suggested we needed to have 9 new delegates this year?
+
+I asked to observe the vote counting. Was almost shortchanged one vote but caught it. Ended up getting fourth-most votes after the Chair, her husband (a senate candidate), and the BPOU secretary.
+
+***
+
+A few hours after returning from the CD5 convention, I woke up around 2am. Restless, I soon took to writing my observations from the previous evening, what I've come to refer to as "the CD5 show".
 
 
-CD5
+
 miscount first round (this had happened while i was observing counting in precinct where I would have been shortchanged 1 vote had I not been paying attention and called it out)
 
 miscount would have given Cicely Davis the 60% threshold in the first round. But that was inaccurate, and she didn't quite make it.
@@ -277,10 +306,10 @@ Then I emailed several of the MNGOP leadership. Realizing that the convention wo
 When I didn't hear back, I contacted my BPOU Chair Diana.
 
 1 email
-![1](diana_sos_1.png)
+![1](diane_sos_1.png)
 
 2 email
-![2](diana_sos_2.png)
+![2](diane_sos_2.png)
 
 On May 4th, I got a call back from Donna Bergstrom. I said I was thankful for her help and she said, "That's what we're here for."
 
@@ -308,41 +337,44 @@ Of note is the fact that Mike said already on May 5th that I would not be accomm
 
 In those early days I received messages and calls from several people, some encouraging and some discouraging. To be expected given the significance of the secretary of state role.
 
-After sharing with a few people an early version of my website which included a segment of this book, it was forwarded (with my permission) to a woman who said she was volunteering with Kim's campaign. I accepted a phone call. Would I like to meet Kim?, she asked. The suggestion, not confirmed with Kim, was maybe I could be Kim's campaign manager since she was apparently on the lookout for one. Sure, I'll talk with Kim, but can we do it soon? I asked this because I had not yet made my announcement nor informed the MNGOP. A few days passed and there was no meeting or word back, so as I was going to be at the Sherburne rally before the county commmissioners meeting on Tuesday May 3, I decided to make the announcement. The woman who had called me was apparently not happy when she heard the news, but I felt I'd done the best I could to make myself available to Kim's team, if that's what they actually wanted, without further delaying my announcement. Did delaying my announcement give the MNGOP easier reason to not accommodate me? Or would they have declined anyway? We may never know.
+After sharing with a few people an early version of my website which included a segment of this book, it was forwarded (with my permission) to a woman named Donna who said she was volunteering with Kim's campaign. I accepted a phone call. Would I like to meet Kim?, she asked. The suggestion, not confirmed with Kim, was maybe I could be Kim's campaign manager since she was apparently on the lookout for one. Sure, I'll talk with Kim, but can we do it soon? I asked this because I had not yet made my announcement nor informed the MNGOP. A few days passed and there was no meeting or word back, so as I was going to be at the Sherburne rally before the county commmissioners meeting on Tuesday May 3, I decided to make the announcement. The woman who had called me was apparently not happy when she heard the news, but I felt I'd done the best I could to make myself available to Kim's team, if that's what they actually wanted, without further delaying my announcement. Did delaying my announcement give the MNGOP easier reason to not accommodate me? Or would they have declined anyway? We may never know.
 
-Then, a few days prior to the convention, I took a more than one hour phone call with Chris Corletti who said he wasn't working for Kim but who seemed to be helping her campaign. It was hard to gauge the purpose of the call except that Chris was curious to know whether I would run. He several times said he enjoyed reading the information on the website. Overall a good conversation with just one red flag going up when he said he didn't think Rick Weible's information was very compelling for non-technical people. Having at that point seen and done video recordings of Rick's work, I had a different opinion. Without Rick's educational presentations and supporting of multiple people and groups across more than a dozen Minnesota counties (and South Dakota), it's hard to say where the grassroots election integrity movements would be right now.
+Then, a few days prior to the convention, I took a more than one hour phone call with a man named Chris who said he wasn't working for Kim but who seemed to be helping her campaign. It was hard to gauge the purpose of the call except that Chris was curious to know whether I would run. He several times said he enjoyed reading the information on the website. Overall a good conversation with just one red flag going up when he said he didn't think Rick Weible's information was very compelling for non-technical people. Having at that point seen and done video recordings of Rick's work, I had a different opinion. Without Rick's educational presentations and supporting of multiple people and groups across more than a dozen Minnesota counties (and South Dakota), it's hard to say where the grassroots election integrity movements would be right now.
 
-I spoke with Chris at the convention, too, who was able to pull over Kim as well as her husband Marty on Day 2. At the time Kim seemed to be preoccupied with the signage issues (some signs lacked the "paid for by..." language) and indicated it may be better to meet in the coming week. Marty, meanwhile, didn't seem convinced there was machine fraud in Minnesota.
+I spoke with Chris at the convention, too, who was able to pull over Kim as well as her husband Marty on Day 2. At the time Kim seemed to be preoccupied with the signage issues (some signs lacked the "paid for by..." language) and indicated it may be better to meet in the coming week. Marty, meanwhile, didn't seem convinced there was machine fraud in Minnesota. Post convention, Rick Weible said Marty called him asking whether Rick could get me to not run for secretary of state. Also, prior to the convention, there was some unfounded speculation that it was Rick's decision for me to run.
+
+It was my decision. If I take guidance from anyone it's [the Boss](https://www.dropbox.com/s/j0ie2tfrnvvdvf7/the_boss.MP4?dl=0).
 
 The day prior, Friday May 12, I watched the secretary of state speeches from the alternates balcony. I'd gone up to meet a friend of a friend. It was a useful vantage point to take in the spectacle. That's what the state convention could be reduced to, in a word. Others called it a circus. A useful metaphor. But the use of spectacle as a *tactic* was also plentifully demonstrated.
 
-...
+![A spectacle to influence endorsement outcomes](convention_balcony.jpg)
 
-speakers... flashing lights... music...
+Flashing lights, music, speakers on stage with huge video screens behind them. Posters covering every square inch of the walls. T-shirts, "literature", flags. A lot of emotional but often boring speeches. Talk of a red wave with a conspicuous lack of attention—not so much as a mention from the establishment speakers—of the Crime of the Century. Having seen email replies from elected officials and members of the Party during the summer of 2021, I perhaps could have expected them to be silent, but with the increasing queasiness throughout conservative ranks, I thought maybe more would speak up. At least Neil Shah said he thought his vote counted in 2016 but wasn't so sure in 2020.
 
-something was missing... no mention of election fraud
-
-Neither secretary of state candidate used the words stolen election or election fraud. There was one mention of ensuring computers not be connected to the internet (in Kim's speech), but that was the only verbal mention of machines. No other comments on electronic voting equipment or the larger modern electronic voting system.
+In their secretary of state candidate speeches, neither [Kim](https://www.dropbox.com/s/odtkejmchduznbz/kim_sos.mp4?dl=0) nor [Kelly](https://www.dropbox.com/s/4st6l1z2cavp71z/kelly_sos.mp4?dl=0) used the words stolen election or election fraud. There was one mention of ensuring computers not be connected to the internet (in Kim's speech), but that was the only verbal mention of machines. No other comments on electronic voting equipment nor focus put onto the larger and increasingly centralized modern electronic voting system.
 
 That was a bit depressing but it emphasized to me that there was work right in front of me to do, which I was thankful for.
 
-Kim didn't get the endorsement in the first round, ending up a few percentage points shy of the required 60%. So all the delegates voted again. I voted no endorsement twice because I couldn't vote for a candidate that hadn't acknowledged the stolen election nor emphasized the necessity to minimize voter fraud going forward, including by supporting the removal of cheat machines.
+Kim didn't get the endorsement in the first round, ending up a few percentage points shy of the required 60%. We went onto round 2: the delegates voted again. I voted no endorsement twice (I wasn't the only one to do so) because I couldn't vote for a candidate that hadn't acknowledged the stolen election nor emphasized the necessity to minimize voter fraud going forward, including by supporting the removal of the uncertified cheat machines.
 
-After the roughly ten minute delay from the votes going through to the MNGOP putting them up on the screen, I was surprised *not* to see the results displayed; instead, Kelly came out, thanked her volunteers, and conceded. Since I voted, and so did over 2,000 delegates, I wanted to know the result of the election.
+After the roughly ten minute delay from the votes going through the Padgett electronic devices into the software tallying computers (to be reviewed by the Party) and finally up onto the big screen, I was surprised *not* to see the results be displayed; instead, Kelly came out, thanked her volunteers, and conceded. Since I voted, and so did over 2,000 delegates, I wanted to know the result of the election. That seemed like the right thing to do, too.
 
 God helped me catch up with both Kelly and Kim right after Kelly's concession speech.
 
 [The conversation with Kelly](https://www.dropbox.com/s/yu0jtnd81avf2uf/kelly_sos_endorsement.m4a?dl=0) left me with questions.
 
+From the conversation:
+
 ERIK: "Did you by chance see the second round results?"
 
 KELLY: "I, um, no, because we knew they were good. But I'm not going to worry about the results right now. Right now I'm just going to chill with my family."
 
-I don't know who the "we" is that Kelly is refering to. Wasn't Kelly eager to verify that her opponent actually won? Could she have been lied to?
+I don't know who the "we" is that Kelly is refering to. I assume "they" refers to the results. But wasn't Kelly eager to verify that her opponent actually won? And if she wasn't shown the vote totals, could she have been lied to about them?
 
-Right after that, I crossed paths with Kim. She too could not confirm the results of the second round of voting. But a woman next to her said she must have won by a lot.
+Right after that, I crossed paths with Kim. She too could not confirm the results of the second round of voting. But a woman next to her, sensing my dismay, said she must have won by a lot. They escaped my further questions through a door.
 
-Now I wasn't sure. There were several possibilities, including but not limited to the below:
+Now, I wasn't sure what to make of this. There were several possibilities, including but not limited to:
+
 1. Kim had reached 60%—as a result, Kelly decides to concede, either requesting or accepting an offer to make a concession speech in exchange for not having the results shared on the big screen for the delegates
 2. Kim had again not eclipsed 60%—a deal is struck where Kelly concedes even though the rules state a third round of voting must occur if no candidate reaches 60%
 3. Kelly (or Kelly *and* Kim) were told Kim had won—Kelly decides to concede without verifying whether Kim had indeed reached 60% or not
@@ -355,9 +387,53 @@ Now, it may be how things have been done in the past, but that doesn't make it r
 
 When not many people seemed share my concern about the lack of transparency, my attention to detail was further heightened.
 
-I think the overall endorsement process in Minnesota is rife with irregularities which water down the value of endorsements in general, but each endorsement should be evaluated on a case by case basis. For example, candidates like Mark Bishofsky worked really hard to get delegates favorable to him into the process in order to comfortably win his District 33B endorsement.
+I think the overall endorsement process in Minnesota is rife with irregularities which water down the value of endorsements in general, but each endorsement should be evaluated on a case by case basis. For example, candidates like Mark Bishofsky worked really hard to get delegates favorable to him into the process in order to comfortably win his District 33B endorsement. I haven't even begun to discuss the unopposed state auditor endorsement, the attorney general endorsement, or the governor endorsement. I have thoughts but I think careful readers will have gotten a feel for what I am paying attention to and a hint at my provisional conclusions.
 
-In the case of secretary of state, I'm not sure what to think. And what may have happened if a third candidate who couldn't be accommodated had been given the chance to speak?
+In the case of secretary of state, I'm not sure what to think. And what may have happened if a third candidate who couldn't be "accommodated" had been given the chance to speak?
+
+Candidates without an endorsement tag may do just fine this year. Natural turnout will be high for a midterm, possibly historic, with independents and democrats voting for republicans in great numbers. Candidates without endorsements, such as Doug Wardlow, will do well in large part because voters are paying much closer attention to detail, having been woken up by the narrative collapses of Covid-19 and the Big Lie.
+
+Compared with just a year ago, more people are able to read and research open source intelligence (OSINT) and seek the truth with a discerning eye and spirit, not giving up until they find it. They are looking at old questions with fresh eyes and having the wisdom and courage to expect and demand candidates for public office be ready to serve their constituents and not other masters.
+
+## Electronic Voting
+
+governor's asked to write on a sign, one word, jerk, loser, problem, take photo to persaude them to accept endorsement
+
+according to the electronic devices at the convention, about 55% were new people, but how many *more* people should there have been without tampering? there was no transparent audit done of the statewide delegate lists which should have been done to ensure no one was left out of the process
+
+letter from chairman david haan, calls anyone asking for paper ballots, SABOTEURS
+any campaign can ask and get the next day.
+
+at convention, another speech meant to dissuade people from standing for paper ballots - it will take too long, etc.
+
+i asked the yellow shirted guy how things were going, who i could ask questions to about process, he pointed to the people on the stage... the mngop leadership.
+
+devices used at MNGOP state convention in Rochester
+https://erikvanmechelen.substack.com/p/electronic-voting-devices-used-at
+
+
+Shah's campaign asked for audits, no answer from the party.
+
+all this is part of election process
+
+who wins primary becomes the party candidate, and republican candidate or democrat candidate usually win, since most voters have been funneled (through decades of influence operations) into supporting the candidate that their party puts forward.
+
+In the recent past, as the Democrat party has moved further to the left ideologically. Part of the uniparty strategy seems to be to endorse and run Republican candidates that are fairly weak and unexciting, like for example ["Low-Energy Jeb"](https://www.youtube.com/watch?v=SXKmEEAhDj0). This way, low propensity republican voters will stay home in greater numbers opening the door to the Attack Phase where mail-in ballots are submitted for them.
+
+(If I can be afforded to have a bit of fun: Low-Energy Jeb was so low energy that I once contributed to a [USA Today article](https://www.usatoday.com/story/opinion/2020/05/28/jeb-bush-terry-mcauliffe-invest-workers-spur-economic-recovery-column/5259291002/) he co-authored with then Virginia Governor Terry McAuliffe, recently defeated by Governor Glenn Youngkin. Youngkin's victory was supposedly a win for Republicans, but in my opinion Youngkin could be a Republican in disguise (RID) and a suitable poster child for the false assertion that in machine-driven elections the algorithms can be easily overwhelmed. We are seeing in multiple 2022 primaries that the algorithms are doing quite well at selecting candidates.)
+
+*Knowing what I know now, I wouldn't do work for either of them again.*
+
+
+
+
+
+
+the endorsement is used as a marketing badge to signal
+
+but in this environment, if a candidate could only have one, would they rather have the endorsement of their party or an endorsement from President Trump? (but also, lets not read too much into every Trump endorsement)
+
+having seen how the party puts forward candidates, i am embarrassed. embarrassed that i previously mindlessly just voted for the candidates and was not involved in helping to choose them
 
 
 
@@ -368,19 +444,7 @@ In the case of secretary of state, I'm not sure what to think. And what may have
 
 
 
-senate district
-nathan's story... didn't finish counting, then wrapped it up... wow...
-
-i will focus on the state convention here, since i was there
-
-not as endorsed candidate, but as a delegate
-
-having received the 4th-most votes (after the chair, husband of chair, and secretary) after in 30 seconds saying election integrity is my number one issue and i want to vote for candidates that have courage and dedication to the truth
-
-carleton, hennepin county, stands up and says let's support those who have put in the work. not exactly a welcoming comment to the many new people who are getting involved because they don't like what they've been seeing.
-
-
-
+edits/outtakes
 
 
 Link to soundcloud...
