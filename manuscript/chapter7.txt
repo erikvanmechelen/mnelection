@@ -202,12 +202,7 @@ Even if we conservatively speculated that only about 1 state delegate per county
 From one point of view, the result is equivalent to inflating voter rolls (in the statewide voter registration system). From another vantage point, the result is equivalent to a [vote swap in an election management system](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html).
 
 ## Endorsing Conventions
-
-*"Did you by chance see the second round results?"*
-
-*"I, um, no, because we knew they were good. But I'm not going to worry about the results right now. Right now I'm just going to chill with my family."*
-
-—Part of a conversation between the author and Kelly soon after her concession speech
+...
 
 ***
 
@@ -251,8 +246,10 @@ Then I emailed several of the MNGOP leadership. Realizing that the convention wo
 When I didn't hear back, I contacted my BPOU Chair Diana.
 
 1 email
+![1](diana_sos_1.png)
 
 2 email
+![2](diana_sos_2.png)
 
 On May 4th, I got a call back from Donna Bergstrom. I said I was thankful for her help and she said, "That's what we're here for."
 
@@ -276,32 +273,60 @@ The following emails Mike Lonergan have apparently been deleted on Mike's end, a
 
 ![8](mike_sos_8.png)
 
-Another was with woman who said she was volunteering with Kim's campaign. Would I like to meet her? Sure, can we do it soon? I asked, because I had not yet made my announcement nor informed the MNGOP. A few days passed and there was no meeting.
+Of note is the fact that Mike said already on May 5th that I would not be accommodated prior to the proposed rule deadline the following morning on May 6th. Of course, since he did not state this as the reason for non-accommodation, it remains unknown the reason why this decision was made, and by whom.
 
-A few days prior to the convention I took a one hour phone call with a man who seemed to be helping Kim's campaign. It was hard to gauge the purpose of the call except that this person was curious to know whether I'd run and said they enjoyed reading my website (a precursor to this short book). But a red flag went up when he said he didn't think Rick Weible's information was very compelling.
+In those early days I received messages and calls from several people, some encouraging and some discouraging.
 
-I spoke with this person at the convention, who was able to pull over Kim as well as her husband Marty. Marty didn't seem convinced there was machine fraud in Minnesota.
+After sharing my website with a few people it was forward to a woman who said she was volunteering with Kim's campaign. I accepted a phone call. Would I like to meet Kim?, she asked. The suggestion, not confirmed with Kim, was maybe I could be Kim's campaign manager since she was apparently on the lookout for one. Sure, I'll talk with Kim, but can we do it soon? I asked this because I had not yet made my announcement nor informed the MNGOP. A few days passed and there was no meeting or word back, so as I was going to be at the Sherburne rally before the county commmissioners meeting on Tuesday May 3, I decided to make the announcement. The woman who had called me was apparently not happy when she heard the news, but I felt I'd done the best I could to make myself available to Kim's team, if that's what they actually wanted, without further delaying my announcement. Did delaying my announcement give the MNGOP easier reason to not accommodate me? Or would they have declined anyway? We may never know.
 
-This wasn't the only phone call I took.
+Then, a few days prior to the convention, I took a more than one hour phone call with Chris Corletti who didn't work for Kim but who seemed to be helping Kim's campaign. It was hard to gauge the purpose of the call except that this person was curious to know whether I would run and said they enjoyed reading my website (a precursor to this short book). Overall a good conversation with just one red flag going up when he said he didn't think Rick Weible's information was very compelling for non-technical people.
 
+I spoke with Chris at the convention, too, who was able to pull over Kim as well as her husband Marty on Day 2. At the time Kim seemed to be preoccupied with the signage issues (some signs lacked the "paid for by..." language) and indicated it may be better to meet in the coming week. Marty, meanwhile, didn't seem convinced there was machine fraud in Minnesota.
 
+The day prior, Friday May 12, I watched the secretary of state speeches from the alternates balcony. I'd gone up to meet a friend of a friend. It was a useful vantage point to take in the spectacle. That's what the state convention could be reduced to, in a word. Others called it a circus. A useful metaphor. But the use of spectacle as a *tactic* was also plentifully demonstrated.
 
-
-I watched the secretary of state speeches from the alternates balcony. I'd gone up to meet a friend of a friend. It was a useful vantage point to take in the spectacle. That's what the state convention could be reduced to, in a word. But the use of spectacle as a *tactic* was also demonstrated ...
+...
 
 speakers... flashing lights... music...
 
 something was missing... no mention of election fraud
 
-neither secretary of state candidate used the words stolen election or election fraud. there was one mention of ensuring computers not be connected to the internet, but that was the only mention of machines. no other comments on electronic voting equipment or the larger modern electronic voting system.
+Neither secretary of state candidate used the words stolen election or election fraud. There was one mention of ensuring computers not be connected to the internet (in Kim's speech), but that was the only verbal mention of machines. No other comments on electronic voting equipment or the larger modern electronic voting system.
 
-that was a bit depressing but it emphasized to me that there was work right in front of me to do.
+That was a bit depressing but it emphasized to me that there was work right in front of me to do, which I was thankful for.
 
 Kim didn't get the endorsement in the first round, ending up a few percentage points shy of the required 60%. So all the delegates voted again. I voted no endorsement twice because I couldn't vote for a candidate that hadn't acknowledged the stolen election nor emphasized the necessity to minimize voter fraud going forward, including by supporting the removal of cheat machines.
 
 After the roughly ten minute delay from the votes going through to the MNGOP putting them up on the screen, I was surprised *not* to see the results displayed; instead, Kelly came out, thanked her volunteers, and conceded. Since I voted, and so did over 2,000 delegates, I wanted to know the result of the election.
 
-God helped me catch up with both Kelly and Kim right after Kelly's concession speeach.
+God helped me catch up with both Kelly and Kim right after Kelly's concession speech.
+
+[The conversation with Kelly](https://www.dropbox.com/s/yu0jtnd81avf2uf/kelly_sos_endorsement.m4a?dl=0) left me with questions.
+
+ERIK: "Did you by chance see the second round results?"
+
+KELLY: "I, um, no, because we knew they were good. But I'm not going to worry about the results right now. Right now I'm just going to chill with my family."
+
+I don't know who the "we" is that Kelly is refering to. Wasn't Kelly eager to verify that her opponent actually won? Could she have been lied to?
+
+Right after that, I crossed paths with Kim. She too could not confirm the results of the second round of voting. But a woman next to her said she must have won by a lot.
+
+Now I wasn't sure. There were several possibilities, including but not limited to the below:
+1. Kim had reached 60%—Kelly had decided to concede, either requesting or accepting an offer to make a concession speech in exchange for not having the results shared on the big screen for the delegates
+2. Kim had not eclipsed 60%—a deal was struck where Kelly conceded
+3. Kelly (or Kelly *and* Kim) were told Kim had won—Kelly decided to concede without verifying whether Kim had indeed reached 60% or not
+
+Any of these three may have occurred, the third being slightly more likely in my opinion based on the fact that Kelly says she did not see the second round results: "I, um, no, because we knew they were good."
+
+When not many people seemed to have notice the problem with the lack of transparency, my attention to detail was heightened.
+
+
+
+
+I later asked Eric Lucero what he thought. He said that was normal, not indicating he took issue with it.
+
+Now, it may be how things have been done in the past, but that doesn't make it right. Chair David Haan had stood before the more than two thousand attendees talking about how great the electronic voting equipment was. And not only would they not share the source code nor demonstrate its auditability, but they weren't even going to put the results on the big screen. Someone else suggested to me this was a face-saving practice. That was not satisfying to me.
+
 
 senate district
 nathan's story... didn't finish counting, then wrapped it up... wow...
