@@ -1,4 +1,4 @@
-# A Brief History of Voting Machines and Certifications
+# Appendix - A Brief History of Voting Machines and Certifications
 
 In the first place, how did we get to using machines, and *electronic* voting machines, in elections?
 
@@ -128,3 +128,7 @@ It reads very similarly, sometimes verbatim, to the EAC’s certifications, whic
 Should the public have questions when 81 out of 87 counties in Minnesota DO NOT have certified election equipment according to the Election Assistance Commission, which under [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) those election machines should have prior to use?
 
 Are there consequences to certifications (the EAC certifications) which have disclaimers putting the value of the certification itself into question? Should we be concerned when our secretary of state basically copy-pasted the EAC's certificate language into his own machine certifications?
+
+***
+
+*Thank you for reading [S]elections in Minnesota. The digital versions, both written and audio, will remain free forever. If you enjoyed it, please share it with a friend, even a brand new friend.*
