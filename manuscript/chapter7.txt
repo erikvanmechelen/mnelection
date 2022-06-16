@@ -401,7 +401,7 @@ We used [electronic voting devices](https://erikvanmechelen.substack.com/p/elect
 
 This after the Chair of the Party in an email days before the convention suggested anyone even asking questions about the electronic devices from the German company, Padgett, were "saboteurs." Prior to the endorsement process, a motion to strike the proposed rule (to use electronic voting devices) was debated. Several speakers spoke for and against the proposed rule prior to a standing vote. Susan Shogren Smith read the Minnesota Constitution regarding [the required use of ballots for elections](https://youtu.be/X7dYzfby-Fo), which includes these endorsement elections.
 
-Later, during the endorsement voting rounds, there were no announcements that I recall addressing the reports of the [electronic voting device glitches](https://www.youtube.com/shorts/uHEjYRGK01s). Sometimes the vote would not send. The device would ask the voter to vote a SECOND time. Does this mean the original vote did not go through? What would have happened if the voter pressed send, put the device in their pocket, and then didn’t realize the glitch? Would their original vote have counted? Or would there be a no-vote or empty vote which the software could designate for another candidate? This last sentence is speculation, but since the source code was not shown to delegates nor were audits of results shared showing individual device IDs and vote numbers, we cannot yet verify whether our votes went through as we desired.
+Later, during the endorsement voting rounds, there were no announcements that I recall addressing the reports of the [electronic voting device glitches](https://www.youtube.com/shorts/uHEjYRGK01s). Sometimes the vote would not send. The device would ask the voter to vote a SECOND time. Does this mean the original vote did not go through? What would have happened if the voter pressed send, put the device in their pocket, and then didn’t realize the glitch? Would their original vote have counted? Or would there be a no-vote or empty vote which the software could designate for another candidate? This last sentence is speculation, but since the source code was not shown to delegates nor were audits of results shared showing individual device IDs and vote numbers, we cannot yet verify whether our votes went through as we desired. It would have been trivial to program a no vote on some percentage of inputs of a given number, just for one example.
 
 Not sure if you can tell, but I'm not a fan of electronic voting equipment. That said, how could these electronic voting device results be verified?
 
@@ -415,190 +415,16 @@ But the MNGOP should have provided these reports to every delegate in real time.
 
 At a minimum, this would have quieted down skeptics like me whose distrust grew as I personally experienced and witnessed glitches, heard about at least one device left unattended, and watched for instance Mike Murphy lose about 60 votes between rounds 3 and 4 after taking the lead in round 3. Were people really swapping their votes *away* from the leading candidate after he'd just taken the lead? Even a prominent house rep speculated about vote shaving.
 
+## Primary Election on August 9
 
+I was embarrassed that I previously mindlessly just voted for the republican candidates and was not involved in helping to choose them. Having seen how the party puts forward candidates, I am further embarrassed. Because I was duped. I was under a spell.
 
+We have endorsed candidates and unendorsed candidates, establishment and grassroots America First.
 
+The stage is set.
 
+With the context of heightened concern around voting processes and the modern electronic voting system which in Minnesota seems to violate Minnesota Statute 206.57 Subd.6 Required Certification on account of there being no testing lab identified by the EAC to conduct VVSG 2.0 certifications, we are heading into interesting territory.
 
+But what matters more is not who wins, but whether the truth wins.
 
-governor's asked to write on a sign, one word, jerk, loser, problem, take photo to persaude them to accept endorsement
-
-according to the electronic devices at the convention, about 55% were new people, but how many *more* people should there have been without tampering? there was no transparent audit done of the statewide delegate lists which should have been done to ensure no one was left out of the process
-
-letter from chairman david haan, calls anyone asking for paper ballots, SABOTEURS
-any campaign can ask and get the next day.
-
-at convention, another speech meant to dissuade people from standing for paper ballots - it will take too long, etc.
-
-i asked the yellow shirted guy how things were going, who i could ask questions to about process, he pointed to the people on the stage... the mngop leadership.
-
-devices used at MNGOP state convention in Rochester
-https://erikvanmechelen.substack.com/p/electronic-voting-devices-used-at
-
-
-Shah's campaign asked for audits, no answer from the party.
-
-all this is part of election process
-
-who wins primary becomes the party candidate, and republican candidate or democrat candidate usually win, since most voters have been funneled (through decades of influence operations) into supporting the candidate that their party puts forward.
-
-In the recent past, as the Democrat party has moved further to the left ideologically. Part of the uniparty strategy seems to be to endorse and run Republican candidates that are fairly weak and unexciting, like for example ["Low-Energy Jeb"](https://www.youtube.com/watch?v=SXKmEEAhDj0). This way, low propensity republican voters will stay home in greater numbers opening the door to the Attack Phase where mail-in ballots are submitted for them.
-
-(If I can be afforded to have a bit of fun: Low-Energy Jeb was so low energy that I once contributed to a [USA Today article](https://www.usatoday.com/story/opinion/2020/05/28/jeb-bush-terry-mcauliffe-invest-workers-spur-economic-recovery-column/5259291002/) he co-authored with then Virginia Governor Terry McAuliffe, recently defeated by Governor Glenn Youngkin. Youngkin's victory was supposedly a win for Republicans, but in my opinion Youngkin could be a Republican in disguise (RID) and a suitable poster child for the false assertion that in machine-driven elections the algorithms can be easily overwhelmed. We are seeing in multiple 2022 primaries that the algorithms are doing quite well at selecting candidates.)
-
-*Knowing what I know now, I wouldn't do work for either of them again.*
-
-
-
-
-
-
-the endorsement is used as a marketing badge to signal
-
-but in this environment, if a candidate could only have one, would they rather have the endorsement of their party or an endorsement from President Trump? (but also, lets not read too much into every Trump endorsement)
-
-having seen how the party puts forward candidates, i am embarrassed. embarrassed that i previously mindlessly just voted for the candidates and was not involved in helping to choose them
-
-
-
-
-
-
-
-
-
-
-edits/outtakes
-
-
-Link to soundcloud...
-
-As precinct caucuses ca
-
-all this amounts to...
-
-there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement.
-
-We'll see, primaries are tbh the big thing and there are already issues there and in republican leadership conferences
-
-ALL OF THIS EQUIVALENT TO INFLATING VOTER ROLLS (WITH ILLEGITIMATE VOTERS)
-ALL OF THIS IS EQUIVALENT TO STUFFING BALLOT BOX
-
-wrote 'the CD5 show' - quote from it
-pull in articles
-
-saveminnesota.org
-
-https://saveminnesota.org/otter-tail/f/otter-tail-report-election-tampering-in-10-precincts
-
-https://drive.google.com/file/d/1Mq8vRXwOQTw9ZsQQCm3MRIYwrD_khx10/view
-
-If this can happen in Otter Tail County, it can happen in any county in Minnesota. This was why some were calling for a full and transparent audit of all county delegate lists to compare with state lists prior to further BPOU and endorsing conventions. These audits did not satisfyingly occur.
-
-I asked my BPOU Chair for an audit and the request was declined.
-
-In Morrison County,
-listen to Nathan Wesenberg's reporting
-
-ALL OF THIS EQUIVALENT TO INFLATING VOTER ROLLS (WITH ILLEGITIMATE VOTERS)
-ALL OF THIS IS EQUIVALENT TO STUFFING BALLOT BOX
-
-EVEN A 15% TAMPERING WOULD HAVE A 30% EFFECT SIZE - JUST LIKE VOTE SWAPPING IN AN ELECTION, IF I TAKE A TRUMP VOTE AND SWAP TO BIDE, -1 TO TRUMP, +1 TO BIDEN, OR NET +2
-
-IF YOU WERE TAMPERING WITH LISTS, YOU WERE PUTTING PEOPLE ON LIST WHO YOU **KNEW** WOULD VOTE YOUR DIRECTION, CHOOSING THE DELEGATE INSTEAD OF LETTING THEM BE VOTED UPON AS IN THE RULES AND MNGOP CONSTITUTION AND BPOU RULES, ETC.
-
-senate district 10 endorsement convention cancelled
-
-edwin hahn barred from senate 4 endorsement convention and participation in state convention as a delegate
-
-who knows how many more this may have occurred to if people had spoken up about what they were seeing
-
-erik van mechelen not allowed to participate in state convention endorsement process for secretary of state (link to video/article)
-https://erikvanmechelen.substack.com/p/proposed-rule-29-to-prevent-new-sos
-
-governor's asked to write on a sign, one word, jerk, loser, problem, take photo to persaude them to accept endorsement
-
-according to the electronic devices at the convention, about 55% were new people, but how many *more* people should there have been without tampering? there was no transparent audit done of the statewide delegate lists which should have been done to ensure no one was left out of the process
-
-letter from chairman david haan, calls anyone asking for paper ballots, SABOTEURS
-any campaign can ask and get the next day.
-
-at convention, another speech meant to dissuade people from standing for paper ballots - it will take too long, etc.
-
-i asked the yellow shirted guy how things were going, who i could ask questions to about process, he pointed to the people on the stage... the mngop leadership.
-
-then we use electronic devices, don't show many of the results.
-
-in sos race i asked kim and kelly, neither was able to share what the result of the 2nd round was, so i'm left wondering whether kim even reached the 60% threshold. i asked eric lucero if it was normal not to show the final results, and he said it was
-
-that may be 'how things are done' but at least in the general election we were told that Biden received 81 million votes and didn't have to take someone's word for it that he beat Trump handily.
-
-devices used at MNGOP state convention in Rochester
-https://erikvanmechelen.substack.com/p/electronic-voting-devices-used-at
-
-remember this - https://erikformn.us/action.html
-
-Shah's campaign asked for audits, no answer from the party.
-
-all this is part of election process
-
-who wins primary becomes the party candidate, and republican candidate or democrat candidate usually win, since most voters have been funneled (through decades of influence operations) into supporting the candidate that their party puts forward.
-
-in the recent past, as the Democrat party has moved further to the left ideologically, part of the uniparty strategy seems to be to endorse and run Republican candidates that are fairly weak and unexciting, like for example 'Low Energy Jeb'. This way, low propensity republican voters will stay home in greater numbers opening the door to the Attack Phase where mail-in ballots are submitted for them.
-
-(Low-Energy Jeb...so low energy that I once contributed to a USA Today article... and Governor Terry McAuliffe, recently defeated by now Governor Glenn Youngkin, supposedly a win for Republicans, but in my opinion Youngkin is likely a Republican in disguise and a suitable poster child for the false assertion that in machine-driven elections the algorithms can be easily overwhelmed)
-https://www.usatoday.com/story/opinion/2020/05/28/jeb-bush-terry-mcauliffe-invest-workers-spur-economic-recovery-column/5259291002/
-Knowing what I know now, I wouldn't do work for them again.
-
-the endorsement is used as a marketing badge to signal
-
-but in this environment, if a candidate could only have one, would they rather have the endorsement of their party or an endorsement from President Trump? (but also, lets not read too much into every Trump endorsement)
-
-having seen how the party puts forward candidates, i am embarrassed. embarrassed that i previously mindlessly just voted for the candidates and was not involved in helping to choose them
-
-also, open Primary, in Georgia, about 7% of voters in the republican primary were democrats
-check this:
-Congressional and state primaries: Open partisan w/ nonpartisan registration
-note:
-MN
-    Minnesota has nonpartisan registration. There is no option to affiliate with a political party on the voter registration form.
-
-check primary results
-https://magaraccoon.com/primaryresults.asp
-
-## Endorsements
-
-this could also happen in the minnesota primary on august 9 for select races
-
-I think I understand your frustration with Wardlow apparently going back on his word.
-
-In my opinion Wardlow should not have agreed to honor the endorsement: However if he had said that, likely that admission would have been used against him as well.
-
-How *should* he have played it?
-
-Maybe he could have learned from how Trump answered when asked in his debate vs. Biden.
-
-Trump said if the election is fair, I’ll accept it, but if there’s fraud, I won’t.
-
-Instead of giving a Yes/No answer which can be used against him.
-
-Jesus, when asked if taxes should be paid to Ceasar:
-
-Give unto Ceasar what is Ceaser’s, give unto God what is God’s.
-
-Neil Shah asked for audits of the Rochester state convention results, which David Haan explicitly said would be available to any campaign after the convention. No response from MNGOP.
-
-I don’t have a good feeling at all about how MNGOP ran state convention.
-
-Am writing a bit about this in the short free book that will be ready in coming weeks.
-
-***
-
-
-
-
-Kari W
-not listed in Intro as Minnesota person
-nor is Teri Dickinson, huge!
-rally at Sherburne
-then big lake meeting!
+Will the electronic voting systems which tabulate, record, and report our vote totals be trusted? I don't think they can stand up to the pressure. But that will depend in part on you.

@@ -1,424 +1,84 @@
-# Chapter 8 - Recommendations
+# Chapter Eight - Security Threats to Our Election System
 
-*"After we kick electronic voting systems out of our country, and go back to all-paper, one-day elections - we need to make Election Day a national holiday. It needs to be a holiday not for convenience or to make sure everyone has time to get to the polls. It needs to be a holiday so that once a year we will remember how Americans defeated tyranny within our borders for a second time. That we reaffirmed that our rights come from our Creator and our liberty is a responsibility. And under that framework our government derives its powers only from the consent of the governed."*
+This is an excerpt from Chapter 3 of [*The 2020 Coup* by Patrick Colbeck](https://www.amazon.com/2020-Coup-What-Happened-Can/dp/1955043655).
 
-—[Erin Clements](https://t.me/NewMexicoAuditForce/2205)
+## Election Infrastructure Components
 
+Let's delve into a discussion of the security threats to our election system. Rather than provide you with a list of the risks that I have discovered on my own, I believe it would be quite revealing to hear from people who investigated these risks prior to the 2020 general election and who now assert that it was the most secure election in American history.
 
-INSERT IMAGE OF TRUMP TWEET WITH one day election? (Trump/Patton connection)
+An investigative news story by NBC News that aired on January 10, 2020, provided a stark summary of the hacking risks for voting systems connected to the internet.
 
-***
+CYNTHIA MCFADDEN:  We've heard it at congressional hearings for years.
+MR. HICKS:  Our voting machines are not connected to the internet.
+KEVIN SKOGLAN:  We knew that wasn't true.
+CYNTHIA MCFADDEN:  Cybersecurity expert Kevin Skoglan wanted to prove it so he and nine other independent security consultants created their own search engine looking for election systems online.
+KEVIN SKOGLAN:  We found over 35 had been left online and we continue to find more.
+[...]
+CYNTHIA MCFADDEN:  Sklan's team found ES&S voting systems online in at least some of the precincts in 11 states including the battleground states of Florida, Michigan and Wisconsin.
+If you were able to get inside these systmes, could you do more than perhaps mess up the preliminary results, could you actually get deeper in the system?
+KEVIN SKOGLAN:  Absolutely. And that's my biggest concern.
 
-Actual elections that are not controlled by machines or easily exploited by other means are possible.
+On July 28, 2020, three months before the November 3 election, the Cybersecurity & Infrstructure Security Agency (CISA), the agency responsible for understanding, managin, and reducing the risk to our cyber and physical infrastructure, released what they referred to as a Critical Infrastructure Security and Resilience Note, which included a list of election components vulnerable to cyber and non-cyberattacks. These components are the fundamental building blocks of our election system. Let's look at what CISA identified as vulnerable components.
 
-The simplest way might be to return to hand counting paper ballots in small, manageable precincts. Local control and oversight. That is easy to understand, and implementable right now. There is no reason for county commissioners to wait for further data to come in. The machines in Minnesota are not in compliance with the latest VVSG 2.0 guidelines and therefore violate our election code, [Minnesota Statute 206.57 Subd.6 Required Certification](https://www.revisor.mn.gov/statutes/cite/206.57).
+**Voter Registration Database**
+The first of these vulnerable building blocks is the voter registration database. Voter registration is an ongoing process to create new records, update existing records, and remove outdated records. Voter registration databases receive data automatically and indirectly from a variety of sources, including other government agencies and organizations that aid in the registration process. The databases contain information on whether people are entitled to vote, where they can vote, and on what unique ballot style they will vote, based upon voter geographical placement within multiple layers of political and taxing districts. The management of voter registration databases are the responsibility of each state. These databases are typically managed by the secretary of state for each state. These databases are used to enter, store, and edit voter registration information. Security risks include servers that host the database and online portals that provide access. Since these databases are connected to the internet, they pose serious security risks due to the ability for them to be hacked.
 
-Although I prefer the simplicity and the community involvement (imagine neighbors getting together on election day to count the votes together), but I recognize that hand counting paper is not the only way.
+**Pollbooks**
+Another vulnerable building block of the election system are pollbooks. Pollbooks are precinct-specific extracts of the statewide voter registration files. Poll workers use the information in the pollbookss to determine whether or not a voter is eligible to vote. It contians information used to validate the identity of a prospective voter. When voters vote in person at the polls, poll workers use this information to decide whether or not the voter is eligible to receive a ballot to cast at that precinct. Poll workers also use this information to validate the identity of an absentee voter before allowing the absentee ballot to be tabulated. Pollbooks may be either networked or non-networked. Networked pollbooks are electronic pollbooks with a connection to an external database such as the statewide voter registration file. Non-networked pollbooks are either paper pollbooks or digital files saved on local computers. Either way, poll workers use pollbooks to validate the identity and eligibility of prospective voters. Poll workers are also empowered to view, edit, and modify voter records via the pollbooks. Pollbook integrity is critical. The information which they contain determines whether a voter receives a bollot or doesn't.
 
-Machines might be used under certain conditions.
+**Ballot Preparation**
+Ballots are another key election infrastructure component with security vulnerabilities. Modern ballots are much more sophisticated than a piece of paper with checkboxes next to names. Today's ballots are sophisticated paper and/or digital documents. In fact, in some cases, ballots are replaced by Direct-Recording Electronic (DRE) voting machines.
 
-Jeffrey O'Donnell says it very well:
+Ballot preparation is a complicated process of overlaying political geographies with the contests and candidates specific to each district and then translating those layouts into unique combinations of ballot data. Ballot preparation data takes multiple forms such as ballot images (both paper and electronic), the data files necessary to build ballot images, audio files for special use ballots, and specific files for export to external systems such as websites for Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)-focused digital systems. Ballot preparation also generates the data necessary for tabulating votes within a voting machine and aggregating tabulated votes within a jurisdiction or state. This process is usually completed in an election documents and records management system (EDRMS), which is special software designed to manage documents and records throughout the document lifecycle, from creation to destruction. Access to the information in such systems would enable anyone attempting to subert the integrity of an election with the information necessary to create ballots independently of election officials. Of course, ballots are also where voters record their votes. Vote tallies are generated from the information on ballots therefore their integrity is very important to protect.
 
-"If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
+**Voting Machines**
+Another class of election infrastructure components that are at risk are voting machines. Voting machine systems consist of the technology and processes used to cast and, in some cases, generate voter ballots of all types (paper-based or digital systems such as DRE voting). Voting machines often feature ballot marking capabilities that assist in providing an audit trail although DRE systems are noteworthy for their lack of paper audit trail. Electronic voting machines feature hardware and software components which must be certified as "secure" prior to use in an election. The Federal Election Assistance Commission provides a list of certified voting system configurations. Election equipment is supposed to be delivered in a configuration consistent with a certified configuration. The process of preparing electronic voting machines includes loading the ballot files created during ballot preparation onto the voting machines' software. Voting machines are held in storage in the custody of election officials, but after delivery they are placed at voting locations for use during early voting and on Election Day. Voting machines are the most visible form of technology that voters interact with during the voting process.
 
-Here Jeff describes a possible future where we still use machines but with conditions to increase clarity that the currently less than useless certifications don't have.
+**Tabulation Systems**
+Tabulators are critical election infrastructure components with significant security vulnerabilities. At the precinct level, tabulators are used to read a ballot, convert the ballot image to votes, and add the vote data on a given ballot the running tally of votes stored in a digital table. Precinct-level vote tallies are then aggregated by centralized vote tabulation systems at the municipal, county, and state levels. Collectively, these systems help determine and communicate the results of an election. If tabulators are compromised, they can shift votes from one candidate to another. These vote shifts can change the results of an election.
 
-This jives well with advocates who can't yet stomach the idea of hand counting paper ballots.
+**Official Websites**
+Official websites are additional critical components of election infrastructure used by election officials to communicate information to the public, including how to register to vote, where to vote, and to convey election results. Sometimes election websites are hosted on government-owned infrastructure, but they often are hosted by commercial partners. Whether hosted by the government, commercially, or privately, websites can be areas of vulnerability as they often feature network connections to election results databases.
 
-But a method to [hand counting paper ballots is viable](https://youtu.be/GBKz1o_VqAE?t=2501) and is described well by Col. Phil Waldron in the Nye County Commission meeting here where the board voted unanimously to move away from electronic voting equipment in their county elections.
+**Storage Facilities**
+Physical buildings, such as storage facilities, polling places, and election offices, are also critical infrastructure components which need to be secured. Storage facilities may be located on public or private property and may be used to store election and voting system infrastructure before Election Day. Polling places (including early voting locations) are where individuals cast their votes. They may be physically located on public or private property. Election offices are where election officials conduct official business. These offices can be in public libraries, municipal buildings, private homes, and public areas for jurisdictions without a dedicated workspace.
 
-Counties and state legislatures around the country will decide how they want to make elections fair again, and possibly to make every voter's vote count for the first time in decades.
+**Summary**
+Today's modern electronic voting system has quite a few moving parts. The more complex the system, the more vulnerable it is to exploitation. Furthermore, many election officials do not have the technical expertise regarding information technology to mitigate the risks to these systems. Of particular concern is the trend toward increasing network connectivity between election components. The centralization of our election system by networking components together makes it easier for fewer and fewer bad actors to subvert integrity of the election system. Manual systems featuring paper ballots eliminate many of the security vulnerabilities inherent with electronic voting systems. Election officials, poll workers, and poll challengers can see, touch, and feel paper-based election systems. They can secure these systems by observation. In contrast, it is very difficult for these same individuals to monitor electronic communications.
 
-*“Never tell people how to do things.  Tell them what to do and they will surprise you with their ingenuity.”*
+## Consequences of Election Infrastructure Security Breaches
 
-—General George Patton
+The consequences of security breaches according to CISA fall into the following three impact categories: confidentiality, integrity, and availability impacts. The most significant of these, of course, pertain to the integrity of election results.
 
+The integrity of our election systems can be subverted in a variety of ways. While election integrity has always been a concern, our modern electronic voting systems make it easier than ever to effect large scale changes with minimum effort. Key Election records such as our statewide voter registration file, the pollbooks, the ballot itself, and the subsequent vote tallies have all been digitized in our modern election system. Each of these records are connected in what can be described as our election record chain of custody.
 
+Each record in the election record chain of custody can be thought of as a link. The first link is the statewide voter registration file. The statewide voter registration file contains a list of everyone eligible to vote and includes information necessary to verify the identity of voters such as their drivers license signature. The next link is that of the pollbook. The poolbooks are simply precinct-specific extracts of the statewide voter registration file used by poll workers to verify the identity of a given voter prior to processing a ballot cast in the voter's name. That makes ballots the next link in the election record chain of custody. The ballot, of course, contains the intended votes of a voter. The final link in the chain of custody is the vote tally. The vote tally should simply be the sum of all the votes cast on valid ballots.
 
-It's possible. It's happening. And it could happen in your county.
+If you break any single link in the chain, you break the integrity of the entire election. For example, if you have an incorrect birthdate in the statewide voter registration file, it will propagate to an incorrect birthdate in the pollbooks. If an incorrect birthdate is in the pollbook, someone may receive a ballot despite not having met the minimum age requirement to vote. If an ineligible voter casts a ballot, the subsequent vote tally is compromised.
 
-Will you help to get it done?
+In a modern electronic voting system, each of the above handoff is digitized. Whereas data transfers or modifications of these records could be easily monitored by any citizen when our elections were driven by paper records, the monitoring of our digital election records is often restricted to a select few. In this light, the push to digitze our election system has severely impaired transparency. As transparency dissolves, so does the integrity of our elections.
 
-## Legal Brief
+How could these links be compromised? Let's start by looking at the statewide voter registration database. Nefarious actors can add, delete, or modify voter registration data in statewide voter registration files. Such actions can enable what are called phantom voters or result in the denial of voting rights to individuals otherwise qualified to vote. The seeding of the statewide voter registration file with "phantom voters" yields a "slush fund" of voters that could be fraudulently assigned to ballots.
 
-Type it out or copy-paste here from .docx
+If the statewide voter registration file has been corrupted, any pollbooks generated from this database will also be corrupted. This corruption of voter data can go both ways. If bad actors were to access electronic pollbooks, the pollbooks could be used to push fraudulent data to the statewide voter registration file. Furthermore, pollbooks could be accessed real-time by bad actors to reveal who has not yet voted or tap into a voter slush fund. These voter slush funds can be used by clandestine ballot factories to match manufactured ballots to low propensity voters. This match-making exercise helps to avoid an abundance of embarrassing "you already voted" remarks by poll workers when a low propensity voter actually shows up at a voting precinct in person to vote.
 
-Minnesota BRIEF legal
+Ballot integrity can also be compromised. Some modern voting systems use what is referred to as DRE or Direct-Recording Electronic voting machines. Without significant transparency provisions that would compromise the principle of a secret ballot, voters have no substantive assurance that the votes they cast on a voting machine touch screen are actually what has been recorded in the vote tally. Even when paper ballots are used, they can be manipulated to compromise the integrity of the election record chain of custody. Something as simple as the formatting of paper ballots can be used to manipulate elections results. Ballot formatting can be manipulated to trigger scanner errors. These scanner errros in turn will trigger manual or automated adjudication processes. These adjudication processes can then be used to shift votes between candidates. Absentee ballots are particularly vulnerable to this method of subversion as the control over how a vote is cast when there is a scanner error is turned over to poll workers not the voter.
 
-13/4 <-- new Mexico
+The end game of all this electronic record manipulation is the vote tally. The consequence of a compromised vote tally is the selection of a compromised public official. Vote tallies can be manipulated in a variety of ways. Bad actors can program tabulators to automatically shift a percentage of votes from one candidate to another when the tabulator reads a scanned ballot image and allocates votes in a vote tally database. The tabulation databases themselves can be directly manipulated to replace actual vote tallies with alternative vote tallies. Bad actors who have access to vote tallies before election precincts close can use that information to know if they need to stuff the ballot box with more ballots than anticipated.
+If election components are connected to each other on local networks or via internet connections, pollbook ballot tallies and tabulator ballot counts are vulnerable to being re-synchronized with each other to cover any discrepancies between the number of voters and the number of votes cast. If bad actors wish to give the appearnace of a secure election, the total number of voters haded ballots per the pollbook records must reconcile with the number of ballots stored in ballot containers as well as teh total number of votes in the final statement of votes.
 
-13 breaches of election code
-4 more pieces of evidence
+This is just a small sample of the way security breaches can affect elections.
 
+For those who assert that the 2020 general election was the most secure election in history, ask yourselves which if the security concerns raised by CISA, a federal agency, were addressed between the release of the aforementioned CISA Critical Infrastructure Security and Resilience Note on July 28, 2020, and November 3, 2020.
 
+While the federal government has the authority to identify and mitigate any national secuirty threats to our election system, the US Constitution clearly specifies that state governments are responsible for the conduct of our elections. It is each state's responsibility to ensure that elections are conducted in a secure manner.
 
-US Congressional Oversight Committee was investigating our audit
-2
-3
+In Michigan, one of the 2020 battleground states, the Michigan Election Security Advisory Commission was also tasked with the identification and mitigation of election threats. Their report, issued in October of 2020, identified several significant election security risks. On the topic of the voter registration system, they cited issues with security credential management and a lack of monitoring of suspicious activities. On the topic of post-election audits, they cited a lack of transparency about the process and asserted that the current post-election audit standards did not satisfy the constitutional right of Michigan citizens to conduct axn audit of statewide election results. They also cited the threats posed by misinformation or disinformation campaigns, election night reporting risks, and the risks inherent in submitting electronically unofficial election results to county clerks. The report noted that connecting tabulators to the internet or other external networks creates significant risks to the integrity of the election.
 
-then commissioners
-Couy Griffin - arrested for praying outside of the Capitol
-Vicki Marquort?
-Gerald Matterly (skeptic), but he came around and was powerful
+For those who assert that the 2020 general election was the most secure election in history, which of the concerns raised in the October report by the Michigan Election Security Advisory Commission were addressed prior to November 3?
 
+Does anyone truly believe that any of these concerns were addressed at all prior to the election?
 
+If not, is it fair to say that there were significant threats to election integrity that were not addressed prior to the November 3, 2020, election?
 
-It takes very little talent or creativity to complain about problems.  After all, the people directly impacted by a problem, and eventually those indirectly impacted by the problem, feel the weight and consequences stemming from it.  When I speak in front of an audience, I need not complain at length about the violations of liberty underway in America, because the people know the personal toll exacted by those who corrupt the foundation of self-government.  The audiences come to hear solutions and to commit to action.
-—Captain Seth Keshel, [Veteran Lesson VII: Leaders Create Solutions](https://skeshel.substack.com/p/veteran-lesson-vii-leaders-create) (Ten Lessons for Every Day)
-
-ALSO
-
-https://t.me/NewMexicoAuditForce/2205
-
-"After we kick electronic voting systems out of our country, and go back to all-paper, one-day elections - we need to make Election Day a national holiday. It needs to be a holiday not for convenience or to make sure everyone has time to get to the polls. It needs to be a holiday so that once a year we will remember how Americans defeated tyranny within our borders for a second time. That we reaffirmed that our rights come from our Creator and our liberty is a responsibility. And under that framework our government derives its powers only from the consent of the governed."
-
-—Erin Clements
-
-![Data Request from Hennepin County](foia_submit.png)
-
-also link to magaraccoon.com/foia.html
-
-## Raising Awareness
-
-County commissioner strategy...
-
-what to ask for?
-
-resolutions -
-1. Remove Machines (epollbooks, tabulators, election management systems)
-2. Turn on Cast Vote Records (CVRs) in tabulators and tabulation systems
-3.
-4.
-5. Balanced absentee ballot boards
-6. No drop boxes
-
-This is based on priority.
-
-Start at the top and move down.
-
-1. Remove Machines
-
-Epollbooks (poll pads), tabulators, and election management systems violate 206.57 Subd.6 Required Certification because the EAC has not designated any testing lab to perform its VVSG 2.0 certifications, and 206.57. Subd.6 requires that voting equipment be in compliance with those standards.
-
-2. Turn on Cast Vote Records (CVRs) in tabulators and tabulation systems
-
-No Minnesotan has yet received cast vote record (CVR) reports from any of the 87 counties in the state, even though these reports represent a key element in the machine audit trail. For instance, a comparison of paper ballots with the cast vote record in a precinct would represent a version of a micro-audit. Notice that this comparison is *different* from what post-election reviews are doing, which is comparing the aggregate vote totals (stored in the election management system database and tabulator tapes) with the hand counted ballots. Jeff Lenburg has shown the [ability to manipulate the database and the tapes to match](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) while leaving them non-matching with the paper ballots.
-
-3. Demonstrate clean voter rolls ... (to match canvass?)
-
-4. 
-
-5.
-
-6. No Drop Boxes
-
-I put drop boxes last because mail-in fraud and mule-based fraud will still be simple enough so long as there are *some* drop boxes sprinkled throughout the state. Even if all drop boxes were removed, absentee ballot cheating could still occur. Note that legislation requiring 24-hour surveillance of drop boxes does little to prevent fraud occurring. Once a ballot is in the drop box, it is a legal ballot. See 2000 Mules for proof that 4,000,000 minutes of surveillance footage did next to nothing to preventing ballot traffickers from exploiting this critical weakness in our election system.
-
-vid
-vid
-vid
-
-repost what David did:
-
-[David's advice](https://t.me/theprofessorsrecord/7412) on June 15, 2022 was spot on:
-
-People asking what you can do.  Use a search engine.  Locate your commissioners' email and phone numbers.  Call, write, and show up to your next commission meeting, and support our efforts for transparency.  Likewise, find a contact for the SOS and AG's office and give them hell.  Stop being a spectator.
-
-
-## Are You a Candidate?
-
-Prepare to challenge results of elections.
-
-have extra cash?
--spend a little less than normal on marketing AND
--SAVE IT FOR DISCRETIONARY AUDIT
--we are in uncharted waters, think ahead, this is coming very soon, primaries in 2 months, we cannot say 'better luck next time'
-
--link to discretionary audit
-
-are CVRs turned on?
-
-
-## What can you do?
-
-Perhaps most important is that you stay as informed as you can while continuing to ask questions. The powers that be don't like when we [submit FOIA or public data requests for CVRs](https://rumble.com/vyy792-foia-request-for-report-of-cast-vote-record-cvr.html), show up at county commissioner meetings to share evidence, or otherwise use our first amendment rights, but if we don't hold those in public office accountable, who will? We are the people we've been waiting for. Put on the full armor of God. Join me in reclaiming the government for We the People.
-
-If you do decide to vote for me and we are still relying on electronic voting machines for the Primary (August 9th) and the General Election (November 8th), please cast your vote in-person at your precinct on election day. If enough of you do this, there could be a chance to overwhelm the algorithms.
-
-But, after I've written this book, do you really think that Dominion, ES&S, or Hart will (s)elect me in the primary? If I somehow get through the primary, how about the general?
-
-Candidates who have campaigned for over a year are now starting to see results in their primary races that defy trends and sometimes logic, getting them invested in helping to spread the truth about the machines.
-
-
-
-
-
-
-206.56 subd 8
-an electronic voting sys includes ....
-
-In Minnesota Statute 206.56 Subd. 8. Electronic voting system.
-
-"Electronic voting system" means a system in which the voter records votes by means of marking a ballot, so that votes may be counted by automatic tabulating equipment in the polling place where the ballot is cast or at a counting center.
-
-An electronic voting system includes automatic tabulating equipment; nonelectronic ballot markers; electronic ballot markers, including electronic ballot display, audio ballot reader, and devices by which the voter will register the voter's voting intent; software used to program automatic tabulators and layout ballots; computer programs used to accumulate precinct results; ballots; secrecy folders; system documentation; and system testing results.
-
-
-
-
-
-
-
-If possible I would have run for office with no party affiliation, especially after learning about evidence of election tampering in the MNGOP precinct caucuses, in my opinion remaining unaddressed and unresolved. The secretary of state's responsibilities should obviously be non-partisan. However, since it is not possible when running for secretary of state in Minnesota to have no party affiliation, I will run as a republican.
-
-
-***
-
-
-
-
-PICK UP HERE
-
-
-END of edit?
-
-
-
-
-Even though to my knowledge inspection has not been allowed to occur on ES&S's Electionware election management system, I am eager to
-
-Fortunately, there are signs around the country that people are becoming aware of the fundamental issue (that these machines are designed to allow manipulation) and using their voice to affect change how their county conducts elections. Yesterday, April 19, 2022, men and women spoke in Crow Wing, Dakota, and Sherburne counties ([video from Sherburne](https://erikvanmechelen.substack.com/p/open-forum-speakers-address-removing)). Recently, two counties in Nevada, Nye and Esmeralda have already decided not to use electronic voting equipment in upcoming elections. Which county commissioners will be the first in Minnesota to do the same and restore the voice that is constitutionally inherent in the right to vote to their constituents?
-
-
-***
-
-
-Recommendations - Paper
-
-*"The highest priority as a bad guy would be to subvert our election system. The reason is: you can take over a country without firing a shot. If you can decide who the leaders are, if you can put judges, if you can answer constitutional questions any which you want, over a period of time—you're not going to do it in one election, it's going to take a bunch of elections—but you can take over a country. And that would be my top priority (as a bad guy). Nuclear weapons would be a close second, but the top one would be elections."*
-
-Jeff Lensberg, nation-state vulnerability expert in the May 9, 2022 Otero County, New Mexico Emergency meeting
-
-***
-
-*“I consider it completely unimportant who in the party will vote, or how; but what is extraordinarily important is this—who will count the votes, and how.”*
-
-Joseph Stalin, 1923 (And Amy Klobuchar, link to video on Rumble)
-
-***
-
-*“Since we know what we will find when we do our audits—”*
-
-*“That we’ve been duped.”*
-
-*“Yes, so what’s stopping us from reformulating our election processes as you described earlier and then immediately calling for new elections?”*
-
-*“Nothing.”*
-
-—From a conversation between Col. Phil Waldren and the author inside The Military Heritage Alliance around 6pm on Day Three of Mike Lindell’s Cyber Symposium in Sioux Falls, South Dakota.
-
-***
-
-Let’s start with where we are headed.
-
-We are on our way to a future where every voter’s vote is counted and 100% auditable immediately. See [this video clip](https://youtu.be/GBKz1o_VqAE?t=2421) from Col. Phil Waldron in a Nye County Commissioner’s meeting in March 2022 where a resolution was passed by the commissioners 5-0 to remove electronic voting equipment from future elections. (They weren’t the only county in Nevada to do so.)
-
-A win for the enemy is to keep electronic voting machines and systems. We cannot allow that to happen. That is, if you understand the anomalies, indications, and evidence showing what these machines and their code are capable of.
-
-Elections have become too complicated. And complexity breeds corruption. By contrast, simplicity yields success.
-
-Elections should be:
-	- A single day, probably a national holiday
-	- Machine-less
-	- Decentralized to promote local oversight and control
-	- Conducted with paper ballots, hand counted, that are 100% auditable immediately
-
-Elections should **not** have:
-	- Dropboxes
-	- Mail-in ballots
-	- Long absentee and early voting periods
-	- Machine-driven check-in (epollbooks)
-	- Machine-driven counting and tallying (tabulators)
-	- Machine-driven adjudicating and recording (election management systems)
-
-In Minnesota, the already opaque computer systems are increasingly networked and centralized. When centralized, it is easier for just a few bad actors to control election outcomes.
-
-Those who control the machines, control who wins.
-
-This short book will shine light on exactly how that happens.
-
-But if you’ve already lost confidence in machine-driven elections, you may want to hear some of the objections made against moving to hand-counting paper so that you can be ready to counter them.
-
-***
-
-Objections to the above have come from expected places, like the media, part of the cover-up, who have been forced to shift their language from a) no evidence of fraud to b) no widespread evidence of fraud to c) not significant enough fraud to alter the election outcome to d) admitting that Dominion machines can be hacked (CNN).
-
-Some objections have also come from legislators. In Minnesota I've heard more than once: “We can’t get voter ID past the Democrats.”
-
-Responses like this are in part discouraging because voter ID is only one simple change that is needed. Further, to make elections truly fair again would require the legislature to amend Minnesota statutes or write new ones, like the banning of electronic voting equipment.
-
-But there is good news: once the majority of Minnesotans learn how vulnerable the machines and computer systems currently in use are, legislators on both sides of the aisle will be hearing regularly from the people who will be able to articulate exactly what they want.
-
-Other objections have come from local county government. Having sat in meetings with county commissioners and election officials, if they agree that the machines are vulnerable and realize the people no longer trust them, the common objections I’ve heard can be summarized by concerns about time, effort, and money.
-
-Time:
-Hand counting paper takes longer than feeding ballots through a machine. However, what’s more important than speed is accuracy. 18 months after the November 3rd 2020 general election, we are still “counting”.
-
-Effort:
-Manual labor is required to hand-count paper ballots. With enough paid staff or volunteers the overall effort is spread across those doing the work. (I imagine many people in all 87 Minnesota counties would enthusiastically join an effort to produce the first non-machine election result in decades.) Also, if the 46-day absentee election were removed, that would save election officials and ballot boards 46 days of work.
-
-Money:
-Rick Weible has compared the net cost per ballot with machines versus paper. Machine counting costs about $14 per ballot. With paper counting, costs would be cut in half to about $7 per ballot. Hand counting paper not only costs tax payers less in the long run but it also produces reliable and auditable results which could restore confidence in the overall election process and go a long way to minimizing fraud.
-
-Public county commissioners board meetings every two weeks have been increasingly attended in late 2021 and early 2022 in Minnesota and across the country because changes can be made within local jurisdictions without changes to election law from the legislature. This is where the people’s voice can truly be heard and county commissioners can even add a discussion of election systems and processes as an agenda item. If change is desired, a resolution can be brought and voted upon. A no-confidence vote on the machines can lead to real change.
-
-Objections have also come from the offices of the secretary of state throughout the country. In Minnesota, Secretary of State Steve Simon decline the opportunity to prove the electronic election equipment in Crow Wing County was secure when he denied the opportunity brought by a 4-1 county commissioners vote to unseal the ballots from the Crow Wing County 2020 General Election. A simple hand tallying of the paper ballots for the presidential race alone would have allowed that tally to be compared with the results reported by the Secretary of State's office. If the the hand tally matched the machine-reported counts, then trust may have been restored. Instead, the people are left to wonder why this simple request was dismissed and what was meant be his official response to the Crow Wing County Commissioners, which in part read:
-
-"Unfortunately this is another example, I fear, of disinformation taking root. A generalized feeling or vibe or hunch — and it's probably being stirred up and whipped up by those with a political or financial interest in corroding democracy."
-
-This from a Secretary of State who already admitted ...  tiny fraud every election ...
-
-END
-
-
-
-...
-
-To list only a few areas where county commissioners can make change happen right now:
-
-LIST 1
-Counties may discontinue electronic pollbooks (e-pollbooks) and return to paper pollbooks, according to Minnesota Statute 201.225 Subd.1 https://www.revisor.mn.gov/statutes/cite/201.225 “A county, municipality, or school district may use electronic rosters for any election.”
-
-LIST 2
-Counties may also do away with machines *** statute number. (Nathan Org disagrees, but let’s see.)
-
-
-
-
-to not accept Machines
-to accept PAPER
-
-this happened.
-
-can't wait for further elections.
-
-awareness and action needed NOW
-
-do not accept Machines
-accept PAPER
-
-build the future of 21st century
-
-don't dwell on the past
-
-dna modified, thrown out of kingdown of heaven (demons)
-
-
-
-no room for you
-
-delusional or part of it (epstein)
-
-##A Totalitarian Flavor
-
-“Since we know what we will find when we do our audits—”
-
-“That we’ve been duped.”
-
-“Yes, so what’s stopping us from reformulating our election processes as you described earlier and then immediately calling for new elections?”
-
-“Nothing.”
-
-*From a conversation between Col. Phil Waldren and the author inside The Military Heritage Alliance around 6pm on Day Three of Mike Lindell’s Cyber Symposium in Sioux Falls, South Dakota.*
-
-***
-
-As the two buses converged from the left and right into our lane I wondered whether this road was safe for bicycles. When we’d agreed to tea fifteen minutes prior my family wasn’t expecting to navigate a minor highway on two wheels. Our tour guide slipped through the gap, not far behind were Mom and Dad who decided to go for it. My brothers and I were forced to brake and cars behind us honked, not in solidarity, but at least they didn’t hit us. Losing sight of Mom and Dad as the buses zipped the lane shut, I briefly imagined them being crushed. Moments later, materializing out of the cloud of exhaust on that hazy winter morning were Mom and Dad and the guide, each still in their saddle. It was 2005 and there were far fewer bikes in Beijing than I’d recalled in our 1998 visit. Just before the people’s uprising in Jakarta prompted Suharto to step aside from the Presidency after a thirty-two-year reign, on one day’s notice we flew into Singapore; after receiving word that school was canceled for the year, we decided to visit China.
-
-Biking through Beijing, we navigated the tight alleys, connecting traditional courtyard residences in Old Beijing, some dating back to the thirteenth century. Parking next to a red door beneath a slanting tiled roof, our guide knocked and announced us. A smiling, elderly woman answered and soon we stepped over the threshold and were shown to a small room adjacent the courtyard. Without heating we did not take off our coats, but here at least the walls sheltered us from the wind’s bite. We were all keen for the hot tea she soon brought but especially thankful was my older brother whose frozen hands around the cup were eventually thawed, albeit painfully. We sat around a low stone table and sipped our tea while our guide translated the woman’s story, her family’s history, and what life was like in her community. Having expended considerable physical effort and survived both the elements and the attempted bus squeeze, we were as travelers taking temporary refuge from a storm, content for simple pleasures. We were soon transported through time by our host’s tale.
-After receiving my high school diploma from the International School of Beijing in 2006, I soon returned to the United States to attend college in Minnesota. In short order however I learned that back in the Chinese capital several thousand traditional homes just like the one we’d visited, along with their more than seven hundred years of history, were bulldozed. Ostensibly this was done to make room for sports venues and other infrastructure for the 2008 Olympic Games, but word on the street was that the Party was embarrassed by the hutong, which were downtrodden and often occupied by the poor. I learned that the residents at the time of their evictions were not compensated appropriately to the point that they couldn’t easily find other places to live.
-We lived in Shunyi District, a rural area east of Beijing. The street between our school and the local villages was still covered in fall by corn kernels laid to dry by farmers. In their communities my new school friends once treated me to a plentiful noon meal for about a dollar a person.
-
-![Corn Drying on Road](corn.png)
-
-It was not clear how long these rural areas would last as the city expanded eastward toward us. I remember large clusters of residential apartment buildings rising quickly from the landscape, one day webbed by bamboo scaffolding, completed the next. To this day I wonder how many of the workers who toiled all day and through the night were not Chinese but North Korean workers on surreptitious loan. The pace of building in the last decade contributed to the ghost city phenomenon; the sociological manifestation of a “one child” policy the Chinese ruling class boasted of—as the rest of the world shrugged its shoulders. While my two brothers and I sat in a tea shop near the Terra Cotta warriors museum in Xi'an, a plate of melon arrived without our request, the server murmuring "san ge, san ge" (three) as she stepped away.
-
-Prior to our arrival I knew little about China. When I shared my family was moving to Beijing, my history teacher in Houston remarked, “That’s interesting. You know, China is a Communist country!” Actually, I didn’t really know. I thought the term merely referred to an economic system. At age seventeen without the context of Communist disasters throughout history, I was going in blind.
-
-![Bamboo scaffolding](bamboo.jpg)
-
-It would take years for my eyes to be truly opened. But my first glimpses of understanding came in the usual ways: exploring my surroundings, conversations, books. With my adventurous mother I walked the wild sections of the Great Wall and glimpsed how the people lived in the villages nestled against the ancient divider visible from space. On my return in 2008, I chatted with migrant workers outside the gates of East China Normal University in Shanghai while they cooked dumplings or slapped dough on the inside of a metal barrel. The bread man travelled daily from outside the sprawling city, here standing all day in the cold to sell portions for a quarter a piece. I bought a decent amount but in my defense, he was competing with other sellers. I came to learn through my classmate Deanna’s research that he was one of approximately 300 million migrant workers throughout the country, at the time equivalent to the entire population of the United States. The international press lauded the country’s economic growth but there was a tragic number of people yet to rise out of poverty.
-
-It was a rough present, but their near-term past was arguably tougher. Mao’s policies devastated the country and as a result tens of millions of lives were lost. The chaperone of the 2008 trip, an economics professor who grew up during the Cultural Revolution, shared with me how she and her grandmother hid in the kitchen stove when Mao’s Red Guards showed up unannounced and took her father away, never to be seen again. In Ji Xianlin’s *The Cowshed: Memories of the Chinese Cultural Revolution*, I learned how a once-respected professor was interrogated by his own students and made to build a holding cell for he and fellow intellectual colleagues labeled class enemies. These were commonplace experiences, normalizing total control of the mind and body for what no one in their right mind (not even Mao) would truly suffer. The total control of the Chinese population was first instantiated in fear, then through elections, establishing a uniparty governance model since the foundation of the Chinese Communist Party (CCP) in 1949.
-
-While I didn’t have a robust understanding of the comparative political models in question, I knew that when I left China it wasn’t a place I would ever want to live for very long. Evenings walking our neighborhood I wondered whether the guards were there for our safety or as our monitors. Below two fire alarms, the purpose of the second my family never did surmise, our living room television regularly went static at any mention of China. Our church services were held in a conference room since there were no churches and Chinese nationals were forbidden from attending.
-
-When I moved back to the States I had a deeper appreciation for the spirit of freedom, central to our founding and identity. As rumors of mysterious virus spread in early 2020, I immediately sensed a contest of ideas was about to play out. An attempt at total control was being instantiated with fear. Little did I know that an election would follow.
-
-•
-
-By mid-summer of 2020, videos documenting the horrors of the Chinese Cultural Revolution were circulating on YouTube. After several weeks of violence plaguing cities around the United States, loudly—though in substance quite loosely—tethered to the death of several United States citizens who the corporate media branded as victims. The corporate sponsored revolutionaries used the color of these citizen’s skin as justification for their looting, pillaging, assaulting, and killing. The corporate media and intellectual class graced these actors with the blessed heritage of “peaceful protest,” as small businesses were destroyed, communities (many of them populated by racial and ethnic minorities) gutted, and cities burned. No one seemed to bother to check the police reports. Why would they? Instagram and Facebook already told them what happened, and whose name (no matter how criminal, felonious, or murderous) to say. The same tactics the Maoist used in the previous century to upend China were on display in my home country—tearing down statues, disgracing public buildings, ridiculing our history, shaming any who would defend it. Where the American version of the red army (the black shirts) stopped short was public beheadings—perhaps knowing that the constitutional right to bear arms and form militias would put a swift end to what could be accomplished with a more measured and insidious approach.
-
-Living in Minneapolis, the totalitarian flavor of the air, food, and water I remembered in Beijing was asserting itself in my own backyard.
-
-After months of isolation, fear, confusion, anxiety, and frustration, with (major sporting leagues around the world shut down) nothing to watch and nowhere to go, a series of provocative images from the corner of 38th and Chicago in Minneapolis’s Powderhorn neighborhood lit a powder keg. The nation, within moments, went from “stronger together” to irredeemably and systemically racist. With half-truth history populating the minds of the highly educated and the pages of the New York Times, the Maoist attempt at unraveling of the American consciousness was now out in the open. Minneapolis would be center stage of the supposedly anti-fascist to deliver their first blow to the supposedly white supremacist fabric of our nation’s past, present, and future. Soon, the epicenter of the charade would ripple out to its final landing place in Portland where the (apparently well-funded) black shirts terrorized a city ironically praised for its leftist ideals. But while the nightly news celebrated the “mostly peaceful” protests that were plainly seen as nothing of the sort, a more profound war was raging across the country in state houses of government and county elections commissions…
-
-From Patrick Colbeck's *The 2020 Coup: What Happend. What We Can Do.*, the preparation phase (before the attack, backup attack, and defense phases) was well under way. The elections commissions, the non-profits, the state legislatures, judicial permissions, and corporate media swirled in a whirlwind of confusion that unconstitutionally set the election to the tune they wanted to play.
-
-By the next summer, I was working with men and women around the state searching for a way to properly and seriously audit Minnesota's election results. Being a part of that group got me an invite to the Cyber Symposium. That week in Sioux Falls, South Dakota helped me understand what was at stake. Shortly after I joined a decentralized national working group uncovering the truth about elections. Most recently my work led to county commissioner meetings in Dakota, Sherburne, and Wright County and closed door meetings with commissioners and election officials in Dakota and Morrison County. Through this work I've met Minnesotans from all walks of life fighting for their state and ultimately their lives through a dedication to the truth.
-
-What we know now is that those who control the machines, control the results. So long as we have machines, I will not feel any confidence whatsoever that my vote was counted.
-
-From the 100,000-foot view, elections are simply a control mechanism and also a critical vector of attack against a nation-state. Here in the United States, if you can install candidates up and down the ballot, then a county, state, and country can be usurped without firing a bullet. Meanwhile, the people could be manipulated for years or decades to think all is well in our constitutional republic, including election judges, poll challengers, and election officials.
-
-Of course, control through elections is not new, even if this important fact is not well understood.
-
-In Robert A. Caro’s Working, he describes the importance of facts being made available to the public, one of which was the fact that in 1948 at the eleventh hour two hundred votes were found for Lyndon B. Johnson propelling him into the Texas Senate by a margin of eighty-seven votes in a race where more than a million votes were cast. Caro found the man responsible for carrying this out, Luis Salas, who invited him into his home where he admitted to Caro what he did and that he lied under oath about it. He gave Caro a manuscript describing his actions. Caro writes, “Thanks to that manuscript, it would not be necessary for me to write, ‘No one will ever be sure if Lyndon Johnson stole it.’ He stole it.”
-
-That was in 1948.
-
-Like Caro, I couldn’t look away from what I was seeing in late 2020 and 2021. In Patrick Colbeck's framework, the preparation phase had led into the attack phase (where the mail-in ballot weakness was exploited) followed by the backup attack phase (where votes were injected electronically), and we had entered the defense phase (where election evidence was covered up or destroyed).
-
-Even despite the lack of cooperation from elected officials, locally people like Rick Weible showed me so much evidence that I couldn't stand aside. From others around the country sharing information with me, I gradually learned how our elections were supposed to work, and how they had been taken over. The election theft in 2020 was obviously coordinated. If this has been happening for a long time, why only now was it so obvious?
-
-How was it that I'd so far lived my life believing my vote counted, but now could not so easily answer that question? That will take some time to unpack. But one thing is clear: Since November 3rd, 2020, tens of millions, if not more, have asked or are now beginning to ask, Does my vote count?
-
-If our election officials, counties, and secretaries of state cannot show that the computerized election management systems used to produce election results actually do so without error, then citizens in increasing numbers will have the same question—Does my vote count? Jeffrey O'Donnell puts it well in the introduction to his Mesa County #3 Report: "If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
-
-To date, no independent audit of the machines has been done of any Minnesota county. Neither has a third party been tasked with inspecting the source code of the machines. And #3...
-(in MN statute, this can be done)
-
-RESULT?
-machines NOT ACCEPTABLE
-paper, ACCEPTABLE - NOW
-
-
-(Because they couldn't have another 4 years of Trump.)
-
-
-
-
-
-
-MOVE MINNESOTA SECTION to CHAPTER 2 or later...
-
-
-Near the basement entrance to VFW Post 494 in Crystal, MN, I was soon asked whether I would like to wear a sticker by a man working with one of the campaigns. When I declined he said, "I understand not wanting to be a walking poster." Nodding, I pulled back my jacket to reveal my t-shirt and said, "But I already am."
-
-The t-shirt read:
-
-Minnesota, No. 1 in Voter ~~Turnout~~ Fraud
-
-Instead of a walking poster for any one candidate, I would go on to advocate for the issue I was surprised to learn that few wanted to discuss that day.
-
-At this, the CD5 Convention of the Minnesota Republican Party, nearly 17 months after the November 3rd, 2020 General Election, very few if any speakers acknowledged that the election was rigged and none mentioned electronic voting equipment (epollbooks, tabulators, election management systems). Stating the obvious would surely have scored them political points (or so I thought) so why was almost everyone shying away? Only by plainly stating the problem is there any chance of going about fixing it. What's more, at this late hour, we're at a moment where surface level issues of the election coup are obvious—because elections have consequences we are witnessing the decades long result of leaders being (s)elected, not elected. It is easy to complain and feel good about knowing some fact that your neighbor may not yet know. But now the focus should be on solutions and taking action toward them. In the realm of elections, there are simple remedies to the overly complex and easily exploitable system currently in place.
-
-Rolling back the clock a bit, I don't pretend that I understood exactly what was happening on November 3rd, 2020 as it was happening. On election night (and day 46 of the absentee voting period in Minnesota), I had gone to bed early having read that absentee ballots in some states did not need to be fully counted for some days yet. Who would it benefit to have the work done so as to declare the winner on election night? The American people. But the failed and corrupt political establishment did not want that.
-
-When I woke up, and in the following days, I became gradually aware of the many things wrong with our election process and systems. Many of which, whether legislative, procedural, or technical, are design features, not bugs. The breach of the border between legal and ethical domains has helped naysayers and coverup artists stall efforts to correct what went awry, but eventually God's tortoises will beat Lucifer's hares.
-
-Although I'd been properly jolted from my comfortable lifestyle it took a good deal of time and effort to equip myself to understand better what had happened, how it had been done, when and where, and by whom. The answers to Why? have produced further inquiry at times beyond the scope of this text.
-
-Whenever possible I'd like to focus on the open source intelligence. The raw data. (Increasingly, this is the approach more people will take realizing they cannot trust even their favorite newscasters, influencers, and reporters to draw conclusions from the data on their behalf – truth repositories akin to Project Apario's proof of concept will grow in popularity and importance.) Since I voted and live in Minnesota, the focus will be in the land of more than 14,000 lakes [https://seagrant.umn.edu/news-information/directors-column/minnesota-land-how-many-lakes](about 14,380).
-
-Even while focusing on verifiable facts, I will not hesitate to ask questions or suggest routes you may walk yourself. And remember, the truth will resonate from within. There is great potential within each of us. Be humble and do not underestimate your ability to search, research, dig, and discern. May God grant us allow wisdom, strength, and discernment to carry the burden that is His truth. Only then may we see clearly and help others also come to see the lies and therefore remove the power of that deception.
+*Paperbacks of the full book by Patrick Colbeck are [available on Amazon](https://www.amazon.com/2020-Coup-What-Happened-Can/dp/1955043655).*
