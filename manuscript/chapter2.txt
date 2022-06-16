@@ -275,6 +275,10 @@ Here again I lean on Patrick Colbeck's description, this time from page 10 in *T
 
 "Tabulators are critical election infrastructure components with significant security vulnerabilities. At the precinct-level, tabulators are used to read a ballot, convert the ballot image to votes, and add the vote data on a given ballot to the running tally of votes stored in a digital table. Precint-level vote tallies are then aggregated by centralized vote tabulation systems at the municipal, county, and state levels. Collectively, these systems help determine and communicate the results of an election. If tabulators are compromised, they can shift votes from one candidate to another. These votes shifts can change the results of an election."
 
+Dan Sundin's description of ES&S's ElectionWare is helpful to understand how important the tabulation system is:
+
+"ElectionWare runs in the Server computer (which may just be a workstation depending upon the customer deliverable). ElectionWare is key, as it does all the related work in generating the Election Project Files, the optioning of the races, districts, precincts and splits of those precincts. It downloads the related information in to all of the collection points, ExpressVote BMD, DS200 Scanners at the precincts, and sets up the Central Count Site Scanners, DS450, DS850 and now DS950. It also creates all the PDF Ballot files for professional printing and for creation via the Ballot-on-Demand print feature."
+
 The following diagram shows how five elements of the ES&S EVS tabulation system is put together, which include:
 1. Election Data Management
 2. Ballot Formatting and Printing
