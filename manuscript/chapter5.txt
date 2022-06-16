@@ -138,9 +138,11 @@ Cast vote records (CVR) allow the machines to tell on themselves. Without them, 
 
 ![Pima County Cast Vote Records](cvr_honest.png)
 
-The top two are good.
+Have a look at this CVR from Pima County.
 
-But the bottom CVR is not realistic. Only way that could happen is if there happened to be several thousand Biden ballots show up at the same time. Then you might see that driving toward the setpoint. But this graph clearly shows a defiance of the law of large numbers.
+The top two graphs look good.
+
+But the third (bottom) CVR is not realistic. The only way that could happen is if there happened to be several thousand Biden ballots show up at the same time. Then you might see that driving toward the setpoint. But this graph clearly shows a defiance of the law of large numbers.
 
 To date no CVR reports have been shared with the public despite numerous public data requests to county election officials and their offices throughout the state.
 
