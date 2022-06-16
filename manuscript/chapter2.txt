@@ -45,7 +45,6 @@ No. 3 and No. 4 were put into motion after the MN Legislature, in April 2020, re
 
 No. 7 is included because this provides just one legal basis upon which to stand for county commissioners who choose to refuse to certify local elections in the primaries or midterm elections. It is one thing for the secretary of state to foist electronic voting equipment upon the counties. It is another thing for the county commissioners to certify an election just run on equipment that may violate election statutes like [Minnesota Statute 206.57 Subd.6 Required Certification](https://www.revisor.mn.gov/statutes/cite/206.57). If county commissioners are taken to court for withholding their certification, they may ask for the machines to be opened or to examine the source code. In that event, it will be interesting to see if either request is granted.
 
-
 ## Modern Electronic Election Systems
 
 On January 6, 2017 the Department of Homeland Security [designated elections as critical infrastructure](https://www.dhs.gov/news/2017/01/06/statement-secretary-johnson-designation-election-infrastructure-critical), alongside food, water, and electricity.
