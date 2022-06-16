@@ -118,6 +118,10 @@ In their resolution, which passed 4-1, the commissioners stated that the board "
 
 “Our office will not engage in a vague and impossibly broad search for unspecified misconduct based on anyone’s gut feeling, hunch, or belief — no matter how sincerely held,” Simon said. “The 2020 general election, which took place almost 15 months ago, was fundamentally fair, accurate, honest, and secure across Minnesota.”
 
+![Secretary of State Simon's response, page 1 of 2](OSS_response_1.png)
+
+![Secretary of State Simon's response, page 2 of 2](OSS_response_2.png)
+
 If the Secretary of State *had* complied with the commissioners' request, election materials and machines may have been audited. This would have been a proper audit instead of a post election review or a recount which simply audits the *results*.
 
 Why should the machines and data be audited? Because, as was shown by Jeff Lensburg in the Antrim County, Michigan case, [votes can easily be swapped](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) which would not be identified in a canvass, postelection review, or risk-limiting audit (recount).
@@ -148,9 +152,13 @@ But ES&S's own manuals describe this functionality.
 
 ![cvr from ES&S](cvr.png)
 
-[From a document](https://edca.1dca.org/DcaDocs/2020/2445/2020-2445_Brief_1050162_RC14B202D20Supplemental2FAmended20Appendix.pdf) titled "Ballot Image Information on ES&S Systems issued November 1, 2018
+[From a document](https://edca.1dca.org/DcaDocs/2020/2445/2020-2445_Brief_1050162_RC14B202D20Supplemental2FAmended20Appendix.pdf) titled "Ballot Image Information on ES&S Systems issued November 1, 2018, it appears that the EVS Electionware user can specify which ballot images are to be saved on the DS200 and Central Scanners (DS450/DS850): 1) All images, 2) Write-In Images Only, 3) No images. Could these configurations at all be related to whether the CVRs are saved?
 
-It is therefore important Will also urge commissioners to pass resolutions so that election officials will turn ON cast vote record (CVR) functionality for primary on Aug 9, which apparently was turned off in at least some counties in 2020.
+The technical details may not be clear, but the truth is states like Rhode Island and select counties in other states *have* received their CVRs which exposed the machine problem.
+
+But in Minnesota we apparently don't have them.
+
+It is therefore important Will also urge commissioners to pass resolutions so that election officials will turn ON cast vote record (CVR) functionality (if indeed the CVR functionality has been turned OFF) for the primary on Aug 9, 2022. If they were turned off in at least some counties in 2020, they should be turned back on.
 
 screenshots
 
