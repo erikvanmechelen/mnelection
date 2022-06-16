@@ -12,7 +12,7 @@
 
 ***
 cover up
-big lie started on election night by Fox News 
+big lie started on election night by Fox News
 
 destroy
 fires, shredding
@@ -107,6 +107,56 @@ Based on the postelection review above (but not only that) it was correct for [S
 The MN State Canvassing Board is the sole entity identified in the MN Constitution carrying the duty to canvass the statewide election results. However, the MN Supreme Court erroneously ruled (in my opinion) that all 87 counties had to be served. Therefore [the case was dismissed](https://www.documentcloud.org/documents/20420161-order-minnesota-supreme-court-dismisses-gop-election-contest) without a hearing on the facts on Friday afternoon, December 4, 2020. This dismissal was critical to meeting the the safe harbor deadline of December 8, 2020.
 
 Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
+
+## Crow Wing County
+
+![Crow Wing Commissioners and County Attorney](crow_wing_commissioners.jpg)
+
+After multiple commissioner board meetings attended by dozens of Minnesotans who didn't trust the results of the 2020 election, the commissioners were finally persuaded in late December to pass a resolution seeking an audit. Don Ryan, the County Attorney, interpreted Minnesota law and advised that the county could not unseal its own ballots, and so the request was made to Secretary of State Steve Simon, who declined.
+
+If the Secretary of State had complied with the commissioners' request, election materials and machines may have been audited. This would been a proper audit instead of a post election review or a recount which simply audits the *results*. Why should the machines and data be audited? Because, as was shown by Jeff Lensburg in the Antrim County, Michigan case, [votes can easily be swapped](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) which would not be identified in a canvass, postelection review, or risk-limiting audit (recount).
+
+However, if the machines and full chain of custody—of both materials and data— were to be audited, the vulnerabilities described in earlier chapters could be exposed.
+
+Secretary of State Steve Simon made this decision in January, 2021, missing an opportunity to demonstrate transparency in Minnesota's election process and systems.
+
+## Where Are the Cast Vote Records?
+
+Cast vote records (CVR) allow the machines to tell on themselves. Without them, the machine audit trail is severely limited.
+
+To date no CVR reports have been shared with the public despite numerous public data requests to county election officials and their offices throughout the state.
+
+Here's just one response from the Todd County Attorney:
+
+!["Todd County does not create this data"](todd_county_atty_opinion.png)
+
+In reviewing manuals...
+
+Will also urge commissioners to pass resolutions so that election officials will turn ON cast vote record (CVR) functionality for primary on Aug 9, which apparently was turned off in at least some counties in 2020.
+
+screenshots
+
+screenshots
+
+Some description of what these do...
+
+
+To date, no counties in Minnesota have been able to produce a cast vote record (CVR) report from their tabulators, which is the machine tally generated as paper ballots are fed into it.
+
+Also to date, no independent audit of the machines has been done of any Minnesota county. This would be welcome not only because the people of Crow Wing County persuaded their county commissioners to ask the Minnesota Secretary of State for a proper audit, but also since according to Dr. Douglas Frank the ES&S DS200s are among the most vulnerable voting machines in the country and a [4G wireless modem was found in Antrim's DS200](https://letsfixstufforg-my.sharepoint.com/personal/patrick_letsfixstuff_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal%2FExhibit%206%20Jim%20Penrose%20Report%2Epdf&parent=%2Fpersonal%2Fpatrick%5Fletsfixstuff%5Forg%2FDocuments%2FFiles%2F2020%20Election%2FLegal&ga=1).
+
+
+
+
+
+Are you concerned that contracts with our hardware and software vendors makes it very difficult to inspect the machines or source code? Does it worry you that Minnesota Statutes make it difficult to have this done? 18 months after November 3rd, 2020, don't you think it would have been prudent to have settled the conspiracy theories by showing the public that the machines are clean?
+
+Neither the chair of a major political party nor the secretary of state asked for a third party to inspect the source code of the machines, which [Minnesota Statute 206.57 Subd.6](https://www.revisor.mn.gov/statutes/cite/206.57) allows for.
+
+Furthermore, according to [Patrick Colbeck](https://letsfixstuff.org/2022/05/beware-of-just-count-the-ballots-narrative/), "only a full forensic audit of the entire election record chain of custody can determine whether or not an election was conducted with integrity."
+
+Even with the "defense phase" (cover up and destruction of evidence) of the election coup falling apart, so far no county commissions (in Minnesota) have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired. The people should continue going to their county commissioner board meetings to inform them of available fixes to restore trust to all voters.
+
 
 
 
