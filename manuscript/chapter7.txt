@@ -397,9 +397,27 @@ Compared with just a year ago, more people are able to read and research open so
 
 ## Electronic Voting
 
-We used these at the convention through a proposed rule change that was voted on using a standing vote, passing by about 85%/15%. When we lost, I smiled and nodded to a woman seated across the aisle. So this is the crowd we're in?
+We used [electronic voting devices](https://erikvanmechelen.substack.com/p/electronic-voting-devices-used-at) at the convention through a proposed rule change that was voted on using a standing vote, passing by about 85%/15%. When we lost, I smiled and nodded to a woman seated across the aisle. So this is the crowd we're in?
 
-This after the Chair of the Party in an email days before the convention suggested anyone even asking questions about the electronic devices from the German company, Padgett, were "saboteurs."
+This after the Chair of the Party in an email days before the convention suggested anyone even asking questions about the electronic devices from the German company, Padgett, were "saboteurs." Prior to the endorsement process, a motion to strike the proposed rule (to use electronic voting devices) was debated. Several speakers spoke for and against the proposed rule prior to a standing vote. Susan Shogren Smith read the Minnesota Constitution regarding [the required use of ballots for elections](https://youtu.be/X7dYzfby-Fo), which includes these endorsement elections.
+
+Later, during the endorsement voting rounds, there were no announcements that I recall addressing the reports of the [electronic voting device glitches](https://www.youtube.com/shorts/uHEjYRGK01s). Sometimes the vote would not send. The device would ask the voter to vote a SECOND time. Does this mean the original vote did not go through? What would have happened if the voter pressed send, put the device in their pocket, and then didn’t realize the glitch? Would their original vote have counted? Or would there be a no-vote or empty vote which the software could designate for another candidate? This last sentence is speculation, but since the source code was not shown to delegates nor were audits of results shared showing individual device IDs and vote numbers, we cannot yet verify whether our votes went through as we desired.
+
+Not sure if you can tell, but I'm not a fan of electronic voting equipment. That said, how could these electronic voting device results be verified?
+
+It would have been simple to share a report showing my device number, 413, with my vote, 7, on the screen to verify to me that my vote went through (and keeping my vote secret).
+
+Even if using the big screen to scroll through the more than 2,000 device IDs and votes took a few minutes, that would be completed well before the 10 minutes negotiation period for candidates to make deals back stage or in their war rooms.
+
+Campaigns should demand audits of every round of every candidate race: secretary of state, attorney general, and governor (there was only 1 candidate for state auditor, so no voting required there). Dr. Neil Shah asked, but received no response.
+
+But the MNGOP should have provided these reports to every delegate in real time.
+
+At a minimum, this would have quieted down skeptics like me whose distrust grew as I personally experienced and witnessed glitches, heard about at least one device left unattended, and watched for instance Mike Murphy lose about 60 votes between rounds 3 and 4 after taking the lead in round 3. Were people really swapping their votes *away* from the leading candidate after he'd just taken the lead? Even a prominent house rep speculated about vote shaving.
+
+
+
+
 
 
 
