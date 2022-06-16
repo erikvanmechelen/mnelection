@@ -112,17 +112,31 @@ Since that time, every point made in the petition has been confirmed by the work
 
 ![Crow Wing Commissioners and County Attorney](crow_wing_commissioners.jpg)
 
-After multiple commissioner board meetings attended by dozens of Minnesotans who didn't trust the results of the 2020 election, the commissioners were finally persuaded in late December to pass a resolution seeking an audit. Don Ryan, the County Attorney, interpreted Minnesota law and advised that the county could not unseal its own ballots, and so the request was made to Secretary of State Steve Simon, who declined.
+After multiple commissioner board meetings attended by dozens of Minnesotans who didn't trust the results of the 2020 election, the commissioners were finally persuaded in late December to pass a resolution seeking an audit. Don Ryan, the County Attorney, interpreted Minnesota law and advised that the county could not unseal its own ballots, and so the request was made to Secretary of State Steve Simon, who declined to undertake a full forensic audit of all election material and data.
 
-If the Secretary of State had complied with the commissioners' request, election materials and machines may have been audited. This would been a proper audit instead of a post election review or a recount which simply audits the *results*. Why should the machines and data be audited? Because, as was shown by Jeff Lensburg in the Antrim County, Michigan case, [votes can easily be swapped](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) which would not be identified in a canvass, postelection review, or risk-limiting audit (recount).
+In their resolution, which passed 4-1, the commissioners stated that the board "continues to have faith in the 2020 election results as valid and reliable but it is equally troubling that there are citizens who still have a sincerely held belief that it was not", suggesting they did not wholeheartedly agree with their constituents and were perhaps going ahead with the resolution as a matter of appeasement. In May 2022, at least one of the same commissioners [was afraid to open an email](https://www.youtube.com/watch?v=HC7E3qCA_3k) with a link to 2000 Mules when candidate for house rep Doug Kern sent it to the Board.
+
+“Our office will not engage in a vague and impossibly broad search for unspecified misconduct based on anyone’s gut feeling, hunch, or belief — no matter how sincerely held,” Simon said. “The 2020 general election, which took place almost 15 months ago, was fundamentally fair, accurate, honest, and secure across Minnesota.”
+
+If the Secretary of State *had* complied with the commissioners' request, election materials and machines may have been audited. This would have been a proper audit instead of a post election review or a recount which simply audits the *results*.
+
+Why should the machines and data be audited? Because, as was shown by Jeff Lensburg in the Antrim County, Michigan case, [votes can easily be swapped](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) which would not be identified in a canvass, postelection review, or risk-limiting audit (recount).
 
 However, if the machines and full chain of custody—of both materials and data— were to be audited, the vulnerabilities described in earlier chapters could be exposed.
 
-Secretary of State Steve Simon made this decision in January, 2021, missing an opportunity to demonstrate transparency in Minnesota's election process and systems.
+Secretary of State Steve Simon made this decision in January, 2022, missing an opportunity to demonstrate transparency in Minnesota's election process and systems.
+
+Since then, an even faster method to verify whether the paper ballots match the machine count (as scanned through the tabulators) has been identified.
 
 ## Where Are the Cast Vote Records?
 
 Cast vote records (CVR) allow the machines to tell on themselves. Without them, the machine audit trail is severely limited.
+
+![Pima County Cast Vote Records](cvr_honest.png)
+
+The top two are good.
+
+But the bottom CVR is not realistic. Only way that could happen is if there happened to be several thousand Biden ballots show up at the same time. Then you might see that driving toward the setpoint. But this graph clearly shows a defiance of the law of large numbers.
 
 To date no CVR reports have been shared with the public despite numerous public data requests to county election officials and their offices throughout the state.
 
@@ -130,9 +144,13 @@ Here's just one response from the Todd County Attorney:
 
 !["Todd County does not create this data"](todd_county_atty_opinion.png)
 
-In reviewing manuals...
+But ES&S's own manuals describe this functionality.
 
-Will also urge commissioners to pass resolutions so that election officials will turn ON cast vote record (CVR) functionality for primary on Aug 9, which apparently was turned off in at least some counties in 2020.
+![cvr from ES&S](cvr.png)
+
+[From a document](https://edca.1dca.org/DcaDocs/2020/2445/2020-2445_Brief_1050162_RC14B202D20Supplemental2FAmended20Appendix.pdf) titled "Ballot Image Information on ES&S Systems issued November 1, 2018
+
+It is therefore important Will also urge commissioners to pass resolutions so that election officials will turn ON cast vote record (CVR) functionality for primary on Aug 9, which apparently was turned off in at least some counties in 2020.
 
 screenshots
 
@@ -192,15 +210,7 @@ But if we consider Jeffrey Epstein and his co-conspirators, for example,
 
 ***
 
-Why we aren't receiving Cast Vote Records -
 
-![top 2 honest elections](cvr_honest.png)
-top 2 good
-but bottom cvr is showing non realistic
-only way that could happen is if there happened to be 2,000 Biden ballots show up at the same time... to have that driving toward the set point
-defies law of large numbers
-
-![cvr from ES&S](cvr.png)
 
 ***
 
