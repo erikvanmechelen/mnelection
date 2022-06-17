@@ -12,7 +12,7 @@ Lever voting machines have been around a long time.
 
 Here’s a physical example:
 
-![Lever Voting Machine](2votingmachine.jpg)
+![Lever Voting Machine](2votingmachine.png)
 
 Punch card systems were developed in the 1960s and were last used in two Idaho counties in 2014, on [the Votomatic](https://verifiedvoting.org/election-system/ess-votomatic/) provided by ES&S.
 
