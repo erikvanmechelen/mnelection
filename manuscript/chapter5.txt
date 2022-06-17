@@ -144,7 +144,7 @@ Here's just one response from the Todd County Attorney:
 
 But ES&S's own manuals describe the availability of this functionality.
 
-![cvr from ES&S](cvr.png)
+![CVR described by ES&S](cvr.png)
 
 I even sent the Todd County election officials a PDF of how to extract the CVRs, which are page 42 of the ES&S Electionware Volume V: Results User's Guide.
 
