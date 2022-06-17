@@ -92,7 +92,9 @@ As uneasy as I felt about running for secretary of state in Minnesota, I was als
 2. I wouldn't be writing this short free book (or recording the audiobook)
 3. In doing so, I wouldn't have learned as much as I have from writing it
 
-If I've done my job well, readers will eagerly forward the PDF and .mp3 files of this book to their friends, family, and coworkers. Everyone, even those who've shown less curiosity about whether our elections are fair or not. Forgive them for they know not what they do. Each of us has the right to know the truth in a timely manner. Without good information, it is harder to make decisions or take decisive impactful actions.
+If I've done my job well, readers will eagerly forward the PDF and .mp3 files of this book to their friends, family, and coworkers.
+
+Everyone, even those who've shown less curiosity about whether our elections are fair or not. Forgive them for they know not what they do. Each of us has the right to know the truth in a timely manner. Without good information, it is harder to make decisions or take decisive impactful actions.
 
 The decision to run for office has also has helped my overall approach. Where in the past I led with frustration and anger, now I seek solutions and aim to help everyone learn and improve while also holding everyone to a high standard. That goes for me, too. Like hiring managers interviewing candidates, those who may vote for me deserve to first see a body of work from the past year in particular. And if I do get to serve as the secretary of state, I want to have already built relationships with county-level election officials and commissioners who will rely on me to do my job and help them do theirs once in office. I want to show them how it is I work to get things done. This has already changed my interaction with election officials, whether in person or on the phone. And yet they should know that I will ask for excellence and also courage.
 
@@ -102,11 +104,13 @@ Previously I approached matters primarily from an investigative approach, but no
 
 What we know, and what will be shown in documentaries like [Selection Code](https://selectioncode.com), is that those who control the machines, control the results. So long as we have a complex modern electronic voting system coupled with restrictive audit-related election laws, I will not feel any confidence whatsoever that my vote was counted. Do you?
 
+It is a major victory for the enemy if we were to make many reforms to our election process but still keep our current modern electronic voting system as is. Do not be fooled by concessions that distract you from the goal.
+
 ## Control Through Machines
 
 From the 100,000-foot view, elections are simply a control mechanism and also a critical vector of attack against a nation-state. Here in the United States, we arguably made this easier not only by allowing private entities like Dominion or ES&S or Hart Inter Civic to provide the majority of our electronic voting equipment but also by outsourcing some of the coding involved in that critical infrastructure to places like Serbia in the case of Dominion's source code as proven by the name of a Serbian developer found in the code.
 
-Here in the United States, if by subverting elections you can routinely install candidates up and down the ballot, then a county, state, and country can over time be usurped without firing a bullet—very useful in a country where citizens are very well armed. In the digital age, this can be done through machine code invisible to election judges, poll challengers, and election officials. Meanwhile, the public (myself very much included) could be manipulated and poisoned for years or decades through public schools, social media, and especially government-designed influence operations to think all is well in our constitutional republic, when in fact we were on course to lose it and may indeed have lost it for good, unless we act decisively.
+Here in the United States, if by subverting elections you can routinely install candidates up and down the ballot, then a county, state, and country can over time be usurped without firing a bullet—very useful in a country where citizens are very well armed. In the digital age, this can be done through machine code invisible to election judges, poll challengers, and election officials. Meanwhile, the public (myself very much included) could be manipulated and poisoned for years or decades through government-run schools, social media, and especially intelligence-agency-designed influence operations to think all is well in our constitutional republic, when in fact we were on course to lose it and may indeed have lost it for good, unless we act decisively. Every attitude, intent, and action shapes the world we live in.
 
 Of course, maintaining control by subverting elections is not new, even if this important fact is not widely understood.
 
@@ -116,9 +120,9 @@ In 2010, at the IEEE International Conference on Computing, Control and Industri
 
 Proportional–Integral–Derivative (PID) controllers are used for many practical applications from tuning your house's temperature to the accurate production of cheese in a plant. Was a similar algorithm potentially used in the November 3, 2020 general election?
 
-![Later in this book we will compare the shape of this graph to Edison Research's election night reported results](ESO_PID.png)
+![In Chapter Three - Backup Attack, the shape of this graph will be compared to Edison Research's election night reported results](ESO_PID.png)
 
-In 2004, Sequoia (acquired the next year in 2005 by Smartmatic, which has software running on the latest Dominion, ES&S, and Hart machines), was used to run the Venezuelan presidential recall election, even though it was the company's first time providing machines for an election. Was this a test run of their hardware and software for future elections?
+In 2004, Sequoia (acquired the next year in 2005 by Smartmatic, which has software running on the latest Dominion, ES&S, and Hart machines), was used to [run the Venezuelan presidential recall election](https://maloney.house.gov/media-center/press-releases/smartmatic-announces-sale-sequoia-voting-systems), even though it was the company's first time providing machines for an election. Was this a test run of their hardware and software for future elections?
 
 Before electronic voting machines, decades prior, we know that elections were a big business, as evidenced by [this $20 million contract in 1973](https://projectapario.com/timeline/RR111FF911F18III444F).
 
@@ -165,10 +169,10 @@ In the imminent and immediate future, machines will become unacceptable to the m
 
 Then, hand counting paper will be even more heavily demanded. Once trust is restored in hand counting paper ballots that are 100% auditable, maybe only then should alternatives to hand counting paper may be looked into. But let's do this patiently and persistently, one step at a time.
 
-Read this book and share it with anyone who doesn't yet understand how machines and malicious code determine the outcome of elections in our state and country. Keep in mind this is only an introduction to the topic, as I too work daily to learn more of the details.
+Read this book and share it with anyone who doesn't yet understand how machines and malicious code determine the outcome of elections in our state and country. Keep in mind this is only an introduction to the topic, as I too work daily to learn more of the details. (This book is written using a service called Leanpub, which allows the book to be reguarly updated—check back here for [the latest version](https://leanpub.com/sim2020).)
 
 Every Minnesotan deserves to know the truth. Without this information, how can the public react? And how can we hold elected officials accountable? Once the information is available, we can react. And we can hold elected officials accountable and return to a state of government of, by, and for the people.
 
 Once the light is shone, deception and lies will no longer hold any power over us. In the domain of elections, it's not who votes or who counts the vote, it very well may be who codes the vote that matters most.
 
-May we all be given the wisdom, strength, and discernment to carry the burden of Truth.
+May we all be given the wisdom, strength, and discernment to carry the burden of truth. May we all with great patience endure these trials. And may we all with active persistence run the race put before us.
