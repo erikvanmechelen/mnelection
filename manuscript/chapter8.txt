@@ -102,7 +102,7 @@ Epollbooks (poll pads), tabulators, and election management systems violate 206.
 
 2. Turn on Cast Vote Records (CVRs) in tabulators and tabulation systems
 
-No Minnesotan has yet received cast vote record (CVR) reports from any of the 87 counties in the state, even though these reports represent a key element in the machine audit trail. For instance, a comparison of paper ballots with the cast vote record in a precinct would represent a version of a micro-audit. Notice that this comparison is *different* from what post-election reviews are doing, which is comparing the aggregate vote totals (stored in the election management system database and tabulator tapes) with the hand counted ballots. Jeff Lenburg has shown the [ability to manipulate the database and the tapes to match](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) while leaving them non-matching with the paper ballots.
+No Minnesotan has yet received cast vote record (CVR) reports from any of the 87 counties in the state, even though these reports represent a key element in the machine audit trail. For instance, a comparison of paper ballots with the cast vote record in a precinct would represent a version of a micro-audit. Notice that this comparison is *different* from what post-election reviews are doing, which is comparing the aggregate vote totals (stored in the election management system database and tabulator tapes) with the hand counted ballots. Jeff Lenberg has shown the [ability to manipulate the database and the tapes to match](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) while leaving them non-matching with the paper ballots.
 
 3. Demonstrate clean voter rolls ... (to match canvass?)
 

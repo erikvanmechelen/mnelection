@@ -3,7 +3,7 @@
 
 *"The highest priority as a bad guy would be to subvert our election system. The reason is: you can take over a country without firing a shot. If you can decide who the leaders are, if you can put judges, if you can answer constitutional questions any way you want, over a period of time—you're not going to do it in one election, it's going to take a bunch of elections—but you can take over a country. And that would be my top priority (as a bad guy). Nuclear weapons would be a close second, but the top one would be elections."*
 
-—Jeff Lenburg, nation-state vulnerability expert in the [May 9, 2022 Otero County, New Mexico Emergency meeting](https://www.youtube.com/watch?v=Fg6Gf6QjqGM&t=939s) who previously [demonstrated vote swapping](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) in Antrim County, Michigan
+—Jeffrey Lenberg, nation-state vulnerability expert in the [May 9, 2022 Otero County, New Mexico Emergency meeting](https://www.youtube.com/watch?v=Fg6Gf6QjqGM&t=939s) who previously [demonstrated vote swapping](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) in Antrim County, Michigan
 
 ![Vote Swap Demonstration in Antrim County, Michigan](jeff_lenburg_vote_swap.png)
 
@@ -23,7 +23,7 @@ Electronic voting equipment and election management software from Dominion and H
 
 In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law.
 
-*To be covered in the chapter on Minnesota in 2022: In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters.*
+*To be covered in a later chapter, Minnesota in 2022: In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters.*
 
 ## Minnesota Statutes and Election Law
 
@@ -292,7 +292,7 @@ In the [3/15/2022 Nye County, Nevada County Commissioner’s meeting](https://ww
 
 Today, Dominion is a popular voting system which uses Microsoft SQL database, one which Mark was and is very familiar with as he used SQL databases from day 1. In the same meeting, he discussed how within the first minute of getting his hands on a Dominion system, he was able to access the backend and change votes...without leaving a trace.
 
-In the Antrim County, Michigan investigation, nation-state vulnerability expert Jeff Lenburg [demonstrated vote swapping](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) that allowed the election management system and tabulator printouts to match (for the canvass). The problem? The EMS and the tabulator tapes would not match the paper ballots initially scanned through the tabulator. (This is still one of my favorite videos and mirrors a mock election experience that Draza Smith, Col. Shawn Smith, and Mark Cook created alongside Patrick Colbeck at the Cyber Symposium. Once you see how easy it is to swap votes, it cannot be unseen, and this is only one of many exploitable vulnerabilities.)
+In the Antrim County, Michigan investigation, nation-state vulnerability expert Jeff Lenberg [demonstrated vote swapping](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) that allowed the election management system and tabulator printouts to match (for the canvass). The problem? The EMS and the tabulator tapes would not match the paper ballots initially scanned through the tabulator. (This is still one of my favorite videos and mirrors a mock election experience that Draza Smith, Col. Shawn Smith, and Mark Cook created alongside Patrick Colbeck at the Cyber Symposium. Once you see how easy it is to swap votes, it cannot be unseen, and this is only one of many exploitable vulnerabilities.)
 
 In 2021, when Tina Peters learned that a Dominion vendor was planning to visit her office to make a software update, she took action in line with her statutory duties to preserve election data as the Mesa County Clerk. She worked with consultants to save a copy of the before and after image of her Dominion Voting Systems (DVS) Election Management System (EMS) servers, which data analysts then began investigating to detect what Dominion's "Trusted Build" may have changed.
 

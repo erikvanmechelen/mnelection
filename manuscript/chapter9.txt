@@ -1,6 +1,6 @@
 # Chapter Eight - Security Threats to Our Election System
 
-This is an excerpt from Chapter 3 of [*The 2020 Coup* by Patrick Colbeck](https://www.amazon.com/2020-Coup-What-Happened-Can/dp/1955043655).
+*This is an excerpt from Chapter 3 of [*The 2020 Coup* by Patrick Colbeck](https://www.amazon.com/2020-Coup-What-Happened-Can/dp/1955043655).*
 
 ## Election Infrastructure Components
 
