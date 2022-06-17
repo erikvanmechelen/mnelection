@@ -1,6 +1,10 @@
 # Chapter Eight - Security Threats to Our Election System
 
-*This is an excerpt from Chapter 3 of [*The 2020 Coup* by Patrick Colbeck](https://www.amazon.com/2020-Coup-What-Happened-Can/dp/1955043655).*
+*"The end game of all this electronic record manipulation is the vote tally. The consequence of a compromised vote tally is the selection of a compromised public official. Vote tallies can be manipulated in a variety of ways. Bad actors can program tabulators to automatically shift a percentage of votes from one candidate to another when the tabulator reads a scanned ballot image and allocates votes in a vote tally database. The tabulation databases themselves can be directly manipulated to replace actual vote tallies with alternative vote tallies. Bad actors who have access to vote tallies before election precincts close can use that information to know if they need to stuff the ballot box with more ballots than anticipated."*
+
+—Patrick Colbeck, in *The 2020 Coup*
+
+*The following is an excerpt from Chapter 3 of [*The 2020 Coup* by Patrick Colbeck](https://www.amazon.com/2020-Coup-What-Happened-Can/dp/1955043655).*
 
 ## Election Infrastructure Components
 
@@ -9,13 +13,20 @@ Let's delve into a discussion of the security threats to our election system. Ra
 An investigative news story by NBC News that aired on January 10, 2020, provided a stark summary of the hacking risks for voting systems connected to the internet.
 
 CYNTHIA MCFADDEN:  We've heard it at congressional hearings for years.
+
 MR. HICKS:  Our voting machines are not connected to the internet.
+
 KEVIN SKOGLAN:  We knew that wasn't true.
+
 CYNTHIA MCFADDEN:  Cybersecurity expert Kevin Skoglan wanted to prove it so he and nine other independent security consultants created their own search engine looking for election systems online.
+
 KEVIN SKOGLAN:  We found over 35 had been left online and we continue to find more.
 [...]
-CYNTHIA MCFADDEN:  Sklan's team found ES&S voting systems online in at least some of the precincts in 11 states including the battleground states of Florida, Michigan and Wisconsin.
+
+CYNTHIA MCFADDEN:  Skoglan's team found ES&S voting systems online in at least some of the precincts in 11 states including the battleground states of Florida, Michigan and Wisconsin.
+
 If you were able to get inside these systmes, could you do more than perhaps mess up the preliminary results, could you actually get deeper in the system?
+
 KEVIN SKOGLAN:  Absolutely. And that's my biggest concern.
 
 On July 28, 2020, three months before the November 3 election, the Cybersecurity & Infrstructure Security Agency (CISA), the agency responsible for understanding, managin, and reducing the risk to our cyber and physical infrastructure, released what they referred to as a Critical Infrastructure Security and Resilience Note, which included a list of election components vulnerable to cyber and non-cyberattacks. These components are the fundamental building blocks of our election system. Let's look at what CISA identified as vulnerable components.
@@ -65,6 +76,7 @@ If the statewide voter registration file has been corrupted, any pollbooks gener
 Ballot integrity can also be compromised. Some modern voting systems use what is referred to as DRE or Direct-Recording Electronic voting machines. Without significant transparency provisions that would compromise the principle of a secret ballot, voters have no substantive assurance that the votes they cast on a voting machine touch screen are actually what has been recorded in the vote tally. Even when paper ballots are used, they can be manipulated to compromise the integrity of the election record chain of custody. Something as simple as the formatting of paper ballots can be used to manipulate elections results. Ballot formatting can be manipulated to trigger scanner errors. These scanner errros in turn will trigger manual or automated adjudication processes. These adjudication processes can then be used to shift votes between candidates. Absentee ballots are particularly vulnerable to this method of subversion as the control over how a vote is cast when there is a scanner error is turned over to poll workers not the voter.
 
 The end game of all this electronic record manipulation is the vote tally. The consequence of a compromised vote tally is the selection of a compromised public official. Vote tallies can be manipulated in a variety of ways. Bad actors can program tabulators to automatically shift a percentage of votes from one candidate to another when the tabulator reads a scanned ballot image and allocates votes in a vote tally database. The tabulation databases themselves can be directly manipulated to replace actual vote tallies with alternative vote tallies. Bad actors who have access to vote tallies before election precincts close can use that information to know if they need to stuff the ballot box with more ballots than anticipated.
+
 If election components are connected to each other on local networks or via internet connections, pollbook ballot tallies and tabulator ballot counts are vulnerable to being re-synchronized with each other to cover any discrepancies between the number of voters and the number of votes cast. If bad actors wish to give the appearnace of a secure election, the total number of voters haded ballots per the pollbook records must reconcile with the number of ballots stored in ballot containers as well as teh total number of votes in the final statement of votes.
 
 This is just a small sample of the way security breaches can affect elections.

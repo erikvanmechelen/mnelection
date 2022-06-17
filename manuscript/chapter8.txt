@@ -1,17 +1,18 @@
 # Chapter Seven - Recommendations
 
-*"After we kick electronic voting systems out of our country, and go back to all-paper, one-day elections - we need to make Election Day a national holiday. It needs to be a holiday not for convenience or to make sure everyone has time to get to the polls. It needs to be a holiday so that once a year we will remember how Americans defeated tyranny within our borders for a second time. That we reaffirmed that our rights come from our Creator and our liberty is a responsibility. And under that framework our government derives its powers only from the consent of the governed."*
+It takes very little talent or creativity to complain about problems.  After all, the people directly impacted by a problem, and eventually those indirectly impacted by the problem, feel the weight and consequences stemming from it.  When I speak in front of an audience, I need not complain at length about the violations of liberty underway in America, because the people know the personal toll exacted by those who corrupt the foundation of self-government.  The audiences come to hear solutions and to commit to action.
 
-—[Erin Clements](https://t.me/NewMexicoAuditForce/2205)
+—Captain Seth Keshel, [Veteran Lesson VII: Leaders Create Solutions](https://skeshel.substack.com/p/veteran-lesson-vii-leaders-create) (Ten Lessons for Every Day)
 
+*“Never tell people how to do things.  Tell them what to do and they will surprise you with their ingenuity.”*
 
-INSERT IMAGE OF TRUMP TWEET WITH one day election? (Trump/Patton connection)
+—General George Patton
 
 ***
 
-Actual elections that are not controlled by machines or easily exploited by other means are possible.
+It is possible to have actual elections that are not controlled by machines or easily exploited by other means.
 
-The simplest way might be to return to hand counting paper ballots in small, manageable precincts. Local control and oversight. That is easy to understand, and implementable right now. There is no reason for county commissioners to wait for further data to come in. The machines in Minnesota are not in compliance with the latest VVSG 2.0 guidelines and therefore violate our election code, [Minnesota Statute 206.57 Subd.6 Required Certification](https://www.revisor.mn.gov/statutes/cite/206.57).
+The simplest way might be to return to [hand counting paper ballots in small, manageable precincts](https://rumble.com/v15ykkn-precinct-level-voting.html). Local control and oversight. That is easy to understand, and implementable right now. There is no reason for county commissioners to wait for further data to come in. The machines in Minnesota are not in compliance with the latest VVSG 2.0 guidelines and therefore violate our election code, [Minnesota Statute 206.57 Subd.6 Required Certification](https://www.revisor.mn.gov/statutes/cite/206.57).
 
 Although I prefer the simplicity and the community involvement (imagine neighbors getting together on election day to count the votes together), but I recognize that hand counting paper is not the only way.
 
@@ -23,68 +24,113 @@ Jeffrey O'Donnell says it very well:
 
 Here Jeff describes a possible future where we still use machines but with conditions to increase clarity that the currently less than useless certifications don't have.
 
-This jives well with advocates who can't yet stomach the idea of hand counting paper ballots.
+Notice, too, that what Jeff prescribes *includes* an audit. That way we don't have to debate whether to have an audit or how to do an audit for 19 months as the 22-month record retention rules loom ever closer.
 
-But a method to [hand counting paper ballots is viable](https://youtu.be/GBKz1o_VqAE?t=2501) and is described well by Col. Phil Waldron in the Nye County Commission meeting here where the board voted unanimously to move away from electronic voting equipment in their county elections.
+This approach also jives well with advocates who can't yet stomach the idea of hand counting paper ballots.
+
+But a method to [hand counting paper ballots is viable](https://youtu.be/GBKz1o_VqAE?t=2501) and is described well by Col. Phil Waldron in the Nye County Commission meeting here where the board voted unanimously to move away from electronic voting equipment in their county elections. Waldron's description included a method of using a commercial off the shelf (COTS) camera to take a photo of the front and back of each ballot which would be immediately uploaded to the county website and verifiable by each voter through a unique QR code.
 
 Counties and state legislatures around the country will decide how they want to make elections fair again, and possibly to make every voter's vote count for the first time in decades.
-
-*“Never tell people how to do things.  Tell them what to do and they will surprise you with their ingenuity.”*
-
-—General George Patton
-
-
 
 It's possible. It's happening. And it could happen in your county.
 
 Will you help to get it done?
 
-## Legal Brief
+## Small Counties with Great Potential
 
-Type it out or copy-paste here from .docx
+22 out of 87 Minnesota counties had fewer than 5,700 votes in 2020 and could perhaps more swiftly move to hand tallying, which is already acceptable by law. These counties could be places to find county commissioners more interested in putting an election integrity item on the agenda during county commissioner board meetings, or even making a courageous decision to pass resolutions to remove electronic voting equipment as seen in Nye County, Nevada and Otero County, New Mexico.
 
-Minnesota BRIEF legal
+| County | Votes |
+| --- | --- |
+| Big Stone | 2916 |
+| Clearwater | 4632 |
+| Cook | 3699 |
+| Grant | 3569 |
+| Jackson | 5693 |
+| Kittson | 2552 |
+| Lac Qui Parle | 3974 |
+| Lake of the Woods | 2375 |
+| Lincoln | 3058 |
+| Mahnomen | 2254 |
+| Marshall | 5016 |
+| Murray | 4812 |
+| Norman | 3357 |
+| Pipestone | 4859 |
+| Red Lake | 2145 |
+| Rock | 5139 |
+| Stevens | 4966 |
+| Swift | 5100 |
+| Traverse | 1833 |
+| Watonwan | 5090 |
+| Wilkin | 3354 |
+| Yellow Medicine | 5422 |
 
-13/4 <-- new Mexico
+Skeptics might rightly point out that having fair and transparent elections in such small counties wouldn't change the outcomes of larger statewide elections. But we have to start somewhere to inspire change and to say No to tyranny.
 
-13 breaches of election code
-4 more pieces of evidence
+## Objections to Hand Counting
 
+Time and money.
 
+**Time**
 
-US Congressional Oversight Committee was investigating our audit
-2
-3
+In a meeting with election officials and commissioners in Morrison County one objection that was raised was the effort involved in hand tallying.
 
-then commissioners
-Couy Griffin - arrested for praying outside of the Capitol
-Vicki Marquort?
-Gerald Matterly (skeptic), but he came around and was powerful
+If additional man power is needed to hand count paper ballots in precinct polling places on election day, [204B.195 TIME OFF FROM WORK TO SERVE AS ELECTION JUDGE](https://www.revisor.mn.gov/statutes/cite/204B.195) allows for absence without penalty.
 
+Also, I have met many people who have said they would count the votes for no compensation just so that everyone can regain confidence that the election was conducted fairly and transparently in their precinct and county.
 
+[Minnesota Statute 204C.04 EMPLOYEES; TIME OFF TO VOTE](https://www.revisor.mn.gov/statutes/cite/204C/full) in subdivision 1 already provides the the **Right to be Absent** in order to "appear at the employee's polling place, cast a ballot, and return to work on the day of that election, without penalty or deduction from salary or wages because of the absence."
 
-It takes very little talent or creativity to complain about problems.  After all, the people directly impacted by a problem, and eventually those indirectly impacted by the problem, feel the weight and consequences stemming from it.  When I speak in front of an audience, I need not complain at length about the violations of liberty underway in America, because the people know the personal toll exacted by those who corrupt the foundation of self-government.  The audiences come to hear solutions and to commit to action.
-—Captain Seth Keshel, [Veteran Lesson VII: Leaders Create Solutions](https://skeshel.substack.com/p/veteran-lesson-vii-leaders-create) (Ten Lessons for Every Day)
+This statute makes mass absentee and mail-in ballots moot.
 
-ALSO
+**Money**
 
-https://t.me/NewMexicoAuditForce/2205
+In the same Morrison County meeting, there was concern that the county was already locked into a rather large contract with the software and hardware vendor. That was a sunk cost if they were to switch to hand tallying. Jeremy Pekula made the point that over time hand counting would be much cheaper and welcomed by the community.
 
-"After we kick electronic voting systems out of our country, and go back to all-paper, one-day elections - we need to make Election Day a national holiday. It needs to be a holiday not for convenience or to make sure everyone has time to get to the polls. It needs to be a holiday so that once a year we will remember how Americans defeated tyranny within our borders for a second time. That we reaffirmed that our rights come from our Creator and our liberty is a responsibility. And under that framework our government derives its powers only from the consent of the governed."
+## How Much Do Machine Elections Cost?
 
-—Erin Clements
+In earlier chapters we discussed the problems inherent to the ES&S DS200 tabulators that were in use in 65 of 87 Minnesota counties during the 2020 election.
 
-![Data Request from Hennepin County](foia_submit.png)
+But this was not the only ES&S equipment in play. In 2020, some counties began upgrading to DS450s and DS850s.
 
-also link to magaraccoon.com/foia.html
+![DS450 Pricing Quote Sent to ](ds450_pricing_mcleod.png)
 
-## Raising Awareness
+While county commissioners in other states have described these machines as being built in Omaha, Nebraska, both the DS450 and DS850 are made in Germany.
 
-County commissioner strategy...
+![Assembled in Germany](assembled_in_germany.png)
 
-what to ask for?
+These newer models are quite expensive.
 
-resolutions -
+![Purchase Proposal Quote for McLeod County in 2020](MCCC_DS450_purchase_proposal_quote.png)
+
+Even the Site Support at $4,250 *alone* could be repurposed toward 20 election judges at $20 an hour for 10 hours. Many more election judges could be hired with the $50,000 spent on the DS450 tabulator. Furthermore, if we legislateively removed or dramatically shortened the absentee and early voting periods, absentee ballot board work would be reduced and the election process further simplified.
+
+Meanwhile, Saint Louis County recently purchased [the DS950](https://www.essvote.com/products/ds950/), one of the newest electronic voting machines on the market, likely costing about $250,000.
+
+It's one thing to spend a lot of tax-payer money on vulnerable machines, but another to actually use them correctly. For instance, the [DS200 Operator Guide](https://www.dropbox.com/s/9tgjadp53l7e34o/ES%26S%20DS%20200%20Operator%20Guide.pdf?dl=0) is 222 pages long.
+
+The following two emails between staff at ES&S and the County Elections Administrator in McLeod County demonstrate that there is much vendor hand-holding to maintain and operate these machines.
+
+![](absentee_mcleod_county_1of2.png)
+
+![](absentee_mcleod_county_2of2.png)
+
+Are we asking too much of our election officials at the county level to not only maintain and operate but also mitigate cyber threats to these machines?
+
+## The County Commission Strategy
+
+How can these changes actually happen?
+
+County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent.
+
+In [this video](https://rumble.com/v15yha1-county-commission-strategy.html), David Clements, speaking in Rochester on the first night of the MNGOP state convention (at a separate location), describes the county commissioner strategy. Here's [my take](https://rumble.com/v18ouv9-county-commission-strategy-in-minnesota.html) on the same.
+
+## Resolutions
+
+By having conversations to raise awareness among your county commissioners, you can then work toward drafting and passing resolutions.
+
+Here are a few areas you could focus on:
+
 1. Remove Machines (epollbooks, tabulators, election management systems)
 2. Turn on Cast Vote Records (CVRs) in tabulators and tabulation systems
 3.
@@ -92,15 +138,15 @@ resolutions -
 5. Balanced absentee ballot boards
 6. No drop boxes
 
-This is based on priority.
-
-Start at the top and move down.
+These are listed in priority order.
 
 1. Remove Machines
 
 Epollbooks (poll pads), tabulators, and election management systems violate 206.57 Subd.6 Required Certification because the EAC has not designated any testing lab to perform its VVSG 2.0 certifications, and 206.57. Subd.6 requires that voting equipment be in compliance with those standards.
 
 2. Turn on Cast Vote Records (CVRs) in tabulators and tabulation systems
+
+![Pg 57 of the DS200 Operator's Manual](pg57_2.png)
 
 No Minnesotan has yet received cast vote record (CVR) reports from any of the 87 counties in the state, even though these reports represent a key element in the machine audit trail. For instance, a comparison of paper ballots with the cast vote record in a precinct would represent a version of a micro-audit. Notice that this comparison is *different* from what post-election reviews are doing, which is comparing the aggregate vote totals (stored in the election management system database and tabulator tapes) with the hand counted ballots. Jeff Lenberg has shown the [ability to manipulate the database and the tapes to match](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) while leaving them non-matching with the paper ballots.
 
@@ -129,9 +175,10 @@ People asking what you can do.  Use a search engine.  Locate your commissioners'
 
 Prepare to challenge results of elections.
 
-have extra cash?
--spend a little less than normal on marketing AND
--SAVE IT FOR DISCRETIONARY AUDIT
+Have extra cash?
+* spend a little less than normal on marketing AND
+* save it to pay for a [discretionary audit](https://www.sos.state.mn.us/elections-voting/how-elections-work/recounts/)
+
 -we are in uncharted waters, think ahead, this is coming very soon, primaries in 2 months, we cannot say 'better luck next time'
 
 -link to discretionary audit
@@ -140,12 +187,15 @@ are CVRs turned on?
 
 Will also urge commissioners to pass resolutions so that election officials will turn ON cast vote record (CVR) functionality for primary on Aug 9, which apparently was turned off in at least some counties in 2020.
 
-## ...
+## Use Your Platform
 
 ![SOS candidate in New Mexico asking commissioners not to certify until conditions are met](audrey_trujillo.png)
 
 I will make similar requests of our commissioners across the state. If you know a commissioner, please let them know. If you are commissioner reading this, thank you. We are already in territory (in other states, like New Mexico) where county commissioners are being put to the test. Are you going to certify your county's election if it was run on machines that aren't certified according to the latest VVSG 2.0 standards, which may put that equipment in violation of Minnesota Statute 206.57 Subd.6 Required Certification?
 
+I am also calling for all America First Candidates to make speaking about the election machines a priority.
+
+If candidates are not speaking about election machines, why aren't they?
 
 
 ## What can you do?
@@ -153,6 +203,58 @@ I will make similar requests of our commissioners across the state. If you know 
 "Every byte of data we get now is a byte they cannot truly destroy in September. Don't lose sight of that."
 
 FOIA requests. Public data requests.
+
+
+
+
+
+link to MINNESOTA LEGAL BRIEF (DO THIS)
+link to videos
+inspiration !
+
+
+
+## Legal Brief
+
+Type it out or copy-paste here from .docx
+
+Minnesota BRIEF legal
+
+13/4 <-- new Mexico
+
+13 breaches of election code
+4 more pieces of evidence
+
+
+
+US Congressional Oversight Committee was investigating our audit
+2
+3
+
+then commissioners
+Couy Griffin - arrested for praying outside of the Capitol
+Vicki Marquort?
+Gerald Matterly (skeptic), but he came around and was powerful
+
+
+
+It takes very little talent or creativity to complain about problems.  After all, the people directly impacted by a problem, and eventually those indirectly impacted by the problem, feel the weight and consequences stemming from it.  When I speak in front of an audience, I need not complain at length about the violations of liberty underway in America, because the people know the personal toll exacted by those who corrupt the foundation of self-government.  The audiences come to hear solutions and to commit to action.
+
+—Captain Seth Keshel, [Veteran Lesson VII: Leaders Create Solutions](https://skeshel.substack.com/p/veteran-lesson-vii-leaders-create) (Ten Lessons for Every Day)
+
+ALSO
+
+https://t.me/NewMexicoAuditForce/2205
+
+"After we kick electronic voting systems out of our country, and go back to all-paper, one-day elections - we need to make Election Day a national holiday. It needs to be a holiday not for convenience or to make sure everyone has time to get to the polls. It needs to be a holiday so that once a year we will remember how Americans defeated tyranny within our borders for a second time. That we reaffirmed that our rights come from our Creator and our liberty is a responsibility. And under that framework our government derives its powers only from the consent of the governed."
+
+—Erin Clements
+
+![Data Request from Hennepin County](foia_submit.png)
+
+also link to magaraccoon.com/foia.html
+
+
 
 Insert video I did... Rumble
 
