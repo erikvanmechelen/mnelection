@@ -12,7 +12,7 @@
 
 ***
 
-The Defense Phase is where the attackers try to defend against what Patrick Colbeck calls the meddling kids from discovering what they did. It involves cover ups, destruction of physical and digitial evidence (Dominion's Trusted Build), slow walking and infiltration of nationally televised election audits (the Maricopa audit), media bullying, and lawfare.
+The Defense Phase is where the attackers try to defend against what Patrick Colbeck calls the meddling kids from discovering what they did. It involves cover ups, destruction of physical and digitial evidence (Dominion's Trusted Build), slow walking and infiltration of livestreamed election audits (the Maricopa audit), media bullying, and lawfare.
 
 This phase began on election night 2020 (and before that) and it is where we are in June 2022 as this book goes to the press.
 
@@ -36,27 +36,21 @@ On page 3, the 'Data Cleanup' phase immediately follows the election. What data 
 
 Part of the data cleanup being done would need to happen with the voter rolls. Public requests of these rolls and comparisons between them show large changes across time in registrations. Presumably this could cover up large additions of phantom voters just prior to elections.
 
-But what is harder to cover up is detailed comparisons across counties in a single state, as was shown by Erin Clements in New Mexico.
+But what is harder to cover up is detailed comparisons across counties in a single state, as was shown by Erin Clements in New Mexico's voter rolls, or the proof of database manipulation in the Mesa County, Colorado Dominion Trusted Build.
 
 ![image of 12 counties with same graph](...)
 
-## The Trusted Build
+Here's Hoang Quan on the Trusted Build:
 
-TO DO:
-Provide details... already summarized in introduction, hash out here.
+Which by the way should be technically deficient, because it invalidates the 22-month rule for retention of election records. If you can't audit, review, why have the 22-month retention period (or longer, depending upon state statutes of retention of election records).
 
-That's what happens when you have a TRUSTED BUILD. Which by the way should be technically deficient, because it invalidates the 22-month rule for retention of election records. If you can't audit, review, why have the 22-month retention period (or longer, depending upon state statutes of retention of election records).    [ @EOJ2020 too ]
-
-
-
-THIS ALREADY IN DEFENSE? ...this IS DEFENSE
-## More than 700,000 Reported Absentee Voters Not Connected in SVRS
+## 700,000 Reported Absentee Voters Not Connected in SVRS
 
 [Rick Weible's database analysis](https://midwestswampwatch.com) of Minnesota's statewide voter registration system (SVRS) highlighted that there were more than 700,000 absentee voters reported than documented in the SVRS five days *after* the MN Canvassing Board certified the election.
 
 In a June 7, 2022 GGP meeting in Dakota County, election official Andy Lokken said that after the fact comparative analysis of SOS-reported data with the SVRS data was not an effective way to verify results.
 
-EDIT ADD ANDY LOKKEN VIDEO ON SAME (find on Dropbox upload)
+![EDIT ADD ANDY LOKKEN VIDEO ON SAME](find on Dropbox upload)
 
 Then how *should* an election be verified by the people?
 

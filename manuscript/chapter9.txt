@@ -1,4 +1,4 @@
-# Chapter Eight - Security Threats to Our Election System
+# Chapter Seven - Security Threats to Our Election System
 
 *"The end game of all this electronic record manipulation is the vote tally. The consequence of a compromised vote tally is the selection of a compromised public official. Vote tallies can be manipulated in a variety of ways. Bad actors can program tabulators to automatically shift a percentage of votes from one candidate to another when the tabulator reads a scanned ballot image and allocates votes in a vote tally database. The tabulation databases themselves can be directly manipulated to replace actual vote tallies with alternative vote tallies. Bad actors who have access to vote tallies before election precincts close can use that information to know if they need to stuff the ballot box with more ballots than anticipated."*
 
