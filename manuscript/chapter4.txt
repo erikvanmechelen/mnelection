@@ -33,7 +33,7 @@ It's possible that the original set point in each state might need to be adjuste
 
 For background on Edison data, recall this chart from Russ Ramsland's Georgia presentation in December 2020.
 
-![Edison receives data from "Unofficial Database"](Russ_Ramsland_Presentation_Georgia_State_House_Elections_Hearing)
+![Edison receives data from "Unofficial Database"](Russ_Ramsland_Presentation_Georgia_State_House_Elections_Hearing.png)
 
 Draza also writes: "For those asking - the Edison data reports the cumulative votes and the percentage that each candidate has during the election. But - during the Nov 2020 election, these reporting values all went through a rolling zero that then returned to relatively the same values on the next reporting cycle. It happened in series to each state and DC. I suspect that this was application of new setpoints and/or new control constants to drive the vote totals to the setpoint within the number of votes remaining in the count."
 
@@ -59,11 +59,9 @@ On August 3, 2021 Draza said: "So - Rhode Island is one of the more surprising p
 
 ![Spike in Biden votes prior to reset](rhode_island_2021_3.jpeg)
 
-"For those asking - the Edison data reports the cumulative votes and the percentage that each candidate has during the election. But - during the Nov 2020 election, these reporting values all went through a rolling zero that then returned to relatively the same values on the next reporting cycle. It happened in series to each state and DC.  I suspect that this was application of new setpoints and/or new control constants to drive the vote totals to the setpoint within the number of votes remaining in the count."
+"In the data you can see it happen here. The ratio setpoint is driven from 97% to 66% and the Edison zero happens 4 minutes later."
 
 ![Setpoint Driven from 97% to 66%](rhode_island_2021_4.jpeg)
-
-"In the data you can see it happen here. The ratio setpoint is driven from 97% to 66% and the Edison zero happens 4 minutes later."
 
 Then, on the 21st of May, 2022, Draza announced this:
 
