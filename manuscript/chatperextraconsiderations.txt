@@ -230,3 +230,43 @@ Simulations in Minnesota: An Introduction to How Machines Controlled 2020 and Wh
 machine free
 end rigged elections
 have real elections again (for the first time)
+
+
+
+
+<h2>From the Desk</h2>
+<ul>
+<li><a href="https://erikvanmechelen.substack.com" target=_new>Read the latest articles on Substack</a>
+<li>Coming soon... Todd County: Do They Have Cast Vote Record (CVR) reports?
+<li>Coming soon... Ballot Harvesting and Ballot Stuffing is a Cover Up for Machine Manipulation
+<li>Coming soon... The History of Election Machines in Minnesota
+<li><a href="https://erikvanmechelen.substack.com/p/proposed-rule-29-to-prevent-new-sos" target=_new>Proposed Rule 29 to Prevent New SOS Candidate from Speaking and Being Endorsed?</a>
+<li><a href="https://erikvanmechelen.substack.com/p/trusting-the-voting-machines-is-like" target=_new>Trusting the Voting Machines is like Trusting Medication without Reading the Warning Label</a>
+<li><a href="https://erikvanmechelen.substack.com/p/should-minnesotas-2020-election-have">Should Minnesota have Certified the 2020 Election? (04/21/2022)</a>
+<li><a href="https://erikvanmechelen.substack.com/p/open-forum-speakers-address-removing">Speakers Address Dominion Machines at Sherburne County Commissioners Meeting (4/19/2022)</a>
+<li><a href="https://erikvanmechelen.substack.com/p/what-do-mngop-endorsements-actually" target=_new>What do MNGOP Endorsements Actually Mean? (04/07/2022)</a>
+<li><a href="https://erikvanmechelen.substack.com/p/eac-and-end-of-life-for-dominion">EAC and End of Life for Dominion at Dakota County Commissioners Meeting (4/5/2022)</a>
+<li><a href="https://erikvanmechelen.substack.com/p/the-cd5-show" target=_new>The CD5 Show: Situation Report and Exposition on the 2022 Congressional District 5 Convention (04/03/2022)</a>
+<li><a href="https://erikvanmechelen.substack.com/p/motion-passed-to-request-minnesota">Crow Wing Commissioners Persuaded to Request Forensic Audit from SOS (12/29/2021)</a>
+</ul>
+
+<h2>Key Minnesota Statutes</h2>
+<ul>
+<li><a href="https://www.revisor.mn.gov/constitution/" target=_new>Constitution of the State of Minnesota</a>
+<li><a href="https://www.revisor.mn.gov/statutes/part/ELECTIONS" target=_new>Election Statutes, Chapters 200-212
+<li><a href="https://www.revisor.mn.gov/statutes/cite/206.57" target=_new>206.57 EXAMINATION OF NEW VOTING SYSTEMS, especially Subd 6. REQUIRED CERTIFICATION</a> as relating to <a href="https://erikvanmechelen.substack.com/p/only-6-out-of-87-counties-in-minnesota" target=_new>Minnesota's general lack of EAC-certified systems</a>
+<li><a href="https://www.revisor.mn.gov/statutes/cite/203B.121" target=new>203B.121 BALLOT BOARDS: Subd.3</a> "...the county auditor or municipal clerk must immediately record that a voter's absentee ballot has been accepted"
+<li><a href="https://www.revisor.mn.gov/statutes/cite/204B.44" target=_new>204B.44 ERRORS AND OMISSIONS; REMEDY</a> as relating to petition to stop the certification of Minnesota's elections served upon the MN State Canvassing Board prior to certification
+<li><a href="https://www.revisor.mn.gov/statutes/cite/203B.08" target=_new>203B.08 MARKING AND RETURNING OF ABSENTEE BALLOTS</a> as relating to <a href="https://healthyelections-case-tracker.stanford.edu/detail?id=337" target=_new>this lawsuit</a>
+<br>
+<h2>Additional Minnesota Resources</h2>
+<ul>
+<li><a href="https://www.sos.state.mn.us/media/2092/absentee-voting-administration-guide.pdf" target=_new>2020 Minnesota Absentee Voting Administration Guide></a>
+<li><a href="https://www.youtube.com/watch?v=3wufz0i_zHM" target=_new>Election Assistance Commission Certifications (Rick Weible)</a>
+<li><a href="https://img1.wsimg.com/blobby/go/47803963-5178-4387-9865-0ea08f5332bd/downloads/22%2003%2017%20grewing%20complaint%20with%20exhibits.pdf?ver=1648648812808" target=_new>Complaint About Judicial Misconduct</a>
+<li><a href="https://www.revisor.mn.gov/bills/text.php?number=SF4217&version=0&session=ls92&session_year=2022&session_number=0" target=_new>SF4217: A bill...prohibiting intimidation of election officials</a>
+<li><a href="https://www.revisor.mn.gov/bills/text.php?number=SF3469&version=2&session=ls92&session_year=2022&session_number=0" target=_new>SF3469: A bill...amending requirements related to returning absentee ballots</a>
+<li><a href="https://www.dropbox.com/s/gb7dgx2v9t5du25/ES%26S_FOIA_Request_CVR.pdf?dl=0" target=_new>Submit FOIA or public data requests for CVRs</a>
+<li><a href="/EVS5200_DOC_SOP_EW05Results.pdf" target=_new>Electionware Volume V: Results User's Guide (ES&S)</a> (See pg 42 for Exporting the Ballot Table, Ballot Images, and CVRs to attach to CVR requests.)
+<li><a href="https://saveminnesota.org/" target=_new>Tampering in Minnesota Elections during MNGOP Process in 2022</a>
+</ul>
