@@ -80,7 +80,7 @@ If additional man power is needed to hand count paper ballots in precinct pollin
 
 Also, I have met many people who have said they would count the votes for no compensation just so that everyone can regain confidence that the election was conducted fairly and transparently in their precinct and county.
 
-[Minnesota Statute 204C.04 EMPLOYEES; TIME OFF TO VOTE](https://www.revisor.mn.gov/statutes/cite/204C/full) in subdivision 1 already provides the the **Right to be Absent** in order to "appear at the employee's polling place, cast a ballot, and return to work on the day of that election, without penalty or deduction from salary or wages because of the absence."
+[Minnesota Statute 204C.04 EMPLOYEES; TIME OFF TO VOTE](https://www.revisor.mn.gov/statutes/cite/204C/full) in subdivision 1 already provides  the **Right to be Absent** in order to "appear at the employee's polling place, cast a ballot, and return to work on the day of that election, without penalty or deduction from salary or wages because of the absence."
 
 This statute makes mass absentee and mail-in ballots moot.
 
@@ -104,7 +104,7 @@ These newer models are quite expensive.
 
 ![Purchase Proposal Quote for McLeod County in 2020](MCCC_DS450_purchase_proposal_quote.png)
 
-Even the Site Support at $4,250 *alone* could be repurposed toward 20 election judges at $20 an hour for 10 hours. Many more election judges could be hired with the $50,000 spent on the DS450 tabulator. Furthermore, if we legislateively removed or dramatically shortened the absentee and early voting periods, absentee ballot board work would be reduced and the election process further simplified.
+Even the Site Support at $4,250 *alone* could be repurposed toward 20 election judges at $20 an hour for 10 hours. Many more election judges could be hired with the $50,000 spent on the DS450 tabulator. Furthermore, if we legislatively removed or dramatically shortened the absentee and early voting periods, absentee ballot board work would be reduced and the election process further simplified.
 
 Meanwhile, Saint Louis County recently purchased [the DS950](https://www.essvote.com/products/ds950/), one of the newest electronic voting machines on the market, likely costing about $250,000.
 
@@ -159,7 +159,7 @@ On June 15, 2022, [David Clements' advice](https://t.me/theprofessorsrecord/7412
 
 ## Are You a Candidate?
 
-Urge commissioners to pass resolutions so that election officials will turn ON cast vote record (CVR) functionality for primary on Aug 9, which apparently was turned off in at least some counties in 2020. Else you may not be able to trust the result of your election.
+Urge commissioners to pass resolutions so that election officials will turn ON cast vote record (CVR) functionality for the primary on Aug 9, which apparently was turned off in at least some counties in 2020. Else you may not be able to trust the result of your election.
 
 A few more considerations:
 
