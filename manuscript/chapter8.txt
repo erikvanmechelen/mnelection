@@ -193,3 +193,27 @@ Jeffrey O'Donnell recently wrote on his Telegram channel: "Every byte of data we
 Jeff has provided a [general guide to FOIA requests](https://magaraccoon.com/foia.html).
 
 I also share more about FOIA possibilities on the [Erik for SOS channel](https://t.me/erikmn).
+
+## Vote in Person in the Primary and Midterm Elections
+
+The Primary Election is on August 9, 2022.
+
+It is important that republicans (and anyone planning to vote for republican candidates) who are supporting America First candidates vote in person on election day, as late in the day as possible.
+
+Even if you join the queue five minutes before polls closed, you are legally allowed to vote, even if the line is very long. The polling place will post someone in the line marking the end of the line at the deadline. Everyone in front of that person already at the polling location in their precinct should be allowed to vote.
+
+Why vote in person late in the day?
+
+Because we now have reason to believe that there are centralized mechanisms that through a combination of the statewide voter registration system, the epollbooks, and the scanned barcode when absentee ballots are delivered which allow the powers that be to see the full landscape of who has voted and who has not.
+
+If the vast majority of republican voters vote very late in the day, say at 5pm or later, then it becomes increasingly difficult to cheat using illegitimate absentee ballots. (I use the word illegitimate because by statute once a ballot enters the system it is by definition legal.)
+
+Therefore, I am urging republican voters *not* to take the convenient option and vote through absentee or early voting.
+
+If you are in a mail-in ballot precinct, you have the option to deliver your mail-in ballot directly to the county clerk up until 3pm on election day (according to [Minnesota Statute 203B.08](https://www.revisor.mn.gov/statutes/cite/203B.08)).
+
+Are you an event planner? Imagine holding a post-election party for republicans nearby the polling place to gather after voting in person to encourage reluctant in-person republican voters to take this small action step for election integrity.
+
+Of course, voting in person doesn't prevent tabulator vote-swapping or server-based tampering, but it does force those attempting to subvert our elections to resort to electronic methods at greater scale, which is risky.
+
+Finally, considering sharing [this book](https://leanpub.com/sim2020) with your elected officials, candidates, and county commissioners to provide context on the depth of the problem we're facing, and what they can do about it.
