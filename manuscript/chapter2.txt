@@ -97,7 +97,7 @@ When comparing voter rolls with census population data, one can chart turnout of
 
 [The USEIP Canvassing Report](https://useipdotus.files.wordpress.com/2022/03/useip-colorado-canvassing-report.pdf) from March 11, 2022 visited 4,601 of 9,472 residences in Douglas, El Paso, Pueblo, and Weld Counties, Colorado. They found that about 8% of voters (123,852 of 1.1M) were affected by unexplained irregularities in Colorado’s voter rolls and voting records.
 
-This rate of irregularities was similar to a 30-county canvassing effort led by Robin Sylvestre in Minnesota, which so far has canvassed about 2,000 homes and found just under 300 suspicious records.
+This rate of irregularities was similar to a 30-county canvassing effort led by Robin Sylvester in Minnesota, which so far has canvassed about 2,000 homes and found just under 300 suspicious records.
 
 In neighboring Wisconsin, [Jeffrey O'Donnell's analysis of data from August 2021 voter rolls](https://magaraccoon.com/docs/wisconsin1.pdf) showed over 7 million separate voter records in a state with less than 6 million people.
 
