@@ -118,6 +118,19 @@ Secretary of State Steve Simon made this decision in January, 2022, missing an o
 
 Since then, an even faster method to verify whether the paper ballots match the machine count (as scanned through the tabulators) has been identified.
 
+## Dakota County
+
+When the people with Rick Weible's help found indications that the results Dakota County announced for Kim Bauer's 2021 School Board race in ISD 196 may not have been accurate, they began requesting information from the county to try to reconcile the mismatching information.
+
+To this day, the data in the statewide voter registration system and the reported results from the county and the reported results from the school district have not been reconciled.
+
+On June 7, 2022, [Rick Weible spoke to Dakota County about their software](https://rumble.com/v1998gh-rick-weible-informs-dakota-county-about-their-software.html), recommending they return to hand counting and hand tallying.
+
+That day, the county commissioners voted favorably on not approving drop box voting and returning to party balance on absentee ballot boards.
+
+There is more work to do since Dakota County (and every county in Minnesota) still uses the modern electronic voting systems which are highly vulnerable to subversion. 
+
+
 ## Where Are the Cast Vote Records?
 
 Cast vote records (CVR) allow the machines to tell on themselves. Without them, the machine audit trail is severely limited.

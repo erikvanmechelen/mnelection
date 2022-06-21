@@ -29,7 +29,7 @@ In a world where most republican voters understood how to get involved starting 
 
 The Party says it wants to support endorsed candidates and discourages coverage of non-endorsed candidates. Meanwhile, the MNGOP has shown in reality it doesn't fully respect its own endorsements. For example, [Mark Bishofksy](https://markformnhouse.com/), endorsed candidate for 33B who single-handedly kickstarted the [Stop the Mandate](https://stopthemandatemn.org/) movement and hosted medical freedom rallies with thousands at the Capitol, is facing a challenger arguably more liked by the MNGOP leadership. Why is the MNGOP supporting this candidate in a race against the already endorsed candidate?
 
-What I've observed is that the MNGOP, a private entity, works very hard to control who eventually becomes an endorsed candidate, even pulling stunts to avoid the endorsement of candidates like Nathan Wesenberg that are a threat to their current grip on power. It's only a matter of time before the majority of people see what they've been up to and reclaim what has been taken from them.
+What I've observed is that the MNGOP, a private entity, works very hard to control who eventually becomes an endorsed candidate, even pulling stunts to avoid the endorsement of candidates like Nathan Wesenberg in SD10 that are a threat to their current grip on power. It's only a matter of time before the majority of people see what they've been up to and reclaim what has been taken from them.
 
 ## The Preparation Phase in Minnesota for 2022
 
@@ -48,7 +48,7 @@ To avoid that disaster requires that America First candidates stand up and join 
 
 Election laws in Minnesota continue to allow drop boxes, even though some areas have passed resolutions to remove them. Absentee voting and early voting are still legal for everyone, not only for distant military or the legitimately sick.
 
-Electronic voting machines, from epollbooks to tabulators to election management systems, are still very much in play. If machines count the votes and they aren't auditable, election results can't be trusted.
+Electronic voting machines, from epollbooks to tabulators to election management systems, are still very much in play and it's conceivable that the cast vote records (CVR) reports will again *not* be turned ON, leaving Minnesotans without a trustworthy machine audit trail. If machines count the votes and they aren't fully auditable, election results can't be trusted.
 
 ## The Delegate Selection Process
 
@@ -75,6 +75,8 @@ Her response doesn't answer all of my questions and suggests she was taking dire
 I sent one more email which did not recieve a reply.
 
 ![Feb 18 to BPOU Chair](diane_feb18.png)
+
+I am thankful that Diane engaged in this email thread, because I haven't always, as we shall see, been able to get email replies from everyone in MNGOP, in particular the leadership.
 
 What I'd already learned about [what took place in Morrison County](https://soundcloud.com/user-191695017/caucus-conventions-and-corruption-in-the-mngop-with-nathan-wesenberg-part-1-of-2) combined with this exchange had me wondering: How many delegates at BPOU conventions, endorsing conventions, and finally the state convention would ultimately be illegitimate?
 
@@ -290,7 +292,11 @@ Campaigns should demand audits of every round of every candidate race: secretary
 
 But the MNGOP *should* have provided these reports to every delegate in real time, if they actually cared about election integrity and wanted to model it in their own convention.
 
-At a minimum, this would have quieted down skeptics like me whose distrust grew as I personally experienced and witnessed glitches, heard about at least one device left unattended, and watched for instance Mike Murphy lose about 60 votes between rounds 3 and 4 after taking the lead in round 3, and then about 100 votes between rounds 4 and 5. Were people really swapping their votes *away* from the leading candidate after he'd just taken the lead? Even a prominent house rep speculated about vote shaving when confronted about his vocal support for another candidate—the vote shaving was *the reason* given for his support of a different candidate.
+At a minimum, this would have quieted down skeptics like me whose distrust grew as I personally experienced and witnessed glitches, heard about at least one device left unattended, and watched for instance Mike Murphy lose about 60 votes between rounds 3 and 4 after taking the lead in round 3, and then about 100 votes between rounds 4 and 5.
+
+![Mike Murphy leading in Round 3... before something changed](mike_murphy.png)
+
+Were people really swapping their votes *away* from the leading candidate after he'd just taken the lead? Even a prominent house rep speculated about vote shaving when confronted about his vocal support for another candidate—the vote shaving was *the reason* given for his support of a different candidate. How common knowledge was this line of thinking and how grounded was the speculation? My guess is there were more attendees who put themselves in the camp of 'saboteurs' by the end of the weekend than there were at the start.
 
 ## Primary Election on August 9
 
