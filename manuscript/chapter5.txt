@@ -124,7 +124,7 @@ When the people with Rick Weible's help found indications that the results Dakot
 
 To this day, the data in the statewide voter registration system and the reported results from the county and the reported results from the school district have not been reconciled.
 
-In May I sat in a closed door meeting where the county election officials tried to explain what they thought happened but were unable to satisfyingly do so. This meeting in particular gave me insight into the depth of the problem we face, since it is my opinion that some election officials simply do not understand the technical details of the software and hardware, whereas others may very well understand but be held back from helping us by some as yet to be discovered reason.
+In May I sat in a closed door meeting where the county election officials tried to explain what they thought happened but were unable to satisfyingly do so. This meeting in particular gave me insight into the depth of the problem we face, since it is my opinion that some election officials simply do not understand the technical details of the software and hardware, whereas others may very well understand but be held back from helping us by some as yet to be discovered reason. In that particular meeting also was the election official's boss, who tried to steer the meeting. He previously had said I could not record the county commissioner meetings, when of course I could (and did) seeing as they are open meetings. 
 
 On June 7, 2022, [Rick Weible spoke to Dakota County about their software](https://rumble.com/v1998gh-rick-weible-informs-dakota-county-about-their-software.html), recommending they return to hand counting and hand tallying.
 
