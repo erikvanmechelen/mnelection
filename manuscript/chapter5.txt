@@ -124,12 +124,47 @@ When the people with Rick Weible's help found indications that the results Dakot
 
 To this day, the data in the statewide voter registration system and the reported results from the county and the reported results from the school district have not been reconciled.
 
+In May I sat in a closed door meeting where the county election officials tried to explain what they thought happened but were unable to satisfyingly do so. This meeting in particular gave me insight into the depth of the problem we face, since it is my opinion that some election officials simply do not understand the technical details of the software and hardware, whereas others may very well understand but be held back from helping us by some as yet to be discovered reason.
+
 On June 7, 2022, [Rick Weible spoke to Dakota County about their software](https://rumble.com/v1998gh-rick-weible-informs-dakota-county-about-their-software.html), recommending they return to hand counting and hand tallying.
 
 That day, the county commissioners voted favorably on not approving drop box voting and returning to party balance on absentee ballot boards while Andy Lokken described [Minnesota's unique situation](https://youtu.be/mE1e3XGf7xM), which is "so unique that it creates delays in getting software here."
 
 There is more work to do since Dakota County (and every county in Minnesota) still uses the modern electronic voting systems which are highly vulnerable to subversion.
 
+## Wright County
+
+The teams in Wright County were successful in convincing the county commissioners there to hold [a workshop dedicated to election integrity](https://rumble.com/v157g8v-rick-weible-in-wright-county-may-17-2022.html) with Rick Weible as the speaker, on May 17, 2022.
+
+At the close of this meeting, it was decided that a joint task force would be put in place involving county commissioners, election officials, and members of the public.
+
+## Morrison County
+
+After Jeremy Pekula went on the radio asking whether the county commissioners were going to take action, he received another invitation to meet.
+
+In mid May, after speaking on the radio alongside Jeremy in the morning, we met that afternoon with the County Administrator, two county commissioners, the head election official, and the deputy election official.
+
+We shared some of the information already discussed in this book.
+
+We asked whether they would like to have an item on the agenda in a forthcoming county commmissioners meeting.
+
+So far they have not agreed to do so.
+
+## Sherburne County
+
+Teri Dickinson was very effective in organizing people to attend county commissioner meetings in Sherburne County. She even once gave up her precious speaking slot to give me three minutes to anchor a slate of speakers including Kari Watkins, who that day shared details from the Halderman report. I stressed the opportunity for the commissioners to take in all the information and find it in themselves to make history by removing the machines.
+
+The Sherburne county commissioners refused to (so far) have a public hearing or agenda item during the county commissioner board meeting despite multiple weeks of open forum comments [like Rick Weible's here](https://rumble.com/v15hs5h-voting-improvements-sherburne-county-may-3-2022.html) sharing critical vulnerabilities with Sherburne's modern electronic voting equipment. This inability to listen or disinterest in the facts led Kari Watkins to step up and run for county commissioner herself.
+
+Because of this roadblock, the action teams pivoted to meetings with the townships.
+
+A Haven Township meeting on June 20, 2022 started out with the usual disappointments and interference. Instead of Rick Weible's presentation starting the 7 p.m. meeting, as had been promised, he and those attending who had travelled to attend were made to wait until almost 9 p.m. once other items at the supervisor's meeting had been completed. Rick was then offered 10 minutes. After negotiation, he was given around 40 minutes, with the supervisor's interjecting with questions.
+
+The meeting was then adjourned after the Chair said her eyes were glazing over, but three of the supervisor's stayed around to hear more of Rick's presentation, which went about another hour.
+
+By the end, one of the supervisors said to me walking out of the building, "If we don't get to hand count here, I'm not going to certify the election," refering to the primary on August 9.
+
+This was music to my ears.
 
 ## Where Are the Cast Vote Records?
 
