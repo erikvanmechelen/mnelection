@@ -124,7 +124,7 @@ When the people with Rick Weible's help found indications that the results Dakot
 
 To this day, the data in the statewide voter registration system and the reported results from the county and the reported results from the school district have not been reconciled.
 
-In May I sat in a closed door meeting where the county election officials tried to explain what they thought happened but were unable to satisfyingly do so. This meeting in particular gave me insight into the depth of the problem we face, since it is my opinion that some election officials simply do not understand the technical details of the software and hardware, whereas others may very well understand but be held back from helping us by some as yet to be discovered reason. In that particular meeting also was the election official's boss, who tried to steer the meeting. He previously had said I could not record the county commissioner meetings, when of course I could (and did) seeing as they are open meetings. 
+In May I sat in a closed door meeting where the county election officials tried to explain what they thought happened but were unable to satisfyingly do so. This meeting in particular gave me insight into the depth of the problem we face, since it is my opinion that some election officials simply do not understand the technical details of the software and hardware, whereas others may very well understand but be held back from helping us by some as yet to be discovered reason. In that particular meeting also was the election official's boss, who tried to steer the meeting. He previously had said I could not record the county commissioner meetings, when of course I could (and did) seeing as they are open meetings.
 
 On June 7, 2022, [Rick Weible spoke to Dakota County about their software](https://rumble.com/v1998gh-rick-weible-informs-dakota-county-about-their-software.html), recommending they return to hand counting and hand tallying.
 
@@ -209,6 +209,12 @@ But in Minnesota we apparently don't have CVRs, at least according to the respon
 The bottom line is that those digital election records must be kept according to federal law for 22 months. If they are not there, that could be a big problem.
 
 Going forward, it is also important to urge county commissioners to pass resolutions (in county commission meetings) so that election officials will turn ON cast vote record (CVR) functionality (if indeed the CVR functionality has been turned OFF) for the primary on Aug 9, 2022. If they were turned off in at least some counties in 2020, they should be turned back on.
+
+*Dominion produces CVR
+
+...dominion_cvr
+
+*Hart produces CVR (basic to counting ballots and their vote opportunities):  Out of Idaho a Technical Reference Manual ["Ballot Scanning and Review Software"](https://sos.idaho.gov/elect/clerk/hart/verity/Verity_Central_Technical_Reference_Manual_6600-003_A04.pdf) Terms: Cast Vote Record (pages 10, 11, 14, and 189); CVR (pages 10, 11, 14, 18, 163, 164, 214) and 131, 133, 135) ...*
 
 ## Pushing Back Against Tyranny
 

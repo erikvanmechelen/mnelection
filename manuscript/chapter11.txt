@@ -24,6 +24,10 @@ Fast forward to the 2000 presidential election between Al Gore and George W. Bus
 
 Sequoia Voting Systems got its start in the 1970s as Mathematical Systems Corporation of Anaheim, California, offering an alternative to ES&S’s Votomatic punch cards. On March 8, 2005 Smartmatic Corp. (a Venezuelan company) acquired Sequoia. This raised eyebrows since Smartmatic had only the previous year been selected to by the Chavez-era Venezuelan government to provide voting systems for the presidential recall election, its [first time providing machines](https://ia801704.us.archive.org/34/items/smartmatic-sequoia-and-venezuela/Smartmatic%20Sequoia%20and%20Venezuela.pdf) for an election. Since June 4, 2010, Smartmatic’s parent company has been Dominion Voting Systems.
 
+Dan Sundin summarizes Smartmatic well:
+
+"Smartmatic was founded in 1998 by three Venezuelans, Antonio Mugica, Alberto Anzola, and Roger Pinate. Initially they developed ATMs in Mexico, but the U.S. presidential election in 2000 led the group to consider electronic voting platforms. Venezuelan strongman Hugo Chavez’s government gave the company an early loan and its first contract for election machines in 2004. The following year, Smartmatic bought Sequoia Voting Systes, but after a U.S. Department of Justice inquiry, Smartmatic sold Sequoia in 2007. More recently, Smartmatic has become a political lighting rod in the Philippines, with some politicians accusing the company of marketing faulty equipment and orchestrating election fraud."
+
 Back to 2000. According to Sequoia’s own employees, Sequoia may have [been responsible](https://web.archive.org/web/20070928013625/http://www.votetrustusa.org/index.php?option=com_content&task=view&id=2560&Itemid=51) for the defective punch cards in Florida which led to “hanging chads” or undervotes to the tune of 10,000 in Palm Beach County.
 
 One of Sequoia’s workers [told](https://web.archive.org/web/20070928013625/http://www.votetrustusa.org/index.php?option=com_content&task=view&id=2560&Itemid=51) Dan Rather:
@@ -136,3 +140,5 @@ Are there consequences to certifications (the EAC certifications) which have dis
 [Selections in Minnesota](https://leanpub.com/sim2020)
 
 [Erik for Secretary of State](https://erikformn.us)
+
+[Erik for SOS on Telegram](https://t.me/erikmn)
