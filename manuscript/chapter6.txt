@@ -24,11 +24,15 @@ We can change this. And we will.
 
 ## The County Commission Strategy
 
-County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent.
+County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent and reestablishes *trust*.
 
-link to MINNESOTA LEGAL BRIEF (DO THIS)
-link to videos
-inspiration !
+Patrick Colbeck's [comparison of physical versus electronic voting systems](https://rumble.com/v18np9t-electronic-voting-system-vulnerabilities.html) on the dimensions of process certification, process implementation, transparency during the election, and transparency after the election. "Electronic voting systems require a significant level of trust, a level of trust that any objective observer would find unwarranted based on the very real security vulnerabilities that these systems introduce to our election system."
+
+![Dimensions that increase reliance on trust](trust_colbeck.png)
+
+Alerting county commissioners as well as city council boards and township supervisors to the information contained in this book may prep them to make important and courageous decisions.
+
+If you are up to speed on this material, but your local elected officials are not, help them learn by attending your county commissioner board meetings and make your voice heard.
 
 ## Hand Tallying is Cheaper (and more Reliable) (and Auditable)
 
