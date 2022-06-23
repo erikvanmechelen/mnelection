@@ -52,9 +52,13 @@ Electronic voting machines, from epollbooks to tabulators to election management
 
 ## The Delegate Selection Process
 
-Right from the jump, there were issues at the precinct caucuses. [Numerous reports of tampering](https://saveminnesota.org) suggested delegate lists were being changed either at the BPOU level or the state level (or both). Unless an audit was done, reconciling the eyewitness and documented accounts would be difficult. No audits were done.
+Right from the jump, there were issues at the precinct caucuses. [Numerous reports of tampering](https://saveminnesota.org/evidence) in [Otter Tail County], Morrison County, and Clay County (but not only there) suggested delegate lists were being changed either at the BPOU level or the state level (or both). Unless an audit was done, reconciling the eyewitness and documented accounts would be difficult. No audits were done.
 
-Seeing how the confirmed reports were handled, I couldn't help wondering how many more delegate list incidents went unnoticed and therefore unreported. I emailed my BPOU Chair about this to see whether our lists could be confirmed.
+In Clay County, attempts were made by party operatives [to remove the BPOU chair Edwin Hahn](https://youtu.be/dMfCeMuLuZc?t=522)—in a locked room in the library led by Michelle Fischbach staffer Calvin Benson. The Chair of the Clay County BPOU sent [this cease and desist letter](https://drive.google.com/file/d/1s4ANas8A8tOai0Qiw-dXMpzCKjHcv4km/view) to David Haan on March 30, 2022.
+
+![Cease and Desist Letter sent to MNGOP Chair David Haan](edwin_hahn.png)
+
+Seeing how the confirmed reports of delegate tampering were (or weren't) handled, I couldn't help wondering how many more delegate list incidents went unnoticed and therefore unreported. I emailed my BPOU Chair about this to see whether our lists could be confirmed.
 
 ![Feb 16 email to my BPOU Chair](diane_feb16_1.png)
 
@@ -210,7 +214,9 @@ The woman who had called me was apparently not happy when she heard the news, bu
 
 Then, a few days prior to the convention, I took a more than one hour phone call with a man named Chris who said he wasn't working for Kim but who seemed to be helping her campaign. It was hard to gauge the purpose of the call except that Chris was curious to learn more of my thoughts on elections and to know whether I would run. He several times said he enjoyed reading the information on the website. Overall a good conversation with just one red flag going up when he said he didn't think Rick Weible's information was very compelling for non-technical people. Having at that point seen and done video recordings of Rick's work, I had a different opinion. Without Rick's educational presentations and supporting of multiple people and groups across more than a dozen Minnesota counties (and South Dakota), it's hard to say where the grassroots election integrity movements would be right now.
 
-I spoke with Chris at the convention, too, who was able to pull over Kim as well as her husband Marty on Day 2. At the time Kim seemed to be preoccupied with the signage issues (some signs lacked the "paid for by..." language) and indicated it may be better to meet in the coming week. Marty, meanwhile, didn't seem convinced there was machine fraud in Minnesota. Post convention, Rick Weible said Marty called him asking whether Rick could get me to *not* run for secretary of state. Also, prior to the convention, there was some unfounded speculation that it was Rick's decision for me to run.
+I spoke with Chris at the convention, too, who was able to pull over Kim as well as her husband Marty on Day 2. At the time Kim seemed to be preoccupied with the signage issues (some signs lacked the "paid for by..." language) and indicated it may be better to meet in the coming week. Marty, meanwhile, didn't seem convinced there was machine fraud in Minnesota after apparently speaking on these issues often in prior years.
+
+Post convention, Rick Weible said Marty called him asking whether Rick could get me to *not* run for secretary of state. Also, prior to the convention, there was some unfounded speculation that it was Rick's decision for me to run.
 
 Let me clear that up.
 
@@ -218,7 +224,7 @@ It was my decision.
 
 If I take guidance from anyone it's [the Boss](https://www.dropbox.com/s/j0ie2tfrnvvdvf7/the_boss.MP4?dl=0).
 
-The day before the huddle with Kim, Marty, and Chris, on Friday May 12, I watched the secretary of state speeches from the alternates balcony. I'd gone up to meet a friend of a friend. It was a useful vantage point to take in the spectacle. That's what the state convention could be reduced to, in a word. Others called it a circus. A useful metaphor. But the use of spectacle as a *tactic* was also plentifully demonstrated.
+The day before the huddle with Kim, Marty, and Chris, on Friday May 12, I watched the secretary of state speeches from the alternates balcony. I'd gone up to meet a friend of a friend. I felt bad for the alternates who had to sit up here and not be included, but it was a useful vantage point to take in the spectacle. That's what the state convention could be reduced to, in a word. Others called it a circus. A useful metaphor. But the use of spectacle as a *tactic* was also plentifully demonstrated.
 
 ![A spectacle to influence endorsement outcomes](convention_balcony.jpg)
 

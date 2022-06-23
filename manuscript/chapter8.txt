@@ -157,6 +157,42 @@ On June 15, 2022, [David Clements' advice](https://t.me/theprofessorsrecord/7412
 
 "People asking what you can do.  Use a search engine.  Locate your commissioners' email and phone numbers.  Call, write, and show up to your next commission meeting, and support our efforts for transparency.  Likewise, find a contact for the SOS and AG's office and give them hell.  Stop being a spectator."
 
+## Are You a County Commissioner, City Council Member, or Township Supervisor?
+
+Through the concept of "lesser magistrates", the most local officials may be our last defense against overt tyranny.
+
+Help to inspire courage in them by showing your support of their tough decisions ahead, whether to certify local elections run on fraudulent machines.
+
+In a [June 20, 2022 township board meeting](https://erikvanmechelen.substack.com/p/supervisor-indicates-that-he-wont) in Haven Township, Sherburne County, Rick Weible presented his [election improvement plan](https://img1.wsimg.com/blobby/go/47803963-5178-4387-9865-0ea08f5332bd/Election%20Performance%20Improvement%20Plan%2020220602.pdf), focusing on numerous issues discovered throughout Minnesota and Sherburne County.
+
+He began his presentation stressing [Minnesota Statute 206.56 Authorization for Use](https://www.revisor.mn.gov/statutes/cite/206.58).
+
+206.56. Subdivision 1.Municipalities.
+
+The governing body of a municipality, at a regular meeting or at a special meeting called for the purpose, may provide for the use of an electronic voting system in one or more precincts and at all elections in the precincts, subject to approval by the county auditor. The governing body shall disseminate information to the public about the use of a new voting system at least 60 days prior to the election and shall provide for instruction of voters with a demonstration voting system in a public place for the six weeks immediately prior to the first election at which the new voting system will be used.
+
+No system may be adopted or used unless it has been approved by the secretary of state pursuant to section 206.57.
+
+![60 days notice not provided in some townships and counties when new software introduced](206.58_60_days.png)
+
+Remember Dakota County election official Andy Lokken describing the unique nature of Minnesota? Well, that uniqueness apparently ["creates a delay in software getting here."](https://www.youtube.com/watch?v=mE1e3XGf7xM)
+
+Those "delays" may have led to a violation of Minnesota Statute 206.58.
+
+For a definition of "Electronic voting system", see 206.56 Subd 8.
+
+![Electronic voting system definition, to refer back to 206.56 Subd.1](206.56_8.png)
+
+206.56 Subd. 8.Electronic voting system.
+
+"Electronic voting system" means a system in which the voter records votes by means of marking a ballot, so that votes may be counted by automatic tabulating equipment in the polling place where the ballot is cast or at a counting center.
+
+An electronic voting system includes automatic tabulating equipment; nonelectronic ballot markers; electronic ballot markers, including electronic ballot display, audio ballot reader, and devices by which the voter will register the voter's voting intent; software used to program automatic tabulators and layout ballots; computer programs used to accumulate precinct results; ballots; secrecy folders; system documentation; and system testing results.
+
+![Required Certification Not Met Under "VVSG 2.0"](206.57_6.png)
+
+In addition to the non-compiance with [Minnesota Statute 206.57 Subd.6 Required Certification](https://www.revisor.mn.gov/statutes/cite/206.57), county commissioners, city councils, and township supervisors have everything they need statutorily to question the machines, do away with them, or decide to withhold their certification of local elections in either the August 9 primary or the November 8 midterms.
+
 ## Are You a Candidate?
 
 I am calling on all candidates to speak boldly on election issues in public and in conversations with voters while door knocking.
