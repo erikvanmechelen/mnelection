@@ -7,13 +7,20 @@
 
 ***
 
-By now many are familiar with suitcases of ballots being scanned by Ruby Freeman or the truckloads of ballots being delivered to the TCF Center in Detroit.
+By now many are familiar with suitcases of ballots being scanned by Ruby Freeman or the truckloads of ballots being delivered to the TCF Center in Detroit. But to understand the scale of the attack on the weakest part of the American election system—absentee and mail-in ballots—let's first review a few high level statistics.
 
-But ballot harvesting and trafficking operations were in effect across the country throughout the 2020 election.
+In the EAC's [2020 Election Administration and Voting Survey](https://www.eac.gov/sites/default/files/document_library/files/2020_EAVS_Report_Final_508c.pdf) (EAVS), the following stats are given in on page 1 of Chapter 1. Overview of Election Administration and Voting in the 2020 General election:
 
-In Minnesota we perhaps caught a small glimpse of ballot harvesting through Project Veritas reporting on [Ilhan-Omar connected ballot harvesting schemes](https://www.projectveritas.com/news/ilhan-omar-connected-cash-for-ballots-voter-fraud-scheme-corrupts-elections/) in September 2020. However, the ballot harvesting being done in those videos only sheds light on traditional ballot harvesting, in that case exploiting the elderly in apartment towers for which the in-person polling place was within walking distance if not in the same building.
+* More than 209 million people were active registered voters for the 2020 general election, an all-time high for the EAVS.
+* Voter turnout for the 2020 general election reached the highest level documented in any EAVS thus far, at 67.7% of the citizen voting age population (CVAP). Turnout increased 6.7 percentage points from 2016 levels, and nearly all states reported an increase in turnout. More than 161 million voters cast ballots that were counted for the 2020 election.
+* For the first time, a majority of voters cast their ballots before Election Day. Slightly more than 43% of voters participated with a mailed ballot, and 30.6% of ballots were cast through in-person voting before Election Day. Ballots cast on Election Day at a physical polling place comprised 30.5% of the turnout for the 2020 general election.
+* The number of mailed ballots transmitted to voters more than doubled from 2016 to 2020, and the percentage of mailed ballots that were returned by voters, that were counted, and that were rejected held steady with 2016 levels.
 
-What True the Vote's work showed in documentaries like 2000 Mules is a likely nationwide coordinated effort to print ballots at NGOs and have them dropped off in drop boxes (or the mail) by mules. This is ballot *trafficking*, what Gregg Phillips called "organized crime that was perpetrated on Americans."
+It is now a proven fact that ballot harvesting and more critically ballot *trafficking* operations were in effect across the country throughout the 2020 election.
+
+In Minnesota we perhaps caught a small glimpse of ballot harvesting through the Project Veritas reporting on [Ilhan-Omar connected ballot harvesting schemes](https://www.projectveritas.com/news/ilhan-omar-connected-cash-for-ballots-voter-fraud-scheme-corrupts-elections/) in September 2020. However, the ballot harvesting being done in those videos only sheds light on traditional ballot harvesting—notable but not highlighting the scale of operations likely at work in Minnesota—in that case exploiting the elderly in apartment towers for which the in-person polling place was within walking distance if not in the same building.
+
+What True the Vote's work showed—which in my opinion was only glimpsed in documentaries like 2000 Mules—is that a likely nationwide coordinated effort to print ballots at NGOs and have them dropped off in drop boxes (or the mail) by paid mules. This is ballot *trafficking*, what Gregg Phillips called "organized crime that was perpetrated on Americans."
 
 True the Vote's [election integrity report](https://www.truethevote.org/wp-content/uploads/2022/03/FILE_5193_no-meta.pdf) titled "Delivery of Absentee Ballots by Intermediaries to Milwaukee County Area Drop Boxes October 20 – November 3, 2020 was published on March 18, 2022. A week later, in Madison, Wisconsin, Catherine Engelbrecht and Gregg Phillips [gave testimony in an informational hearing](https://www.truethevote.org/election-integrity-testimony-in-wisconsin-on-thursday-march-24-2022/) before the Assembly Committee on Campaigns and Elections.
 
