@@ -279,6 +279,18 @@ Turning off the functionality to generate CVRs may also have explained why Minne
 
 *Please note that although we have focused on the ES&S DS200s, there are several Minnesota counties that use Dominion ImageCast machines and several that use Hart Verity Scan tabulators. Equipment from these vendors are also insecure from cyber threats. More importantly, vendors are not open with their source code and therefore vote-manipulating software could be baked in. That said, any commissioners opting to withhold their certifications of local elections could request a micro-audit, to be performed in under a day, of their voting machines to ensure that security and accuracy were maintained throughout the election.*
 
+## Contracts 
+
+![Anoka's 2021 Joint Powers Agreement](anoka_jpa_no_warranty_2021.png)
+
+Tell Robert Kirchner's story here...
+
+Clerk: "Illegal to hand count!"
+
+Some EJs resigned or were removed, a practice that occurred in this county, that county, and that county.
+
+
+
 ## Tabulation Systems
 
 Here again I lean on Patrick Colbeck's description, this time from page 10 in *The 2020 Coup*:
