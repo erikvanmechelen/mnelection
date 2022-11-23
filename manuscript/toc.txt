@@ -1,0 +1,16 @@
+How to lay out so that it is readable? 
+
+Use the method provided in The Story Grid?
+
+The Creature from Jekyll Island
+
+Omnigraffle pictures...
+
+Or draw it on whiteboard.
+
+Or in a notebook.
+
+Current layout: 
+
+Book.txt contains all chapters - consider renaming chapter0 -> Preface to Second Edition
+
