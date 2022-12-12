@@ -1,9 +1,13 @@
 {sample: true}
 # Preface - It's Time
 
-*“I am a messenger from God.”* 
+*“Be the change you seek.”* 
 
-—Andrei, Top A and inventor of [Project Apario](https://projectapario.com), a biblical table flip on the idea of the mainstream media 
+—Andrei Merlescu, inventor of [Project Apario](https://projectapario.com), a biblical table flip on the idea of the mainstream media 
+
+*"From a very early age, perhaps the age of five or six, I knew that when I grew up I should be a writer. Between the ages of about seventeen and twenty-four I tried to abandon this idea, but I did so with the consciousness that I was outraging my true nature and that sooner or later I should have to settle down and write books."*
+
+—George Orwell, author of *1984* and *Animal Farm*
 
 ***
 
@@ -11,13 +15,37 @@ Man in the Mirror by Michael Jackson describes where change starts. Look into yo
 
 That is in part how this book took shape. 
 
-Half a year ago in May 2022 I began the first draft of *[S]elections in Minnesota: An Introduction to How Machines Controlled 2020 and Why We Must Return to Hand Counting Paper Ballots*. The book was published digitally a few weeks later in June, 2022, with the paperback version debuting on June 26, 2022.
+Half a year ago in May 2022 I began the first draft of [*[S]elections in Minnesota: An Introduction to How Machines Controlled 2020 and Why We Must Return to Hand Counting Paper Ballots*](https://leanpub.com/sim2020). The book was published digitally a few weeks later in June, 2022, with the paperback version debuting on June 26, 2022. 
 
-The last 12 years I've lived in three separate parts of the Waterfall City, Minneapolis. Watch the water and notice a simple truth: water always flows downhill.
+However, only months before I knew very little about election law, election process, and the electronic voting system. All which it turns out work cleverly in tandum to allow the subversion of the elective franchise, what Capt. Seth Keshel has called our most sacred instituion. 
 
-anecdote, lbj? ... where did i type this ... turned the water on ... 
+It was only a year prior when, after realizing that things would not resolve themselves on their own, and after Project Veritas correctly passed on my application, I found myself in an online group searching for a way to audit Minnesota's election.
 
-In Minnesota's elections, water flows uphill. Only possible because something has been added. If one zooms out and takes in all the things that have been added, the election system looks a bit like a waterpark. 
+The last 12 years I've lived in three separate parts of the Waterfall City, Minneapolis, never more than a few minutes walk from waterways. If one watches the water a simple truth may be learned: water always flows downhill. But in Minnesota's elections, it has been shown to flow uphill. Since this cannot occur naturally, it begs the question: How is this accomplished?
+
+This book will show you step by step how elections in this state are engineered.
+
+Much of what I've studied, witnessed, and ultimately learned was unexpected. The sooner expectations are set aside or let go of completely, the smoother the flow of learning.
+
+One of my mentors, Rick Weible, said he set up the website, MidwestSwampWatch, hoping to cover much more than election data, process, and accountability. A few years later, though, elections remains the focus.
+
+Another mentor taught me the importance of patience persistence. 
+
+However long it takes, and whatever the road may be, I intend to see this through.
+
+
+
+
+NOTES: 
+
+below is from Nov 22 preface...
+
+is it likely I'll write another, probably? 
+
+Leanpub model very good for this :) 
+
+
+
 
 Minnesotans in growing numbers are learning the truth about the charade that are our so-called elections and how few currently elected representatives seem to be on the side of the people as evidenced by their email, phone, and in-person interactions, let alone any tangible efforts. The lack of courage is unsurprising once a light is shone on how easy it is to undermine the people's hoped-for outcomes to select a kind of person unwilling to fight from within the system that chose them, whether or not that individual realizes they were selected, not elected. 
 

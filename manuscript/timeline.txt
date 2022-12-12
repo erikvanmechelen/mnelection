@@ -434,3 +434,23 @@ put it on CoA, if works for MN, already funnelling, can duplicate model across r
 
 one-drive directories to do digital canvassing 
 
+
+
+
+
+
+1) Absentee/Mail-in "Ballots in the Wild" based on Serial Numbers:
+Like checks written that weren't cashed (or accepted), there is big delta between ballots sent out and ultimately received as indicated by the serial numbers in SOS absentee/mail-out report. Serial number is in system AND on envelopes which are scanned once returned/accepted.
+
+Caveat: Absentee is mixed with mail-out ballots for the 1,140 mail-ONLY precincts—therefore one more filter needed to know true absolute value of dangling absentee
+
+Mail-ONLY precincts effectively get absentee 1 ballot for every active voter on registration list.
+
+See attached Chart which visualizes gap between sent out and returned/accepted absentee.
+
+2) Pick someone (or multiple) to be Four Core rep for Anoka with Seth Keshel's team.
+https://skeshel.substack.com/p/four-for-the-election-integrity-core
+email your county name to fourcore@proton.me
+
+See you tomorrow,
+Erik 
