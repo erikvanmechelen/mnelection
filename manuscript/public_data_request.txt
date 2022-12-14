@@ -1,0 +1,363 @@
+# Items to Request 
+
+Consider 13.1 and 13.3, Government Data 
+
+Public! 
+
+Why are you requesting?
+Some hunch. 
+Or just wanting to learn, for discovery purposes... follow the money. 
+See L D's on Sherburne.
+Konnech contract, is this there? 
+
+Things to request: 
+
+In General
+
+-data (explore data types)
+-communication between vendor (ES&S, Dominion, Hart InterCivic) regarding "Absentee" or "..." (see Jeffrey O'Donnell's guide, https://magaraccoon.com/foia.html)
+(example, how to manually update votes in absentee module)
+-...
+
+From Office of the Secretary of State (OSS)
+
+- voter file, county or state 
+
+these are one-time... stitch together for larger picture (like Rick W)
+
+
+From County
+
+-address to authority (call to find out)
+
+
+From City 
+
+NARRATIVES: 
+-History of CVR requests 
+-Tabulator logs
+-Thumb drives, for CVR
+-Grants, grant applications
+-PER materials
+
+-Konnech 
+
+
+Katherine Engelbrecht, True the Vote 
+Gregg Phillips, OPSEC
+Eugune Yu 
+
+Konnech Inc. 
+PollChief
+
+Kanekoa's reviews - including his request for more research...
+onto Chinese sites, etc. (find that)
+
+Hennepin County email saying there is no contract with Konnech Inc. 
+Technically correct. 
+
+angela.conley@hennepin.us
+binta.kanteh@hennepin.us
+shanese.reed@hennepin.us
+ward2@minneapolismn.gov
+ward4@minneapolismn.gov
+jason.chavez@minneapolismn.gov
+ward11@minneapolismn.gov
+ward5@minneapolismn.gov
+andrew.johnson@minneapolismn.gov
+
+Commissioner Conley,
+
+Given recent revelations regarding Konnech Inc. leading to arrest of its CEO Eugene Yu, I am proposing an agenda item to discuss the appropriateness of Minneapolis's recent extension of Contract No. C-40044 with Konnech, Inc.
+
+Hennepin County would not be the first to consider or reconsider its contract. You can learn more about this very important matter here:
+https://kanekoa.substack.com/p/konnech-ceo-eugene-yus-ties-to-ccp
+
+As Child Well-being Advisory Committee Chair, you may also be interested to know that Konnech has connections into school systems in the United States meaning the CCP likely has sensitive data on children, parents, teachers, and administrators. http://www.schoolbrief.com/schoolcase.html
+
+Including on this email council members Robin Wonsley, LaTrisha Vetaw, Jason Chavez, and Emily Koski who made up the 4-member quorum present to approve the amendment to Contract No. C-40044 which extended and expanded the contract, as well as on that day absent council members Jeremiah Ellison and Andrew Johnson.
+
+Thanks,
+Erik van Mechelen
+
+30? days go by, no response from Minneapolis, but they were not addressed in initial email.
+
+Realized need to formalize my ask: 
+
+-initial contract
+-proper vetting (internal communications)
+-...
+
+https://lims.minneapolismn.gov/Download/PriorFileDocument/-52344/WCMS1P-148961.PDF
+"Services to be performed are coordination with
+City personnel relating to the successful implementation of a new Elections System, as well as
+the successful transfer of data from the City’s current program to the new system."
+
+What was the new Elections System?
+What does transfer of data look like? 
+
+"The City’s Elections Management System is at a crossroads. The current system does not meet
+the needs of Elections and Voter Service."
+
+How was this determined? 
+
+"A significant investment from both Information
+Technology (IT) and Elections would be needed to add the required functionality to the existing
+system."
+
+What is the "required functionality"?
+
+https://lims.minneapolismn.gov/Download/PriorFileDocument/-63781/WCMSP-186604.PDF
+
+In April 2015, Information Technology and City Clerk’s Office issued a Request for Proposal (RFP) for the design, implementation and support of a commercial-off-the-shelf (COTS) Elections Management System, along with ancillary software and services. After a thorough vetting, Konnech was the awarded vendor for this system. 
+
+Based upon the recent primary election, additional enhancements were found necessary to be implemented before the November 2016 general election. These enhancements will allow for better reporting, improved training functionality, tracking the core volunteers, and gaining staffing efficiencies.
+
+Describe the "thorough vetting" process.
+Expand on "tracking the core volunteers".
+Point or provide evidence for "improved training functionality".
+
+
+https://lims.minneapolismn.gov/RCA/1029
+
+"Customizations are necessary to better match the business processes and the laws that govern the election process and allow greater enhancement of the application to better align this software.  In addition, mobile apps and greater reporting functions are available that were outside the original scope that will help streamline the business processes."
+
+Describe "customizations are necessary".
+Expand on "mobile apps and greater reporting functions". 
+
+
+
+
+
+drive through towns, i'm shocked
+
+cosmos, highway 7 
+
+spirited, gnomes
+decorate water tower
+milky way
+
+voter turnout, mail-only precinct
+42% 
+did not voter58%
+a lot of signage
+very low turnout?
+additional discovery
+-did people lose their ballot 
+-
+
+in-person voting precincts...
+some areas in Carver
+not good voter turnout
+Chanhassen, 
+Chaska, 36% (total in person + absentee)
+Norwood Young America, 32.8% didn't vote 
+
+Wright County 
+
+Dakota County 
+suppressed areas in Eagan, Burnsville, Farmington 
+even Delanoe
+Buffalo, 3 precincts, 37% not voting 
+Albertville, 36% not voting 
+look for high number of voters, where there is 750 
+growth, didn't connect
+problem of candidates not active enough? 
+
+
+percentage ... 
+
+percentage ... 
+
+not engaged
+disenfranchized 
+why wasn't turnout there? 
+in some areas but not other areas 
+
+did Jensen really hurt us in the end 
+no positive message
+surplus, $1k back
+vote for legislators that are 
+
+voter turnout in wright, anoka, 
+key cities
+didn't show up
+concerning
+alarming 
+
+
+
+
+
+
+anoka's test deck
+what was it like? 
+sufficient to catch any anamolies ?
+willing to run another test deck against their machines?
+if they have any extra ballots to do it 
+(not under any timeline)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+central SD, 12-18in 
+
+
+
+might stay home... 
+
+
+
+mail-in 
+
+mail-out
+
+automatically mailed out, assumed
+total not voting in mail precincts that i would assume got mail-out ballot
+45,493
+total mail sent and didn't vote 
+registered at 7am
+153,930
+2,211 edr 
+most precincts, no signatures (in person)
+somehow, 1,671 signatures (went to courthouse and voted?)
+absentee/mail-in (combined)(could be requested another ballot)
+111,168
+20 fed only 
+
+mail-in precincts, 
+112,859
+avg of 29% did not vote
+stories
+high percentages where they didn't vote 
+
+hill city, aitkin, 52% didn't vote 
+turtle lake township, cass, 38.1% did not vote 
+
+wright county 
+
+city of lafayette, nicollet county, 40% did not vote 
+
+rose creek, mauer county, 37% did not vote
+
+pierce township, morrison, 38% did not vote 
+
+cosmos, 42.5% did not vote 
+
+
+45,000 votes sitting on table 
+could have had another 10k votes
+
+
+wright county 
+anoka county 
+
+even more stunning
+
+600-1,200 in a precinct that didn't vote 
+
+lopsided
+after redistricting 
+should have been cleaned up
+wright county, 4,000 registered, buffalo precinct 1
+1,900 voters not turn out 
+37.84% did not vote 
+leaning republican voter, outer suburbs, colleged educated, independent working on their own, schools/crime 
+albertville, 1,100 ppl didn't vote, 36%
+why didn't voters turn out? 
+
+woodbury, 41% 
+150 ballots/votes
+
+woodbury, precinct 1 
+952 ballots 
+
+cottage grove in washington county 
+32-35%
+ 👆👆👆
+CANVASSING TO FIGURE OUT WHY PEOPLE DID NOT VOTE 
+
+inner city performing better than suburbs - in terms of turnout  
+photoshop? haha 
+rough outline ... 
+use my drawing tools? 
+adobe? 
+vector drawing... big scale? 
+zoom in on areas 
+
+
+
+data set comes in 
+16 files
+2 for each CD 
+first file is voter registration data
+2nd is voter history, well over 1M records
+
+take 2 independently, filter out voter histories for elections i want 
+
+3.6M records for registrations 
+
+can also filter out 
+walk lists based upon election areas 
+
+multiple datasets
+
+database to crunch 
+
+11/23 - 12/21 - did voters get removed... 
+
+have records, more i have, closer to when they actually voted 
+if there is voter history already pegged for them 
+
+lokken, you can't rely on that data 
+
+could give cleaner data 
+
+you can see your own voter history as it has changed throughout election cycle
+
+can see voter history of how 
+
+they can see status changes of voter... 
+
+but we can only see slices, access (limited heavily)
+
+
+
+
+only 45,000 make up mail-in precincts. 
+
+350,000
+automatically
+single application 
+nursing home conducting
+organizations submitting absentee ballot on behalf of someone
+(3rd party)
+somebody walks into courthouse and votes that day
+goes to courthouse and gets absentee and takes it
+military, UOCAVA system
+
+everything that is outside polling place, is absentee
+
+600k, returned, accepted, counted 
