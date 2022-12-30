@@ -21,23 +21,25 @@ However, only months before I knew very little about election law, election proc
 
 It was only a year prior when, after realizing that things would not resolve themselves on their own, and after Project Veritas correctly passed on my application, that I found myself in an online group searching for a way to audit Minnesota's election. The last 18 months I've done little else apart from the research, studying, and activity which is summarized briefly in the pages that follow. Most of all, it has been a spiritual journey.
 
-After most of youth spent internationally, the last 12 years brought me to three separate parts of the Waterfall City, Minneapolis. Never more than a few minutes from waterways, walking, jogging, and biking the lakes and streams became a pleasurable and contemplative hobby. During this activity, time is often taken to sit quietly. If one watches the water a simple truth may be learned: water always flows downhill. But in Minnesota's elections, it has been shown to flow uphill. Since this cannot occur naturally, it begs the question: How is this accomplished?
+After a youth spent in Houston Texas, Libreville Gabon, Lafayette Louisiana, Jakarta Indonesia, Houston Texas again, and finally Beijing China, after four years in Northfield Minnesota, the last 12 years brought me to three separate parts of the Waterfall City, Minneapolis. Never more than a few minutes from waterways, walking, jogging, and biking the lakes and streams became a pleasurable and contemplative hobby. During this activity, time is often taken to sit quietly. If one watches the water a simple truth may be learned: water always flows downhill. But in Minnesota's elections, it has been shown to flow uphill. Since this cannot occur naturally, it begs the question: How is this accomplished?
 
 In a word: engineering. This book will show you step by step how elections in this state are designed and manufactured, how our votes are calculated, not counted, and what every citizen can do on a weekly basis in their home county to restore trust in our elections through transparency and accountability.
 
-Elections comprise several domains of knowledge, which is perhaps why few are able to call themselves experts. I do not call myself one, but I believe I have met some of them. Indeed, have had the chance to learn through our interactions, observed presentations, and by their example. How many of these experts conduct themselves is in such a way that large issue cannot be taken. It is an aim to present this work in my own style, but also in a manner which defends against simple attacks. If it is done very well, any attacks will only amplify the message and hasten its spread.
+In a [web archive of Chan Thomas's "Adam and Eve Story"](https://web.archive.org/web/20170123195822/https://www.cia.gov/library/readingroom/docs/CIA-RDP79B00752A000300070001-8.pdf), the author references Prof. Frank C. Hibben who in his book, "The Lost Americans" said "Any good solution to a consuming mystery must answer *all the facts*." 
 
-Much of what I've studied, witnessed, and ultimately learned was unexpected. The sooner expectations are set aside or let go of completely, the smoother the flow of learning.
+Elections comprise several domains of knowledge including but not limited to information theory, electronic systems, and black letter law, which is perhaps why few are able to call themselves experts. (Beware those who do.) I do not call or view myself an expert, but I believe I have met some who are, even though even they do not present themselves as such: Rick Weible, Susan Shogren Smith, Jeffrey O'Donnell, Draza Smith, Patrick Colbeck, Col. Shawn Smith, Mark Cook, David Clements, and Erin Clements. (There are more.) Indeed, I've had the chance to learn through our interactions, observed presentations, and by their example. The conduct of these men and women is in such a way that no large issue can taken. Despite their likely unknown influence on my study, it is an aim to present the following work in my own style, but also in a manner which defends against simple attacks. In Robert A. Caro's "Working" he describes an early boss's advice to "turn every page." That is simply not possible for one writer to do: nevertheless, if this work is presented very well, any attacks will only amplify the message and hasten its spread to those seeking a survey of and starting point in the elections landscape.
 
-One of my mentors, Rick Weible, said he set up the website, MidwestSwampWatch.com, hoping to cover much more than election data, process, and accountability. A few years later, though, elections remains the sole focus.
+Much of what I've studied, witnessed, and ultimately learned was unexpected. Often a position of humility was taken (or impressed upon me). The sooner expectations could be set aside or let go of completely, the sooner and smoother came the learning.
 
-A second mentor taught me the importance of patience persistence. However long it takes, and whatever shape the road may be, I intend to walk it.
+Someone I view as a mentor, Rick Weible, said he set up the website, [MidwestSwampWatch.com](MidwestSwampWatch.com), hoping to cover much more than election data, process, and accountability. A few years later, though, elections remains the sole focus.
 
-A third mentor said, "Be the change you seek," which speaks for itself.
+A second mentor, Nathan, taught me the importance of patience persistence. However long it takes, and whatever shape the road may be, I intend to walk it.
+
+A third mentor, Andrei, said, "Be the change you seek," which speaks for itself.
 
 Erik van Mechelen
 Minneapolis, Minnesota
-Dec 12, 2022
+Dec 29, 2022
 
 
 
