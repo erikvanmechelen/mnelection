@@ -1,4 +1,7 @@
 {sample: true}
+
+In general, much work is thankless. But the best work needs no external recognition because it is driven by a higher mission. Many of the stories embedded in this book are that kind of work. And yet, it still feels good to be acknowledged. Even though names have been altered and details adjusted to protect identities, my hope is that the spirit of those who contributed will shine through and that they may know for just a moment that their work was, has been, and continues to be noticed.
+
 # Preface - Water Flows Downhill (Almost Always)
 
 2023-06-09
