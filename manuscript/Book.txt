@@ -1,3 +1,12 @@
+01_start_again.txt
+02_why_cast_vote_record_images_matter.txt
+03_four_phases.txt 
+04_precinct_hand_count.txt
+05_threats_to_hand_count.txt
+06_county_commissioner_strategy.txt
+
+
+
 01_preface.txt
 02_how_to_read_this_book.txt
 02_introduction.txt
@@ -17,5 +26,8 @@ chapter10.txt
 chapter11.txt
 chapter12.txt
 
+In general, much work is thankless. But the best work needs no external recognition because it is driven by a higher mission. Many of the stories embedded in this book are that kind of work. And yet, it still feels good to be acknowledged. Even though names have been altered and details adjusted to protect identities, my hope is that the spirit of those who contributed will shine through and that they may know for just a moment that their work was, has been, and continues to be noticed.
+
 Never knew how much we needed hand count until I saw how easy it was to change election results electronically. Attending events... county commissions... learned about the machines and the people who want to change it. 
+
 Perfect for fans of Patrick Colbeck's The 2020 Coup, this bestseller in Category will educate you and make you an advocate for change (to hand counts)
