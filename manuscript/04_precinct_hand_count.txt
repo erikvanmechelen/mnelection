@@ -1,0 +1,52 @@
+# Precinct Hand Count
+
+In late June two women who used to hand count elections in Anoka County shared their experiences. It was an efficient and accurate process which was open to the public. 
+
+In the future, the precinct hand count is the simplest antidote to many of our election problems. 
+
+Big caveat: It does need to be implemented in conjunction with a completely updated voter registration and voter validation process, to be covered later in this book. 
+
+To briefly touch on registration... If we hand counted but were allowing enormous amounts of illegitimate mail-in, absentee, or early ballots into the process, then obviously the election results could still not be trusted.
+
+Election officials have complained that while we may have once upon a time enjoyed hand counts, that somehow these days they would be painful, slow, and expensive. Well, Osage County, Missouri, during their April 4, 2023 election, proved otherwise. In fact, a county official remarked that using the hand count saved the county $17,000. Effectively conducting the hand count was the result of Linda Rantz's relationship building with local clerks and advocates. Linda also discovered that Worth County, Missouri was using hand counts for the past 10 years. 
+
+Mark Cook, cybersecurity and computer forensics expert, has developed a hand count process that he is sharing during his Hand County Road Show, currently in Texas, but likely to spread to many states. If you are not invited in the RV, you can still a glimpse of the process at [https://mockcountytx.us/election-results](Mock County, Texas), recorded on April 17, 2023.
+
+Rick Weible has also spearheaded hand count studies in South Dakota and Minnesota. 
+
+Here is footage from Minnesota.
+
+
+
+Why hand counts will succeed...
+
+Rick Weible - more on our story
+
+Mark Cook - how i met him (cyber symposium...actually before i met rick weible)
+
+
+
+
+Mr. Weible is one of the country’s leading election security experts. (The “election denier” label in the title to this post is completely in jest, as Mr. Weible has been labeled this or similar by newspapers including the Star Tribune to downplay his efforts—but so far none of those same papers have denied any of the following bullet points.)
+
+Rick Weible will be a household name in the coming months.
+
+A few things Mr. Weible has been up to in recent years:
+
+    2016: as Mayor of St. Bonifacius (Hennepin County), declined the KnowInk poll pad contract after hacking into it within minutes, in 2016 (every other municipality in Hennepin County signed the contract)
+
+    2020: received the voter histories from the November 2020 General Election for Minnesota on November 29, which was 5 days after the MN State Canvassing Board certified the election, only to discover 38.9% of the voter histories were yet to be input, casting doubt on how the Board managed to certify the election with over 1/3 of data not yet available
+
+    2020: in reviewing this and related data sets, found that 734,000 absentee ballots were not yet connected with a voter in the Statewide Voter Registration System (SVRS) - again, 5 days after the MN State Canvassing Board certified the election on 11/29/23
+
+    2021/2022: acquired voting systems from each of the major vendors for testing
+
+    2021/2022: visited dozens of counties for commissioner meetings, city council meetings, and township supervisor meetings to educate local officials on major gaps in their election process and security risks to their networked and internet-connected systems
+
+    2022/2023: acquired and reviewed cast vote records which the MNSOS seemed to deny existed in Minnesota
+
+    2023: purchased thousands of ballot stock from SeaChange and printed thousands of ballots (using ballot images from publicly available cast vote records on Dodge County, Wisconsin’s website), and then conducted two hand county studies in Sioux Falls, SD and Brookings, SD on June 7, and June 10, 2023, which revealed significant issues such as folds disrupting how tabulators read ballots
+
+These are just a few things Mr. Weible has done. The full list is much longer. Some of these required great professional if not personal risk and it is why I am grateful for people like Rick.
+
+I’m also personally thankful for everything I’ve learned from him. Among his greatest qualities which are not listed above is his generosity and humility and willingness to teach, no matter what questions you have. If you prefer to learn about all this by yourself first, start at https://midwestswampwatch.com and see the menu for “Tools you can use”.
