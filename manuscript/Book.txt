@@ -1,3 +1,4 @@
 chapter_introduction.txt
 chapter_one.txt
 chapter_two.txt
+chapter_three.txt
