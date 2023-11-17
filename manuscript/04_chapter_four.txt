@@ -1,0 +1,34 @@
+# Chapter Four
+
+My given and family name was called and I approached the microphone. I glanced at the commissioner, Felix, who I'd happened to enter the Sherburne County Government Center alongside. I didn't know then, but he had already or was soon to announce that he would not run for re-election after serving 20 years. Since he was, it was said, one of the more independent commissioners, I'd hoped to get his attention with my words. It was April 2022 and I was about to speak in my first county commissioner meeting. Teri, or one of the others that regularly spoke, had given up their spot so I could have a chance.
+
+On that day I spoke about the before and after images from Mesa County, Colorado, which had been unveiled in part on Day Two of the Cyber Symposium in August of 2021, which were copies of the Dominion Voting Systems Election Management System, a voting vendor and system which Sherburne County also used. I also spoke to the built-in capabilities (understood since at least 2003/4 when Bev Harris unearthed the Diebold GEMS source code online) to select candidates up and down the ballot (and then not perform proper audits to ensure legal ballots from legal voters are counted accurately). 
+
+The punchline of Mesa Report #3 is that a duplicate database of the election in Mesa County was created, thus breaking the digital chain of custody of the election records. Therefore the election results for that county, in 2020, could not be verified. Then, a similar thing happened *again* in the Grand Junction municipal election (also overseen by Clerk Tina Peters, whose story is told in the documentary, Selection Code). If this could happen in one Dominion Voting System, it could happen in any of them, wherever they were used, including in Sherburne County.
+
+I urged the commissioners to gather information to make informed decisions going forward. After all, it is the commissioners in Minnesota counties that under Minnesota Statute 206.58 AUTHORIZATION FOR USE Subdivision 3. Counties that have the authority to use electronic voting systems (or not to use them). 
+
+Now, 206.58 was amended by the 93rd Minnesota Legislature to read: Once a municipality has adopted the use of an electronic voting system in one or more precincts, the municipality must continue to use an electronic voting system for state elections in those precincts. Some, including myself, were worried about this because it seems to mandate the use of electronic equipment which has been shown to facilitate fraud. 
+
+However, it was recently pointed out by Susan in a presentation on November 14, 2023 in Buffalo that the current amended law is an example of an ex post facto law; laws cannot be drafted to take effect retroactively. When the municipalities opted to use an electronic voting system in the past, did they know that this decision could tie their hands in the future? 
+
+In a separate conversation it was raised that there would be a way around the statute as written, which would be to draw new precincts. However, I'm in favor of challenging the amended law in that I agree it is ex post facto. The statute cannot stand as written *or* municipalities need to be given the choice to decide for the next election whether they want to bind themselves to electronic voting systems so long as the statute exists.
+
+When this amended law plus the amended Chapter 13 statutes banning the release of the ballot image portion of the cast vote records was shared with the Anoka County commissioners in Summer 2023, I believe that a few of them finally understood the gravity of the concerns the people there had been sharing meeting after meeting.
+
+This would not be the only Sherburne County commissioner meeting that I would attend, nor the most interesting.
+
+In July, the Office of the Secretary of State sent their number two man, David Maeda, to speak along with the Sherburne County Auditor, 
+
+new systems... 
+Same statute, 206.58
+subd 1
+A22-1080
+...dismissed on laches, not with prejudice...
+rick spoke with the speed limit sign, still breaking law even if you don't know the law
+
+that led to telling the cities and townships, which led to Maeda coming out to visit
+
+he was surrounded after, 
+
+i spoke with county administrator, who said we were asking for wrong thing by asking for agenda item laughing out loud 
