@@ -1,57 +1,41 @@
 # Chapter Six
 
-idea...
+On the evening before the third Mike Lindell event, this one, like the second, in Springfield, Missouri, when speaking with a few others who also attended all three events, I mentioned that I hoped this was the last time we would be meeting up like this. When expressions suggested I clarify, I said, Well I hope that the public awareness is high enough and that this can all be cleaned up. 
 
-threats to hand count (email)
+A few days ago now, as I write this in late November (today is the day after Thanksgiving), Commander in Chief Trump has recently said that they have so much evidence of election fraud and interference and cannot wait to reveal it in his trial. 
 
-but keep in mind context of operation
+That 'trial' is scheduled for March 4, 2024, which is significantly the anniversary of the original inauguration day for American presidents, beginning with George Washington (the last inauguration on March 4th was President Franklin D. Roosevelt on March 4, 1933). Comms in Commander in Chief Trump's speeches around September and October of 2023 suggesting 'Biden' may be taken care of in about five months (I don't know that it takes five months) point directly to the start of that 'trial'. This isn't a prediction, but merely pointing out that everything about this plan, with regard to comms and optics, is chosen and timed deliberately. For another obvious example, consider the numerous comms in Commander in Chief Trump's speech on November 15, 2022 (the anniversary of our first constitution, the Articles of Confederation, in 1777). 
 
-covert sting op 
+Given my belief that single day, verified, hand-counted paper ballots are required for sensible and trustworthy elections in this country, at least in the near term, the question for me is not really why, who, when, where, but more so what and how. 
 
-and 
+What paper ballot methods and how will those be implemented. 
 
-hand count is only one aspect of getting accurate tally, but first need to have only legal ballots from legal voters...
+Paper ballots are of course, nothing new, and it was useful, for just one instance, to review a recording of previous election judges in Anoka County who shared their experiences from decades ago with the county commissioners during the public comment segment of a Summer 2023 county commissioner board meeting. They talked about how they enjoyed it and were even done counting the ballots and votes well within twenty four hours of the close of polls. There are many people who have participated in hand counts of various kinds, whether in decades past, or in recent recounts, or in more recent practice sessions, such as Rick's hand count studies held in Summer and Autumn 2023 in South Dakota and Minnesota, one of which I participated in on July 13, 2023. 
 
-were there any hand counts in 2023?
+I do want to at least touch on if not go into some detail on those studies (more can be found on USCASE.org), but first I want to step way back and consider the foundations of voting. 
 
+Why do we vote? 
 
+It has been said that our vote is our voice and therefore sacred. To take away someone's right to vote is like taking away their voice. Not on. 
 
-There are legislative and political threats. 
+In our constitutional republic, which we hope to soon reconstitute (see the appendix of the Federal Continuity Directive 1 published on January 17, 2021, three days before President Donald John Trump's inauguration where he was flanked by Military Intelligence and Judge Advocate General), votes are tallied to decide representatives of the people in government. 
 
-Legislative: 
+The previous version of this book's appendix laid out a brief history of types of voting: voice, hand, machine (non-electronic), punch card, and electronic (such as ballot scanning or even touch screen). The reader can imagine or may have seen or participated in the above or variations of the above. There are different ways of voting! 
 
-Minnesota - HF1830: Mandates machine tabulation (came with making ballot images non-public)
-Colorado - SB22-153: Bans hand counts 
+Instead of an electronic system that can hide behind trade secrets laws or proprietary technology, why not use a voting method that every voter, (and fifth graders that are not even allowed to vote yet) can understand? This was the rationale from the German Constitutional Court in 2009 when electronic voting machines were banned. They are not the only European country to opt for paper ballots counted by hand. The Dutch went to paper in 2017 for their general, and France's recent elections have done so as well. 
 
-Political: 
+Detractors have said, But there can be cheating with paper as well! Of course there can be, but hardly to the same extent (at least not as easily) and that makes such retorts invalid as arguments to keep black box voting. (And when I write, of course there can be, it is because I have witnessed members of the Minnesota Republican Party, in the Senate District 50 local officer elections in March 2023, cheat before my eyes, with a combination of paper ballots and mishandled Excel sheets—this same group of individuals also shredded ballots in one key race to prevent an audit. As it turns out, some of those that were elected were stand-ins for those being replaced and did not opt to perform a deeper audit on the remaining races for which I'd asked for corrections of improper Excel formulas which changed the results of at least two races.)
 
-Baldwin
-Haven 
+Knowing that the people can no longer tolerate black-box voting, which accurately describes the current electronic voting system, because it lacks transparency, verifiability, and auditability, the obvious alternative is some form of manual hand voting and manual hand counting.
 
-Involved in Haven. Baldwin nearby. 
+An article written in late Summer 2023 by the author of Election Data Analyzer asked why certain hand count methods currently being devised aren't missing the point (or missing the advantages) in that they are trying to fit the counting and tallying method into the prevailing ballot design, which are primarly designed to be counted electronically by scanners like the DS200 from ES&S, the most popular ballot scanner in Minnesota in 2020, used in about 78 out of 87 counties. (That appendix also references how there is evidence the hanging chad situation was actually an operation—through [reports](https://groups.google.com/g/electionintegrity/c/bqngkWqELsM?pli=1) from those working on the those ballots where unusual specifications were ordered for Palm Beach—to cast doubt on that method to more quickly usher in electronic voting methods, as further evidenced by the HAVA being signed shortly thereafter in 2002 doling out $3 billion for implementation. Consider that the hanging chad story was at the center of the presidential election in Florida, the decisive state, which meant the centralized news coverage could easily influence millions of Americans outside of Florida.)
 
-Post letters or links to the presentation on Rick's site to see letters... quote from them at least...
+In determining voting method, we need not limit ourselves to the current ballots which are designed to be counted by the tabulators which have been proven to facilitate fraud. If the ballot designs don't have to be the same, then the method of tally when a hand or manual count is done can also vary. Pause for a moment and consider the possibilities. Keep in mind transparency, efficiency, and the ability of the public to easily comprehend the method. I liked a recent article that described the 'feel' of our next and future elections, that they might have the atmosphere of a farmers market. Neighbors coming together to enjoy the day. Instead of a tension augmented by political machines and suspicion magnified by electronic machines and their flawed software, hardware, and firmware.
 
+One interesting suggestion is to actually [weigh ballots](https://electiondataanalyzer.substack.com/p/counting-votes-by-weight-naysayer) using a new method that takes what has been learned in other countries and improves upon it. We don't have to keep doing the same thing over and over, especially when that method has been proven to aide those attempting to undermine our republic and ultimately our way of life. (Executive Order 13848 was put in place with good reason and for good reason.)
 
-Addie writes 
-Walz signed HF1830 in to law. Making hand counts illegal. 
-...
+However, if we are to keep the ballot designs we have (as I write this I seem to doubt that we will, because why would we?), then I like what Rick has come up with, which can be seen at USCASE.org. There are other methods, such as that use a giant calculator readable by a livestreamed video, or a dab method popularized in Missouri, but so far I like what I see with Rick's tally sheet design. Of course every state will have to be mindful of their statutes and procedures (statutes and procedures can also be changed!).
 
-Hi Addie, 
+All this gets me quite excited about future elections. By using a one day verified paper ballot election without electronic and centralized software, most risks outside of the public view can be removed. Yes, there's much work to do not only in the awareness raising (this has largely been done—see Rasumussen polls) but also implementation as well as possible adjustments to election codes and election procedures.
 
-Someone wrote in reply to my recent post: 
-Walz signed HF1830 in to law. That makes hand counts illegal. 
-
-My reply: 
-I'm not sure if you've read the amended law and related statutes. But your conclusion is incorrect. 
-
-No law against hand counting. Counties may still hand count side by side with machine count. Also, for local (non-state) elections, hand count with NO machines is also legal. Please consider organizing and asking for this in your area, starting with townships/cities/counties.
-
-Finally, I do not accept the corrupt law which is foisting machines which facilitate fraud onto the county election staff. That is not fair to them because they may want to use hand counts which are cheaper and more accurate. 
-
-It was a big mistake to pass this law because people like you and me have the responsibility to raise awareness about this so as to reverse it. 
-
-Keep up the good work!
-
-Thank you, 
-Erik
+In the next chapter, I'll briefly review some of the pushback against hand counts that was received in Minnesota as the people brought these ideas to townships, cities, and counties.
