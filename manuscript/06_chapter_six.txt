@@ -38,4 +38,4 @@ However, if we are to keep the ballot designs we have (as I write this I seem to
 
 All this gets me quite excited about future elections. By using a one day verified paper ballot election without electronic and centralized software, most risks outside of the public view can be removed. Yes, there's much work to do not only in the awareness raising (this has largely been done—see Rasumussen polls) but also implementation as well as possible adjustments to election codes and election procedures.
 
-In the next chapter, I'll briefly review some of the pushback against hand counts that was received in Minnesota as the people brought these ideas to townships, cities, and counties.
+In the next chapter, we'll go into recent developments with the South Dakota Canvassing Group's interaction with one of the major vendors nationwide, Election Software & Systems (ES&S). 

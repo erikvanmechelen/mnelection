@@ -1,5 +1,23 @@
 # Chapter Seven
 
+Elections Systems & Software (ES&S) is headquartered in Omaha, Nebraska, and is a major electronic voting equipment vendor, operating in about 40 states.
+
+https://www.eac.gov/sites/default/files/electionofficials/EMG/EAC_Election_Management_Guidelines_508.pdf
+
+pg 43, the audit of the data
+
+pg 66, the system acceptance test
+
+requirement of a memory device to 
+
+
+
+
+
+
+
+
+
 recap of Minnesota pushback against paper ballots 
 
 this was helping Election Interference EO lol 
