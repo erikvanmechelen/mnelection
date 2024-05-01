@@ -13,39 +13,100 @@
 
 Let's briefly cover what's been done, what's being done, and what still yet can be done right here in Minnesota.
 
-READ erik.quest/elections.html
-LOOK at resolutions from Anoka
-think about STATUTES 
+## What Recent Laws were Added or Amended?
 
-It is possible to have actual elections that are not controlled by machines or easily exploited by other means like mass mail-in ballots without chain of custody.
+No-excuse mail-in began in 2014 leading to large increase in absentee/mail-in ballots and votes.
 
-The simplest way might be to return to [hand counting paper ballots in small, manageable precincts](https://rumble.com/v15ykkn-precinct-level-voting.html). Local control and oversight. That is easy to understand, and implementable right now. There is no reason for county commissioners to wait for further data to come in. The machines in Minnesota are not in compliance with the latest VVSG 2.0 guidelines and therefore violate our election code, [Minnesota Statute 206.57 Subd.6 Required Certification](https://www.revisor.mn.gov/statutes/cite/206.57).
+* A 1987 law made it possible for precincts to switch to mail-in only
+* In 2016 the thresholds from 1987 were lowered; outside metro precincts with fewer than 1,000 registered voters, metro areas with fewer than 400, could opt for mail-in only
+* There are currently 1,000+ precincts (out of 4,000 statewide) whose voters may only vote by mail (mail ballots can be hand-delivered, but no in-precinct election day voting allowed)
+
+Minnesota's 93rd Legislature (2023):
+
+* electronic tabulators mandatory if previously used at one or more precincts, for those precincts
+* the ballot images part of cast vote records non-public records
+* illegal immigrants can get a driver's license
+* 16-yr-olds are now in voter roll and ID pool
+
+As seen in [MS 206.58 AUTHORIZATION FOR USE. Subd. 1 Municipalities.](https://www.revisor.mn.gov/statutes/cite/206.58#stat.206.58.1), ''Once a municipality has adopted the use of an electronic voting system in one or more precincts, the municipality must continue to use an electronic voting system for state elections in those precincts.''.
+
+This statute does not address the ex post facto nature of the law: When counties chose to use electronic equipment they would not have known this law was going to be passed later, removing their choice. Additionally, it is unclear whether redrawing precinct lines would refresh the option for the county.
+
+For ballot images [MS 206.845 BALLOT RECORDING AND COUNTING SECURITY. Subd. 3 Cast vote records.](https://www.revisor.mn.gov/statutes/2023/cite/206.845#stat.206.845.3) shows, after the ordered list of 5 items, an additional line of text: ''Data stored as images are protected nonpublic data under section 13.02. It is unclear why a sixth item with this information was not put into the numbered list, but rather listed below. Perhaps it was a late addition during drafting?
+
+The entire subdivision on cast vote records [was added in 2023](https://www.revisor.mn.gov/laws/2023/0/62/#laws.4.117.0) after many Minnesota county auditors, county attorneys, and even the MN Secretary of State suggested they either were turned off, did not exist, or were not accessible. Note: If cast vote records were to be somehow turned off, this action would decertify that tabulator according to the Election Assistance Commission (EAC).
+
+For all 2023 election laws in a 536-page pdf, click [here](https://www.sos.state.mn.us/media/5067/minnesota-election-laws-statutes-and-rules.pdf).
+
+[Additional amendments](https://www.revisor.mn.gov/bills/text.php?number=HF4772&version=latest&session=ls93&session_number=0&session_year=2023) are in the works for 2024.
+
+For instance, added to [MS 204C.20 BALLOTS; NUMBER TO BE COUNTED.](https://www.revisor.mn.gov/statutes/cite/204C.20) will be a subdivision which reads: **Subd. 5. Precincts with ballot tabulators.** In precincts using ballot tabulators, once the final count of ballots agrees with the number of ballots to be counted, election judges must immediately prepare the summary statement in accordance with section 204C.24 and seal the ballots in accordance with section 204C.25 for return to the county auditor. The effective date will be June 1, 2024. [Read more about HF4772](https://www.revisor.mn.gov/bills/text.php?number=HF4772&version=latest&session=ls93&session_number=0&session_year=2023).
+
+This new subdivision would seem to be aimed at preventing a parallel hand count on election day after the ballots have gone through the electronic tabulator.
+
+## What can towns, cities, and counties do? 
+
+More than one may initially think... Consider:
+
+1. If have mail-in only precincts, reversing prior decision and return to in-person voting in precinct - [View Sample Resolution](https://www.projectminnesota.com/in-person-voting-resolution/)
+2. Expanding the postelection review to include as many precincts as possible and as many races on the ballot as possible
+3. As a town or city, partnering with the county to take responsibility for receiving, accepting/rejecting, counting, and tallying any absentee, early, and mail-in ballots/votes
+4. Passing a resolution to ensure that no city employees are used for absentee ballot boards, but instead only party-balanced election judges
+5. Providing in-depth training for volunteers and staff on the above items
+6. Redrawing precinct boundaries to allow for the decision to be made once again whether (or not) to use electronic equipment
+7. When doing #6, precinct sizes can be capped at a certain number of voters to assist with logistics, planning, and training of election judges and poll workers
+8. Opting out of the KNOWiNK (BPro) electronic pollpads (e-pollbooks) given their internet connectivity and integrated feature set (if desired, use paper pollbooks instead to check-in voters)
+9. Conduct a parallel hand count and human hand tally on election day
+
+For #9, it appears that the 94th Legislature (2024) will [introduce a new subdivision](https://www.revisor.mn.gov/bills/text.php?number=HF4772&version=latest&session=ls93&session_number=0&session_year=2023) in [MS 204C.20 BALLOTS; NUMBER TO BE COUNTED.](https://www.revisor.mn.gov/statutes/cite/204C.20) which will hinder this idea, even though it is not strictly speaking illegal. (It would be surprising for the legislature to outlaw hand counting given that it is the default backup plan in case of electronic outages.)
+
+The above are currently legal, but that can change. If pursuing any of the above and facing resistance, ask oneself: Why should anyone object if the goal is a secure, transparent, verifiable, and accessible election and these approaches are within the currently written election codes?
+
+If the laws change in response to your efforts, then so be it.
+
+## What is the Simplest Legislative Change at the State Level?
+
+To make elections trustworthy and verifiable to all voters at minimum cost, consider:
+
+Cities, towns, and counties will decide how to conduct their elections, so long as:
+
+1. On election day, voters present a government ID to receive a ballot
+2. All voting occurs face to face, in person, in precinct, on paper ballots
+3. Ballots and votes are counted in the precinct by humans and reported first at the precinct level
+
+With such an approach, it can be seen that there is:
+
+1. No need for voter lists, rolls, or databases centralized at the state level, as currently exists within the Statewide Voter Registration System (SVRS)
+2. No need for absentee, early, or mail-in voting, which aligns with many countries and removes chain of custody problems
+3. No need for electronic equipment, computers, or networks of any kind
+
+Instead, the will of the people, through decision-making at the city, town, and county level, determines how best to carry out their elections, so long as it is in keeping with the principles of integrity, security, transparency, verifiability, acessibility, and accuracy.
+
+Instead of [536 pages of laws](https://erik.quest/elections.html), why not try the above?
+
+To be solution-oriented, a 3-page bill which included much of the above was presented to every Minnesota senator and every member of the house of representatives, all 201 of them. The collective interest was zero as measured by email responses. 
+
+## Local action
+
+The rest of the chapter shares a few action items to make a commitment to.
+
+It is possible to have actual elections that are not controlled by computer software or easily exploited by other means like mass mail-in ballots without chain of custody.
+
+The simplest way might be to return to [hand counting paper ballots in small, manageable precincts](https://rumble.com/v15ykkn-precinct-level-voting.html). Local control and oversight. That is easy to understand, and implementable right now. There is no reason for county commissioners to wait for further data to come in.
 
 Although I prefer the simplicity and the community involvement (imagine neighbors getting together on election day to count the votes together), but I recognize that hand counting paper is not the only way.
 
-Machines might be used under certain conditions.
+Rick Weible and three more authors from three other states authored a paper on [Gold Standard Elections](https://uscase.org/gold-standard-elections), which are secure, transparent, verifiable, and accessible. The paper looks at each stage and layer of the election process from lens of each of those four dimensions.
 
-Jeffrey O'Donnell says it very well:
+It is state legislatures around the country that will decide how they want to make elections fair again, and possibly to make every voter's vote count for the first time in decades.
 
-"If Americans' votes are to be recorded and counted by machines, every aspect of those machines' operation, configuration, and data must be recorded, immediately available at no cost or administrative burden to citizens and their independent examiners and confirmed 100% accurate through that independent verification. The absence or shortfall of any of those three imperatives (recorded, available, and independently verified) should immediately cause the public to distrust both the purported results from those machines, and also anyone who insists that they accept those results."
+It's possible. It's happening. 
 
-Here Jeff describes a possible future where we still use machines but with conditions to increase clarity that the currently less than useless certifications don't have.
-
-Notice, too, that what Jeff prescribes *includes* an audit. That way we don't have to debate whether to have an audit or how to do an audit for 19 months as the 22-month record retention rules loom ever closer.
-
-This approach also jives well with advocates who can't yet stomach the idea of hand counting paper ballots.
-
-But a method to [hand counting paper ballots is viable](https://youtu.be/GBKz1o_VqAE?t=2501) and is described well by Col. Phil Waldron in the Nye County Commission meeting here where the board voted unanimously to move away from electronic voting equipment in their county elections. Waldron's description included a method of using a commercial off the shelf (COTS) camera to take a photo of the front and back of each ballot which would be immediately uploaded to the county website and verifiable by each voter through a unique QR code.
-
-Counties and state legislatures around the country will decide how they want to make elections fair again, and possibly to make every voter's vote count for the first time in decades.
-
-It's possible. It's happening. And it could happen in your county.
-
-Will you help to get it done?
+While we wait for the legislators to get their act together, what can be done in your local county, town, and city? 
 
 ## Small Counties with Great Potential
 
-22 out of 87 Minnesota counties had fewer than 5,700 votes in 2020 and could perhaps more swiftly move to hand tallying, which is already acceptable by law. These counties could be places to find county commissioners more interested in putting an election integrity item on the agenda during county commissioner board meetings, or even making a courageous decision to pass resolutions to remove electronic voting equipment as seen in Nye County, Nevada and Otero County, New Mexico.
+22 out of 87 Minnesota counties had fewer than 5,700 votes in 2020 and could perhaps more swiftly move to hand tallying, which is already acceptable by law (it is the disaster backup plan and counties can redraw precincts to avoid using the tabulators). These counties could be places to find county commissioners more interested in putting an election integrity item on the agenda during county commissioner board meetings, or even making a courageous decision to pass resolutions to remove electronic voting equipment as seen in Nye County, Nevada and Otero County, New Mexico.
 
 | County | Votes |
 | --- | --- |
@@ -132,7 +193,7 @@ County commissioners have concurrent jurisdiction to govern the overall conduct 
 
 In [this video](https://rumble.com/v15yha1-county-commission-strategy.html), David Clements, speaking in Rochester on the first night of the MNGOP state convention (at a separate location), describes the county commissioner strategy. Here's [my take](https://rumble.com/v18ouv9-county-commission-strategy-in-minnesota.html) on the same.
 
-Does it make sense to [use the same machines in 2020 again in 2022](https://www.youtube.com/watch?v=KLGl9uGv0kE)?
+Does it make sense to [use the same machines in 2020 again in 2022, and again in 2024?](https://www.youtube.com/watch?v=KLGl9uGv0kE)?
 
 You too can [stand in the gap](https://www.youtube.com/watch?v=gKZjZMFlj8w).
 
