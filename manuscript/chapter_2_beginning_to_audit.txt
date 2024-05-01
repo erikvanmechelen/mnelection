@@ -24,9 +24,9 @@ Not long after, I attended an event in Rosemount put on by Bill Kiefer where Ric
 
 The irony of course is that even though in my opinion many of our legislators have not been properly elected, but [s]elected, that the legislation they have passed or tried to pass not only conflicts with foundational principles of election integrity but with itself. 
 
-For just one example for the moment: Note how Minnesota Statute 206.845 Subdvision 1. **Prohibited connections** says there will be no internet connection and in Subdivision 2. **Transmission to central reporting Location** of the same it reads that modems will transmit (over the internet) results from tabulators directly the county or perhaps to the secretary of state. We will talk about Subdivision 3. **Cast vote records** soon enough. 
+For just one example for the moment: Note how Minnesota Statute 206.845 Subdvision 1. **Prohibited connections** says there will be *no internet connection* and in Subdivision 2. **Transmission to central reporting Location** of the same it reads that modems will transmit (over the internet) results from tabulators directly the county or perhaps to the secretary of state. Internet-connected devices are both allowed and not allowed by statute, apparently.
 
-For now, just know that last one gave us all a good laugh because so many auditors, county staff, including attorneys and administrators, had echoed someone (perhaps the secretary of state's office) remarking that these didn't exist, or hadn't been turned on, then didn't need to be handed over... all hogwash of course, as the existence of these digital receipts and ballot images became enshrined in statute in 2023.
+We will talk about Subdivision 3. **Cast vote records** soon enough. For now, just know that this third subdivision gave me a good laugh because so many auditors, county staff, including attorneys and administrators, had echoed someone (perhaps the secretary of state's office) remarking that these didn't exist, or hadn't been turned on, then didn't need to be handed over... all hogwash of course, as the existence of these digital receipts and ballot images became enshrined in statute in 2023.
 
 ## The Four Phases
 

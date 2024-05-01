@@ -56,7 +56,7 @@ If access can be gained, whether remotely, over a network, or through the intern
 
 The lack of certifications (and the uselessness of certifications) of voting machines is further troubling.
 
-In the Tarrant County, TX, in the first half of 2022, [Col. Shawn Smith describes why]((https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html):
+In the Tarrant County, TX, in the first half of 2022, [Col. Shawn Smith describes why](https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html):
 
 “…And for the people who said well, the machines are certified, I would say, the space shuttle Columbia was also certified for flight. How’d that turn out? The Boeing 737 Max was certified for passenger operations, and then crashed killing over 500 people in two separate accidents before they finally let experts take a look at it. And my point in saying that is not to try to scare people, but just to say that based on my experience, and I’m not a cyber professional, but I work with cyber pros, and I know the difference between somebody who knows cyber and somebody who doesn’t. And if you don’t know the difference, then you’re in very dangerous territory when you try to make any conclusions or try to listen to someone who doesn’t really know what they’re talking about.
 

@@ -182,6 +182,20 @@ We asked whether they would like to have an item on the agenda in a forthcoming 
 
 So far they have not agreed to do so.
 
+## Stearns
+
+Sandy Klocker and I first met outside the building at the Cyber Symposium held in Sioux Falls, South Dakota, in August 2021.
+
+She was holding a sign with Biden wearing clown-face and made light of the fact that Biden was elected via election fraud. 
+
+Later Sandy would invite me to join her in speaking with the Stearns County Auditor and the deputy. In that meeting, I admired Sandy's pointed questions. For instance, we learned that only a small percentage of the 80+ tabulators used in the upcoming primary elections were actually tested. (It's not a requirement for every tabulator to be tested before the public.) On this point, furthermore, the standards for maintenance once a particular machine has been certified are quite minimal. (Here's a great FOIA opportunity to learn how well, or not, the equipment in your area is maintained.)
+
+Sandy went to many commissioner meetings, alongside others, and was a leading voice in putting her commissioners to task for their inaction. In an event she held mid-August 2022 I commended her for all the detailed investigation she'd done into her local government.
+
+Stearns County seems to be going the wrong direction with regard to integrity, having recently, in Collegeville, moved away from in-person in-precinct voting, choosing to limit voters to the mail-in only option. 
+
+Advocates like Sandy have raised awareness and continue to hold strong even when the going gets tough. 
+
 ## Sherburne County
 
 Teri Dickinson was very effective in organizing people to attend county commissioner meetings in Sherburne County. She even once gave up her precious speaking slot to give me three minutes to anchor a slate of speakers including Kari Watkins, who that day shared details from the Halderman report. I stressed the opportunity for the commissioners to take in all the information and find it in themselves to make history by removing the machines. Later I learned that on that day, 246 years prior, was the Battle of Lexington and Concord. History indeed!
@@ -203,6 +217,112 @@ The meeting was then adjourned after the Chair said her eyes were glazing over, 
 By the end, one of the supervisors said to me walking out of the building, "If we don't get to hand count here, I'm not going to certify the election," refering to the primary on August 9.
 
 This was music to my ears.
+
+## Anoka
+
+I'll not soon forget the first time commissioners actually listened to me.
+
+A few minutes before, I'd parked near the entrance to the Anoka County Government Center on a chill day in Fall 2022. The primaries had come and gone and there was much to do.
+
+Anoka is Minnesota's fourth largest county by population. Its government center is located not far from where the Rum and Mississippi river meet. 
+
+After parking, I nodded to some workers cleaning up the sidewalk outside, snapped a photo for the memory book, and went inside. As I waited for the elevator across from the Elections office, I wondered how many of the employees understood the magnitude of the problem. Elections could quite easily be rigged, and they could be rigged without the staff knowing about it. Like a flawless surgery, you go under, wake up, and carry on living your life without really knowing what the surgeon did when he opened you up.
+
+Reaching the seventh floor, Derek spotted me right away and came to shake my hand and bring me into the commissioner board room. There were just four of us: Derek, Brenda, Lisa, and myself. We walked right up to the raised desks where most of the commissioners were preparing for their upcoming meeting.
+
+Derek said hello and introduced me. 
+
+I used the time card analogy to make my point: If there was a disagreement on the pay stub and the time card system, wouldn't the employee and management want to look into it? 
+
+There we would be a log of activity in the time card system to double check. 
+
+Same goes for our electronic election equipment, especially the tabulators. They have audit logs, as well as cast vote records (CVR), which are produced and created automatically in these electronic scanners since 2005, when the Election Assistance Commission’s (EAC) Voluntary Voting Systems Guidelines (VVSG) 1.0 standards were put in place. Cast Vote Records are also defined by the National Institute of Science and Technology (NIST), which is part of the federal U.S. Department of Commerce, which determines standards for weights and measures. This is why cast vote records need not be defined in election codes within each state. 
+
+In simple terms, though, cast vote records or a CVR report can refer to multiple components of the records: 
+
+1. For ES&S (nation’s and Minnesota’s top vendor) equipment, there is the data stored on the tabulator, which gets moved to the Electionware computer by an encrypted thumb drive 
+2. There is a report that the Electionware computer can give in various formats
+3. There are also the ballot images—these are a scan of the ballot producing a digital copy on which the ovals are interpreted for candidate vote tallying
+
+Now, interestingly, after some considerable delays from county auditors, county administrators, and others responding to valid public records or public data requests in nearly if not all counties statewide, none were shared for 2020, except from one county, Fillmore. 
+
+(There is email proof—waiting to validate this—from the secretary of state that confirms what was suspected once responses from the counties seemed eerily similar.)
+
+With the cast vote record file, the ballot images, and the paper ballots, those three pieces of information let anyone see that elections are secure without any detriment to the security of those systems. This was ostensibly the tradeoff Americans made when ushering in the electronic voting systems in the early 2,000s. (There is whistleblower testimony from the warehouses that produced the hanging chads for Palm Beach County, Florida, that even that spectacle was planned, as discussed in Chapter 1.) 
+
+As awareness about cast vote records grew, articles appeared, such as in MinnPost, contributed to by Max Hailperin, who is close with Secretary Simon, indicating that cast vote records are not very useful. This was a pivot once Mike Lindell’s nationwide call for these records encouraged many to not merely ask for them but properly request them. In Minnesota, Chapter 13 details data practices. It could no longer be denied that they existed, as had occurred for me the first time receiving such a notice from the Todd County Attorney in early Spring 2022.
+
+Curiously, in the 93rd Legislature, in May 2023, two things happened that were far from the only notable amendments to what is now about 536 pages of election law (much longer than all the laws in the [original Minnesota law book from 1849](https://erikvanmechelen.substack.com/p/too-many-laws)). 
+
+1. The ballot image portion of the cast vote records was made non-public data under Chapter 13
+2. Electronic tabulators were mandated for any precincts that had previously used them (which was nearly all, if not all of the approximately 4,000 precincts statewide)
+
+Now, no citizen of Minnesota had come close to seeing a ballot image as a result of the coordination hinted at above, so it was interesting to see #1. 
+
+#2 was curious because, regardless of whether one trusted the security, transparency, accuracy, verifiability, and accessibility of electronic counting and tallying in the manner described above, shouldn’t towns, cities, and counties still have the option of choosing how to run their own elections? Most people just want the number of votes in to equal what comes out and to be able to see that for themselves, with their own eyes. Some towns, like Baldwin and Haven in Sherburne, had backed down from potential lawfare after receiving communications from Sherburne County Auditor and Attorney about the towns’ resolutions to hand count their 2022 midterm elections in parallel with the machine count.
+
+This discussion so far hasn’t touched on absentee, early, or mail-in ballots. This method of voting category comprised 60% of all certified votes for Minnesota’s 2020 presidential race. It just so happened that the man currently sitting in the secretary’s seat for Minnesota had helped to make elections far less secure in 2020 by participating in the scheme whereby he was sued by the NAACP and LaRose leading to the consent decrees which waived the witness signature requirements for absentee mail-in ballots and extended the deadline for receiving them.
+
+The floodgates had been opened. All told, almost 60 percent of Minnesota’s ballots being absentee or mail-in, which helped “Biden” receive 1,717,077 votes, according to the certified totals, improving upon Clinton by 349,252 votes, a record, despite Trump picking up votes. Secretary Simon, who was the Vice Chair of the Democratic Association of Secretaries of State, and who would in October appear on the cover of Time Magazine, declared the 80 percent voter turnout a resounding success. Since, he’d declined to audit Crow Wing County after the people showed up in five or six consecutive county commissioner meetings demanding one be done to the point that the commissioners passed a resolution to that effect, if the Secretary of State would help them… In early January of 2022, surprising no one, [he said that he would not](https://erikvanmechelen.substack.com/p/steve-simon-fears-disinformation).
+
+That day in Anoka, I wish I had had time to properly share what I’d learned with the commissioners. Previous to that, I’d spoken at Sherburne County and several other counties, some north of the metro, some south. Like almost everyone else, whenever I spoke it was limited to about 3 minutes or less. There was one Sherburne County commissioner who said it was good practice to limit ones thoughts to two minutes. I don’t disagree with her even though I disagreed with her decision to call the bailiff to remove my friend from the podium, [violating her 1st amendment rights](https://www.youtube.com/watch?v=4mnmCu_K3xs), on August 2, 2022. (I have more videos from that day.) 
+
+After speaking with the commissioners, Derek said we had their attention. I felt it too. They had actually listened. Whether they would do anything with the information remained to be seen.
+
+The team in Anoka County grew. 
+
+They meet weekly, on Mondays. Emails go out, which I’m cc’d on, before and after the meeting, with agenda topics, and follow-ups. They work in small groups between meetings, on the six main topics they are focusing on, including hand counts.
+
+One of their team, Lisa, invited me to a town board meeting in Linwood where I learned the clerk knew about cast vote records and was in my opinion in favor of hand counts. 
+
+The group is a steady 16 or 17 people now. 
+
+What groups do you know about that meet every week, face to face, spending hours before and after these meetings, and between meetings, preparing and following up on to-dos, open questions, and activities to educate the public, their local political parties, and elected officials? 
+
+I don’t know many with such commitment. Most church-goers, and this group is mostly if not all of a Christian faith, only attend service once per week and don’t do much in-between.
+
+One day, seemingly out of the blue (this happens a lot in our world—we plant the seeds and God brings the rain) the commissioners decided to put in a public comment period, at the end of the commissioner board meeting. Anyone could speak on any topic, but it was a good opportunity to help them learn and get on the public record about election integrity. I spoke two or three times more alongside the team before the commissioners and we started putting [recordings of these speeches online](https://projectminnesota.com/anoka) because the county turned off the live recording during this public comment period, strangely.
+
+The team gave about 80 speeches to the Anoka County commissioner board before shifting focus to cities.
+
+Not without its flaws, I venture this group is far more organized than some government groups, but that is beside the point. 
+
+What is relevant is how much knowledge they’ve accrued about the election and voting process, systems, and codes (laws). They know more than most elected officials, including those who vote on election code amendments in St. Paul. This is just a fact that could be proven by putting any randomly chosen team member side by side with any randomly chosen legislator.
+
+What is also relevant is this team’s experience in presenting such information concisely to the county board and now in slightly longer formats (30-60 minutes) on invitation to norther cities in Anoka County.
+
+The fact that they are being invited speaks volumes about their credibility, the value they bring, and the public and local government-level interest. At the Oak Grove presentation in late January 2024, attendees were provided thumb drives with the presentation materials and, importantly, templates to about 11 resolutions that they could pass locally to improve election integrity.
+
+Relevant too are the two election integrity resolutions which have been passed in multiple counties at the precinct caucus and basic political organizing unit (BPOU) level, including in the Minneapolis BPOU where the party still advocates openly for misplaced ideas like early voting, which actually help those with access to those systems cheat, if they want to. 
+Finally, in Anoka, what is further relevant is I predict the southern cities will one day soon take interest as well. 
+
+Because, besides what is happening to the children, of which the United States of America is the major customer and consumer if not worst offender of any country in the world, election integrity is what will unite Minnesotans and Americans. 
+
+Because election integrity ensures a process that can replace representatives, officials, and legislators if they forget who they work for. 
+
+These are our elections. We need to know how they work. The German Supreme Court banned electronic voting, deciding that every voter should understand how their vote is counted. 90% of countries use a hand count. Mail in ballots are not tried almost anywhere outside the United States.
+
+The fact is that most Americans could not tell you how their vote is counted. And although that is by design, to believe our elections are legit is a lie we cannot continue living. 
+
+I’ve been in a few dozen counties worth of county commissioner meetings, mostly in 2022, and these men and women of ACEIT are some of the best, if not the best, as a group, that I’ve seen. And I don't see them ever stopping until everyone in Minnesota has a chance to learn what they've learned.
+
+Or, at least in Anoka County, where they call home.
+
+On April 29, 2024, one of their projects bore fruit, when Mayor Weston of Nowthen and the City Council voted 5-0 in favor of expanding their post-election reviews—**a hand count audit**—to all four of their city's precincts. I imagine this will ignite the spirit of many more city councils in Anoka and around the state.
+
+## Other Counties
+
+I've had great interactions with people from many more counties beyond those just described, such as Carver, Ramsey, Scott, Cass, Isanti, Chisago, Washington, Lincoln, Lyon, Faribault, Olmsted, and Fillmore (where the only CVR from 2020 was produced, although without ballot images), Otter Tail, Benton, Todd, Mille Lacs, Clay, Saint Louis, and Lake, and almost certainly others that I have failed to list here. I believe there are people from every county engaged.
+
+*Some of those stories may make it into the next book, which is currently in progress, which takes a more narrative approach than this one.*
+
+Each conversation keeps me up to speed on the goings-on and helps me learn or improve how I speak or encourage those who ask for help.
+
+Never think that your work is going unnoticed. And even if it does seem to be, remember that small actions ripple outward to affect those around you...
+
+In the coming months, I expect to be able to help more counties and teams again as we prepare for 2024 and look forward also to the 2026 midterms where there is a chance to flip our state toward the revival it needs.
+
+When we have free and honest elections with integrity, every Minnesotan, and every American, wins, especially the children and those yet to come.
 
 ## Where Are the Cast Vote Records?
 
