@@ -1,11 +1,11 @@
 {sample: true}
 # Preface
 
-*Be the change you seek."
+*"Be the change you seek."*
 
 — Andrei
 
-*The stories of these times will be told as all stories are told... around the campfire.*
+*"The stories of these times will be told as all stories are told... around the campfire."*
 
 - Nathan
 
@@ -17,11 +17,13 @@ The lack of courage is unsurprising once a light is shone on how easy it is to u
 
 Measureable desire for change was already clear on August 9, 2022. My 117-day Minnesota Secretary of State campaign garnered 36.9% of the vote (nearly 111,000 votes) running as a republican alternative to the MNGOP-endorsed candidate. 
 
-Political consultants' advice was not sought. Instead of campaigning, the focus was on education and action. Instead of events, I attended county commissioner meetings with the people. When I was invited to speak, Party operatives tried to influence the organizers. I ran on a single issue: to repair elections with particular focus on the spider web of the electronic voting system that entangles alert and unsuspecting voters alike. 
+Political consultants' advice was not sought. No political campaign donations were accepted. Instead of campaigning, the focus was on education and action. Instead of events, I attended county commissioner meetings with the people. When I was invited to speak, Party operatives tried to influence the organizers. 
 
-It is a system with many features. Cheating can happen after the polls close. Votes can be hijacked from people who didn't even vote. A ballot inserted into a tabulator won't necessarily read a voter's choices accurately. After unofficial results are in and after those unofficial results are made official through certifications at the county and then state canvassing boards, without properly checking the accuracy of the results, legitimate and proper audits—sometimes called full forensic audits—are avoided by the powers at be at all costs. 
+I ran on a single issue: to repair elections with a particular focus on the spider web of the electronic voting system that entangles alert and unsuspecting voters alike. 
 
-Indeed, the attempts to block even basic questions being asked has alerted many, many more to the seriousness of the issue. So you're saying I can't ask questions, but you're also saying everything is fine? There's a moment in Star Wars: A New Hope, where, in the detention corridor command post Han Solo decides to blast the communication link because he wasn't able to answer the questions being asked. "Boring, conversation anyway... LUKE, WE'RE GONNA HAVE COMPANY!"
+It is a system with many features. Cheating can happen before and after the polls close. Absentee mail-in voting is out of control. Votes can be hijacked from people who didn't even vote. A ballot inserted into a tabulator won't necessarily read a voter's choices accurately. After unofficial results are in and after those unofficial results are made official through certifications at the county and then state canvassing boards, without properly checking the accuracy of the results, legitimate and proper audits—sometimes called full forensic audits—are avoided by the powers at be at all costs. 
+
+Indeed, the attempts to block even basic questions being asked has alerted many, many more to the seriousness of the issue. So you're saying I can't ask questions, but you're also saying everything is fine? There's a moment in Star Wars: A New Hope, where, in the detention corridor command post Han Solo decides to blast the communication link because he wasn't able to answer the questions being asked. "Boring conversation anyway... LUKE, WE'RE GONNA HAVE COMPANY!"
 
 To demonstrate that they had learned from the aftermath of 2020, in a massive show of transparency, none of the 87 Minnesota counties even released the automatically-generated cast vote record (CVR) reports from Minnesota's August 9, 2022 primary election. Like any election, without a full forensic audit of ballots, ballot envelopes, election equipment, and registration systems, the integrity of the systems, process, and results can never be confirmed by the voters, which was reason enough for countries like Germany to do away with electronic voting equipment altogether. Fifth graders, who cannot lawfully vote (yet), should be able to understand how votes are counted. 
 
@@ -55,7 +57,7 @@ Following its publication for a time updates were made separately on the [Midwes
 
 My vantage point into the election system began in an investigative way. I was one of perhaps only a few dozen people at each of the Cyber Symposium in Sioux Falls, South Dakota in August 2021, The Moment of Truth Summit in Springfield, Missouri, August 2022, and the Election Crime Bureau in August 2023. From preparation for, participation in, and reflection on those multi-day events, I learned a great deal and realized how much more there was to learn. 
 
-In the last year I have also attended county commissioner and township supervisor meetings in more Minnesota counties than anyone except Rick Weible. (There are those who have attended many more in aggregate, by consistently going to their local town, city, and county meetings.) These experiences provided national and local level angles of approach into local government oversight and transparency through the lense of the election apparatus.
+In the last year (2022) I have also attended county commissioner and township supervisor meetings in more Minnesota counties than anyone except Rick Weible. (There are those who have attended many more in aggregate, by consistently going to their local town, city, and county meetings.) These experiences provided national and local level angles of approach into local government oversight and transparency through the lense of the election apparatus. Even with this background, every day I am motivated to listen and learn even more so that effective action can be taken.
 
 In this second edition, corrections have been made and updates are offered in the following areas: 
 
