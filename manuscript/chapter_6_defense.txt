@@ -14,19 +14,19 @@ THIS QUOTE IS A DUPLICATE
 
 ***
 
-The Defense Phase is where the attackers try to defend against what Patrick Colbeck calls the meddling kids from discovering what they did. It involves cover ups, destruction of physical and digitial evidence (Dominion's Trusted Build), slow walking and infiltration of livestreamed election audits (the Maricopa audit), media bullying, and lawfare.
+The Defense Phase is where the attackers try to defend against what Patrick Colbeck calls the meddling kids from discovering what they did. It involves cover ups, destruction of physical and digital evidence (Dominion's Trusted Build), slow walking and infiltration of livestreamed election audits (the Maricopa audit), media bullying, and lawfare. Unfortunately, it has too often involved government officials, further eroding the people's trust in the system.
 
-This phase began on election night 2020 (and before that) and it is where we are in June 2022 as this book goes to the press.
+This phase began on election night 2020 and in many regards we remain in this phase.
 
 Some object to the prospect of coordinated fraud on the grounds that it would not be so easy to cover up.
 
-But if there were people smart enough, sophisticated enough, and resourceful enough to pull off such a heist nationally (and likely involving international components), don't you think they would have some kind of plan to get away with it? They did, although in retrospect it was a bit sloppy. And fortunately there were eyes on their actions. People like Patrick Colbeck, author of *The 2020 Coup*, were on the scene at the TCF center in Detroit serving as a certified Poll Challenger. And people like Jeffrey O'Donnell and so many others have joined the fight since.
+But if there were people smart enough, sophisticated enough, and resourceful enough to pull off such a heist nationally (and likely involving international and supranational components), don't you think they would have some kind of plan to get away with it? They did, although in retrospect it was a bit sloppy. And fortunately there were eyes on their actions. People like Patrick Colbeck, author of *The 2020 Coup*, were on the scene at the TCF center in Detroit serving as a certified Poll Challenger.
 
 The people that did this may be clever, but it was an uphill task to pull every lever and not spring a leak.
 
 The first leak was on election night when there was [a coordinated pause to vote counting](https://www.mixonium.com/public/post/11555) in multiple states.
 
-That alerted millions if not tens of millions to the coup right from the start. It was only a matter of time before the riddle could be solved, despite extensive interference from many you might have thought would have supported election accuracy and transparency, but who have revealed that they do not.
+That alerted millions if not tens of millions to the subversion right from the start. It was only a matter of time before the riddle could be solved, despite extensive interference from many you might have thought would have supported election accuracy and transparency, but who have revealed that they do not.
 
 ## Part of Their Plan?
 
@@ -50,9 +50,7 @@ Which by the way should be technically deficient, because it invalidates the 22-
 
 [Rick Weible's database analysis](https://midwestswampwatch.com) of Minnesota's statewide voter registration system (SVRS) highlighted that there were more than 700,000 absentee voters reported than documented in the SVRS five days *after* the MN Canvassing Board certified the election.
 
-In a June 7, 2022 GGP meeting in Dakota County, election official Andy Lokken said that after the fact comparative analysis of SOS-reported data with the SVRS data was not an effective way to verify results.
-
-![EDIT ADD ANDY LOKKEN VIDEO ON SAME](find on Dropbox upload)
+In a June 7, 2022 GGP meeting in Dakota County, former Election Manager of Dakota County Andy Lokken said that after the fact comparative analysis of SOS-reported data with the SVRS data was not an effective way to verify results.
 
 Then how *should* an election be verified by the people?
 
@@ -62,29 +60,39 @@ Regarding the absentee voters: If the SOS data was not at all consistent with th
 
 This fact alone should have triggered a statewide audit and uproar from any elected officials that care about election integrity. If you are unsure about your local elected officials, ask them what they think about this issue and whether they believe we ought to have higher standards for our absentee ballot process as it pertains to data accuracy in our statewide voter registration system.
 
-From the perspective of the defense phase relating to absentee ballot coverup, deflection and obfuscation of this fact (it still remains unresolved) should be expected—the general public learning this certainly threatens to undermine the credibility of those at the helm.
+Many are not aware that although there is a clause about party balanced absentee ballot board judges (those who process the absentee ballots as they come into the counties), the counties have the option to simply staff those boards with their own employees who do **not** have to be balanced from the major political parties. In essence, the statutory oversight is minimal regarding absentee, which, in 2020, was the majority of ballots at 58%.
+
+From the perspective of the defense phase relating to absentee ballot coverup, deflection and obfuscation of the 700,000 ballot delta that Rick called out (it still remains unresolved) should be expected—the general public learning this certainly threatens to undermine the credibility of those at the helm.
 
 ## Minnesota Post Election Review Reveals Missing Ballots
 
-The local media likes to report on the success of risk-limiting audits (RLAs), recounts, and post-election reviews. Let's discuss why these are not suitable to demonstrate the total accuracy and integrity of a machine-driven election.
+The local media likes to report on the success of risk-limiting audits (RLAs) which are known as post-election reviews (PERs) in Minnesota. Let's discuss why these are not suitable to demonstrate the total accuracy and integrity of a machine-driven and absentee-driven election.
 
-In Minnesota only about 3% of of precincts per county are subject to a post-election review according to [Minnesota Statute 206.89 POSTELECTION REVIEW OF VOTING SYSTEMS](https://www.revisor.mn.gov/statutes/cite/206.89).
+In Minnesota only about 3% of of precincts per county are subject to a post-election review according to [Minnesota Statute 206.89 POSTELECTION REVIEW OF VOTING SYSTEMS](https://www.revisor.mn.gov/statutes/cite/206.89), although counties can opt to do more.
 
-A [post election review](https://www.sos.state.mn.us/elections-voting/how-elections-work/post-election-reviews/) hand counts ballots returned by the optical scan ballot counters in select precincts. (These are sometimes referred to as risk-limiting audits, although how much risk do they truly mitigate?)
+In 2022, there were at least two counties that opted to do a few more, mostly to appease advocates. 
+
+Then, in 2024, spurred on by the Anoka County Election Integrity Team (ACEIT), the Nowthen Mayor along with the Nowthen City Council voted 5-0 in favor of performing a post-election review of all four of their precincts, hopefully for all the contested races as well. 
+
+A [post election review](https://www.sos.state.mn.us/elections-voting/how-elections-work/post-election-reviews/) hand counts ballots returned by the optical scan ballot counters in select precincts.
 
 ![863 votes not explained but considered ACCEPTABLE](precinct_4950.png)
 
-In a postelection review in Dakota County's Precinct 4950, WEST ST PAUL W-2 P-2, the total unadjusted difference was 870 votes. 7 of those 870 votes were explained, but 863 were not explained. Why then does the total adjusted difference (the last column) show all zeros? The total adjusted difference should read 863 (870 minus 7). Even with 65% (863 out of 1327) of the total votes in this postelection review left unexplained, the Final Results row says this is a "Difference of not more than 0.5%" and the Total Adjusted Difference is "0%", deemed "ACCEPTABLE".
+Stepping back to 2020, in a postelection review in Dakota County's Precinct 4950, WEST ST PAUL W-2 P-2, the total unadjusted difference was 870 votes. 7 of those 870 votes were explained, **but 863 were not explained**. Why then does the total adjusted difference (the last column) show all zeros? The total adjusted difference should read 863 (870 minus 7). Even with 65% (863 out of 1327) of the total votes in this postelection review left unexplained, the Final Results row says this is a "Difference of not more than 0.5%" and the Total Adjusted Difference is "0%", deemed "ACCEPTABLE".
 
-Of course, this is clearly **not** acceptable and it begs the question: How many more precincts would turn up red flags like this if more postelection reviews had been done? And how many more red flags might be raised if proper audits were done? Is this why cast vote records (CVRs) have not been forthcoming from local election officials? With this work being shown to Minnesotans, it would be strange if they were not asking for audits and accountability.
+Of course, this is clearly **not** acceptable and it begs the question: How many more precincts would turn up red flags like this if more postelection reviews had been done? And how many more red flags might be raised if proper audits were done? Is this why cast vote records (CVRs) and corresponding ballot images have not been forthcoming from local election officials? With this work being shown to Minnesotans, it would be strange if they were not asking for audits and accountability.
 
 What this example demonstrates even more is the difficulty of reconciling the paper ballots to the machine counts. If a top-down simulation is being run that needs to be backfilled after the fact with ballot (or printer) deliveries to precincts and counties 2000-Mules style, but that last-minute work isn't completed, then the outcome would be what we've seen in Dakota County's Precinct 4950.
+
+If the reader thinks the comment in the previous paragraph about printers is a joke, it is not. Two Dominion printers arrived on the day of the post-election review in Dakota County described above, although their bill of lading showed there had been an attempt not to have them arrive on that exact day. Yet there they were. 
 
 What's more, by comparing the increases to Trump votes (from hand count to total votes) with the increases to Biden votes (from hand count to total votes), we also gain insight into how an weighted ratio algorithm might have been used to increase Biden votes by almost 269% while Trump votes only increased by 95%.
 
 You be the judge. Was this data cleaned up well?
 
-When Kim Bauer received in June 2022 the receipts from post-election reviews done in Dakota County for 2020 as well as 2021 (when her school board election took place), it was discovered that some of the post-election review documentation differed from the originals.
+When Kim Bauer received in June 2022 the receipts from post-election reviews done in Dakota County for 2020 as well as 2021 (when her school board election took place), it was discovered that some of the post-election review documentation differed from the originals. I sat in on one meeting where Dan Wolbert and Rick Weible asked the election manager and his boss for more information and to my knowledge it still has not been resolved. 
+
+It was far from the only issue from 2020 onward. 
 
 ## A Petition to Stop the Certification of Minnesota's Election
 
@@ -96,6 +104,20 @@ The MN State Canvassing Board is the sole entity identified in the MN Constituti
 
 Since that time, every point made in the petition has been confirmed by the work of Rick Weible and others, including "issues related to procedure, observer and election judge access, voter intimidation, lost ballots, lost absentee envelopes, missing election materials and questionable ballots... [and] concerns about voting equipment transmitting results during the early counting period on election day."
 
+Susan Smith also helped the Minnesota Election Integrity Team (MNEIT) to file five election contests for senate and congressional races. 
+
+Those and the two that Edwin Hahn helped to prepare were all dropped, although not until well-known and now infamous lawyers from the east coast signed into the cases pro hac vice (out-of-state).
+
+The cases were dropped without looking at the evidence. And there was a lot of evidence which Jose Jimenez, Ali Hopper, and the team had collected from attending about 60 out of 87 post-election reviews throughout the state following the 2020 election. 
+
+Then something happened. 
+
+Susan Smith was brought before a hearing with Judge Castro of Ramsey and there it was decided she had committed fraud on the court. 
+
+The details of this are too much for this particular book, but the reader is encouraged to read this briefing submitted by Susan Smith at the close of a disciplinary hearing brought against her by the Lawyers Board which does an amazing job of summarizing the timeline of events relevant to Minnesota voters and the people of Minnesota generally.
+
+Next are just a few details from counties I interacted with in 2022, and a few since...
+
 ## Crow Wing County
 
 ![Crow Wing Commissioners and County Attorney](crow_wing_commissioners.jpg)
@@ -104,13 +126,17 @@ After multiple commissioner board meetings attended by dozens of Minnesotans who
 
 In their resolution, which passed 4-1, the commissioners stated that the board "continues to have faith in the 2020 election results as valid and reliable but it is equally troubling that there are citizens who still have a sincerely held belief that it was not", suggesting they did not wholeheartedly agree with their constituents and were perhaps going ahead with the resolution as a matter of appeasement. In May 2022, at least one of the same commissioners [was afraid to open an email](https://www.youtube.com/watch?v=HC7E3qCA_3k) with a link to 2000 Mules when candidate for house rep Doug Kern sent it to the Board.
 
+All this said, Crow Wing was the only county to request such an audit from the secretary of state.
+
+So, how did Secretary Simon respond? 
+
 “Our office will not engage in a vague and impossibly broad search for unspecified misconduct based on anyone’s gut feeling, hunch, or belief — no matter how sincerely held,” Simon said. “The 2020 general election, which took place almost 15 months ago, was fundamentally fair, accurate, honest, and secure across Minnesota.”
 
 ![Secretary of State Simon's response, page 1 of 2](OSS_response_1.png)
 
 ![Secretary of State Simon's response, page 2 of 2](OSS_response_2.png)
 
-If the Secretary of State *had* complied with the commissioners' request, election materials and machines may have been audited. This would have been a proper audit instead of a post election review or a recount which simply audits the *results*.
+If the Secretary of State *had* complied with the commissioners' request, election materials and machines may have been audited. This would have been a proper audit instead of a post-election review or a recount which simply audits the *results*.
 
 Why should the machines and data be audited? Because, as was shown by Jeff Lensburg in the Antrim County, Michigan case, [votes can easily be swapped](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) which would not be identified in a canvass, postelection review, or risk-limiting audit (recount).
 
@@ -126,7 +152,9 @@ When the people with Rick Weible's help found indications that the results Dakot
 
 To this day, the data in the statewide voter registration system and the reported results from the county and the reported results from the school district have not been reconciled.
 
-In May I sat in a closed door meeting where the county election officials tried to explain what they thought happened but were unable to satisfyingly do so. This meeting in particular gave me insight into the depth of the problem we face, since it is my opinion that some election officials simply do not understand the technical details of the software and hardware, whereas others may very well understand but be held back from helping us by some as yet to be discovered reason. In that particular meeting also was the election official's boss, who tried to steer the meeting. He previously had said I could not record the county commissioner meetings, when of course I could (and did) seeing as they are open meetings.
+In May I sat in a closed door meeting where the county election officials tried to explain what they thought happened but were unable to satisfyingly do so. This meeting in particular gave me insight into the depth of the problem we face, since it is my opinion that some election officials simply do not understand the technical details of the software and hardware (it is complicated), whereas others may very well understand but be held back from helping us by some as yet to be discovered reason. 
+
+In that particular meeting also was the election official's boss, who tried to steer the meeting. He previously had said I could not record the county commissioner meetings, when of course I could (and did) seeing as they are open meetings, an indication that he didn't know the laws governing county commissioner meetings or an intent to dissaude me.
 
 On June 7, 2022, [Rick Weible spoke to Dakota County about their software](https://rumble.com/v1998gh-rick-weible-informs-dakota-county-about-their-software.html), recommending they return to hand counting and hand tallying.
 
@@ -139,6 +167,8 @@ There is more work to do since Dakota County (and every county in Minnesota) sti
 The teams in Wright County were successful in convincing the county commissioners there to hold [a workshop dedicated to election integrity](https://rumble.com/v157g8v-rick-weible-in-wright-county-may-17-2022.html) with Rick Weible as the speaker, on May 17, 2022.
 
 At the close of this meeting, it was decided that a joint task force would be put in place involving county commissioners, election officials, and members of the public.
+
+On August 1, 2022, I attended the counties public accuracy test (PAT) ahead of the August 9 primary election. One of the employees took a photo of me and a few others while we sat and waited for the election manager to be ready to take questions. Eventually I got to ask questions and had almost a half hour conversation with several employees, including their tech team, about the value of cast vote records.
 
 ## Morrison County
 
@@ -154,11 +184,17 @@ So far they have not agreed to do so.
 
 ## Sherburne County
 
-Teri Dickinson was very effective in organizing people to attend county commissioner meetings in Sherburne County. She even once gave up her precious speaking slot to give me three minutes to anchor a slate of speakers including Kari Watkins, who that day shared details from the Halderman report. I stressed the opportunity for the commissioners to take in all the information and find it in themselves to make history by removing the machines.
+Teri Dickinson was very effective in organizing people to attend county commissioner meetings in Sherburne County. She even once gave up her precious speaking slot to give me three minutes to anchor a slate of speakers including Kari Watkins, who that day shared details from the Halderman report. I stressed the opportunity for the commissioners to take in all the information and find it in themselves to make history by removing the machines. Later I learned that on that day, 246 years prior, was the Battle of Lexington and Concord. History indeed!
 
 The Sherburne county commissioners refused to (so far) have a public hearing or agenda item during the county commissioner board meeting despite multiple weeks of open forum comments [like Rick Weible's here](https://rumble.com/v15hs5h-voting-improvements-sherburne-county-may-3-2022.html) sharing critical vulnerabilities with Sherburne's modern electronic voting equipment. This inability to listen or disinterest in the facts led Kari Watkins to step up and run for county commissioner herself.
 
-Because of this roadblock, the action teams pivoted to meetings with the townships.
+Sherburne would later take center stage in two cases. 
+
+In July, the #2 of the MN Office of the Secretary of State, David Maeda, was given a 20-minute agenda item to discuss elections. The County Auditor, who is soon retiring (as of May 2024) also spoke. Unusually, there was media there, photo and video. Maeda said he disagreed with Rick Weible that Sherburne had put a new software system in. That particular issue became the focus of a Supreme Court Petition, case no. A22-1081 which Bill Kiefer and I signed onto as petitioners. It was dismissed on laches (therefore not on the merits). 
+
+Then, in August, a first amendment violation was committed against Teri Dickenson, witness by many and caught on video. She was simply stating that the commissioners had been unhelpful, but then the chair signaled to the administrator who cut her mic and asked the bailiff to escort her out. That happened on August 2. They commissioner team would apologize formally 14 days later, perhaps to mitigate potential action against them for the violation.
+
+Because of roadblocks at the county level, the action teams pivoted to meetings with the townships.
 
 A Haven Township meeting on June 20, 2022 started out with the usual disappointments and interference. Instead of Rick Weible's presentation starting the 7 p.m. meeting, as had been promised, he and those attending who had travelled to attend were made to wait until almost 9 p.m. once other items at the supervisor's meeting had been completed. Rick was then offered 10 minutes. After negotiation, he was given around 40 minutes, with the supervisor's interjecting with questions.
 
@@ -172,6 +208,8 @@ This was music to my ears.
 
 Cast vote records (CVR) allow the machines to tell on themselves. Without them, the machine audit trail is severely limited.
 
+The cast vote records and their corresponding ballot images were denied to the public in Minnesota throughout 2022 and 2023 before the 93rd Legislature admitted they existed by putting them into [Minnesota Statute 206.845, Subdivision 3](https://www.revisor.mn.gov/statutes/cite/206.845#stat.206.845.3).
+
 ![Pima County Cast Vote Records](cvr_honest.png)
 
 Have a look at this CVR from Pima County.
@@ -180,7 +218,7 @@ The top two graphs look good.
 
 But the third (bottom) CVR is not realistic. The only way that could happen is if there happened to be several thousand Biden ballots show up at the same time. Then you might see that driving toward the setpoint. But this graph clearly shows a defiance of the law of large numbers.
 
-To date no CVR reports have been shared with the public despite numerous public data requests to county election officials and their offices throughout the state.
+To date no CVR reports have been shared with the public (except Fillmore County, partials from others) despite numerous public data requests to county election officials and their offices throughout the state.
 
 Here's just one response from the Todd County Attorney:
 
@@ -200,27 +238,29 @@ No response was given to the following email since I sent it on April 29, 2022.
 
 ![Email providing directions to extract the CVR](todd_county_cvr.png)
 
-I have tried to sort out how CVRs might have been turned off, or if there is a language game being played, or if the CVRs might be stored somewhere else or called something else.
+I have tried to sort out how CVRs might have been turned off (they cannot be, otherwise the machines cannot be used according to their certification), or if there is a language game being played, or if the CVRs might be stored somewhere else or called something else. Minnesota Statute 206.845 Subdivision 3. Cast Vote Records does clarify this for us by stipulating that the ballot image portion of the cast vote records are not to be made public in Minnesota. Why not? 
 
 [From a document](https://edca.1dca.org/DcaDocs/2020/2445/2020-2445_Brief_1050162_RC14B202D20Supplemental2FAmended20Appendix.pdf) titled "Ballot Image Information on ES&S Systems issued November 1, 2018, it appears that the EVS Electionware user can specify which ballot images are to be saved on the DS200 and Central Scanners (DS450/DS850): 1) All images, 2) Write-In Images Only, 3) No images. Could these configurations at all be related to whether the CVRs are saved?
 
 The technical details may not be clear, but the truth is states like Rhode Island and select counties in other states *have* received their CVRs which exposed the machine problem. Minnesota is using the same hardware and software from the same vendors as these other states.
 
-But in Minnesota we apparently don't have CVRs, at least according to the responses Minnesotans have so far received from their county officials.
+But in Minnesota the people were told they didn't exist, at least according to the responses Minnesotans have so far received from their county officials. Could the Office of the Secretary of State or the vendors have been guiding the counties on how to respond to these requests? 
 
-On June 24, 2022 I spoke on the phone with the county auditor in Chisago County to learn more about why they don't have the CVRs. [In this phone call](https://soundcloud.com/erikvanmech/chisago-hart-upgrademp3), the county auditor shared that Hart had done an onsite software upgrade about a month prior (around May 2022) which archived the 2020 election. I'm not sure whether this is in violation of [the 52 USC §20701 22-month election data retention records](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20701&num=0&edition=prelim).
+On June 24, 2022 I spoke on the phone with the county auditor in Chisago County to learn more about why they don't have the CVRs. [In this phone call](https://soundcloud.com/erikvanmech/chisago-hart-upgrademp3) (no longer availalbe on SoundCloud), the county auditor shared that Hart had done an onsite software upgrade about a month prior (around May 2022) which archived the 2020 election. I'm not sure whether this is in violation of [the 52 USC §20701 22-month election data retention records](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20701&num=0&edition=prelim), but it sure seems like it.
 
-On the phone call, the county auditor of Chisago County stated that she had already asked the vendor who said the CVRs could not be recovered. To her credit, the Chisago County Auditor stated that she had made a note to save that report in upcoming elections, to which I expressed gratitude. This is not the first time software vendors have put election officials in a bad position through software upgrades, with the most high profile example being in Mesa County, Colorado, which produced [this report showing manipulation of election databases](https://magaraccoon.com/docs/MesaCountyReport3.pdf).
+On the phone call, the county auditor of Chisago County stated that she had already asked the vendor who said the CVRs could not be recovered. To her credit, the Chisago County Auditor stated that she had made a note to save that report in upcoming elections, to which I expressed gratitude. The 2022 cast vote record report was produced for Chisago from their Hart systems as a PDF readout. Ballot images were not provided. 
 
-Going forward, it is also important to urge county commissioners to pass resolutions (in county commission meetings) so that election officials will turn ON cast vote record (CVR) functionality (if indeed the CVR functionality has been turned OFF) for the primary on Aug 9, 2022. If they were turned off in at least some counties in 2020, they should be turned back on.
+This is not the first time software vendors have put election officials in a bad position through software upgrades, with the most high profile example being in Mesa County, Colorado, which produced [this report showing manipulation of election databases](https://magaraccoon.com/docs/MesaCountyReport3.pdf).
+
+Going forward, it is also important to urge counties to make the cast vote records public immediately following elections, as is done by for example, Dodge County, Wisconsin, just to our eastern border.
 
 *Dominion and Hart also produced CVRs. In Hart's case, it produces a CVR (basic to counting ballots and their vote opportunities):  Out of Idaho a Technical Reference Manual ["Ballot Scanning and Review Software"](https://sos.idaho.gov/elect/clerk/hart/verity/Verity_Central_Technical_Reference_Manual_6600-003_A04.pdf) Terms: Cast Vote Record (pages 10, 11, 14, and 189); CVR (pages 10, 11, 14, 18, 163, 164, 214) and 131, 133, 135) ...*
 
 ## Pushing Back Against Tyranny
 
-On Day 2 of the Cyber Symposium I found a chair near the front, stage left, where Dr. Frank and Mark Cook continued to explore and explain the server images provided by Tina Peters (highlighted in the [S]election Code documentary). I had noticed [Captain Seth Keshel](https://captk.com) come in and wanted to speak with him. Not long before this Code Monkey's lawyer had apparently suggested they not examine the server images since they may have been acquired illegally (untrue, as it is the duty of county clerks to preserve election materials and data). I learned from the person who gave me a ride from Minneapolis that a few of them in the back were looking at the same server images and feeding Dr. Frank and Mark Cook information. Dr. Frank's calming intonation, "This is *better* than PCAPs" still holds true today.
+On Day 2 of the Cyber Symposium I found a chair near the front, stage left. Not far away Dr. Frank and Mark Cook continued to explore and explain the server images provided by Tina Peters (highlighted in the [S]election Code documentary). I had noticed [Captain Seth Keshel](https://captk.com) come in and wanted to speak with him. Not long before this Code Monkey's lawyer had apparently suggested they not examine the server images since they may have been acquired illegally (I belive this to be untrue, as it is the duty of county clerks to preserve election materials and data). I learned from the person who gave me a ride from Minneapolis that a few of them in the back were looking at the same server images and feeding Dr. Frank and Mark Cook information. Dr. Frank's calming intonation, "This is *better* than PCAPs" still holds true today.
 
-When Seth finished speaking with Wendy Rogers and Sunny Borrelli, I introduced myself. He said to focus on the collar counties around the Twin Cities like Wright, Scott, etc. Seth's point was that we would face too much opposition in counties like Hennepin, Ramsey, Dakota, or St. Louis. And given the progress teams have made in places like Wright and Dakota, his trend and political analysis was not wrong to highlight them. But as time passed it was clear that breakthroughs might also be achieved in more rural, lower population counties, of which there are many across our 87-county state.
+When Seth finished speaking with Wendy Rogers and Sunny Borrelli, I introduced myself. He said to focus on the collar counties around the Twin Cities like Wright, Scott, etc. Seth's point was that we would face too much opposition in counties like Hennepin, Ramsey, Dakota, or St. Louis. And given the progress teams have made in places like Wright and Dakota, and more recently in Anoka, his trend and political analysis was not wrong to highlight them. But as time passed it was also clear that breakthroughs might also be achieved in more rural, lower population counties, of which there are many across our 87-county state.
 
 Months later, my friend Nathan and I had been thinking about where to focus in Minnesota. Nathan said, Why not Todd County? David Clements had been urging folks to find rural counties where county commissioners might be more willing to put election discussions on the agenda or even pass favorable resolutions. And, after all, Dr. Frank's refrain is "Vote Amish," a nod to elections without unneeded technology. Todd County is one of the Amish hotspots in Minnesota. So I sent Todd County a data request for their 2020 cast vote record (CVR) report on the same day I sent a request for one from Hennepin County.
 
@@ -228,15 +268,23 @@ I tell this story in wrapping up the chapter on the enemy's coverup to illustrat
 
 In other words, it's important to try. God takes care of the results in time.
 
-And wouldn't you know it? Within moments of writing the above lines (Thursday, June 16, 2022) I stumbled upon the following page in the ES&S DS200 Operator's Manual, which resolves much of the confusion I'd had up to this point regarding cast vote records (CVR) and the seeming *lack* of any in Minnesota from the 2020 election.
+And wouldn't you know it? Within moments of writing the above lines (Thursday, June 16, 2022) I stumbled upon a page in the ES&S DS200 Operator's Manual, which explained that if the ballot images are turned off, then so are the cast vote records. 
 
-Page 57 of the [ES&S Operator's Manual](https://www.dropbox.com/s/ej4d6c51knlv3u4/ES%26S%20DS%20200%20Operator%20Guide%20copy%202.pdf?dl=0) explains how if the ballot images are turned off, **so are the cast vote records**. I was so excited to find this that I immediately posted the following on [my Telegram channel](https://t.me/erikmn).
+Now, this is critical. 
+
+First, understand that the scanners *cannot* interpret the ovals on the ballots (the voter decisions) directly from the paper ballot itself. The ballot image file must first be created digitally, and then the interpretation is done and saved within the tabulator itself. 
+
+If the ballot image functionality were indeed turned off, then the scanner is not doing much of anything at all. It certainly isn't counting votes or tallying votes, and should not be used in an election. 
+
+If indeed it is discovered that ballot images were turned off in any tabulators in Minnesota during the 2020 election, it calls the entire election into question immediately based on the utilization of equipment in a manner not certified. 
+
+which resolves much of the confusion I'd had up to this point regarding cast vote records (CVR) and the seeming *lack* of any in Minnesota from the 2020 election.
+
+Page 57 of the ES&S Operator's Manual explains how if the ballot images are turned off, **so are the cast vote records**. I was so excited to find this that I immediately posted the following on [my Telegram channel](https://t.me/erikmn).
 
 ![Pg 57 of the ES&S DS200 Operator's Manual](pg57.png)
 
-This means that even if we *keep* the machines for the upcoming primary elections on August 9, 2022, county commissioners could pass resolutions to turn ON the cast vote records so that there is a machine trail. There is no logical push back to *not* having these ON. Our tax dollars have paid for these machines and how they count the votes should be auditable and transparent.
-
-If cast vote records are turned ON, then candidates and the public can request the cast vote records immediatly after the primary election to verify the reported results match the machine results. If they are denied these, it should only raise further suspicion about what might be being covered up.
+If the sole purpose of having the tabulators is turned off, then tax payers are paying for a machine that is useless and calls the integrity of election administration deeply into question.
 
 ***
 
@@ -245,6 +293,8 @@ Even with the defense phase (cover up and destruction of evidence) of the electi
 I fully support the many people continuing to go to their county commissioner board meetings to inform them of available fixes to restore trust to all voters.
 
 ## Then vs. Now
+
+EDIT EDIT EDIT
 
 I want to close this chapter with a summary from Jeffrey O'Donnell posted on June 1, 2022, contrasting the August 2021 position with the June 2022 position.
 
