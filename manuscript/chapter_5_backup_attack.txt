@@ -21,13 +21,17 @@ What changed how I viewed elections?
 
 Draza put it well: "The election of 2020 was not counted, it was calculated."
 
-Start with an electoral college map of the United States. To win the presidential election takes 270 electoral college votes. Then, use a PID controller to generate outcomes at the state level in such a way that the desired candidate wins.
+Start with an electoral college map of the United States. To win the presidential election takes 270 electoral college votes. Then, use a PID controller, like in your thermostat or the cruise control of your car, to generate outcomes at the state level in such a way that the desired candidate wins.
 
 Easier said than done, because you don't know how many voters will turn out, either for the desired candidate or for the undesired candidate.
 
-It's possible that the original set point in each state might need to be adjusted to get the desired outcome. Is this why vote counting needed to suddenly stop in multiple states in the middle of the night?
+Except that you kind of do... We've already talked about how many people mailed in their ballots early or showed up early to vote. In Minnesota, there are forty-six (46) days of voting. I don't know why 45 or 47 days were chosen, but I wasn't [s]elected to write the laws! 
 
-*This part of the book, more than others, requires the visuals, charts, and graphs to be in front of you. If you are listening to the audiobook, print out the pages from the e-book freely available at [https://leanpub.com/sim2020](https://leanpub.com/sim2020).*
+In that 46-day window, data on who is voting is collected. Using historical data in the voter histories, the map of how the state will vote, all the way down to the precinct level, can be projected. As it gets close to election day, the PID controller's set point can be decided. (In 2020, it appears that overnight when 'vote-counting stopped in all the swing states because a pipe burst in one of them' the set point needed to be reset, as shown in the upcoming graphs.)
+
+It's indeed possible that the original set point in each state might need to be adjusted to get the desired outcome state by state to achieve the electoral college victory for Biden. Again, is this why vote counting needed to suddenly stop in multiple states in the middle of the night?
+
+*This part of the book, more than others, requires the visuals, charts, and graphs to be in front of you. If you are listening to the audiobook, print out the pages from the e-book freely available at [https://leanpub.com/sim2020/read](https://leanpub.com/sim2020/read).*
 
 ***
 
@@ -117,7 +121,7 @@ Then, on the 21st of May, 2022, Draza announced this:
 
 ## Minnesota's Simulation
 
-No Minnesotan has been given any cast vote records from their county and it is hard to say whether any counties actually have them, for various reasons. Not being able to produce an audit trail of the machine count, when the machine count is the primary method of counting, is unacceptable.
+No Minnesotan has been given any cast vote records from their county for 2020 (except for Fillmore County). Not being able to produce an audit trail of the machine count, when the machine count is the primary method of counting, is unacceptable.
 
 Since we do not have the cast vote records from any county, let alone the entire state as Rhode Island was able to produce, let's make do with what we can.
 
@@ -169,9 +173,9 @@ When Draza refers to MI (Michigan) being moved in the lineup, consider that sinc
 
 Does reviewing this data make you look at our election process differently?
 
-I know when I first saw this data about nine months ago I was unsettled—I hadn't considered this possibility. But with this new information I went forth with new questions. (See chapter 10 for a brief history of voting machines.)
+I know when I first saw this data about nine months ago I was unsettled—I hadn't considered this possibility. But with this new information I went forth with new questions.
 
-Remember that the Backup Attack phase is used when the initial attack doesn't go as planned. The biggest tool is the injection of votes electronically. If this can be done without detection, a race can still be won regardless of how many physical ballots were delivered absentee (dropbox or mail-in) or at the in-person polling place on election day and subsequently scanned through tabulators. In a totalitarian system, election night reporting could be largely or actual theater and disconnected from results aggregated at lower levels; citizens could be shown results and then later barred from auditing election materials altogether.
+Remember that the Backup Attack phase is used when the initial attack doesn't go as planned. The biggest tool is the injection of votes electronically. If this can be done without detection, a race can still be won regardless of how many physical ballots were delivered absentee (dropbox or mail-in) or at the in-person polling place on election day and subsequently scanned through tabulators. In a totalitarian system, election night reporting could be largely or actual theater and disconnected from results aggregated at lower levels; citizens could be shown results and then later barred from auditing election materials altogether and appeased with piecemeal post-election reviews which only review a tiny number of ballots.
 
 There is a theory out there which Draza's data begins to provide evidence for that the 2020 election was less an election and more a simulation disguised as an election. (This is in part why I made the acronym for the title of this book = SIM.) We don't *need* that perspective to lay out the anomalies, indicators, and evidence we've done up to this point in the book, but it does serve to provide a working explanation for the irregularities reported around the state and in the Edison Research data. Data is only as good as its source.
 
@@ -179,6 +183,8 @@ Once the simulation concept is understood, lower level manipulation can occur in
 
 Case in point: Around September 2021, I remember video calls where Jeffrey O'Donnell and Dan Sundin shared preliminary findings from the before and after server images revealed by Tina Peters on Days 1 and 2 of Lindell's Cyber Symposium (see the documentary [Selection Code](https://selectioncode.com) for more details). To this day I encounter folks who were disappointed by the event in Sioux Falls: I may share their confusion regarding the PCAPs but I will not hesitate to point them to Jeffrey O'Donnell's [Mesa Report #3](https://magaraccoon.com/docs/MesaCountyReport3.pdf), which showed "unauthorized creation of new election databases during early voting in the 2020 General Election on October 21, 2020, followed by the digital reloading of 20,346 ballot records into the new election databases, making the original voter intent recorded from the ballots unknown." Furthermore, "5,567 ballots in 58 batches did not have their digital records copied to the new database, although the votes from the ballots in those batches were recorded in the Main election database."
 
-This was only the first of seven major findings and implications. For any states using Dominion Voting Systems (DVS) Election Management System (EMS), this should be concerning. An audit of the machines would demonstrate that this did not occur in the six counties in Minnesota also using Dominion systems. Until that happens, how can voters be confident something like this didn't happen in Minnesota?
+This was only the first of seven major findings and implications, which I shared when I first spoke publicly at the Sherburne County Commissioner board meeting on April 19, 2022 alerting them to this problem. (Others had already begun to do so.) 
+
+For any states using Dominion Voting Systems (DVS) Election Management System (EMS), this should be concerning. An audit of the machines would demonstrate that this did or did not occur in the six counties in Minnesota also using Dominion systems. Until that happens, how can voters be confident something like this didn't happen in Minnesota? The government does the work and needs to prove that its work is sound. It isn't for We the People without access to the information to make that case... although we have had to do so because of non-compliance from those whom are meant to serve us.
 
 If the cover up in the Defense Phase, which we turn to next, is good enough, then many citizens will not immediately be able to find out exactly how subversion of their elections took place.
