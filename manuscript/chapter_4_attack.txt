@@ -1,5 +1,5 @@
 {sample: true}
-# Chapter Two - Attack
+# Chapter Four - Attack
 
 *"It's an organized crime. It was perpetrated on Americans by advancing bad process: dirty voter rolls, ballot boxes, all sorts of mail-in ballot capabilities. And you roll all that up and it's quite evident to those of us who've spent the last 15 months of our lives developing these numbers that this was indeed an organized crime that was perpetrated on Americans."*
 
@@ -99,6 +99,8 @@ On this last point, we turn to next in the Backup Attack Phase.
 
 One of my friends recently asked me why a ground game as seen in 2000 Mules was needed if forensic audits can be denied and votes can be injected electronically. My simple response here is that the enemy would have preferred we not learn about the depth of cheating available through the machines. The illusions we are under need to be plausible enough, else our instincts to spot a lie kick in.
 
-In other words, if you can cheat enough to win by inflating voter rolls and by stuffing the ballot box, you can potentially reduce the chances that people will ask questions about the machines in the first place. And those who control the machines, control who wins. Better to keep this reality under wraps.
+In other words, if you can cheat enough to win by inflating voter rolls and by stuffing the ballot box, you can potentially reduce the chances that people will ask questions about the machines in the first place. And those who control the software, control who wins. Better to keep this reality under wraps.
 
 This is part of the reason, I think, that while Hillary said she thought there was fraud in 2016, she may not have wanted to call for any audits. And history shows that she did not.
+
+Meanwhile, since 2020, while much focus has rightly been on mail-in ballots and the tabulators, it has emerged that the electronic poll pads and the integrated systems which provide monitoring and real-time reporting (and likely many other tricks) are also central to the puzzle and the overall cheater's toolkit. Again, *Let My People* go is an excellent free resource to learn more about the surveillance 'features' of such Eye of Sauron type systems.
