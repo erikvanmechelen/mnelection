@@ -1,5 +1,4 @@
 chapter_introduction.txt
-chapter_introduction2.txt
 chapter_1_brief_history.txt
 chapter_2_beginning_to_audit.txt
 chapter_3_preparation.txt
@@ -9,3 +8,4 @@ chapter_6_defense.txt
 chapter_7_what_we_can_do.txt
 chapter_8_afterward.txt
 chapter_conclusion.txt
+chapter_appendix.txt

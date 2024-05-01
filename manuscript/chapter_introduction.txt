@@ -1,31 +1,45 @@
 {sample: true}
 # Preface
 
-*“...”*
+*Be the change you seek."
 
-—...
+— Andrei
 
-Dif image? 
+*The stories of these times will be told as all stories are told... around the campfire.*
 
-![Dominion, Made in China](mark_cook_dominion.png)
+- Nathan
 
 ***
 
-Minnesotans in growing numbers are learning the truth about the charade that are our so-called elections and how few currently elected representatives seem to be on the side of the people as evidenced by their email, phone, and in-person interactions, let alone any tangible efforts. The lack of courage is unsurprising once a light is shone on how easy it is to undermine the people's hoped-for outcomes to select a kind of person unwilling to fight from within the system that chose them, whether or not that individual realizes they were selected, not elected. 
+Minnesotans in growing numbers are learning the truth about the charade that are our so-called elections and how few currently elected representatives seem to be on the side of the people as evidenced by their email, phone, and in-person interactions, let alone any tangible efforts. 
 
-Measureable desire for change was already clear on August 9, 2022. My 90-day Minnesota Secretary of State campaign garnered 36.9% of the vote (nearly 111,000 votes) running as a republican alternative to the MNGOP-endorsed candidate. The solo campaign focused on education. Political consultants' advice was not sought. Instead of events, I attended county commissioner meetings with the people. When I was invited to speak, Party operatives tried to influence the organizers. I ran on a single issue: to repair elections with particular focus on the spider web of the electronic voting system that entangles alert and unsuspecting voters alike. It is a system with many features. Cheating can happen after the polls close. Votes can be hijacked from people who didn't even vote. A ballot inserted into a tabulator won't necessarily read a voter's choices accurately. After unofficial results are in and after those unofficial results are made official through certifications at the county and then state canvassing boards, without properly checking the accuracy of the results, legitimate and proper audits—sometimes called full forensic audits—are avoided by the powers at be at all costs. Indeed, the attempts to block even basic questions being asked has alerted many, many more to the seriousness of the issue. So you're saying I can't ask questions, but you're also saying everything is fine? There's a moment in Star Wars: A New Hope, where, in the detention corridor command post Han Solo decides to blast the communication link because he wasn't able to answer the questions being asked. "Boring, conversation anyway... Luke, we're gonna have company!"
+The lack of courage is unsurprising once a light is shone on how easy it is to undermine the people's hoped-for outcomes to select a kind of person unwilling to fight from within the system that chose them, whether or not that individual realizes they were selected, not elected. 
 
-To demonstrate that they had learned from the aftermath of 2020, in a massive show of transparency, none of the 87 Minnesota counties even released the automatically-generated cast vote record (CVR) reports from Minnesota's August 9, 2022 primary election. Like any election, without a full forensic audit of ballots, ballot envelopes, election equipment, and registration systems, the integrity of the systems, process, and results can never be confirmed by the voters, which was reason enough for countries like Germany to do away with electronic voting equipment altogether. Fifth graders, who cannot lawfully vote (yet), should be able to understand how votes are counted. In the future, God willing, they will, when this state and country return to manual hand counting and tallying of paper ballots in small, manageable precincts on election day. Mail-in voting will be outlawed and voters will have to show some form of identification to prove citizenship and local residence to receive a ballot. The simplicity of this overall approach, and its extremely low cost, when considering many have and will volunteer for such a service to their local city, town, or county, will make future generations frown in disbelief at how we even went down the insecure electronic road (combined with mass mail-in) and indeed how long it took to right the ship.
+Measureable desire for change was already clear on August 9, 2022. My 117-day Minnesota Secretary of State campaign garnered 36.9% of the vote (nearly 111,000 votes) running as a republican alternative to the MNGOP-endorsed candidate. 
 
-To distract from genuine reports from citizen journalists depicting this lack of transparency and obstruction of public data releases, election fraud deniers—starting with the mainstream media—endlessly parrot tired talking points. Safest and most secure! Not connected to the internet! A perfect election! So effective is their repetition that some come to believe their banal lies. So strange is this effect that it might be compared to Mr. Smith taking over a civilian's body in *The Matrix*. Most election clerks and auditors robotically claim they are following election law and election guides from the secretary of state—some making these remarks with a smirk on the edge of their mouths—while withholding basic data requested from their offices in violation of data practice laws. And still potential allies ask, Where's the proof? 
+Political consultants' advice was not sought. Instead of campaigning, the focus was on education and action. Instead of events, I attended county commissioner meetings with the people. When I was invited to speak, Party operatives tried to influence the organizers. I ran on a single issue: to repair elections with particular focus on the spider web of the electronic voting system that entangles alert and unsuspecting voters alike. 
+
+It is a system with many features. Cheating can happen after the polls close. Votes can be hijacked from people who didn't even vote. A ballot inserted into a tabulator won't necessarily read a voter's choices accurately. After unofficial results are in and after those unofficial results are made official through certifications at the county and then state canvassing boards, without properly checking the accuracy of the results, legitimate and proper audits—sometimes called full forensic audits—are avoided by the powers at be at all costs. 
+
+Indeed, the attempts to block even basic questions being asked has alerted many, many more to the seriousness of the issue. So you're saying I can't ask questions, but you're also saying everything is fine? There's a moment in Star Wars: A New Hope, where, in the detention corridor command post Han Solo decides to blast the communication link because he wasn't able to answer the questions being asked. "Boring, conversation anyway... LUKE, WE'RE GONNA HAVE COMPANY!"
+
+To demonstrate that they had learned from the aftermath of 2020, in a massive show of transparency, none of the 87 Minnesota counties even released the automatically-generated cast vote record (CVR) reports from Minnesota's August 9, 2022 primary election. Like any election, without a full forensic audit of ballots, ballot envelopes, election equipment, and registration systems, the integrity of the systems, process, and results can never be confirmed by the voters, which was reason enough for countries like Germany to do away with electronic voting equipment altogether. Fifth graders, who cannot lawfully vote (yet), should be able to understand how votes are counted. 
+
+In the future, God willing, they will, when this state and country return to manual hand counting and tallying of paper ballots in small, manageable precincts on election day. Mail-in voting will be outlawed and voters will have to show some form of identification to prove citizenship and local residence to receive a ballot. The simplicity of this overall approach, and its extremely low cost, when considering many have and will volunteer for such a service to their local city, town, or county, will make future generations frown in disbelief at how we even went down the insecure electronic road (combined with mass mail-in) and indeed how long it took to right the ship.
+
+To distract from genuine reports from citizen journalists depicting this lack of transparency and obstruction of public data releases, election corruption deniers—starting with the mainstream media—endlessly parrot tired talking points. Safest and most secure! Not connected to the internet! A perfect election! So effective is their repetition that some come to believe their banal lies. 
+
+So strange is this effect that it might be compared to Mr. Smith taking over a civilian's body in *The Matrix*. Most election clerks and auditors robotically claim they are following election law and election guides from the secretary of state—some making these remarks with a smirk on the edge of their mouths—while withholding basic data requested from their offices in violation of data practice laws. And still potential allies ask, Where's the proof? 
 
 It's time to flip the table. 
 
 Were there ever any actual problems with a simple hand count of paper ballots in small precincts? Was the purpose of more technology concentrated in a handful of companies really to make our elections *less* transparent? Less comprehensible? With databases like the voter rolls and registrations and poll worker data increasingly centralized in the hands of secretaries of state? (And in cases like Konnech, Inc., alleged to be stored on Chinese servers.)
 
-Or could it be that the intricately connected companies and organizations comprising the election process like Runbeck, Dominion, ES&S, Scytl, Edison Research, ERIC, and Konnech be exactly what it looks like? In 1910 men representing a quarter of the planet's wealth [https://rumble.com/v1cbydb-eustace-mullins-secrets-of-the-federal-reserve-speech.html](secretly met on Jekyll Island) to prepare the way for The Federal Reserve Act of 1913, which Minnesota's Charles A. Lindbergh Sr. opposed, suggesting its passage meant selling the nation's children and grandchildren into slavery. The Federal Reserve Act of 1913 established a banking cartel. What we are witnessing now is the exposure of the election cartel and all its players. (As it turns out decisively connected to the banking cartel.) Their attempt to completely subvert elections was total and made [Bev Harris and Bennie Smith's Fraction Magic](https://t.me/erikmn/2206) look like child's play.
+Or could it be that the intricately connected companies and organizations comprising the election process like Runbeck, Dominion, ES&S, Scytl, Edison Research, ERIC, and Konnech be exactly what it looks like? In 1910 men representing a quarter of the planet's wealth [secretly met on Jekyll Island](https://rumble.com/v1cbydb-eustace-mullins-secrets-of-the-federal-reserve-speech.html) to prepare the way for The Federal Reserve Act of 1913, which Minnesota's Charles A. Lindbergh Sr. opposed, suggesting its passage meant selling the nation's children and grandchildren into slavery. 
 
-Many countries have already fallen to the election cartel's schemes in recent decades. Brazilians are fighting back with protests seeking military action. Americans are holding the line in places like Arizona with a different set of tools not available to Brazilians. It could be said we are doing it by the book. Which book? (Mark that down as a research question, dear reader.) America's 2020 and 2022 elections will not stand. Or maybe the entire thing was a setup? A learning experience? A chance for the people to step up and understand the profound ideas that this country was founded upon?
+The Federal Reserve Act of 1913 established a banking cartel. What we are witnessing now is the exposure of the election cartel and all its players. (As it turns out decisively connected to the banking cartel.) Their attempt to completely subvert elections was total and made [Bev Harris and Bennie Smith's Fraction Magic](https://t.me/erikmn/2206) look like child's play.
+
+Many countries have already fallen to the election cartel's schemes in recent decades. Brazilians are fighting back with protests seeking military action. Americans are holding the line in places like Arizona with a different set of tools not available to Brazilians. It could be said we are doing it by the book. Which book? (Mark that down as a research question, dear reader.) America's 2020 and 2022 elections will not stand. Or maybe the entire thing was a setup? A learning experience? A chance for the people to step up and understand the profound ideas that this country was founded upon? A chance for We the People to reclaim control over our government?
 
 At day's end the illusion of a functioning election process is just one of many programs to uninstall from society, alongside global financial controls like the Fed and central banks, medical tyranny orchestrated by the WHO, and the captivity instantiated by your USA Inc. birth certificate and social security number. 
 
@@ -35,94 +49,36 @@ It is remarkable that together We the People with guidance from God Almighty thr
 
 No one said it would be easy to advance. But with the tools we have at our disposal, we can and we will.
 
-The first edition of this book was written quickly and contained many mistakes. Thankfully readers were forgiving and even shared it both with one another and with their county commissioners, making it an uncensorable resource for truth and an antidote to wilful ignorance and plausible deniability.
+The first edition of this book was written quickly and contained many mistakes. (The second edition edited in even less time.) Thankfully readers were forgiving and even shared it both with one another and with their county commissioners, making it an uncensorable resource for truth and an antidote to wilful ignorance and plausible deniability.
 
 Following its publication for a time updates were made separately on the [Midwest Seeds newsletter](https://erikvanmechelen.substack.com).
 
-My vantage point into the election system began in an investigative way. I was one of perhaps only a few dozen people at each of the Cyber Symposium in Sioux Falls, South Dakota in August 2021, The Moment of Truth Summit in Springfield, Missouri, August 2022, and the Election Crime Bureau in August 2023. From preparation for, participation in, and reflection on those multi-day events, I learned a great deal and realized how much more there was to learn. In the last year I have also attended county commissioner and township supervisor meetings in more Minnesota counties than anyone except Rick Weible. (There are those who have attended many more in aggregate, by consistently going to their local town, city, and county meetings.) These experiences provided national and local level angles of approach into local government oversight and transparency through the lense of the election apparatus.
+My vantage point into the election system began in an investigative way. I was one of perhaps only a few dozen people at each of the Cyber Symposium in Sioux Falls, South Dakota in August 2021, The Moment of Truth Summit in Springfield, Missouri, August 2022, and the Election Crime Bureau in August 2023. From preparation for, participation in, and reflection on those multi-day events, I learned a great deal and realized how much more there was to learn. 
+
+In the last year I have also attended county commissioner and township supervisor meetings in more Minnesota counties than anyone except Rick Weible. (There are those who have attended many more in aggregate, by consistently going to their local town, city, and county meetings.) These experiences provided national and local level angles of approach into local government oversight and transparency through the lense of the election apparatus.
 
 In this second edition, corrections have been made and updates are offered in the following areas: 
 
-- a simple map of the election process so that readers can plug into oversight activities locally
-- empirical perspectives on the Nov 3, 2020 general election in Minnesota using data from the Office of the Secretary of State
-- commentary on the election narrative landscape in Minnesota
-- a light exploration of Minnesota's Nov 8, 2022 election process and results
-- an examination of Minnesota Statutes that conflict either with one another or with directives and guidance from the Office of the Secretary of State
-- anecdotes and snippets from meetings and conversations with grassroots leaders country-wide
-- county-level field notes, observations, and suggestions from a dozen Minnesota counties
+- repositioned the history of voting machines (Chapter 1)
+- a clarification about cast vote records and ballot images (Chapter 6)
+- county-level field notes, observations, and suggestions from a few Minnesota counties (Chapter 6)
+- what we can do (Chapter 7)
+- commentary on newly added or amended Minnesota Statutes (Chapter 7)
+- anecdotes and snippets from meetings and conversations with grassroots leaders country-wide (throughout)
+- moved the anecdote about living one year in Beijing (Appendix)
 
 One difference readers of the first edition will notice in the second is a bit lighter, aspirational tone, combined with a focus on empirical facts, as well as a healthy dose of wit. On this note, bear in mind the advice of Col. Jack O'Neill in the Stargate SG-1 series who warns against trusting those without a sense of humor. The shortcoming of communists and their henchmen and zealots is their inability to laugh and love like we do.
 
-Having noted the role of humor, do not be persuaded that any of this is at its essence light-hearted. This section opens with a quote from the inventor of Project Apario for a reason. Andrei survived a communist orphanage in Rumania where 95% of his peers did not, instead ending up in the global organ harvesting and human supply chain. His "American Dream" childhood and reclaiming of his true name in his adulthood—breaking the chains of the Road to Evergreen's mind-controlling Stockholm Syndrome—allowed him to meet Yeshua and in short order complete the proof of concept research utility allowing all of us to perform advanced searches on declas and FOIA records from .mil and .gov sources like the JFK Files which the National Archives released in an unsearchable format further hiding truths about our government's 20th-century communist infiltration. It is no wonder that our opposition is doing all it can to prevent the biblical table flip on the idea of mainstream media that a worldwide decentralized truth repository represents. (The newer version of this has appeared as idoread.com)
+Having noted the role of humor, do not be persuaded that any of this is at its essence light-hearted. This section opens with a quote from the inventor of Project Apario for a reason. Andrei survived a communist orphanage in Rumania where 95% of his peers did not, instead ending up in the global organ harvesting and human supply chain. His "American Dream" childhood and reclaiming of his true name in his adulthood—breaking the chains of the Road to Evergreen's mind-controlling Stockholm Syndrome—allowed him to meet Yeshua and in short order complete the proof of concept research utility allowing all of us to perform advanced searches on declas and FOIA records from .mil and .gov sources like the JFK Files which the National Archives released in an unsearchable format further hiding truths about our government's 20th-century communist infiltration. 
+
+It was no wonder that the opposition is doing all it can to prevent the biblical table flip on the idea of mainstream media that a worldwide decentralized truth repository represents. (The newer version of this has appeared as idoread.com)
 
 May we all work together to end global communism, reduce its nefarious narratives to rubble, and in God's time find peace and happiness. 
 
-It's going to be an incredible journey.
+As a mentor has said, the stories of these times will be told around the campfire, passed down from generation to generation. Please bear that in mind as what is shared in this book comes merely from my experience, a way to put my observations, recollections, and insights into readers hands. Do not take anything here as authoritative, as I am not an authority (nor am I an authoritarian), but rather take the information on board to consider and to verify for yourself. 
+
+It's going to be quite the journey.
 
 God bless you, 
 Erik van Mechelen
-November 22, 2022
-
-
-
-
-It's a choice to remain a slave. Or to be free. The gangsters and slavemasters don't like dissidents and rebels. They will try to put you back in your place. Where they will continue to exploit you and your children as has been occurring since long before any of you reading this were born.
-
-But the planet can be reclaimed. Cherish every day and realize your options. Help yourself. Help one another. Use the tools you have. Advance. Accountability is key. If contracts have been breached there's no need to remain in them. Align with the truth instead. But there's a catch. Once you start on this path, you can't go back. Slavemasters don't treat runaway slaves nicely.
-
-The age old question: What is to be done?
-
-Paradoxically, change only happens when we fully identify what is, not what could be or should be. 
-
-It starts by looking in the mirror.
-
-In 2022 Minnesota used almost the same [s]election process and electronic voting system (including an opaque statewide voter registration system) as were used in 2020, an election which the MNSOS cannot prove was not stolen and even passed on an opportunity to do this in Crow Wing County in January 2022. Stolen not from republican voters but from the people. Not only were processes and systems equivalent but election laws went nearly unchanged and very similar direction came down to the counties, auditors, and clerks from the Office of the Secretary of State (OSS).
-
-On the process side, that includes 1,140 forced mail-in precincts and legal mail-in absentee ballots and legal dropboxes (approved by republican and democratic legislators) across the state. 
-
-The electronic voting system includes but is not limited to e-pollbooks (iPads), internet hot spots, tabulators (with modems), election management software, and the digital statewide voter registration system. According to Col. Shawn Smith who has done operational testing and oversight for the Department of Defense, none of the current electronic voting systems can be secured from cyber threats and their hardware components are delivered through insecure foreign supply chains. Current testing protocols fail to account for even basic threats and forensic audits are rarely done. Features like remote accessibility or detection-less vote swapping pointed out and demonstrated by Jeffrey Lenberg present further issues.
-
-Election laws like Minnesota Statute 203B.121 which says counts will occur for absentee ballots only after 8pm on election day is violated as per the OSS direction to begin putting ballots into the central scanners 7-14 days in advance—this occurred during the 2022 midterms. In fact several county auditors confirmed this was their plan.
-
-Almost every county certified without complete data (according to the OSS's own data) and the state certified the results in spite of that as well. Despite nearly the same process, electronic systems, laws, and direction from the OSS, many still hoped that results would be different.
-
-I did not agree with this wishful thinking. 
-
-It requires a certain level of spiritual groundedness to fend off psychological and pyschic attacks, hopium, propaganda, and depressive or even apathetic moods. It is fair to say there is a war for our very consciousness. Vibing high is a narrow path of courage, acceptance, willingness, love (wanting the best for neighbors as ourselves), and peace. I was disappointed more hadn't worked alongside me and others throughout 2021 and 2022 to spark local change in city councils, township boards, or commissioner board meetings. But then maybe I hadn't properly shared my experience at dozens of these meetings and others with auditors or election employees, including in Sherburne, Dakota, Wright, Stearns, Carver, Faribault, Morrison, Anoka, and Hennepin County. This book is an effort to make good on a commitment toward accountability and transparency in government.
-
-On Nov 8, I paid a visit to my local polling place to not only cast my vote but to see whether I could spot issues or plant seeds of doubt with the election judges on the off chance they would choose not to sign the summary statements which ask them to verify the tabulator tallies, an impossible ask without a hand count. (A question about which, when posed by citizens in Anoka County, had them removed from election judge rosters.) 
-
-I voted reluctantly for the rather weak Minnesota Republicans to defend against a potential election cartel plan to give a few Republicans a seat at the table so as to wake fewer people up to the overall rigged game, which could be a part of what is transpiring on the national level in the contest for the US House and Senate, at least on the surface (Arizona and Nevada took absurdly long to count and the cartel somehow "found" enough votes to defeat Kari Lake). As for Minnesota, it is possible that for the immediate term we got exactly the results we needed to test our spirit and inspire further coordinated engagement focused on the root of the problem. 
-
-Allow me to explain. Some were angry or even depressed by the unofficial results. Unofficial because the results must first be canvassed and certified at the county and then the state level by county and state canvassing boards. (Note: These boards do not have to dig into the numerous statistical anamolies already demonstrated, but only review the summary statements printed by the tabulators.) Election contests can be filed and recounts, including discretionary recounts, can be asserted. (I would hope that Auditor candidate Ryan Wilson, who sold his company recently for large sums of money, is willing to pay for a discretionary recount of his very close race, within 1%. He says he cares about daycare and food fraud—let's hope he cares about election fraud too. However my suspicion is that he was never a representative of the people given his silence on election integrity and as evidenced by his $400 gift of alcohol to now senate-elect Nathan Wesenberg after Wesenberg's primary win in SD10. More to come on Wesenberg's story since it is critical to understanding MNGOP-committed delegate election fraud, which Wesenberg helped to expose. I would also hope Jim Schultz joins the election fraud effort given how close his race was, but perhaps the possibility of a campaign finance fine will deter him.)
-
-I was neither angry nor depressed when I saw the outcomes early on Nov 9 (rising for 6:15am workout). Nor did the unofficial results have me cowering in fear at how powerful the cartel must be to produce such an outcome. My role is to join with millions of others in using our God given voices to call out what we see that is happening. Gregg Phillips announced that in Alegheny, Pennsylvania, election files were given to the Chinese Communist Party (CCP) and the People's Liberation Army (PLA). It now makes very clear why the DC FBI took over from the Texas FBI who were originally working on the Konnech case with Phillips and True the Vote founder, Katherine Engelbrecht, and why both Phillips and Engelbrecht were put in prison for a few days. 
-
-From this simple fact alone we know this is not a Democrat Party versus Republican Party problem (in fact it's likely that many "leaders" in those parties are complicit in covering up the fraud). Those that were tricked into the D/R way of thinking or had deceived themselves to that end would have been more likely to react negatively to the way the media's reporting of the results—why are you listening to the media's reporting? They lied about the virus and almost everything else for as long as they've been in existence and are owned by a small powerful group of people. 
-
-Instead, the clearest early view of the results I was able to access came through the Edison Research feed to CNN, which Jeffrey O'Donnell spent 5 hours connecting after NY Times decided not to make its feed available. Therefore only state level, not county level, data was available (unlike the primary). 
-
-Another reason not to be surprised was that I didn't perceive nor was privy to existing counter operations at scale needed to stop black market ballots delivered to dropboxes, as was highlighted in 2000 Mules. (These black market ballots can be linked to the statewide voter registration system to actual voters who do not vote and to a slush fund of phantom voters that are difficult for citizens to purge since the OSS controls the statewide voter registration system.) However operations elsewhere like Patrick Colbeck's Overwatch in Michigan were well organized and are catching the cartel in the act. Colbeck has already called for a full forensic audit in Michigan: "The ONLY way that a significant number of Michigan citizens will ever believe yesterday's lawless election results is after completion of a transparent, full forensic audit of the entire election record chain of custody."
-
-As in Michigan, the international election cartel's Minnesota branch is strong. It is operating against the public interest in a coordinated fashion to prevent competition for representative roles. Those representatives are charged not with leading us but rather are responsible for securing our rights in public office. Servants not rulers. The international election cartel also has links peripherally or directly into the Republican Party of Minnesota, the MNGOP. Tony Lazarro is only a small piece of the puzzle. It is not necessary to exhaustively prove the election cartel's precise connections to Minnesota and the MNGOP because by certain patterns of action and inaction the truth is revealed.
-
-Could it be that the MNGOP achieved exactly what it was tasked to do? For example, is it appropriate for the Cicily Davis campaign to have collected and spent well above $1 million only to lose heavily? Where did all that money go? Did Davis or her handlers ever once mention election fraud? When I asked her about it in person, she didn't seem interested.
-
-That the MNGOP is in on it—"it" being the status quo—is not difficult to comprehend, but important to grasp if one is to proceed. It is. (Remember, remember, the paradox of change is fully identifying what is, not what could be or should be.)
-
-The layers of this bio, information, and spiritual war can feel like stumbling through a foggy forest at dusk.
-
-Is it possible we are still learning the language in which to stay spiritually grounded and to stand our physical ground effectively?
-
-Can we even name what we are up against?
-
-Yes.
-
-Global communism.
-
-Consider this historical example: The anti-communists that surrounded Reagan were deceptively named, because they were more accurately anti-Stalinists. In fact, they were Trotskyists. Indeed, they were also communists themselves but in the camp that wanted absolute global communism versus Stalin's communism in one country.
-
-Naming things accurately is one way to hold something to account. Like casting a light-filled charm by spelling and intoning with a certain frequency.
-
-Election integrity became the catch-all term for honest elections. But election integrity was also one of the biggest rackets in the last twenty-four months. It was easy to say one was for it without defining it. Just as it is easy to call oneself a Christian without acting in the spirit of a Christian, without putting any skin in the game.
-
+November 22, 2022 (edited May 1, 2024)
