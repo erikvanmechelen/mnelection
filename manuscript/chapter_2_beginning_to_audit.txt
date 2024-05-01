@@ -1,0 +1,47 @@
+# Chapter Two - Beginning to Audit Our Government
+
+This was how I joined one of America's largest investigations and audits of its own government, by the people but very likely in a civilian-military alliance.
+
+It was evening on October 13, 2021 at the Ramsey City Hall. (Exactly five years after Trump's "this is a crossroads in the history of our civilization" speech on the campaign trail.) Incredibly, almost a year had passed since November 3, 2020, and my education was only just beginning: finally, I'd decided to attend an in-person event about the election problems in Minnesota.
+
+Arriving I soon met Teri Dickenson, who was organizing this ‘I Thought I Voted’-sponsored event, where Rick Weible would soon present. The videographer was missing, and since there was a newly-purchased video camera hanging around my neck I offered to take his place. I was new to this, though: from a chair near the front, stage right, without a tripod, the camera shook a bit in my hands as Rick began to speak.
+
+Before and since, to a variety of audiences, Rick has described himself as a tax refugee from Minnesota, living just over the border in South Dakota. In the aughts and teens, he was on the city council and then mayor of a small town, St. Bonifacius, on the edge Hennepin County, MN. In 2016 hacked into the converted iPads during KnowInk's epollbook pitch and therefore declined the contract (the only municipality in the county to do so). In addition to a comprehension of election equipment, election statutes, and election process and procedures, his involvement in the Minnesota Republican Party gave him political experience. And he also knew about computers. If they worked, he said, he wouldn't have a computer security business. Rick is humble, kind, competent, and stands in a Biblical foundation, occasionally quoting the likes of James 1:25 in an inviting way. But don't let your compassionate nature fool you. He is more than capable of expressing himself and perhaps only temperance has stayed his hand when others may have lost their cool. 
+
+Since that time, Rick did many things, perhaps most significant of which was working with a team which succeeded in getting ES&S executives at the Nebraska headquarters to admit that cast vote record functionality does in fact exist in all their tabulators. Rick was also, ironically it could be said, *appointed* to city council in Elkton and in November 2023 filed to run for South Dakota House of Representatives in 2024, later deciding to challenge the number 2 senator in South Dakota instead while tirelessly assisting teams in the upper midwest and all around the country. He has led hand count demonstrations, provided evidence of the insecurity of electronic equipment, and has always answered whatever questions I ask of him.
+
+That evening way back in 2021 he spoke first about expectations that the public has, or should have, from local government. Expectations may be justifiably low, but why shouldn't they be high? And is it not true that how the government runs elections is an indicator of how well everything else is done?
+
+Of particular interest to me was the fact that on November 29, 2020, about 734,000 absentee ballots were not connected with voters in the Statewide Voter Registration System 25 days after the election, and worse, five days after the Minnesota State Canvassing Board had certified Minnesota's results. (It is not required in statute for this to be done, but it is unclear how the results could be verified properly without such basic work being complete, in particular once learning that it takes a few computer clicks, at most, to accomplish this task.)
+
+Since that night, Rick and I have spoken reguarly, if not often, after he started to share more about what he was up to when I started going to commissioner meetings in Dakota County. Mostly, I have reported on the work he has done and the work he has inspired others to do.
+
+Chatting with Teri after, she asked if I knew the shorter woman who had happened to walk in the same time as me (we weren't together), because early on in the talk she had from the front row turned around and scanned the room with her phone. This was a reminder that this work was going to involve some interesting characters, a reality already experienced at the Cyber Symposium a few months before in Sioux Falls.
+
+Before leaving, I'd hoped to thank Rick for his presentation and more properly introduce myself, but there was another man in a lengthy discussion with him. I didn't know him then, but it was Tom Hunt, who would later become the Elections Manager in Anoka County. I also didn't know then that I was to spend a bit of time at the Anoka County Government Center alongside the Anoka County Election Integrity Team (ACEIT). But that would come almost 15 months later at the beginning of 2023.
+
+Not long after, I attended an event in Rosemount put on by Bill Kiefer where Rick was joined by Susan. I learned later these two spoke often on the phone, which made sense given their backgrounds and areas of expertise. Susan provided much-needed expertise on Minnesota Statutes, often filling an entire slide with text. At first I wondered whether it might be easier to pull snippets from the statutes to focus our attention, but later I realized that the context is key. Just as it is fraught to take Bible verses out of context, statutes should be read carefully to fully take in the language, definitions, and terminology. 
+
+The irony of course is that even though in my opinion many of our legislators have not been properly elected, but [s]elected, that the legislation they have passed or tried to pass not only conflicts with foundational principles of election integrity but with itself. 
+
+For just one example for the moment: Note how Minnesota Statute 206.845 Subdvision 1. **Prohibited connections** says there will be no internet connection and in Subdivision 2. **Transmission to central reporting Location** of the same it reads that modems will transmit (over the internet) results from tabulators directly the county or perhaps to the secretary of state. We will talk about Subdivision 3. **Cast vote records** soon enough. 
+
+For now, just know that last one gave us all a good laugh because so many auditors, county staff, including attorneys and administrators, had echoed someone (perhaps the secretary of state's office) remarking that these didn't exist, or hadn't been turned on, then didn't need to be handed over... all hogwash of course, as the existence of these digital receipts and ballot images became enshrined in statute in 2023.
+
+## The Four Phases
+
+The next few chapters will flow as follows...
+
+Not to be confused with Mark Cook's four components of an election system (voter registration, voter validation, tabulation, and reporting), in *The 2020 Coup*, author Patrick Colbeck describes the four phases involved in stealing an election. 
+
+The phases are 1) preparation, 2) attack, 3) back-up attack, and 4) defense.
+
+During Preparation, the terrain is favorably laid to create vulnerabilities to be exploited in the attack phase. This can be done through legislation and other overt or covert means.
+
+The attack is where the real damage is done. A large wave of mail-in ballots were sent out to voters. (This did not in reality overcome the tsunami of in-person voters in 2020, although the Media tried to both prime and then sell this story.)
+
+If the attack does not deliver enough ballots where they are needed, the back-up attack is used to inject votes electronically. This can be done through registration—as shown by Kris Jurski in Florida or by Dr. Daniel Paguette (Art Zark) in New York—as well as through direct manipulation of the backend databases in the election management systems—as shown by Jeff Lenberg in the Michigan investigation and Mark Cook of Colorado on a forensic copy of Dominion's systems.
+
+The defense phase is the cover-up. As citizens have become smarter, more equipped, and better able to communicate with one another within counties, between counties, and across state lines, those attempting to subvert elections have had an increasingly difficult time hiding the truth of their crimes. 
+
+Let's begin with Preparation.

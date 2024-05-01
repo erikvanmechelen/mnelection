@@ -1,5 +1,5 @@
 {sample: true}
-# Chapter One - Preparation
+# Chapter Two - Preparation
 
 *"The highest priority as a bad guy would be to subvert our election system. The reason is: you can take over a country without firing a shot. If you can decide who the leaders are, if you can put judges, if you can answer constitutional questions any way you want, over a period of time—you're not going to do it in one election, it's going to take a bunch of elections—but you can take over a country. And that would be my top priority (as a bad guy). Nuclear weapons would be a close second, but the top one would be elections."*
 
@@ -9,21 +9,39 @@
 
 ***
 
+Not to be confused with Mark Cook's four components of an election system (voter registration, voter validation, tabulation, and reporting), in *The 2020 Coup*, author Patrick Colbeck describes the four phases involved in stealing an election. 
+
+The phases are 1) preparation, 2) attack, 3) back-up attack, and 4) defense.
+
+During Preparation, the terrain is favorably laid to create vulnerabilities to be exploited in the attack phase. This can be done through legislation and other overt or covert means.
+
+The attack is where the real damage is done. A large wave of mail-in ballots were sent out to voters. (This did not in reality overcome the tsunami of in-person voters in 2020, although the Media tried to both prime and then sell this story.)
+
+If the attack does not deliver enough ballots where they are needed, the back-up attack is used to inject votes electronically. This can be done through registration—as shown by Kris Jurski in Florida or by Dr. Daniel Paguette (Art Zark) in New York—as well as through direct manipulation of the backend databases in the election management systems—as shown by Jeff Lenberg in the Michigan investigation and Mark Cook of Colorado on a forensic copy of Dominion's systems.
+
+The defense phase is the cover-up. As citizens have become smarter, more equipped, and better able to communicate with one another within counties, between counties, and across state lines, those attempting to subvert elections have had an increasingly difficult time hiding the truth of their crimes. 
+
+Let's begin with Preparation.
+
+## Preparation
+
 As noted in the introduction, 2020 was filled with what could be called distractions but in reality were outright attacks on the American people. While those occurred, the preparation phase was shaping the battlefield. Published in 1999, a translated version of the original People's Liberation Army documents, [*Un-Restricted Warfare*](https://www.amazon.com/Unrestricted-Warfare-Chinas-Destroy-America/dp/1626543054), by Col. Qiao Liang and Col. Wang Xiangsui provides context for how the George Floyd incident might relate to or be part of the same attack upon our country. In particular, chapter 7: Ten Thousand Methods Combined as One: Combinations That Transcend Boundaries, the authors argue for the necessity to exceed the previous limitations of warfare, perhaps in Machiavellian fashion going beyond acceptable methods laid down in [*The United States Department of Defense Law of War Manual*](https://projectapario.com/Browse?document=DQTBLMQK9&filename=DoD%20Law%20of%20War%20Manual%20-%20June%202015%20Updated%20Dec%202016.pdf), a guide to international humanitarian law. Qiao and Wang go on to discuss supra-national combinations, that is efforts that include national, international, and non-state organizations. The [fog of war](https://projectapario.com/Browse?page=NKR1KBMNN&from_search_query=stumble_into) makes seeing how all these elements work together difficult.
 
 Preparation to subvert elections occurs on multiple levels, local, state, national, as well as international, not limited to the domains of law, electronic systems, and psychological operations. By following the money one can learn details about election software and hardware vendors. By reading certifications and testing protocols one can learn that they do little to secure a system from continuous cyber threats. By reading the fine print of vendor contracts one can learn who is liable when things go awry. The unraveling of this national and local election theft is likely to take some time; it's implications may be difficult for some of us to comprehend, but try we must. What other option do we have?
 
 Subversion can occur legally or illegally, constitutionally or unconstitutionally, ethically or unethically, by individuals or by coordinated groups. In the pages that follow, bear in mind that the mere fact that something is legal does not make it right. In the elections domain, a statute could be well intentioned but in practice weaken the fairness or transparency of an election. To give just one obvious example: just because ballot dropboxes found their way into state statute in a bi-partisan manner does not make drop boxes a friend of fair elections—dropboxes offer a chain-of-custody gap that calls into question almost every ballot placed into them. Statutes that leave gray area present further difficulties.
 
-In studying Minnesota election laws, one can follow the history of a particular statute over time. Did the changes to a particular statute make elections more fair or less fair? Did attempts to provide access to one vulnerable voting group such as ADA voters lead to the potential for fraud? Did judge-ordered changes amount to encasing fraud within the process itself—for instance, by what metric are signatures verified? Did the waiving of witness and signature requirements for absentee ballots in 2020 make it more convenient for voters? Probably. But it also opened the door to ballot trafficking rings discovered by Gregg Phillips and Catherine Engelbrecht, highlighted in the documentary 2000 Mules.
+In studying Minnesota election laws, one can follow the history of a particular statute over time. Did the changes to a particular statute make elections more fair or less fair? Did attempts to provide access to one vulnerable voting group such as ADA voters lead to the potential for fraud? Did judge-ordered changes amount to encasing fraud within the process itself—for instance, by what metric are signatures verified? Did the waiving of witness and signature requirements (going around the legislature) for absentee ballots in 2020 make it more convenient for voters? Probably. But it also opened the door to ballot trafficking rings discovered by Gregg Phillips and Catherine Engelbrecht, somewhat weakly highlighted in the documentary 2000 Mules which D'souza made a lot of money on. For a better documentary, try the free documentary film, *Let My People Go* produced by Professor David Clements.
 
 Electronic systems must be tested, certified, and programmed prior to elections in order for them to function properly and as designed. The Election Assistance Commission certified [less than 6% of Minnesota counties](https://erikvanmechelen.substack.com/p/only-6-out-of-87-counties-in-minnesota) and certified none of its internet connected e-pollbooks, which are really just iPads. The DS200, a scanner and tabulator from ES&S, was used in almost all Minnesota counties, and could easily have contained 4G wireless modems, as were found in the same model of tabulator in [the Antrim County, Michigan investigation](https://www.depernolaw.com/uploads/2/7/0/2/27029178/ex_5-10.pdf) in late 2020 after it was discovered that thousands of votes had been flipped.
 
 Electronic voting equipment and election management software from Dominion and Hart also had known vulnerabilities as shown at conventions like DEFCON 27 in 2019. Minnesota participates in the [Electronic Registration Information Center](https://ericstates.org/)(ERIC), having [joined in 2014](https://www.minnpost.com/political-agenda/2014/09/minnesota-joins-multistate-voter-registration-group/), which shares voter registration and other data between states, ostensibly to maintain clean voter rolls but a service which could be used to artificially inflate them. Were there any anamolies in the statewide voter registration system (SVRS) prior to or after the 2020 election in Minnesota?
 
+It should be noted that there are currently groups working hard to develop software to 'replace' ERIC, and it's my opinion that this is a waste of time because what is to stop the misuse of the next system? Meanwhile, there is a case to be made that voter registration is redundant. Why can't simple voter lists be kept at the county level and paper pollbooks be used to check in eligible voters with proper ID at each voting precinct on election day? 
+
 In the psychological realm, in mid-2020 George Floyd dominated news cycles. Covid-19 was also a daily discussion topic on and offline. This provided distraction, air cover, and justification for procedural changes which flew in the face of existing Minnesota law.
 
-*To be covered in a later chapter, Minnesota in 2022: In the runup to 2022 elections, there have also been reports of tampering with the precinct delegate process and possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters.*
+*To be covered in a later chapter, Minnesota in 2022: In the runup to 2022 elections, there have also been reports of deliberate manipulations of delegate lists in addition to possible influence operations to position establishment candidates for the MNGOP endorsement and attempt to seed doubt beneath strong grassroots candidates who want to serve the interests of the people, not clandestine masters. The delegate disenfranchisement issue in Otter Tail County continued in 2024. This led to a no-endorsement in the Boyd-Fischbach matchup when even with shockingly high spending and an 'endorsement' from Trump in addition to leaving out a large group of duly elected delegates, almost all of whom if not all were pro Boyd... that particular race goes to a primary in August 2024. Boyd should win if it is a free, honest, fair election with nearly all if not all voters being aware of the course of events to this point.*
 
 ## Minnesota Statutes and Election Law
 
@@ -79,7 +97,7 @@ Now, let's take the CISA-identified components one at a time.
 
 The registration files known as voter rolls or rosters are critical because they store the data which helps determine who in the state is eligible to vote. An extract of these files is pulled into the epollbooks to allow a voter to receive a ballot if voting in person on election day.
 
-Inflated rolls facilitate ballot mules and support machine manipulation. It seems plausible that non-profits like the [Electronic Registration Information Center](https://ericstates.org/) (ERIC) could provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered."
+Inflated rolls facilitate mail-in ballot schemes and support machine manipulation. It seems plausible that non-profits like the [Electronic Registration Information Center](https://ericstates.org/) (ERIC) could provide support to states using inflated rolls through "reports that show voters who have moved within their state, voters who have moved out of state, voters who have died, duplicate registrations in the same state, and individuals who are potentially eligible to vote but are not yet registered."
 
 For instance, if member states like Minnesota do not remove voters who have moved out of state or have died, then the result is an inflated voter roll. Even if the dead or out of state voter votes, that vote technically counts since that individual will be on the statewide voter registration system with a voter ID in the system. On the second night of the Cyber Symposium, I met someone named Russ working on several problems including the problem of voters on voter rolls in multiple states.
 
@@ -89,7 +107,7 @@ Voter rolls and histories are public information that you can request from the [
 
 ![Historical Highs in Minnesota Absentee Votes](mn_absentee.png)
 
-It was these voter rolls and histories that allowed Rick Weible to discover that more than 700,000 reported absentee votes [reported by the secretary of state's website](https://www.sos.state.mn.us/election-administration-campaigns/data-maps/absentee-data/) were not yet connected to a voter in the SVRS on November 29, 2020, only 25 days after the election and a mere 5 days after the Minnesota State Canvassing Board [certified the results](https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/) of the 2020 General Election. This fact alone is major cause for concern because it means that the Office of the Secretary of State during that period would not have been able to prove the election was above board as apparently the work had not been completed yet. (Even a fully paper based system would not require that much time.)
+It was these voter rolls and histories that allowed Rick Weible to discover that more than 700,000 reported absentee votes [reported by the secretary of state's website](https://www.sos.state.mn.us/election-administration-campaigns/data-maps/absentee-data/) were not yet connected to a voter in the SVRS on November 29, 2020, only 25 days after the election and a mere 5 days after the Minnesota State Canvassing Board [certified the results](https://www.sos.state.mn.us/about-the-office/news-room/state-canvassing-board-certifies-results-of-2020-general-election/) of the 2020 General Election. This fact alone is major cause for concern because it means that the Office of the Secretary of State during that period would not have been able to prove the election was above board as apparently the work had not been completed yet. (Even a fully paper based system would not require that much time.) *Note: These kinds of delays were repeated in 2022.*
 
 When comparing voter rolls with census population data, one can chart turnout of the voting age population. In the following chart, we see that Minnesota ranks 1st in voting age population turnout, an indicator of fraud. When the Minnesota Secretary of State boasts of high voter turnouts, is he actually deceptively bragging about how much fraud has occurred? (It should also be noted that the Office of the Secretary of State often defines voter turnout as number of eligible voters who voted, expressed as a percentage, instead of the standard definition which is the number of registered voters who voted expressed as a percentage. Voter turnout numbers with the latter standard definition put many Minnesota counties into the 90% and higher range in 2020, an absurd rate—if voters were really so eager to vote, why aren't city level elections, primary elections, and even midterm elections challenging that 2020 rate?)
 
@@ -115,7 +133,7 @@ Epollbooks are generally connected to the internet so that they can both receive
 
 ![JODI_HOTSPOT]
 
-The internet connection also provides for real-time updating which conceivably would have allowed the Minnesota Attorney General to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day, which may have been a signal to the ballot mules.
+The internet connection also provides for real-time updating which conceivably would have allowed the Minnesota Attorney General to make a [certain tweet at 3:57pm](https://twitter.com/keithellison/status/1323746158557253632) on election day, which may have been a signal to the ballot mules, or simply panic.
 
 ![This tweet hasn't aged well](this_tweet_wont_age_well.png)
 
@@ -137,9 +155,11 @@ Ballot preparation is a complicated process. But Patrick Colbeck does us a favor
 
 "Ballot preparation is a complicated process of overlaying political geographies with the contests and candidates specific to each district and then translating those layouts into unique combinations of ballot data. Ballot preparation data takes multiple forms such as ballot images (both paper and electronic), the data files necessary to build ballot images, audio files for special use ballots, and specific files for export to external systems such as websites for Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)-focused digital systems. Ballot preparation also generates the data necessary for tabulating votes within a voting machine and aggregating tabulated votes within a jurisdiction or state. This process is usually completed in an election documents and records management system (EDRMS), which is special software designed to manage documents and records throughout the document lifecycle, from creation to destruction. Access to the information in such systems would enable anyone attempting to subert the integrity of an election with the information necessary to create ballots independently of election officials. Of course, ballots are also where voters record their votes. Vote tallies are generated from the information on ballots therefore their integrity is very important to protect."
 
-After watching 2000 Mules Erin Clements asked where the NGOs that printed the ballots for the mules may have gotten the ballot formatting and ballot styles to correctly print ballots.  I imagine True the Vote's Catherine Engelbrecht and Gregg Phillips' team were asking the same questions, leading to their follow-on work from the Wisconsin hearing in March 2022 to the Maricopa County senate hearing in early June to the work on the ground in Yuma County.
+After watching 2000 Mules Erin Clements asked where the NGOs that printed the ballots for the mules may have gotten the ballot formatting and ballot styles to correctly print ballots. I imagine True the Vote's Catherine Engelbrecht and Gregg Phillips' team were asking the same questions, leading to their follow-on work from the Wisconsin hearing in March 2022 to the Maricopa County senate hearing in early June to the work on the ground in Yuma County.
 
-While Minnesota uses paper ballots in all 87 counties, we are *not* hand-counting them. Because there is no hand tally, we are putting our trust completely in the voting machines and tabulation systems to properly scan, tally, and record the votes on each paper ballot and the aggregation of those totals. The voting machines, also called tabulators, scan and tally the votes. Simply put—but the process is anything *but* simple—the tallies from the tabulators are then aggregated in tabulation software known as an election management system. Results from this election management system are then supposed to be passed through reporting providers like Edison Research and eventually through the media to your living room. However, Jeffrey O'Donnell and Draza Smith have speculated that this election night reporting could well be theater and not directly connected to actual results recorded in tabulators.
+While Minnesota uses paper ballots in all 87 counties, we are *not* hand-counting them. Because there is no hand tally, we are putting our trust completely in the voting machines and tabulation systems to properly scan, tally, and record the votes on each paper ballot and the aggregation of those totals. There is no way for the public to verify the accuracy unless a manual human hand count and hand tally is done on the spot. Numerous demonstrations by the likes of Rick Weible have shown this to be effective. See uscase.org for more and to setup your own trainings.
+
+The voting machines, also called tabulators, scan and tally the votes. Simply put—but the process is anything *but* simple—the tallies from the tabulators are then aggregated in tabulation software known as an election management system. Results from this election management system are then supposed to be passed through reporting providers like Edison Research and eventually through the media to your living room. However, Jeffrey O'Donnell and Draza Smith have speculated that this election night reporting could well be theater and not directly connected to actual results recorded in tabulators.
 
 ## Voting Machines
 
@@ -269,19 +289,33 @@ To understand how the DS200 plays into the overall system, here's a diagram ES&S
 
 ![Part of an ES&S contract proposal sent to Travis County, Texas](ESS_DS200.png)
 
-To make matters worse, however, there are apparently settings on the DS200 which allow the ballot images to *not* be saved (reducing the audit trail) and potentially configuration settings which turn off the Cast Vote Record (CVR) report functionality, though the details of this are still being verified. (Edit: See Chapter Four - Defense, for verification, including a screenshot from the ES&S DS200 Operator Guide.)
+To make matters worse, however, there are apparently settings on the DS200 which allow the ballot images to *not* be saved (reducing the audit trail) and potentially configuration settings which turn off the Cast Vote Record (CVR) report functionality. EDIT: This last point was actually disinformation from secretary of state offices, meant perhaps to throw citizens off the scent of these vital election records which by federal law must be retained for a minimum of 22 months. 
 
-If true, (edit: it *is* true) this is a big problem because it turns off the machines' ability to tell on itself. Where this decision was made, it may have ultimately prevented voters from learning whether the machine-recorded vote tallies matched their paper ballot submissions. (The outputs of CVR reports will be used in the backup attack phase and defense phase chapters because of how *key* they are.)
+Turning off the functionality to generate the ballot image portion of the cast vote records is troublesome. 
 
-Turning off the functionality to generate CVRs may also have explained why Minnesotans sending public data requests have been met with letters like this one from the Todd County Attorney.
+But the following letter and those like them from auditors, attorneys, and administrators at counties all over Minnesota demonstrate a basic lack of understanding of how our votes are being counted and tallied. If those administering the elections don't even know how the computers work, that's a big deal. 
+
+Here's a letter I recieved from the Todd County Attorney after initially starting the conversation with the Todd County Auditor. *Note: Went to Todd after a friend suggested starting there since, after all, Dr. Frank had said we should vote like the Amish.*
 
 ![The opinion of the Todd County Attorney](todd_county_atty_opinion.png)
 
-*Please note that although we have focused on the ES&S DS200s, there are several Minnesota counties that use Dominion ImageCast machines and several that use Hart Verity Scan tabulators. Equipment from these vendors are also insecure from cyber threats. More importantly, vendors are not open with their source code and therefore vote-manipulating software could be baked in. That said, any commissioners opting to withhold their certifications of local elections could request a micro-audit, to be performed in under a day, of their voting machines to ensure that security and accuracy were maintained throughout the election.*
+*Please note that although we have focused on the ES&S DS200s, there are several Minnesota counties that use Dominion ImageCast machines and several that use Hart Verity Scan tabulators. Equipment from these vendors are also insecure from cyber threats. These vendors, in one case, have also deleted election records prior to the 22 month federal retention, constituting a federal crime, as admitted to by the Chisago County Auditor over the phone (recorded) when I was simply asking for the cast vote records. She said they weren't available because the vendor had performed an update, which to me sounded similar to the Tina Peters situation in Mesa County, Colorado, except in that situation Peters retained a before and after computer image to allow comparison of the databases, revealing evidence of an election crime. 
+
+Along with obvious cyber vulnerabilities, vendors are not open with their source code (and by statute do not have to be) and therefore vote-manipulating software could be baked in. Furthermore, because of a supply chain that too often had its origin in CCP-controlled China, the components of these machines could represent the point of vulnerability. 
+
+This all said, any commissioners opting to withhold their certifications of local elections (shortly after election day) could for just one instance request a micro-audit, to be performed in under a day, of their voting machines to ensure that security and accuracy were maintained throughout the election. Better still, they could pass resolutions to perform extensive post-election audits of all the precincts and all the races in those precincts.*
 
 ## Contracts 
 
 ![Anoka's 2021 Joint Powers Agreement](anoka_jpa_no_warranty_2021.png)
+
+One of my friends has repeated, "It's in the contract."
+
+Researchers across Minnesota and the country have read numerous manuals from the vendors, training materials, guides from the secretaries of state, and of course, the contracts themselves. 
+
+...
+
+NEED TO FINISH THIS SECTION
 
 Tell Robert Kirchner's story here...
 

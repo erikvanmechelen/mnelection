@@ -1,3 +1,12 @@
 {
     "editor.wordWrapColumn": 80
+    // Main editor
+"editor.fontSize": 15,
+// Terminal panel
+"terminal.integrated.fontSize": 14,
+// Output panel
+"[Log]": {
+    "editor.fontSize": 15
+}
+
 }

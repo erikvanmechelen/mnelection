@@ -1,4 +1,4 @@
-# Chapter Nine - A Brief History of Voting Machines and Certifications
+# Chapter One - A Brief History of Voting Machines, Certifications, and Mail-In Voting
 
 In the first place, how did we get to using machines, and *electronic* voting machines, in elections?
 
@@ -96,6 +96,8 @@ In addition to the requirements in subdivision 1, a voting system must be certif
 
 It is important to note that as of now there are no other appropriate federal agencies outside of the Election Assistance Commission (EAC), which itself authorizes Pro V&V and SLI Compliance.
 
+Bonus: Check out the documentary film *Let My People Go*, free online, where Professor David Clements interviews Clay Parikh, who worked in the testing labs, where he describes the certifications as providing 0.5 out of 10 because he couldn't honestly give them 1 out of 10. 
+
 **Are There Limits to Certifications from the EAC?**
 
 Let’s take a look at the [EAC certification for Dominion 4.14-E](https://www.dropbox.com/s/b0efp9zqshzj1cm/EAC%20Report_DVS4.14E_FinalCert_FINAL_7.2.15.pdf?dl=0).
@@ -133,12 +135,14 @@ Should the public have questions when 81 out of 87 counties in Minnesota DO NOT 
 
 Are there consequences to certifications (the EAC certifications) which have disclaimers putting the value of the certification itself into question? Should we be concerned when our secretary of state basically copy-pasted the EAC's certificate language into his own machine certifications?
 
-***
+## Mail In Voting
 
-*Thank you for reading [S]elections in Minnesota. The digital versions, both written and audio, will remain free forever. If you enjoyed it, please share it with a friend, even a brand new friend.*
+No-excuse mail-in began in 2014 leading to large increase in absentee/mail-in ballots and votes.
 
-[Selections in Minnesota](https://leanpub.com/sim2020)
+* A 1987 law made it possible for precincts to switch to mail-in only
+* In 2016 the thresholds from 1987 were lowered; outside metro precincts with fewer than 1,000 registered voters, metro areas with fewer than 400, could opt for mail-in only
+* There are currently 1,000+ precincts (out of 4,000 statewide) whose voters may only vote by mail (mail ballots can be hand-delivered, but no in-precinct election day voting allowed)
 
-[Erik for Secretary of State](https://erikformn.us)
+When mail-in voting is outlawed federally it will go a long way to setting the tone for serious legislative reforms toward free, honest, and fair elections with warranted trustworthiness. 
 
-[Erik for SOS on Telegram](https://t.me/erikmn)
+If we continue the status quo where such a large proportion of ballots (and votes) come through a process that lacks basic chain of custody, then who is to say how many of the ballots are indeed legitimate or not?
