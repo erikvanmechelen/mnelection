@@ -1,5 +1,11 @@
 # Chapter One - A Brief History of Voting Machines, Certifications, and Mail-In Voting
 
+*“There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”*
+
+—Col. Shawn Smith, USAF, Ret. – 25 year Air Force veteran and the former director and test manager for the operational testing of complex, computer-based weapon systems and a subject matter expert on the security of computer-based election systems, [calling into a Tarrant County, Texas meeting](https://rumble.com/v15st7w-military-cyber-security-expert-why-no-county-should-use-electronic-voting-s.html)
+
+***
+
 In the first place, how did we get to using machines, and *electronic* voting machines, in elections?
 
 Before voting machines, voting was often done by voice throughout the 1800s. Kentucky used voice voting until 1891. The first paper ballots arrive in the early 19th century.

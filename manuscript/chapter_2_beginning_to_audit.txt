@@ -24,7 +24,7 @@ Not long after, I attended an event in Rosemount put on by Bill Kiefer where Ric
 
 The irony of course is that even though in my opinion many of our legislators have not been properly elected, but [s]elected, that the legislation they have passed or tried to pass not only conflicts with foundational principles of election integrity but with itself. 
 
-For just one example for the moment: Note how Minnesota Statute 206.845 Subdvision 1. **Prohibited connections** says there will be *no internet connection* and in Subdivision 2. **Transmission to central reporting Location** of the same it reads that modems will transmit (over the internet) results from tabulators directly the county or perhaps to the secretary of state. Internet-connected devices are both allowed and not allowed by statute, apparently.
+For just one example for the moment: Note how [Minnesota Statute 206.845 Subdvision 1. **Prohibited connections**](https://www.revisor.mn.gov/statutes/cite/206.845) says there will be *no internet connection* and in Subdivision 2. **Transmission to central reporting Location** of the same it reads that modems will transmit (over the internet) results from tabulators directly the county or perhaps to the secretary of state. Internet-connected devices are both allowed and not allowed by statute, apparently.
 
 We will talk about Subdivision 3. **Cast vote records** soon enough. For now, just know that this third subdivision gave me a good laugh because so many auditors, county staff, including attorneys and administrators, had echoed someone (perhaps the secretary of state's office) remarking that these didn't exist, or hadn't been turned on, then didn't need to be handed over... all hogwash of course, as the existence of these digital receipts and ballot images became enshrined in statute in 2023.
 
@@ -32,16 +32,21 @@ We will talk about Subdivision 3. **Cast vote records** soon enough. For now, ju
 
 The next few chapters will flow as follows...
 
-Not to be confused with Mark Cook's four components of an election system (voter registration, voter validation, tabulation, and reporting), in *The 2020 Coup*, author Patrick Colbeck describes the four phases involved in stealing an election. 
+Not to be confused with Mark Cook's four components of an election system (voter registration, voter validation, tabulation, and reporting), in *The 2020 Coup*, author Patrick Colbeck describes **the four phases involved in stealing an election.** 
 
-The phases are 1) preparation, 2) attack, 3) back-up attack, and 4) defense.
+The phases are: 
+
+1. Preparation
+2. Attack
+3. Back-Up Attack, and 
+4. Defense
 
 During Preparation, the terrain is favorably laid to create vulnerabilities to be exploited in the attack phase. This can be done through legislation and other overt or covert means.
 
-The attack is where the real damage is done. A large wave of mail-in ballots were sent out to voters. (This did not in reality overcome the tsunami of in-person voters in 2020, although the Media tried to both prime and then sell this story.)
+The Attack is where the real damage is done. A large wave of mail-in ballots were sent out to voters. (This did not in reality overcome the tsunami of in-person voters in 2020, although the Media tried to both prime and then sell this story.)
 
-If the attack does not deliver enough ballots where they are needed, the back-up attack is used to inject votes electronically. This can be done through registration—as shown by Kris Jurski in Florida or by Dr. Daniel Paguette (Art Zark) in New York—as well as through direct manipulation of the backend databases in the election management systems—as shown by Jeff Lenberg in the Michigan investigation and Mark Cook of Colorado on a forensic copy of Dominion's systems.
+If the Attack does not deliver enough ballots where they are needed, the Back-Up Attack is used to inject votes electronically. This can be done through registration—as shown by Kris Jurski in Florida or by Dr. Daniel Paguette (Art Zark) in New York—as well as through direct manipulation of the backend databases in the election management systems—as shown by Jeff Lenberg in the Michigan investigation and Mark Cook of Colorado on a forensic copy of Dominion's systems.
 
-The defense phase is the cover-up. As citizens have become smarter, more equipped, and better able to communicate with one another within counties, between counties, and across state lines, those attempting to subvert elections have had an increasingly difficult time hiding the truth of their crimes. 
+The Defense phase is the cover-up. As citizens have become smarter, more equipped, and better able to communicate with one another within counties, between counties, and across state lines, those attempting to subvert elections have had an increasingly difficult time hiding the truth of their crimes. 
 
 Let's begin with Preparation.

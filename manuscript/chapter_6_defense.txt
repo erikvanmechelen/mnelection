@@ -112,11 +112,99 @@ The cases were dropped without looking at the evidence. And there was a lot of e
 
 Then something happened. 
 
-Susan Smith was brought before a hearing with Judge Castro of Ramsey and there it was decided she had committed fraud on the court. 
+Susan Smith was brought before a hearing with Judge Castro of Ramsey in 2021 and there it was wrongfully decided she had committed fraud on the court. 
 
-The details of this are too much for this particular book, but the reader is encouraged to read this briefing submitted by Susan Smith at the close of a disciplinary hearing brought against her by the Lawyers Board which does an amazing job of summarizing the timeline of events relevant to Minnesota voters and the people of Minnesota generally.
+The details of this are too much for this particular book, but they are essential background for anyone who wants to understand the layers of the system we are caught up in and why our government and related systems requires an immediate and complete audit, top to bottom, in order for Minnesota to be revived. 
 
-Next are just a few details from counties I interacted with in 2022, and a few since...
+The reader is encouraged to [read this briefing](https://www.dropbox.com/scl/fi/crysjx7m3pae19bexqqpy/24-04-26-Smith-Post-Trial-Brief.pdf?rlkey=q7pwxrtuqgz83y2mc6iv428ow&dl=0) submitted by Susan Smith at the close of a disciplinary hearing brought against her by the Lawyers Board which does an amazing job of summarizing the landscape, climate, and timeline of events related to the five election contests in 2020 and the petition to stop the certification, which are certainly relevant to Minnesota voters and the people of Minnesota generally. Look for the Respondent's Post-Trial Brief for File No. A23-1890. 
+
+If you can't find it, simply [read the brief here](https://www.dropbox.com/scl/fi/crysjx7m3pae19bexqqpy/24-04-26-Smith-Post-Trial-Brief.pdf?rlkey=q7pwxrtuqgz83y2mc6iv428ow&dl=0).
+
+Before going into just few details from counties I interacted with in 2022, and a few since... I want to discuss pushing back against tyranny and the significant matter of the missing (or withheld) cast vote records and ballot images from previous elections, in particular 2020 and 2022. 
+
+## Where Are the Cast Vote Records?
+
+Cast vote records (CVR) allow the machines to tell on themselves. Without them, the machine audit trail is severely limited.
+
+The cast vote records and their corresponding ballot images were denied to the public in Minnesota throughout 2022 and 2023 before the 93rd Legislature admitted they existed by putting them into [Minnesota Statute 206.845, Subdivision 3](https://www.revisor.mn.gov/statutes/cite/206.845#stat.206.845.3).
+
+![Pima County Cast Vote Records](cvr_honest.png)
+
+Have a look at this CVR from Pima County.
+
+The top two graphs look good.
+
+But the third (bottom) CVR is not realistic. The only way that could happen is if there happened to be several thousand Biden ballots show up at the same time. Then you might see that driving toward the setpoint. But this graph clearly shows a defiance of the law of large numbers.
+
+To date no CVR reports have been shared with the public (except Fillmore County, partials from others) despite numerous public data requests to county election officials and their offices throughout the state.
+
+Here's just one response from the Todd County Attorney:
+
+!["Todd County does not create this data"](todd_county_atty_opinion.png)
+
+But ES&S's own manuals describe the availability of this functionality.
+
+![CVR described by ES&S](cvr.png)
+
+I even sent the Todd County election officials a PDF of how to extract the CVRs, which are page 42 of the ES&S Electionware Volume V: Results User's Guide.
+
+![Sample Export of CVR](CVR_export.png)
+
+![How to export the CVR](sample_cvr.png)
+
+No response was given to the following email since I sent it on April 29, 2022.
+
+![Email providing directions to extract the CVR](todd_county_cvr.png)
+
+I have tried to sort out how CVRs might have been turned off (they cannot be, otherwise the machines cannot be used according to their certification), or if there is a language game being played, or if the CVRs might be stored somewhere else or called something else. Minnesota Statute 206.845 Subdivision 3. Cast Vote Records does clarify this for us by stipulating that the ballot image portion of the cast vote records are not to be made public in Minnesota. Why not? 
+
+[From a document](https://edca.1dca.org/DcaDocs/2020/2445/2020-2445_Brief_1050162_RC14B202D20Supplemental2FAmended20Appendix.pdf) titled "Ballot Image Information on ES&S Systems issued November 1, 2018, it appears that the EVS Electionware user can specify which ballot images are to be saved on the DS200 and Central Scanners (DS450/DS850): 1) All images, 2) Write-In Images Only, 3) No images. Could these configurations at all be related to whether the CVRs are saved?
+
+The technical details may not be clear, but the truth is states like Rhode Island and select counties in other states *have* received their CVRs which exposed the machine problem. Minnesota is using the same hardware and software from the same vendors as these other states.
+
+But in Minnesota the people were told they didn't exist, at least according to the responses Minnesotans have so far received from their county officials. Could the Office of the Secretary of State or the vendors have been guiding the counties on how to respond to these requests? 
+
+On June 24, 2022 I spoke on the phone with the county auditor in Chisago County to learn more about why they don't have the CVRs. [In this phone call](https://soundcloud.com/erikvanmech/chisago-hart-upgrademp3) (no longer availalbe on SoundCloud), the county auditor shared that Hart had done an onsite software upgrade about a month prior (around May 2022) which archived the 2020 election. I'm not sure whether this is in violation of [the 52 USC §20701 22-month election data retention records](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20701&num=0&edition=prelim), but it sure seems like it.
+
+On the phone call, the county auditor of Chisago County stated that she had already asked the vendor who said the CVRs could not be recovered. To her credit, the Chisago County Auditor stated that she had made a note to save that report in upcoming elections, to which I expressed gratitude. The 2022 cast vote record report was produced for Chisago from their Hart systems as a PDF readout. Ballot images were not provided. 
+
+This is not the first time software vendors have put election officials in a bad position through software upgrades, with the most high profile example being in Mesa County, Colorado, which produced [this report showing manipulation of election databases](https://magaraccoon.com/docs/MesaCountyReport3.pdf).
+
+Going forward, it is also important to urge counties to make the cast vote records public immediately following elections, as is done by for example, Dodge County, Wisconsin, just to our eastern border.
+
+*Dominion and Hart also produced CVRs. In Hart's case, it produces a CVR (basic to counting ballots and their vote opportunities):  Out of Idaho a Technical Reference Manual ["Ballot Scanning and Review Software"](https://sos.idaho.gov/elect/clerk/hart/verity/Verity_Central_Technical_Reference_Manual_6600-003_A04.pdf) Terms: Cast Vote Record (pages 10, 11, 14, and 189); CVR (pages 10, 11, 14, 18, 163, 164, 214) and 131, 133, 135) ...*
+
+## Pushing Back Against Tyranny
+
+On Day 2 of the Cyber Symposium I found a chair near the front, stage left. Not far away Dr. Frank and Mark Cook continued to explore and explain the server images provided by Tina Peters (highlighted in the [S]election Code documentary). I had noticed [Captain Seth Keshel](https://captk.com) come in and wanted to speak with him. Not long before this Code Monkey's lawyer had apparently suggested they not examine the server images since they may have been acquired illegally (I belive this to be untrue, as it is the duty of county clerks to preserve election materials and data). I learned from the person who gave me a ride from Minneapolis that a few of them in the back were looking at the same server images and feeding Dr. Frank and Mark Cook information. Dr. Frank's calming intonation, "This is *better* than PCAPs" still holds true today.
+
+When Seth finished speaking with Wendy Rogers and Sunny Borrelli, I introduced myself. He said to focus on the collar counties around the Twin Cities like Wright, Scott, etc. Seth's point was that we would face too much opposition in counties like Hennepin, Ramsey, Dakota, or St. Louis. And given the progress teams have made in places like Wright and Dakota, and more recently in Anoka, his trend and political analysis was not wrong to highlight them. But as time passed it was also clear that breakthroughs might also be achieved in more rural, lower population counties, of which there are many across our 87-county state.
+
+Months later, my friend Nathan and I had been thinking about where to focus in Minnesota. Nathan said, Why not Todd County? David Clements had been urging folks to find rural counties where county commissioners might be more willing to put election discussions on the agenda or even pass favorable resolutions. And, after all, Dr. Frank's refrain is "Vote Amish," a nod to elections without unneeded technology. Todd County is one of the Amish hotspots in Minnesota. So I sent Todd County a data request for their 2020 cast vote record (CVR) report on the same day I sent a request for one from Hennepin County.
+
+I tell this story in wrapping up the chapter on the enemy's coverup to illustrate a lesson encapsulated by Stargate SG-1's Season 5, Episode 5 - Red Sky, wherein the SG-1 team causes the disruption of a sun near a planet protected by the Asgard. Unbeknownst to the locals, SG-1 seeks help from the 'Grand Council' Asgard. In the conclusion, it is unclear whether the solution attempted by the SG-1 team and the local population was successful, or if the Asgard had helped them out after all.
+
+In other words, it's important to try. God takes care of the results in time.
+
+And wouldn't you know it? Within moments of writing the above lines (Thursday, June 16, 2022) I stumbled upon a page in the ES&S DS200 Operator's Manual, which explained that if the ballot images are turned off, then so are the cast vote records. 
+
+Now, this is critical. 
+
+First, understand that the scanners *cannot* interpret the ovals on the ballots (the voter decisions) directly from the paper ballot itself. The ballot image file must first be created digitally, and then the interpretation is done and saved within the tabulator itself. 
+
+If the ballot image functionality were indeed turned off, then the scanner is not doing much of anything at all. It certainly isn't counting votes or tallying votes, and should not be used in an election. 
+
+If indeed it is discovered that ballot images were turned off in any tabulators in Minnesota during the 2020 election, it calls the entire election into question immediately based on the utilization of equipment in a manner not certified. 
+
+which resolves much of the confusion I'd had up to this point regarding cast vote records (CVR) and the seeming *lack* of any in Minnesota from the 2020 election.
+
+Page 57 of the ES&S Operator's Manual explains how if the ballot images are turned off, **so are the cast vote records**. I was so excited to find this that I immediately posted the following on [my Telegram channel](https://t.me/erikmn).
+
+![Pg 57 of the ES&S DS200 Operator's Manual](pg57.png)
+
+Note that even the manual says this feature should only be used for hardware testing, not for public accuracy tests, not during actual elections.
+
+If the sole purpose of having the tabulators is turned off, then tax payers are paying for a machine that is useless and calls the integrity of election administration deeply into question.
 
 ## Crow Wing County
 
@@ -182,7 +270,9 @@ We asked whether they would like to have an item on the agenda in a forthcoming 
 
 So far they have not agreed to do so.
 
-## Stearns
+## Stearns County
+
+Growing up, even while living overseas in Gabon, Indonesia, or China, my family would return to Minnesota every year, usually over the summer, to visit our family. Often we would stay at my aunt and uncle's home in St. Cloud (sometimes in Stevens County, where my mother grew up).
 
 Sandy Klocker and I first met outside the building at the Cyber Symposium held in Sioux Falls, South Dakota, in August 2021.
 
@@ -192,13 +282,17 @@ Later Sandy would invite me to join her in speaking with the Stearns County Audi
 
 Sandy went to many commissioner meetings, alongside others, and was a leading voice in putting her commissioners to task for their inaction. In an event she held mid-August 2022 I commended her for all the detailed investigation she'd done into her local government.
 
-Stearns County seems to be going the wrong direction with regard to integrity, having recently, in Collegeville, moved away from in-person in-precinct voting, choosing to limit voters to the mail-in only option. 
+![Collegeville Township Supervisors](collegeville.jpg)
 
-Advocates like Sandy have raised awareness and continue to hold strong even when the going gets tough. 
+Stearns County seems to be going the wrong direction with regard to integrity, having recently, in Collegeville, seemed poised to move away from in-person in-precinct voting, choosing to limit voters to the mail-in only option. After making that decision, Sandy spread the word, and 150 people showed up in the pouring rain... her township reversed the decision.
+
+![Collegeville Township Supervisors](150.jpg)
+
+Advocates like Sandy have raised awareness and continue to hold strong even when the going gets tough. The mail-in voting reversal above shows that building relationships, raising awareness, and getting decision-makers to the point of decision is all possible with diligent effort and persistent focus. 
 
 ## Sherburne County
 
-Teri Dickinson was very effective in organizing people to attend county commissioner meetings in Sherburne County. She even once gave up her precious speaking slot to give me three minutes to anchor a slate of speakers including Kari Watkins, who that day shared details from the Halderman report. I stressed the opportunity for the commissioners to take in all the information and find it in themselves to make history by removing the machines. Later I learned that on that day, 246 years prior, was the Battle of Lexington and Concord. History indeed!
+Teri Dickinson was very effective in organizing people to attend county commissioner meetings in Sherburne County starting in early 2022 if not well before. She even once gave up her precious speaking slot to give me three minutes to anchor a slate of speakers including Kari Watkins, who that day shared details from the Halderman report. I stressed the opportunity for the commissioners to take in all the information and find it in themselves to make history by removing the machines. Later I learned that on that day, 246 years prior, was the Battle of Lexington and Concord. History indeed!
 
 The Sherburne county commissioners refused to (so far) have a public hearing or agenda item during the county commissioner board meeting despite multiple weeks of open forum comments [like Rick Weible's here](https://rumble.com/v15hs5h-voting-improvements-sherburne-county-may-3-2022.html) sharing critical vulnerabilities with Sherburne's modern electronic voting equipment. This inability to listen or disinterest in the facts led Kari Watkins to step up and run for county commissioner herself.
 
@@ -218,7 +312,7 @@ By the end, one of the supervisors said to me walking out of the building, "If w
 
 This was music to my ears.
 
-## Anoka
+## Anoka County
 
 I'll not soon forget the first time commissioners actually listened to me.
 
@@ -312,7 +406,7 @@ On April 29, 2024, one of their projects bore fruit, when Mayor Weston of Nowthe
 
 ## Other Counties
 
-I've had great interactions with people from many more counties beyond those just described, such as Carver, Ramsey, Scott, Cass, Isanti, Chisago, Washington, Lincoln, Lyon, Faribault, Olmsted, and Fillmore (where the only CVR from 2020 was produced, although without ballot images), Otter Tail, Benton, Todd, Mille Lacs, Clay, Saint Louis, and Lake, and almost certainly others that I have failed to list here. I believe there are people from every county engaged.
+I've had great interactions with people from many more counties beyond those just described, such as Carver, Ramsey, Hennepin, Scott, Cass, Isanti, Chisago, Washington, Lincoln, Lyon, Faribault, Olmsted, and Fillmore (where the only CVR from 2020 was produced, although without ballot images), Otter Tail, Benton, Todd, Mille Lacs, Clay, Saint Louis, and Lake, and almost certainly others that I have failed to list here. I believe there are people from every county engaged.
 
 *Some of those stories may make it into the next book, which is currently in progress, which takes a more narrative approach than this one.*
 
@@ -323,90 +417,6 @@ Never think that your work is going unnoticed. And even if it does seem to be, r
 In the coming months, I expect to be able to help more counties and teams again as we prepare for 2024 and look forward also to the 2026 midterms where there is a chance to flip our state toward the revival it needs.
 
 When we have free and honest elections with integrity, every Minnesotan, and every American, wins, especially the children and those yet to come.
-
-## Where Are the Cast Vote Records?
-
-Cast vote records (CVR) allow the machines to tell on themselves. Without them, the machine audit trail is severely limited.
-
-The cast vote records and their corresponding ballot images were denied to the public in Minnesota throughout 2022 and 2023 before the 93rd Legislature admitted they existed by putting them into [Minnesota Statute 206.845, Subdivision 3](https://www.revisor.mn.gov/statutes/cite/206.845#stat.206.845.3).
-
-![Pima County Cast Vote Records](cvr_honest.png)
-
-Have a look at this CVR from Pima County.
-
-The top two graphs look good.
-
-But the third (bottom) CVR is not realistic. The only way that could happen is if there happened to be several thousand Biden ballots show up at the same time. Then you might see that driving toward the setpoint. But this graph clearly shows a defiance of the law of large numbers.
-
-To date no CVR reports have been shared with the public (except Fillmore County, partials from others) despite numerous public data requests to county election officials and their offices throughout the state.
-
-Here's just one response from the Todd County Attorney:
-
-!["Todd County does not create this data"](todd_county_atty_opinion.png)
-
-But ES&S's own manuals describe the availability of this functionality.
-
-![CVR described by ES&S](cvr.png)
-
-I even sent the Todd County election officials a PDF of how to extract the CVRs, which are page 42 of the ES&S Electionware Volume V: Results User's Guide.
-
-![Sample Export of CVR](CVR_export.png)
-
-![How to export the CVR](sample_cvr.png)
-
-No response was given to the following email since I sent it on April 29, 2022.
-
-![Email providing directions to extract the CVR](todd_county_cvr.png)
-
-I have tried to sort out how CVRs might have been turned off (they cannot be, otherwise the machines cannot be used according to their certification), or if there is a language game being played, or if the CVRs might be stored somewhere else or called something else. Minnesota Statute 206.845 Subdivision 3. Cast Vote Records does clarify this for us by stipulating that the ballot image portion of the cast vote records are not to be made public in Minnesota. Why not? 
-
-[From a document](https://edca.1dca.org/DcaDocs/2020/2445/2020-2445_Brief_1050162_RC14B202D20Supplemental2FAmended20Appendix.pdf) titled "Ballot Image Information on ES&S Systems issued November 1, 2018, it appears that the EVS Electionware user can specify which ballot images are to be saved on the DS200 and Central Scanners (DS450/DS850): 1) All images, 2) Write-In Images Only, 3) No images. Could these configurations at all be related to whether the CVRs are saved?
-
-The technical details may not be clear, but the truth is states like Rhode Island and select counties in other states *have* received their CVRs which exposed the machine problem. Minnesota is using the same hardware and software from the same vendors as these other states.
-
-But in Minnesota the people were told they didn't exist, at least according to the responses Minnesotans have so far received from their county officials. Could the Office of the Secretary of State or the vendors have been guiding the counties on how to respond to these requests? 
-
-On June 24, 2022 I spoke on the phone with the county auditor in Chisago County to learn more about why they don't have the CVRs. [In this phone call](https://soundcloud.com/erikvanmech/chisago-hart-upgrademp3) (no longer availalbe on SoundCloud), the county auditor shared that Hart had done an onsite software upgrade about a month prior (around May 2022) which archived the 2020 election. I'm not sure whether this is in violation of [the 52 USC §20701 22-month election data retention records](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20701&num=0&edition=prelim), but it sure seems like it.
-
-On the phone call, the county auditor of Chisago County stated that she had already asked the vendor who said the CVRs could not be recovered. To her credit, the Chisago County Auditor stated that she had made a note to save that report in upcoming elections, to which I expressed gratitude. The 2022 cast vote record report was produced for Chisago from their Hart systems as a PDF readout. Ballot images were not provided. 
-
-This is not the first time software vendors have put election officials in a bad position through software upgrades, with the most high profile example being in Mesa County, Colorado, which produced [this report showing manipulation of election databases](https://magaraccoon.com/docs/MesaCountyReport3.pdf).
-
-Going forward, it is also important to urge counties to make the cast vote records public immediately following elections, as is done by for example, Dodge County, Wisconsin, just to our eastern border.
-
-*Dominion and Hart also produced CVRs. In Hart's case, it produces a CVR (basic to counting ballots and their vote opportunities):  Out of Idaho a Technical Reference Manual ["Ballot Scanning and Review Software"](https://sos.idaho.gov/elect/clerk/hart/verity/Verity_Central_Technical_Reference_Manual_6600-003_A04.pdf) Terms: Cast Vote Record (pages 10, 11, 14, and 189); CVR (pages 10, 11, 14, 18, 163, 164, 214) and 131, 133, 135) ...*
-
-## Pushing Back Against Tyranny
-
-On Day 2 of the Cyber Symposium I found a chair near the front, stage left. Not far away Dr. Frank and Mark Cook continued to explore and explain the server images provided by Tina Peters (highlighted in the [S]election Code documentary). I had noticed [Captain Seth Keshel](https://captk.com) come in and wanted to speak with him. Not long before this Code Monkey's lawyer had apparently suggested they not examine the server images since they may have been acquired illegally (I belive this to be untrue, as it is the duty of county clerks to preserve election materials and data). I learned from the person who gave me a ride from Minneapolis that a few of them in the back were looking at the same server images and feeding Dr. Frank and Mark Cook information. Dr. Frank's calming intonation, "This is *better* than PCAPs" still holds true today.
-
-When Seth finished speaking with Wendy Rogers and Sunny Borrelli, I introduced myself. He said to focus on the collar counties around the Twin Cities like Wright, Scott, etc. Seth's point was that we would face too much opposition in counties like Hennepin, Ramsey, Dakota, or St. Louis. And given the progress teams have made in places like Wright and Dakota, and more recently in Anoka, his trend and political analysis was not wrong to highlight them. But as time passed it was also clear that breakthroughs might also be achieved in more rural, lower population counties, of which there are many across our 87-county state.
-
-Months later, my friend Nathan and I had been thinking about where to focus in Minnesota. Nathan said, Why not Todd County? David Clements had been urging folks to find rural counties where county commissioners might be more willing to put election discussions on the agenda or even pass favorable resolutions. And, after all, Dr. Frank's refrain is "Vote Amish," a nod to elections without unneeded technology. Todd County is one of the Amish hotspots in Minnesota. So I sent Todd County a data request for their 2020 cast vote record (CVR) report on the same day I sent a request for one from Hennepin County.
-
-I tell this story in wrapping up the chapter on the enemy's coverup to illustrate a lesson encapsulated by Stargate SG-1's Season 5, Episode 5 - Red Sky, wherein the SG-1 team causes the disruption of a sun near a planet protected by the Asgard. Unbeknownst to the locals, SG-1 seeks help from the 'Grand Council' Asgard. In the conclusion, it is unclear whether the solution attempted by the SG-1 team and the local population was successful, or if the Asgard had helped them out after all.
-
-In other words, it's important to try. God takes care of the results in time.
-
-And wouldn't you know it? Within moments of writing the above lines (Thursday, June 16, 2022) I stumbled upon a page in the ES&S DS200 Operator's Manual, which explained that if the ballot images are turned off, then so are the cast vote records. 
-
-Now, this is critical. 
-
-First, understand that the scanners *cannot* interpret the ovals on the ballots (the voter decisions) directly from the paper ballot itself. The ballot image file must first be created digitally, and then the interpretation is done and saved within the tabulator itself. 
-
-If the ballot image functionality were indeed turned off, then the scanner is not doing much of anything at all. It certainly isn't counting votes or tallying votes, and should not be used in an election. 
-
-If indeed it is discovered that ballot images were turned off in any tabulators in Minnesota during the 2020 election, it calls the entire election into question immediately based on the utilization of equipment in a manner not certified. 
-
-which resolves much of the confusion I'd had up to this point regarding cast vote records (CVR) and the seeming *lack* of any in Minnesota from the 2020 election.
-
-Page 57 of the ES&S Operator's Manual explains how if the ballot images are turned off, **so are the cast vote records**. I was so excited to find this that I immediately posted the following on [my Telegram channel](https://t.me/erikmn).
-
-![Pg 57 of the ES&S DS200 Operator's Manual](pg57.png)
-
-Note that even the manual says this feature should only be used for hardware testing, not for public accuracy tests, not during actual elections.
-
-If the sole purpose of having the tabulators is turned off, then tax payers are paying for a machine that is useless and calls the integrity of election administration deeply into question.
 
 ***
 

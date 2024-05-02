@@ -308,15 +308,31 @@ These times are not normal.
 
 The 2024 primaries are fast approaching. We cannot say "we will get them next time" - this is our time.
 
+## Election Judges Don't Have Much Control
+
+Unfortunately, the responsibilities of election judges—who are not judges, but administrators—in Minnesota are setup so as not to oversee the key areas where cheating occurs, such as in processing (accepting or rejecting) absentee ballots as part of the ballot board, and in verifying that voter rolls are accurate, and in validating the tallies for each candidate of the tabulators which scan every ballot. 
+
+Election judges are asked to sign oaths and then sign up on the summary tapes that are printed out of the tabulators, however there is no way to verify the accuracy of the vote totals for each candidate. This led some in 2022 to amend what they were signing, refuse to sign, or suggest hand counting to check that the tabulator tallies (not merely the total number of ballots) matched the total tallies for each candidate on the paper ballots. They were often met with stern resistance.
+
+Some even asked in advance, such as three election judges in Anoka County. They were told that hand counting was illegal. When he pushed back, he was fired. The other two resigned in protest.
+
+Meanwhile, I've heard a number of stories of people having to take extra steps to be included as either a head election judge or an election judge, even though supposedly there is a great need for them. 
+
+As described in the section about hand counting, I believe people will turn out in very large numbers as volunteers to assist in hand counting because they believe in the openness and accuracy of hand counting the votes themselves versus leaving it up to the black box electronics which they are denied access to.
+
 ## Use Your Platform
 
 ![SOS candidate in New Mexico asking commissioners not to certify until conditions are met](audrey_trujillo.png)
 
-If you know a commissioner, please let them know about this option. If you are commissioner reading this, thank you. We are already in territory (in other states, like New Mexico) where county commissioners are being put to the test. Are you going to certify your county's primary election on August 9 if it was run on machines that have shown to faciliate fraud?
+If you know a commissioner, please let them know about the option of refusing to certify the election. If commissioners don't certify their counties, then the state cannot certify until remediation is made, perhaps through a detailed micro-audit, to give the commissioners of that county confidence to then go ahead and certify.
+
+If you are commissioner reading this, thank you. You are not alone in reading this as several commissioners already had copies in 2022. 
+
+We are already in territory (in other states, like New Mexico) where county commissioners are being put to the test. Are you going to certify your county's primary election on August 9 if it was run on machines that have shown to faciliate fraud?
 
 I am also calling for all America First Candidates to make speaking about the election machines a priority. If you don't think machines can alter elections, look at Kandiss Taylor's gubernatorial result in the Georgia primaries. She had 60,000 volunteers but somehow only received 40,000 votes. That's the power of an algorithm to swap votes.
 
-When you're evaluating candidates, consider: If candidates are not speaking about issues with our elections, and what they have done or are doing about it, maybe ask yourself, Why aren't they?
+When you're evaluating candidates, consider: If candidates are not speaking about issues with our elections, and not answering what they have done or are doing about it, maybe ask yourself, Why aren't they?
 
 ## Do You Have A Few Minutes Per Day?
 
@@ -327,7 +343,8 @@ Your skills will be put to use in areas such as:
 - research
 - data analysis
 - communications
-- outreach
+- media
+- outreach (to new members)
 - relationship building with towns, cities, counties
 - attending local meetings with decision-makers
 - meeting other focused on reforming our elections with integrity
@@ -336,7 +353,7 @@ When I was just getting into all this I had to learn the basics, such as how to 
 
 ![Data Request from Hennepin County](foia_submit.png)
 
-Now, I'm learning that I have specific skills that can be put to use. 
+Now, I'm learning that I have specific skills, talents, and working style preferences that can be put to use. 
 
 To uncover what yours are, simply ask: 
 
