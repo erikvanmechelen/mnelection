@@ -1,6 +1,6 @@
 # Four Phases 
 
-Not to be confused with Mark Cook's four components of an election system (voter registration, voter validation, tabulation, and reporting), in The 2020 Coup, author Patrick Colbeck describes the four phases involved in stealing an election. 
+Not to be confused with Mark Cook's four components of an election system (voter registration, voter validation, tabulation, and reporting), in *The 2020 Coup*, author Patrick Colbeck describes the four phases involved in stealing an election. 
 
 The phases are 1) preparation, 2) attack, 3) back-up attack, and 4) defense.
 

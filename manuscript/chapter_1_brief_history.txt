@@ -1,4 +1,4 @@
-# Chapter One - A Brief History of Voting Machines, Certifications, and Mail-In Voting
+# Chapter One - A Brief History of Voting Machines, Certifications, Mail-In Voting, and Electronic Poll Pads
 
 *“There’s no way we can ever trust a computer system built with components made overseas, particularly in China, or assembled in China, let alone both, and that’s what we have in our voting system, unfortunately.”*
 
@@ -70,11 +70,15 @@ In the Tarrant County, TX, in the first half of 2022, [Col. Shawn Smith describe
 
 ## Certifications Are Less Than Useless
 
+Clay Parikh was an expert witness in the 2024 Georgia hearings where he demonstrated how to subvert the database of an election system, one of a couple thousand ways to skin the cat, as he said on record. Parikh worked at one of the EAC's testing labs for about 9 years and told David Clements in an extended interview for the documentary, Let My People Go, that the security of the elections systems was 0.5 out of 10, because he couldn't with honesty give them a 1. 
+
 Throughout its [certification process](https://www.eac.gov/voting-equipment/system-certification-process), the Election Assistance Commission (EAC) which was established by [the Help America Vote Act](https://www.eac.gov/about_the_eac/help_america_vote_act.aspx) (2002) has *not* certified about 95% of Minnesota counties.
 
-Those county’s electronic voting equipment are merely certified by the Minnesota Secretary of State. The few counties that are EAC certified have the problem indicated by Col. Shawn Smith, that those certifications provide the illusion of security when in fact those systems are anything but ready to run secure elections, and by the EAC certificate's own language not an endorsement of the products.
+Those county’s electronic voting equipment are merely certified by the Minnesota Secretary of State, even though similar testing labs are used. The few counties that are EAC certified have the problem indicated by Col. Shawn Smith, that those certifications provide the illusion of security when in fact those systems are anything but ready to run secure elections, and by the EAC certificate's own language not an endorsement of the products.
 
-Let's take a look at the certification maps. Remember, being certified or not certified doesn’t guarantee system security, as we shall discuss shortly.
+(The same illusion exists with Minnesota being a 'paper ballot' state. We have paper ballots, but do we count paper ballots? By default, No. Indeed, the tabulators take a picture through their scanning technology, and then these computers read the digital image, also known as a ballot image, to document the voter's oval selections. However, audits of these selections are never done as part of the normal post-election review process, a serious gap in the public's knowledge and ability to provide oversight on the MNSOS's reported results.)
+
+Back to certifications... Let's take a look at the certification maps. Remember, being certified or not certified doesn’t guarantee system security, as we shall discuss shortly.
 
 In the following image, Red = Certified | White = Not Certified
 
@@ -102,7 +106,7 @@ In addition to the requirements in subdivision 1, a voting system must be certif
 
 It is important to note that as of now there are no other appropriate federal agencies outside of the Election Assistance Commission (EAC), which itself authorizes Pro V&V and SLI Compliance.
 
-Bonus: Check out the documentary film *Let My People Go*, free online, where Professor David Clements interviews Clay Parikh, who worked in the testing labs, where he describes the certifications as providing 0.5 out of 10 because he couldn't honestly give them 1 out of 10. 
+Bonus: As a reminder, check out the documentary film *Let My People Go*, free online, where Professor David Clements interviews Clay Parikh, who worked in the testing labs, where he describes the certifications as providing 0.5 out of 10 because he couldn't honestly give them 1 out of 10. 
 
 **Are There Limits to Certifications from the EAC?**
 
@@ -143,7 +147,7 @@ Are there consequences to certifications (the EAC certifications) which have dis
 
 ## Mail In Voting
 
-No-excuse mail-in began in 2014 leading to large increase in absentee/mail-in ballots and votes.
+No-excuse mail-in began was passed into law in 2014 and went into effect in 2015 leading to large increase in absentee/mail-in ballots and votes. Steve Simon, at the end of his 10 years from 2005-2015 as a House Representative for District 46B, sat on the Legislature's Election Committee, where the No-excuse mail-in was proposed and drafted. He would have additional influence into the early and mid-2020s as well, in particular legislatively with the Voting Rights Act of 2023 and locally with providing specific guidance to prevent information spreading about the true nature of the electronic poll pads, from KNOWiNK, first introduced in 2016 in Hennepin County. 
 
 * A 1987 law made it possible for precincts to switch to mail-in only
 * In 2016 the thresholds from 1987 were lowered; outside metro precincts with fewer than 1,000 registered voters, metro areas with fewer than 400, could opt for mail-in only
@@ -152,3 +156,43 @@ No-excuse mail-in began in 2014 leading to large increase in absentee/mail-in ba
 When mail-in voting is outlawed federally it will go a long way to setting the tone for serious legislative reforms toward free, honest, and fair elections with warranted trustworthiness. 
 
 If we continue the status quo where such a large proportion of ballots (and votes) come through a process that lacks basic chain of custody, then who is to say how many of the ballots are indeed legitimate or not?
+
+## Electronic Poll Pads
+
+Why are the MNSOS, multiple attorneys, and county level auditors and election managers so desperate to have these iPads, while answering very few tough questions about the software embedded in them?
+
+In late 2024 I was put on hold for about five minutes at the Office of the Secretary of State (OSS) for asking a simple question about electronic poll pads, only to be transferred to someone who then deferred me to yet another person who did not answer the phone and did not call me back.
+
+My recent look into Hennepin County's KNOWiNK contracts stalled when it was relayed to me that the "No responsive data" was returned because the Hennepin County Attorney was included on the emails I'd requested between KNOWiNK, OSS, and Hennepin County, allowing attorney-client privilege to block public access.
+
+I do not know anyone who has reviewed the KNOWiNK source code, nor am I likely to find somebody who has, given that KNOWiNK is a non-governmental organization (NGO), a 3rd-party, private vendor. Despite the integral nature of their hardware and software to local, state, and nationwide elections, and despite the fact that KNOWiNK's iPads are either wi-fi connected or cellular connected (still internet), and are therefore vulnerable to remote access, the Elections Assistance Commission is not required to certify the equipment or software in order for it to be fit for elections in Minnesota—the Minnesota Secretary of State determines that.
+
+My suspicion of electronics, computers, and many things digital dates from my days working for a Fortune 50 in Minneapolis. I had landed in this particular area of the company by mentioning to the hiring manager the development of an iOS app (for iPhone and iPad) that a small team and I designed and implemented in 2013. My job was primarily as a liaison between several business departments and the IT department, at the time when the company experienced a well-publicized data and security breach where hackers gained remote access to Target's servers: the hackers exploited first the HVAC system and then slipped executable files through a web portal which granted them remote access, eventually compromising data of 70 million customers, including 40 million credit cards.
+The Cost of Secrecy
+
+I am not the only one suspicious of these KNOWiNK devices.
+
+Minnesota's first rollout of the KNOWiNK electronic poll pads occurred in Hennepin County in 2016, where the Mayor of St. Bonifacius, during the product presentation, within mere minutes hacked the system and didn't like the contract (which said if harmful code was embedded, then the county would not be liable), and his council voted not to use the iPads, leading to him being threatened with a lawsuit (which did not deter the council); St. Bonifacius became the only municipality of more than 40 in Hennepin, Minnesota's largest county by population to use pen and paper to check in voters on election day.
+
+By 2018, much of Minnesota quietly received the KNOWiNK iPads and embedded software, except for those areas with poor internet service.
+
+The bigger question, though, might be less related to the fact of internet connection than what exactly such a connection might enable, even if the hardware or software worked as designed on election day without any security breaches.
+
+On this path of thinking, it is to be noted that the widespread readiness of these electronic poll pads was just in time for a significant 2018 midterms and the nationwide presidential election two years later. In 2020, the availability of the electronic poll pads coincided with, in Minnesota, the unconstitutional route taken through LaRose v. Simon and NAACP v. Simon (Simon fully participating) to waive absentee mail-in vote witness signature requirements AND extend the acceptance deadline.
+
+At 3:57pm on election day, 2020, the Minnesota Attorney General tweeted that 'we don't have all the votes we need quite yet' and went on to recommend people get their friends go vote. It is conceivable that, combined with the already-collected absentee voting data from the 46-day absentee period, that the real-time access on election day itself—through the electronic poll pads acting as eyes and ears—provided Ellison information prompting him to post a tweet, which in turn may have activated certain levers such as additional absentee ballot dropoffs to later be reconciled with voters who had not voted, although this reconciliation took considerable time...
+
+The biggest fact about Minnesota elections from 2020, that never became a headline, from any outlets, was that there were 700,000 MORE votes than voters on November 29, 2020, according the Statewide Voter Registration System (SVRS), which is managed by the Minnesota Secretary of State Steve Simon, five days after he and the other four members of the MN State Canvassing Board looked past this glaring fact to certify the election anyway. I myself did not learn this until attending a presentation first from Rick Weible (in 2021) and then from him and Susan Shogren Smith (in February 2022), in my mind the ONLY attorney in Minnesota to truly and fully stand with the people demanding transparency in government-administrated elections as documented by the petition to stop the 2020 certification on account of the missing voters and other irregularities, which was never heard by the Minnesota Supreme Court based on their dismissing it using a lame procedural tactic.
+Reviving Suppressed Technology: Pen and Paper
+
+The lack of transparency, including deliberate obfuscation in certain cases, are instances of irregularities that arouse yet further doubt in the officially stated purpose for having these devices, which is merely primarily to check in voters.
+
+In a January 22, 2025 letter to cities considering e-poll pads, Rick Weible, the mayor who successfully defended his city's voters from the initial release of KNOWiNK in 2016, wrote: "You should know what you are signing up for, remember paper poll books cannot be hacked remotely since they for sure cannot be connected to a Wi-Fi, internet, or any network."
+
+More recently, two (2) cities in Anoka County, Oak Grove and Ramsey, have cancelled their contracts, and now election managers, county attorneys, and the MNSOS are arguing that those cities are somehow still required to use them, seemingly ignoring Minn Stat §201.225 which refers to authorization in subdivision 1 and the revoking of usage in subdivision 6. If there is no choice for cities (or indeed counties), then the 95th Minnesota Legislature should clarify, just as the 93th Minnesota Legislature clarified unconstitutionally to require the usage of electronic tabulators for those precincts that previously used them (unconstitutional by ex-post facto). (Then, in 2024, the 94th Minnesota Legislature made it extremely difficult to hand count by inserting language that ballots must be sealed immediately after the close of polls.)
+
+    At the end of the day its an iPad with cellular service and 3rd-party software. How is that ever going to be more secure than paper at the local precinct? —Derek Lind, Ramsey
+
+Anoka County commissioners are considering buying yet another batch of iPads from KNOWiNK on February 25, 2025, despite many good reasons NOT to (video: Ramsey), while other counties that don't yet use them, like Isanti, are also being offered the hardware and software.
+
+One wonders whether paper and pen are being equally considered. 

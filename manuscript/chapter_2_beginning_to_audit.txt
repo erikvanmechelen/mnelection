@@ -1,10 +1,22 @@
 # Chapter Two - Beginning to Audit Our Government
 
-This was how I joined one of America's largest investigations and audits of its own government, by the people but very likely in a civilian-military alliance.
+*“Since we know what we will find when we do our audits—”*
 
-It was evening on October 13, 2021 at the Ramsey City Hall. (Exactly five years after Trump's "this is a crossroads in the history of our civilization" speech on the campaign trail.) Incredibly, almost a year had passed since November 3, 2020, and my education was only just beginning: finally, I'd decided to attend an in-person event about the election problems in Minnesota.
+*“That we’ve been duped.”*
 
-Arriving I soon met Teri Dickenson, who was organizing this ‘I Thought I Voted’-sponsored event, where Rick Weible would soon present. The videographer was missing, and since there was a newly-purchased video camera hanging around my neck I offered to take his place. I was new to this, though: from a chair near the front, stage right, without a tripod, the camera shook a bit in my hands as Rick began to speak.
+*“Yes, so what’s stopping us from reformulating our election processes as you described earlier and then immediately calling for new elections?”*
+
+*“Nothing.”*
+
+—From a conversation between Col. Phil Waldren and the author inside The Military Heritage Alliance around 6pm on Day Three of Mike Lindell’s Cyber Symposium in Sioux Falls, South Dakota on August 12, 2021
+
+*** 
+
+This was how I joined one of America's largest investigations and audits of its own government, which would continue into 2025 with such initiatives like DOGE and continued efforts locally. 
+
+It was evening on October 13, 2021 at the Ramsey City Hall. (Exactly five years after Trump's "this is a crossroads in the history of our civilization" speech on the campaign trail.) Incredibly, almost a year had passed since November 3, 2020, and my education was only just beginning: finally, I'd decided to attend an in-person event about the election problems in Minnesota. Only two months prior, I'd become much more interested in how to help locally after learning from others at the August 2021 Cyber Symposium. 
+
+Pushing through the doors of the city hall and finding the conference room, I soon met Teri Dickenson, who was organizing this ‘I Thought I Voted’-sponsored event, where Rick Weible would soon present. The videographer was missing, and since there was a newly-purchased video camera hanging around my neck I offered to take his place. I was new to this, though: from a chair near the front, stage right, without a tripod, the camera shook a bit in my hands as Rick began to speak.
 
 Before and since, to a variety of audiences, Rick has described himself as a tax refugee from Minnesota, living just over the border in South Dakota. In the aughts and teens, he was on the city council and then mayor of a small town, St. Bonifacius, on the edge Hennepin County, MN. In 2016 hacked into the converted iPads during KnowInk's epollbook pitch and therefore declined the contract (the only municipality in the county to do so). In addition to a comprehension of election equipment, election statutes, and election process and procedures, his involvement in the Minnesota Republican Party gave him political experience. And he also knew about computers. If they worked, he said, he wouldn't have a computer security business. Rick is humble, kind, competent, and stands in a Biblical foundation, occasionally quoting the likes of James 1:25 in an inviting way. But don't let your compassionate nature fool you. He is more than capable of expressing himself and perhaps only temperance has stayed his hand when others may have lost their cool. 
 
@@ -18,9 +30,9 @@ Since that night, Rick and I have spoken reguarly, if not often, after he starte
 
 Chatting with Teri after, she asked if I knew the shorter woman who had happened to walk in the same time as me (we weren't together), because early on in the talk she had from the front row turned around and scanned the room with her phone. This was a reminder that this work was going to involve some interesting characters, a reality already experienced at the Cyber Symposium a few months before in Sioux Falls.
 
-Before leaving, I'd hoped to thank Rick for his presentation and more properly introduce myself, but there was another man in a lengthy discussion with him. I didn't know him then, but it was Tom Hunt, who would later become the Elections Manager in Anoka County. I also didn't know then that I was to spend a bit of time at the Anoka County Government Center alongside the Anoka County Election Integrity Team (ACEIT). But that would come almost 15 months later at the beginning of 2023.
+Before leaving, I'd hoped to thank Rick for his presentation and more properly introduce myself, but there was another man in a lengthy discussion with him. I didn't know him then, but it was Tom Hunt, who would later become the Elections Manager in Anoka County after Paul Linnell was called up to the Office of the Secretary of State. I also didn't know then that I was to spend a bit of time at the Anoka County Government Center alongside the Anoka County Election Integrity Team (ACEIT). But that would come almost 15 months later at the beginning of 2023.
 
-Not long after, I attended an event in Rosemount put on by Bill Kiefer where Rick was joined by Susan. I learned later these two spoke often on the phone, which made sense given their backgrounds and areas of expertise. Susan provided much-needed expertise on Minnesota Statutes, often filling an entire slide with text. At first I wondered whether it might be easier to pull snippets from the statutes to focus our attention, but later I realized that the context is key. Just as it is fraught to take Bible verses out of context, statutes should be read carefully to fully take in the language, definitions, and terminology. 
+Not long after, I attended an event in Rosemount put on by Bill Kiefer where Rick was joined by Susan. I learned later these two spoke often on the phone, which made sense given their backgrounds and areas of expertise. Susan provided much-needed expertise on Minnesota Statutes, often filling an entire slide with text. At first I wondered whether it might be easier to pull snippets from the statutes to focus our attention, but later I realized that the context is key, as is the language, definitions, and terminology. See the back of this book for an excerpt from a forthcoming book focusing on Susan's contributions to showing the people the truth about our election system, especially from the legal and judicial lenses.
 
 The irony of course is that even though in my opinion many of our legislators have not been properly elected, but [s]elected, that the legislation they have passed or tried to pass not only conflicts with foundational principles of election integrity but with itself. 
 
@@ -45,8 +57,12 @@ During Preparation, the terrain is favorably laid to create vulnerabilities to b
 
 The Attack is where the real damage is done. A large wave of mail-in ballots were sent out to voters. (This did not in reality overcome the tsunami of in-person voters in 2020, although the Media tried to both prime and then sell this story.)
 
-If the Attack does not deliver enough ballots where they are needed, the Back-Up Attack is used to inject votes electronically. This can be done through registration—as shown by Kris Jurski in Florida or by Dr. Daniel Paguette (Art Zark) in New York—as well as through direct manipulation of the backend databases in the election management systems—as shown by Jeff Lenberg in the Michigan investigation and Mark Cook of Colorado on a forensic copy of Dominion's systems.
+If the Attack does not deliver enough ballots where they are needed, the Back-Up Attack is used to inject votes electronically. This can be done through registration—as shown by Kris Jurski in Florida or by Dr. Daniel Paguette (Art Zark) in New York—as well as through direct manipulation of the backend databases in the election management systems—as shown by Jeff Lenberg in the Michigan investigation and Mark Cook of Colorado on a forensic copy of Dominion's systems, provided by the now politically-imprisoned Mesa County, Colorado clerk, Tina Peters.
 
-The Defense phase is the cover-up. As citizens have become smarter, more equipped, and better able to communicate with one another within counties, between counties, and across state lines, those attempting to subvert elections have had an increasingly difficult time hiding the truth of their crimes. 
+The Defense phase is the cover-up. As citizens have become smarter, more equipped, and better able to communicate with one another within counties, between counties, and across state lines, those attempting to subvert elections have had an increasingly difficult time hiding the truth of their crimes, which the people are daily pulling back up from being memory-holed.
+
+"Those who control the present, control the past. Those who control the past, control the future," said George Orwell (Eric Blair).
+
+So the fight over the present continues. 
 
 Let's begin with Preparation.

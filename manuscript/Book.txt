@@ -6,6 +6,6 @@ chapter_4_attack.txt
 chapter_5_backup_attack.txt
 chapter_6_defense.txt
 chapter_7_what_we_can_do.txt
-chapter_8_afterward.txt
 chapter_conclusion.txt
 chapter_appendix.txt
+chapter_susan.txt

@@ -5,7 +5,7 @@
 —Captain Seth Keshel, [Veteran Lesson VII: Leaders Create Solutions](https://skeshel.substack.com/p/veteran-lesson-vii-leaders-create) (Ten Lessons for Every Day)
 
 
-*“Never tell people how to do things.  Tell them what to do and they will surprise you with their ingenuity.”*
+*“Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.”*
 
 —General George Patton
 
@@ -46,27 +46,30 @@ This new subdivision would seem to be aimed at preventing a parallel hand count 
 
 ## What Can Towns, Cities, and Counties Do? 
 
-More than one may initially think... Consider:
+For an updated list, visit Project Minnesota - (https://projectminnesota.com/local)(https://projectminnesota.com/local)
 
+Even with the Legislature and MNSOS seeming to have considerable influence, counties and municipalities (cities/towns) can do quite a bit... Consider:
+
+1. Using paper poll books (as of 2024, still have option)
+2. Hand counting ballots (when 2023 law was passed, it was an ex post facto law, meaning when counties chose to in past use electronic voting equipment/tabulators, they could NOT have known they would later be mandated)
+3. Administer and process OWN absentee/mail-in ballots instead of outsourcing to county
+
+Further options, once completed the above:
 1. If have mail-in only precincts, reversing prior decision and return to in-person voting in precinct - [View Sample Resolution](https://www.projectminnesota.com/in-person-voting-resolution/)
 2. Expanding the postelection review to include as many precincts as possible and as many races on the ballot as possible
-3. As a town or city, partnering with the county to take responsibility for receiving, accepting/rejecting, counting, and tallying any absentee, early, and mail-in ballots/votes
-4. Passing a resolution to ensure that no city employees are used for absentee ballot boards, but instead only party-balanced election judges
-5. Providing in-depth training for volunteers and staff on the above items
-6. Redrawing precinct boundaries to allow for the decision to be made once again whether (or not) to use electronic equipment
-7. When doing #6, precinct sizes can be capped at a certain number of voters to assist with logistics, planning, and training of election judges and poll workers
-8. Opting out of the KNOWiNK (BPro) electronic pollpads (e-pollbooks) given their internet connectivity and integrated feature set (if desired, use paper pollbooks instead to check-in voters)
-9. Conduct a parallel hand count and human hand tally on election day
+3. Passing a resolution to ensure that no city employees are used for absentee ballot boards, but instead only party-balanced election judges
 
-For #9, it appears that the 94th Legislature (2024) will [introduce a new subdivision](https://www.revisor.mn.gov/bills/text.php?number=HF4772&version=latest&session=ls93&session_number=0&session_year=2023) in [MS 204C.20 BALLOTS; NUMBER TO BE COUNTED.](https://www.revisor.mn.gov/statutes/cite/204C.20) which will hinder this idea, even though it is not strictly speaking illegal. (It would be surprising for the legislature to outlaw hand counting given that it is the default backup plan in case of electronic outages.)
+In 2024, the 94th Legislature (2024) [introduced a new subdivision](https://www.revisor.mn.gov/bills/text.php?number=HF4772&version=latest&session=ls93&session_number=0&session_year=2023) in [MS 204C.20 BALLOTS; NUMBER TO BE COUNTED.](https://www.revisor.mn.gov/statutes/cite/204C.20) which seems to hinder this idea, even though hand counting is definitely allowed and prescribed in certain conditions within Minnesota law, such as for recounts and post-election reviews. So, why limit the 'check and balance' that trained election judges could do on election night in their precincts to verify a race or two?
 
-Consider the 9 options above as a menu and a starting point. Pursuing even just 3 of the above would go a long way in your town, city, or county, especially if this approach is taken at scale across the state. The powers that be simply do not have enough resources to counter such an approach.
+The above menu is a starting point. Pursuing even just the first 3, sometimes referred to as The Oak Grove Way, would go a long way in your town, city, or county, especially if this approach is taken at scale across the state. The powers that be simply do not have enough resources to counter such an approach, which is why they resort to trying to control language, narrative, process, personnel, and legislative levers.
 
-The above are currently legal, but that can change. If pursuing any of the above and facing resistance, ask oneself: Why should anyone object if the goal is a secure, transparent, verifiable, and accessible election and these approaches are within the currently written election codes?
+If pursuing any of the above and facing resistance, ask oneself: Why should anyone object if the goal is a secure, transparent, verifiable, and accessible election and these approaches are within the currently written election codes?
 
-If the laws change in response to your efforts, then so be it.
+If the laws change in response to your efforts, then so be it, as it will at minimum help to alert your neighbors to the depth and scale of the issue of reclaiming control of our local government.
 
 ## What is the Simplest Legislative Change at the State Level?
+
+An amendment to the following is provided on Project Minnesota - [https://projectminnesota.com/beautiful](https://projectminnesota.com/beautiful)
 
 To make elections trustworthy and verifiable to all voters at minimum cost, consider:
 
@@ -86,7 +89,7 @@ Instead, the will of the people, through decision-making at the city, town, and 
 
 Instead of [536 pages of laws](https://erik.quest/elections.html), why not try the above?
 
-To be solution-oriented, a 3-page bill which included much of the above was presented to every Minnesota senator and every member of the house of representatives, all 201 of them. The collective interest was zero as measured by email responses. 
+To be solution-oriented, a 3-page bill which included much of the above was presented to every Minnesota senator and every member of the house of representatives in 2024, all 201 of them. The collective interest was zero as measured by email responses. In 2023, one well respected (for the moment) senator said he didn't think an election bill which included hand counting would get through committee, but also did not offer to try, even if I authored the bill. 
 
 ## Local Action
 
@@ -157,7 +160,7 @@ What is often left out of these discussions are three simple facts:
 
 **Time**
 
-In a meeting with election officials and commissioners in Morrison County one objection that was raised was the effort involved in hand tallying.
+In a meeting with election officials and commissioners in Morrison County in 2022, one objection that was raised was the effort involved in hand tallying.
 
 If additional man power is needed to hand count paper ballots in precinct polling places on election day, [204B.195 TIME OFF FROM WORK TO SERVE AS ELECTION JUDGE](https://www.revisor.mn.gov/statutes/cite/204B.195) allows for absence without penalty.
 
@@ -170,6 +173,8 @@ This statute makes mass absentee and mail-in ballots moot.
 **Money**
 
 In the same Morrison County meeting, there was concern that the county was already locked into a rather large contract with the software and hardware vendor. That was a sunk cost if they were to switch to hand tallying. Jeremy Pekula made the point that over time hand counting would be much cheaper and welcomed by the community.
+
+*In 2024, the ACEIT team in Anoka, whose work can be seen at Project Minnesota - [https://projectminnesota.com/anoka](https://projectminnesota.com/anoka) - documented the cost and effort of hand counts, showing they are affordable and effective, by reviewing local recently held recounts.
 
 ## How Much Do Machine Elections Cost?
 
@@ -201,11 +206,14 @@ The following two emails between staff at ES&S and the County Elections Administ
 
 Are we asking too much of our election officials at the county level to not only maintain and operate but also mitigate cyber threats to these machines?
 
+Or is it more likely that case that election officials are outsourcing our elections to the private NGOs, themselves not subject to FOIA requests? 
+
+
 ## The County Commission Strategy
 
 How can these changes actually happen?
 
-County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent.
+County commissioners have concurrent jurisdiction to govern the overall conduct of elections. Ultimately they must decide whether to use electronic voting equipment (such as tabulators and electronic poll pads) to begin with and, if they do, whether to certify local elections run on insecure hardware and software. For the time being, only hand counting paper ballots minimizes fraud to the fullest extent.
 
 In [this video](https://rumble.com/v15yha1-county-commission-strategy.html), David Clements, speaking in Rochester on the first night of the 2022 MNGOP state convention (at a separate location), describes the county commissioner strategy. Here's [my take](https://rumble.com/v18ouv9-county-commission-strategy-in-minnesota.html) on the same.
 
@@ -213,110 +221,16 @@ Does it make sense to [use the same machines in 2020 again in 2022, and again in
 
 You too can [stand in the gap](https://www.youtube.com/watch?v=gKZjZMFlj8w).
 
-## Resolutions
-
-[By having conversations to raise awareness among your county commissioners](https://youtu.be/KLGl9uGv0kE), you can then work toward drafting and passing resolutions.
-
-In addition to [resolutions that Rick Weible has provided](https://midwestswampwatch.com/mn-actions) on MidwestSwampWatch.com, I want to suggest a few that the Anoka County Election Integrity Team (ACEIT) has put together during their education tour presenting at cities in their county. Find more about that on [projectminnesota.com/anoka](https://projectminnesota.com/anoka).
-
-There you will find resolutions relating to many of the 9 points listed earlier in this chapter in the section titled: What Can Towns, Cities, and Counties Do? 
-
-Lately, I've become fond of resolutions that expand the post-election reviews, which is basically more hand counting after the election. 
-
-Any resolution that abandons the epollbooks would also be big. 
-
-I would also love to see resolutions to ensure the absentee ballot boards are party balanced and that there is specific training for those members to ensure absentee ballot processing (such as signature verification) is done without any mistakes. 
-
-**Remove Machines**
-
-Epollbooks (poll pads), tabulators, and election management systems would seem to violate 206.57 Subd.6 Required Certification because the EAC has not designated any testing lab to perform its VVSG 2.0 certifications, and 206.57. Subd.6 requires that voting equipment be in compliance with those standards.
-
-Now, it may be true that if equipment was certified according to the standards of VVSG 1.0 (in 2005) that the equipment need not be recertified. 
-
-However, epollbooks, currently the KNOWiNK poll pads are not certified by the Election Assistance Commission (EAC). Even if they somehow were, the integrated nature of those systems would be a danger to safe elections.
-
-**Turn ON Cast Vote Records (CVRs) in tabulators and tabulation systems**
-
-![Pg 57 of the DS200 Operator's Manual](pg57_2.png)
-
-No Minnesotan has yet received complete cast vote record (CVR) reports from any of the 87 counties in the state (except Fillmore for 2020, but these did not contain ballot images), even though these reports represent a key element in the machine audit trail. For instance, a comparison of paper ballots with the cast vote record (and the ballot images) in a precinct would represent a version of a micro-audit. 
-
-Notice that this comparison is *different* from what post-election reviews are doing, which is comparing the aggregate vote totals (stored in the election management system database and tabulator tapes) with the hand counted ballots. Jeff Lenberg has shown the [ability to manipulate the database and the tapes to match](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) while leaving them non-matching with the paper ballots.
-
-Let's get to work.
-
-On June 15, 2022, [David Clements' advice](https://t.me/theprofessorsrecord/7412) was spot on:
-
-"People asking what you can do.  Use a search engine.  Locate your commissioners' email and phone numbers.  Call, write, and show up to your next commission meeting, and support our efforts for transparency.  Likewise, find a contact for the SOS and AG's office and give them hell.  Stop being a spectator."
-
-## Are You a County Commissioner, City Council Member, or Township Supervisor?
-
-Through the concept of 'lesser magistrates' and 'greater magistrates', honest local officials may be our last defense against overt tyranny.
-
-Help to inspire courage in them by showing your support of their tough decisions ahead, whether to certify local elections run on fraudulent machines.
-
-Arm them with information so that they become: 
-
-1. aware
-2. begin to consider, and 
-3. take action
-
-
-
-In a [June 20, 2022 township board meeting](https://erikvanmechelen.substack.com/p/supervisor-indicates-that-he-wont) in Haven Township, Sherburne County, Rick Weible presented his [election improvement plan](https://img1.wsimg.com/blobby/go/47803963-5178-4387-9865-0ea08f5332bd/Election%20Performance%20Improvement%20Plan%2020220602.pdf), focusing on numerous issues discovered throughout Minnesota and Sherburne County.
-
-He began his presentation stressing [Minnesota Statute 206.56 Authorization for Use](https://www.revisor.mn.gov/statutes/cite/206.58).
-
-206.56. Subdivision 1.Municipalities.
-
-The governing body of a municipality, at a regular meeting or at a special meeting called for the purpose, may provide for the use of an electronic voting system in one or more precincts and at all elections in the precincts, subject to approval by the county auditor. The governing body shall disseminate information to the public about the use of a new voting system at least 60 days prior to the election and shall provide for instruction of voters with a demonstration voting system in a public place for the six weeks immediately prior to the first election at which the new voting system will be used.
-
-No system may be adopted or used unless it has been approved by the secretary of state pursuant to section 206.57.
-
-![60 days notice not provided in some townships and counties when new software introduced](206.58_60_days.png)
-
-Remember Dakota County election official Andy Lokken describing the unique nature of Minnesota? Well, that uniqueness apparently ["creates a delay in software getting here."](https://www.youtube.com/watch?v=mE1e3XGf7xM)
-
-Those "delays" may have led to a violation of Minnesota Statute 206.58.
-
-For a definition of "Electronic voting system", see 206.56 Subd 8.
-
-![Electronic voting system definition, to refer back to 206.56 Subd.1](206.56_8.png)
-
-206.56 Subd. 8.Electronic voting system.
-
-"Electronic voting system" means a system in which the voter records votes by means of marking a ballot, so that votes may be counted by automatic tabulating equipment in the polling place where the ballot is cast or at a counting center.
-
-An electronic voting system includes automatic tabulating equipment; nonelectronic ballot markers; electronic ballot markers, including electronic ballot display, audio ballot reader, and devices by which the voter will register the voter's voting intent; software used to program automatic tabulators and layout ballots; computer programs used to accumulate precinct results; ballots; secrecy folders; system documentation; and system testing results.
-
-## Are You a Candidate?
-
-I am calling on all candidates to speak boldly on election issues in public and in conversations with voters while door knocking.
-
-Even better, urge commissioners to remove unnecessary electronic equipment and software.
-
-A few more considerations:
-
-* Prepare to challenge results of elections
-* Spend a little less than normal on marketing
-* Save cash to pay for a [discretionary audit](https://www.sos.state.mn.us/elections-voting/how-elections-work/recounts/) for the primary and midterms
-* Join fellow citizens at county commissioner meetings (record it and share it with your supporters to inspire them to do the same)
-
-We are in uncharted waters.
-
-These times are not normal.
-
-The 2024 primaries are fast approaching. We cannot say "we will get them next time" - this is our time.
 
 ## Election Judges Don't Have Much Control
 
-Unfortunately, the responsibilities of election judges—who are not judges, but administrators—in Minnesota are setup so as not to oversee the key areas where cheating occurs, such as in processing (accepting or rejecting) absentee ballots as part of the ballot board, and in verifying that voter rolls are accurate, and in validating the tallies for each candidate of the tabulators which scan every ballot. 
+Unfortunately, the responsibilities of election judges—who are not judges, but administrators, or workers—in Minnesota are setup so as not to oversee the key areas where cheating occurs, such as in processing (accepting or rejecting) absentee ballots as part of the ballot board (which lasts 46 days), and in verifying that voter rolls are accurate, and in validating the tallies for each candidate of the tabulators which scan every ballot. In fact, in 2024, even in rural counties like Benton, at least one judge was blocked from certain activities because she was known to pay careful attention. 
 
 Election judges are asked to sign oaths and then sign up on the summary tapes that are printed out of the tabulators, however there is no way to verify the accuracy of the vote totals for each candidate. This led some in 2022 to amend what they were signing, refuse to sign, or suggest hand counting to check that the tabulator tallies (not merely the total number of ballots) matched the total tallies for each candidate on the paper ballots. They were often met with stern resistance.
 
-Some even asked in advance, such as three election judges in Anoka County. They were told that hand counting was illegal. When he pushed back, he was fired. The other two resigned in protest.
+Some even asked in advance, such as three election judges in Anoka County. They were told that hand counting was illegal. When one pushed back, he was fired. The other two resigned in protest.
 
-Meanwhile, I've heard a number of stories of people having to take extra steps to be included as either a head election judge or an election judge, even though supposedly there is a great need for them. 
+Meanwhile, I've heard a number of stories of people having to take extra steps to be included as either a head election judge or an election judge, even though supposedly there is a great need for them. In 2024, Hennepin County, and many other counties, did not use balanced absentee boards, a violation of the law, although only Hennepin was called to account, and received a slap on the wrist.
 
 As described in the section about hand counting, I believe people will turn out in very large numbers as volunteers to assist in hand counting because they believe in the openness and accuracy of hand counting the votes themselves versus leaving it up to the black box electronics which they are denied access to.
 
@@ -324,19 +238,19 @@ As described in the section about hand counting, I believe people will turn out 
 
 ![SOS candidate in New Mexico asking commissioners not to certify until conditions are met](audrey_trujillo.png)
 
-If you know a commissioner, please let them know about the option of refusing to certify the election. If commissioners don't certify their counties, then the state cannot certify until remediation is made, perhaps through a detailed micro-audit, to give the commissioners of that county confidence to then go ahead and certify.
+If you know a commissioner, please let them know about the option of refusing to certify the election, even though they will be threatened or told they actually don't have a choice, that these certifications are in fact ministerial (Black's Law definition: without discernment). If commissioners don't certify their counties, then the state cannot certify until remediation is made, perhaps through a detailed micro-audit, to give the commissioners of that county confidence to then go ahead and certify.
 
 If you are commissioner reading this, thank you. You are not alone in reading this as several commissioners already had copies in 2022. 
 
-We are already in territory (in other states, like New Mexico) where county commissioners are being put to the test. Are you going to certify your county's primary election on August 9 if it was run on machines that have shown to faciliate fraud?
+We are already in territory (in other states, like New Mexico) where county commissioners are being put to the test. Are you going to certify your county's primary election or general election if it is run on machines that have been shown to faciliate fraud?
 
-I am also calling for all America First Candidates to make speaking about the election machines a priority. If you don't think machines can alter elections, look at Kandiss Taylor's gubernatorial result in the Georgia primaries. She had 60,000 volunteers but somehow only received 40,000 votes. That's the power of an algorithm to swap votes.
+I am also calling for all America First Candidates to make speaking about the election machines a priority. If you don't think machines can alter elections, look at Kandiss Taylor's gubernatorial result in the Georgia primaries. She had 60,000 volunteers but somehow only received 40,000 votes. That could be the power of an algorithm to swap votes.
 
 When you're evaluating candidates, consider: If candidates are not speaking about issues with our elections, and not answering what they have done or are doing about it, maybe ask yourself, Why aren't they?
 
 ## Do You Have A Few Minutes Per Day?
 
-Connect with local groups or reach out to Cause of America Minnesota by inputting your contact info on [Cause of America](https://causeofamerica.org/get-involved).
+Connect with local groups or reach out to Cause of America Minnesota by inputting your contact info on [Cause of America](https://causeofamerica.org/get-involved) or simply subscribe for free to the newsletter at Project Minnesota - [https://projectminnesota.com](https://projectminnesota.com)
 
 Your skills will be put to use in areas such as: 
 
@@ -370,16 +284,14 @@ Even if you join the queue five minutes before polls closed, you are legally all
 
 Why vote in person late in the day?
 
-Because we now have reason to believe that there are centralized mechanisms that through a combination of the statewide voter registration system, the epollbooks, and the scanned barcode when absentee ballots are delivered which allow the powers that be to see the full landscape of who has voted and who has not.
+Because we now have reason to believe that there are centralized mechanisms that through a combination of the statewide voter registration system, the electronic poll pad centralized software, and the scanned barcode when absentee ballots are delivered which allow the powers that be to see the full landscape of who has voted and who has not.
 
 If the vast majority of let's say republican voters vote very late in the day, say at 5pm or later, then it becomes increasingly difficult to cheat using illegitimate absentee ballots. (I use the word illegitimate because by statute once a ballot enters the system it is by definition legal.)
 
-Therefore, I am urging voters *not* to take the convenient option and vote through absentee or early voting.
+Therefore, until significant changes occur legislately to limit or ban mail-in voting (absentee could still exist only perhaps for edge cases), I am urging voters *not* to take the convenient option and vote through absentee or early voting.
 
 If you are in a mail-in ballot precinct, you have the option to deliver your mail-in ballot directly to the county clerk up until 3pm on election day (according to [Minnesota Statute 203B.08](https://www.revisor.mn.gov/statutes/cite/203B.08)).
 
-Are you an event planner? Imagine holding a post-election party for republicans nearby the polling place to gather after voting in person to encourage reluctant in-person republican voters to take this small action step for election integrity.
-
 Of course, voting in person doesn't prevent tabulator vote-swapping or server-based tampering, but it does force those attempting to subvert our elections to resort to electronic methods at greater scale, which is risky.
 
-Finally, considering sharing [this book](https://leanpub.com/sim2020) with your elected officials, candidates, and county commissioners to provide context on the depth of the problem we're facing, and what they can do about it. They can [read this book here for free](https://leanpub.com/sim2020/read).
+Finally, considering sharing [this book](https://leanpub.com/sim2020) with your elected officials, candidates, county commissioners, city councilmembers, town supervisors, and election clerks to provide context on the depth of the problem we're facing, and what they can do about it. They can [read this book here for free](https://leanpub.com/sim2020/read).

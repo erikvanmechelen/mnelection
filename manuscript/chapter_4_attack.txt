@@ -18,6 +18,8 @@ In the EAC's [2020 Election Administration and Voting Survey](https://www.eac.go
 
 It is now a proven fact that ballot harvesting and more critically ballot *trafficking* operations were in effect across the country throughout the 2020 election.
 
+Keep in mind as we explore these numbers that the ballots themselves are from one perspective only necessary IF a substantial audit were to be ordered and actually occur, which is very rare.
+
 In Minnesota we perhaps caught a small glimpse of ballot harvesting through the Project Veritas reporting on [Ilhan-Omar connected ballot harvesting schemes](https://www.projectveritas.com/news/ilhan-omar-connected-cash-for-ballots-voter-fraud-scheme-corrupts-elections/) in September 2020. However, the ballot harvesting being done in those videos only sheds light on traditional ballot harvesting—notable but not highlighting the scale of operations likely at work in Minnesota—in that case exploiting the elderly in apartment towers for which the in-person polling place was within walking distance if not in the same building.
 
 Rick Weible has since shown how simple it is to acquire ballots, even as a citizen. When he called Seachange, which prints ballots for Minnesota, the operator only asked if he was a technician, then proceeded to sell him 9,000 ballots, on net 30 terms. These ballots were used to print Dodge County, Wisconsin ballots (from the ballot images published on that counties website) to use in hand count demonstrations in Minnesota and South Dakota, including in the South Dakota Capitol building viewable by legislators in session there in early 2024. It doesn't seem to have changed their ability to make reasonable legislation, unfortunately, but it did highlight the general indifference to helping the people, whom they are meant to serve in our constitutional representative republic. 
@@ -40,7 +42,7 @@ But many now understand that Minnesota may well have voted in favor of President
 
 ![Blue Earth vote trend - https://www.youtube.com/watch?v=Wy5WJgyNtBQ](blue_earth.png)
 
-[Captain Seth Keshel's trends](https://rumble.com/vkf6t5-minnesota-election-audit-debrief-captain-seth-keshel.html), lawn signs, and word on the street in 2020 suggested it would be a close call and Minnesota Attorney General Keith Ellison even seemed worried based upon his 3:57pm tweet on election day: “…We don’t have all the votes we need quite yet. So, help a friend (even a brand new friend) vote. Right now would be awesome.” Was this a signal to unleash additional mules? Or could it be—to name just one more possibility—that the epollbook system notes which voters do not vote (neither submitting an absentee/mail-in vote nor voting in person in the precinct) and adds those voters to the phantom voter pile?
+[Captain Seth Keshel's trends](https://rumble.com/vkf6t5-minnesota-election-audit-debrief-captain-seth-keshel.html), lawn signs, and word on the street in 2020 suggested it would be a close call and Minnesota Attorney General Keith Ellison even seemed worried based upon his 3:57pm tweet on election day: “…We don’t have all the votes we need quite yet. So, help a friend (even a brand new friend) vote. Right now would be awesome.” Was this a signal to unleash additional mules? Or could it be—to name just one more possibility—that the electronic poll pad system notes which voters do not vote (neither submitting an absentee/mail-in vote nor voting in person in the precinct) and adds those voters to the phantom voter pile?
 
 ![Could Ellison, or anyone else, have had access to the SVRS in real-time on election day?](ellison_tweet.png)
 
@@ -58,11 +60,11 @@ Further, in Minnesota, we have mail-in only counties (about 1,000 out of 4,000) 
 
 The scale of absentee or mail-in ballots in Minnesota was immense. Over 1.9 million votes were apparently cast this way. That's a more than 1.2 million increase over the previous record.
 
-Not only could absentee ballots sent to phantom voters that came back return-to-sender be collected, but NGOs may have had the ability to print ballots en masse and use mules to deliver them. Many people can be persuaded to perform illegal activities (like delivering ballots that are not their in large numbers) if paid. The operation would not necessarily be limited to those outside of election administration offices. 
+Not only could absentee ballots sent to phantom voters that came back return-to-sender be collected, but NGOs may have had the ability to print ballots en masse and use mules to deliver them. Note that Minnesota does NOT use serialized ballot numbers or watermarking that I am aware of. Many people can be persuaded to perform illegal activities (like delivering ballots that are not their in large numbers) if paid. The operation would not necessarily be limited to those outside of election administration offices. 
 
 The rate at which canvassing in 30 Minnesota counties has shown that voters who reported voting in person were recorded as voting absentee raises questions.
 
-The fact that more than 700,000 reported absentee votes were not connected to a voter in the statewide voter registration system (SVRS) 25 days after the election and only 5 days after the MN State Canvassing Board certified the election raises further questions.
+The fact that more than 700,000 reported absentee votes were not connected to a voter in the statewide voter registration system (SVRS) 25 days after the election and only 5 days after the MN State Canvassing Board certified the election raises further questions. Read that again. 700,000 MORE votes than voters. And Simon still certified.
 
 Could it be that some percentage of these 700,000 reported absentee votes were coordinated by bad actors and therefore were not easily reconcilable in the electronic systems? For emphasis: 25 days after the election and 5 days after certification by the MN State Canvassing Board the numbers did not check out. And not by a little bit. By over 700,000.
 
@@ -93,7 +95,7 @@ Furthermore, there is data gap between October 30 and November 3 which makes it 
 | 1/16/2021 | 2,193,411 | 1/14/2021 | 1,909,701 |
 | 2/14/2021 | 2,193,411 | 1/14/2021 | 1,909,701 |
 
-In watching the room as Rick Weible has presented this data around the state, many understand and are deeply concerned. They expect better from government especially when the issue concerns the sanctity of the elective franchise. And yet, as it now appears certain elements of government have proven incapable of administering free and honest elections with absolute integrity, citizens are right to wonder what else needs to be audited in their government at the federal, state, and indeed, the local levels.
+In watching the room as Rick Weible has presented this data around the state in 2021 and 2022, many understand and are deeply concerned. They expect better from government especially when the issue concerns the sanctity of the elective franchise. And yet, as it now appears certain elements of government have proven incapable of administering free and honest elections with absolute integrity, citizens are right to wonder what else needs to be audited in their government at the federal, state, and indeed, the local levels.
 
 Minnesotans want to know whether their vote counted, whether it was cancelled out by a phantom vote or a fake mail-in vote, whether a machine altered their vote choice, or even if the numbers provided to the MN State Canvassing Board to be certified have any connection to reality at all.
 
@@ -105,6 +107,6 @@ In other words, if you can cheat enough to win by inflating voter rolls and by s
 
 Those who control the software, control who wins. Better to keep this reality under wraps.
 
-This is part of the reason, I think, that while Hillary said she thought there was fraud in 2016, she may not have wanted to call for any audits. And history shows that she did not.
+This is part of the reason, I think, that while Hillary said she thought there was fraud in 2016, she may not have wanted to call for any audits because then there could have been discovery. And history shows that she did not. There was a different plan hatched instead.
 
 Meanwhile, since 2020, while much focus has rightly been on mail-in ballots and the tabulators, it has emerged that the electronic poll pads and the integrated systems which provide monitoring and real-time reporting (and likely many other tricks) are also central to the puzzle and the overall cheater's toolkit. Again, *Let My People* go is an excellent free resource to learn more about the surveillance 'features' of such Eye of Sauron type systems.
