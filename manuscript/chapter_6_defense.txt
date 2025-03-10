@@ -8,11 +8,11 @@
 
 The Defense Phase is where the attackers try to defend against what Patrick Colbeck calls the meddling kids from discovering what they did. It involves cover ups, destruction of physical and digital evidence (Dominion's Trusted Build), slow walking and infiltration of livestreamed election audits (the Maricopa audit), media bullying, and lawfare. Unfortunately, it has too often involved government officials, further eroding the people's trust in the system.
 
-This phase began on election night 2020 and in many regards we remain in this phase.
+This phase began on election night 2020 and in many regards we remain in this phase, even in early 2025, with respect to 2020 but also now to 2022 and 2024.
 
 Some object to the prospect of coordinated fraud on the grounds that it would not be so easy to cover up.
 
-But if there were people smart enough, sophisticated enough, and resourceful enough to pull off such a heist nationally (and likely involving international and supranational components), don't you think they would have some kind of plan to get away with it? They did, although in retrospect it was a bit sloppy. And fortunately there were eyes on their actions. People like Patrick Colbeck, author of *The 2020 Coup*, were on the scene at the TCF center in Detroit serving as a certified Poll Challenger.
+But if there were people smart enough, sophisticated enough, and resourceful enough to pull off such a heist nationally (and likely involving international and supranational components), wouldn't it stand to reason that they would have some kind of plan to get away with it? They did, although in retrospect it was a bit sloppy and there were eyes on their actions. For example, people like Patrick Colbeck, author of *The 2020 Coup*, were on the scene at the TCF center in Detroit serving as a certified Poll Challenger when the vans arrived in the early morning hours.
 
 The people that did this may be clever, but it was an uphill task to pull every lever and not spring a leak.
 
@@ -22,7 +22,7 @@ That alerted millions if not tens of millions to the subversion right from the s
 
 ## Part of Their Plan?
 
-At the Cyber Symposium, Dr. Shiva gave a presentation which detailed the connections between the various players and mentioned a few of their published playbooks. One of these was [The Long Fuse](https://projectapario.com/Browse?document=WJT9LCRAJ&filename=EIP-Final-Report.pdf), by the Election Integrity Partnership.
+At the Cyber Symposium, Dr. Shiva gave a presentation which detailed the connections between the various players and mentioned a few of their published playbooks. These are recently coming into view in a different way through the work of people like @DataRepublican on X. One of these publications was [The Long Fuse](https://projectapario.com/Browse?document=WJT9LCRAJ&filename=EIP-Final-Report.pdf), by the Election Integrity Partnership.
 
 On page 3, the 'Data Cleanup' phase immediately follows the election. What data exactly needed to be cleaned up?
 
@@ -32,27 +32,23 @@ Part of the data cleanup being done would need to happen with the voter rolls. P
 
 But what is harder to cover up is detailed comparisons across counties in a single state, as was shown by Erin Clements in New Mexico's voter rolls, or the proof of database manipulation in the Mesa County, Colorado Dominion Trusted Build.
 
-![image of 12 counties with same graph](...)
-
-Here's Hoang Quan on the Trusted Build:
-
-Which by the way should be technically deficient, because it invalidates the 22-month rule for retention of election records. If you can't audit, review, why have the 22-month retention period (or longer, depending upon state statutes of retention of election records).
-
 ## 700,000 Reported Absentee Voters Not Connected in SVRS
 
 [Rick Weible's database analysis](https://midwestswampwatch.com) of Minnesota's statewide voter registration system (SVRS) highlighted that there were more than 700,000 absentee voters reported than documented in the SVRS five days *after* the MN Canvassing Board certified the election.
+
+In other words, 700,000 MORE votes than voters. Did these ballots even exist?, one wonders.
 
 In a June 7, 2022 GGP meeting in Dakota County, former Election Manager of Dakota County Andy Lokken said that after the fact comparative analysis of SOS-reported data with the SVRS data was not an effective way to verify results.
 
 Then how *should* an election be verified by the people?
 
-Bear in mind that no statewide nor any county-wide full forensic audits (of all election materials, not a recount of ballots) has been done in Minnesota. Citizens have faced considerable resistance from those responsible for ensuring that no voter is disenfranchised and have succeeded in finding numerous indicators and proof that election processes were not followed according to statute and that the results are therefore seriously in question.
+Bear in mind that no statewide nor any county-wide full forensic audits (of all election materials, not a recount of ballots) has been done in Minnesota, ever. Citizens have faced considerable resistance from those responsible for ensuring that no voter is disenfranchised and have succeeded in finding numerous indicators and proof that election processes were not followed according to statute and that the results are therefore seriously in question.
 
 Regarding the absentee voters: If the SOS data was not at all consistent with the SVRS data 25 days *after* the November 3, 2020 election, *when* was it going to be? And how did the MN State Canvassing Board certify the election 5 days prior with such a large discrepancy? To repeat, on November 29, 2020, just 5 days after the MN Canvassing Board certified the election, more than 700,000 reported absentee voters were not connected in the statewide voter registration system.
 
 This fact alone should have triggered a statewide audit and uproar from any elected officials that care about election integrity. If you are unsure about your local elected officials, ask them what they think about this issue and whether they believe we ought to have higher standards for our absentee ballot process as it pertains to data accuracy in our statewide voter registration system.
 
-Many are not aware that although there is a clause about party balanced absentee ballot board judges (those who process the absentee ballots as they come into the counties), the counties have the option to simply staff those boards with their own employees who do **not** have to be balanced from the major political parties. In essence, the statutory oversight is minimal regarding absentee, which, in 2020, was the majority of ballots at 58%.
+Many are not aware that although there is a clause about party balanced absentee ballot board judges (those who process the absentee ballots as they come into the counties), the counties have the option to simply staff those boards with their own employees who do **not** have to be balanced from the major political parties. In essence, the statutory oversight is minimal regarding absentee, which, in 2020, was the majority of ballots at 58%, or 1.9 million (1,900,000).
 
 From the perspective of the defense phase relating to absentee ballot coverup, deflection and obfuscation of the 700,000 ballot delta that Rick called out (it still remains unresolved) should be expected—the general public learning this certainly threatens to undermine the credibility of those at the helm.
 
@@ -64,7 +60,7 @@ In Minnesota only about 3% of of precincts per county are subject to a post-elec
 
 In 2022, there were at least two counties that opted to do a few more, mostly to appease advocates. 
 
-Then, in 2024, spurred on by the Anoka County Election Integrity Team (ACEIT), the Oak Grove City Council voted 5-0 in favor of performing a post-election review of all four of their precincts, hopefully for all the contested races as well. 
+Then, in 2024, spurred on by the Anoka County Election Integrity Team (ACEIT), the Oak Grove City Council voted 5-0 in favor of performing a post-election review of all four of their precincts, hopefully for all the contested races as well. 7 cities in total desired this out of 21 municipalities in Anoka County.
 
 A [post election review](https://www.sos.state.mn.us/elections-voting/how-elections-work/post-election-reviews/) hand counts ballots returned by the optical scan ballot counters in select precincts.
 
@@ -82,7 +78,7 @@ What's more, by comparing the increases to Trump votes (from hand count to total
 
 You be the judge. Was this data cleaned up well?
 
-When Kim Bauer received in June 2022 the receipts from post-election reviews done in Dakota County for 2020 as well as 2021 (when her school board election took place), it was discovered that some of the post-election review documentation differed from the originals. I sat in on one meeting where Dan Wolbert and Rick Weible asked the election manager and his boss for more information and to my knowledge it still has not been resolved. 
+When Kim Bauer received in June 2022 the receipts from post-election reviews done in Dakota County for 2020 as well as 2021 (when her school board election took place), it was discovered that some of the post-election review documentation differed from the originals. I sat in on one meeting where Dan Wolbert and Rick Weible asked the election manager Andy Lokken and his boss for more information and to my knowledge it still has not been resolved.
 
 It was far from the only issue from 2020 onward. 
 
@@ -98,15 +94,15 @@ Since that time, every point made in the petition has been confirmed by the work
 
 Susan Smith also helped the Minnesota Election Integrity Team (MNEIT) to file five election contests for senate and congressional races. 
 
-Those and the two that Edwin Hahn helped to prepare were all dropped, although not until well-known and now infamous lawyers from the east coast signed into the cases pro hac vice (out-of-state).
+Those and the two that Edwin Hahn helped to prepare were all dropped, although not until well-known and now infamous lawyers such as Marc Elias of the east coast Perkins Coie signed into the cases pro hac vice (out-of-state).
 
 The cases were dropped without looking at the evidence. And there was a lot of evidence which Jose Jimenez, Ali Hopper, and the team had collected from attending about 60 out of 87 post-election reviews throughout the state following the 2020 election. 
 
 Then something happened. 
 
-Susan Smith was brought before a hearing with Judge Castro of Ramsey in 2021 and there it was wrongfully decided she had committed fraud on the court. 
+Susan Smith was brought before a hearing with Judge Castro of Ramsey in 2021 and there it was wrongfully decided she had committed fraud on the court. (See the Bonus Chapter for more.)
 
-The details of this are too much for this particular book, but they are essential background for anyone who wants to understand the layers of the system we are caught up in and why our government and related systems requires an immediate and complete audit, top to bottom, in order for Minnesota to be revived. 
+The details of this are too much for this particular book, but they are essential background for anyone who wants to understand the layers of the system we are caught up in and why our government and related systems requires an immediate and complete audit, top to bottom, and bottom to top, in order for Minnesota to be revived. 
 
 The reader is encouraged to [read this briefing](https://www.dropbox.com/scl/fi/crysjx7m3pae19bexqqpy/24-04-26-Smith-Post-Trial-Brief.pdf?rlkey=q7pwxrtuqgz83y2mc6iv428ow&dl=0) submitted by Susan Smith at the close of a disciplinary hearing brought against her by the Lawyers Board which does an amazing job of summarizing the landscape, climate, and timeline of events related to the five election contests in 2020 and the petition to stop the certification, which are certainly relevant to Minnesota voters and the people of Minnesota generally. Look for the Respondent's Post-Trial Brief for File No. A23-1890. 
 
@@ -116,7 +112,9 @@ Before going into just few details from counties I interacted with in 2022, and 
 
 ## Where Are the Cast Vote Records?
 
-Cast vote records (CVR) allow the machines to tell on themselves. Without them, the machine audit trail is severely limited.
+Cast vote records (CVR) are automatically generated when the tabulator interprets the ovals selected by a voter from the digital image (known as the ballot image) it creates when a voter (or election worker) inserts the ballot into the tabulator/scanner.
+
+These have been a standard since 2005.
 
 The cast vote records and their corresponding ballot images were denied to the public in Minnesota throughout 2022 and 2023 before the 93rd Legislature admitted they existed by putting them into [Minnesota Statute 206.845, Subdivision 3](https://www.revisor.mn.gov/statutes/cite/206.845#stat.206.845.3).
 
@@ -128,7 +126,7 @@ The top two graphs look good.
 
 But the third (bottom) CVR is not realistic. The only way that could happen is if there happened to be several thousand Biden ballots show up at the same time. Then you might see that driving toward the setpoint. But this graph clearly shows a defiance of the law of large numbers.
 
-To date no CVR reports have been shared with the public (except Fillmore County, partials from others) despite numerous public data requests to county election officials and their offices throughout the state.
+To date no CVR reports have been shared with the public for 2020 (except Fillmore County, partials from others) despite numerous public data requests to county election officials and their offices throughout the state. (In 2022, Chisago County shared its August 9, primary election report, not ballot images.)
 
 Here's just one response from the Todd County Attorney:
 
@@ -152,15 +150,15 @@ I have tried to sort out how CVRs might have been turned off (they cannot be, ot
 
 [From a document](https://edca.1dca.org/DcaDocs/2020/2445/2020-2445_Brief_1050162_RC14B202D20Supplemental2FAmended20Appendix.pdf) titled "Ballot Image Information on ES&S Systems issued November 1, 2018, it appears that the EVS Electionware user can specify which ballot images are to be saved on the DS200 and Central Scanners (DS450/DS850): 1) All images, 2) Write-In Images Only, 3) No images. Could these configurations at all be related to whether the CVRs are saved?
 
-The technical details may not be clear, but the truth is states like Rhode Island and select counties in other states *have* received their CVRs which exposed the machine problem. Minnesota is using the same hardware and software from the same vendors as these other states.
+The technical details may not be clear, but the truth is states like Rhode Island and select counties in other states *have* received their CVRs which exposed the machine problem. Minnesota is using the same hardware and software from the same vendors as these other states, primarily DS200 tabulators from Election Systems & Software (ES&S) and Electionware, or Dominion's or Hart's equivalents.
 
 But in Minnesota the people were told they didn't exist, at least according to the responses Minnesotans have so far received from their county officials. Could the Office of the Secretary of State or the vendors have been guiding the counties on how to respond to these requests? 
 
-On June 24, 2022 I spoke on the phone with the county auditor in Chisago County to learn more about why they don't have the CVRs. [In this phone call](https://soundcloud.com/erikvanmech/chisago-hart-upgrademp3) (no longer availalbe on SoundCloud), the county auditor shared that Hart had done an onsite software upgrade about a month prior (around May 2022) which archived the 2020 election. I'm not sure whether this is in violation of [the 52 USC §20701 22-month election data retention records](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20701&num=0&edition=prelim), but it sure seems like it.
+On June 24, 2022 I spoke on the phone with the county auditor in Chisago County to learn more about why they don't have the CVRs. [In this phone call](https://www.projectminnesota.com/how-one-voice-can-be-the-change/), the county auditor shared that Hart had done an onsite software upgrade about a month prior (around May 2022) which archived the 2020 election. I'm not sure whether this is in violation of [the 52 USC §20701 22-month election data retention records](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20701&num=0&edition=prelim), but it sure seems like it.
 
 On the phone call, the county auditor of Chisago County stated that she had already asked the vendor who said the CVRs could not be recovered. To her credit, the Chisago County Auditor stated that she had made a note to save that report in upcoming elections, to which I expressed gratitude. The 2022 cast vote record report was produced for Chisago from their Hart systems as a PDF readout. Ballot images were not provided. 
 
-This is not the first time software vendors have put election officials in a bad position through software upgrades, with the most high profile example being in Mesa County, Colorado, which produced [this report showing manipulation of election databases](https://magaraccoon.com/docs/MesaCountyReport3.pdf).
+This is not the first time software vendors have put election officials in a bad position through software upgrades, with the most high profile example being in Mesa County, Colorado, where the clerk, Tina Peters, has been politically imprisoned. 
 
 Going forward, it is also important to urge counties to make the cast vote records public immediately following elections, as is done by for example, Dodge County, Wisconsin, just to our eastern border.
 
@@ -176,19 +174,19 @@ Months later, my friend Nathan and I had been thinking about where to focus in M
 
 I tell this story in wrapping up the chapter on the enemy's coverup to illustrate a lesson encapsulated by Stargate SG-1's Season 5, Episode 5 - Red Sky, wherein the SG-1 team causes the disruption of a sun near a planet protected by the Asgard. Unbeknownst to the locals, SG-1 seeks help from the 'Grand Council' Asgard. In the conclusion, it is unclear whether the solution attempted by the SG-1 team and the local population was successful, or if the Asgard had helped them out after all.
 
-In other words, it's important to try. God takes care of the results in time.
+In other words, it's important to try, to take actions, which is all that can be owned—the emotional attachment to any outcome need not be. 
 
 And wouldn't you know it? Within moments of writing the above lines (Thursday, June 16, 2022) I stumbled upon a page in the ES&S DS200 Operator's Manual, which explained that if the ballot images are turned off, then so are the cast vote records. 
 
 Now, this is critical. 
 
-First, understand that the scanners *cannot* interpret the ovals on the ballots (the voter decisions) directly from the paper ballot itself. The ballot image file must first be created digitally, and then the interpretation is done and saved within the tabulator itself. 
+First, for emphasis, understand that the scanners *cannot* interpret the ovals on the ballots (the voter decisions) directly from the paper ballot itself. The ballot image file must first be created digitally, and then the interpretation is done and saved within the tabulator itself. 
 
 If the ballot image functionality were indeed turned off, then the scanner is not doing much of anything at all. It certainly isn't counting votes or tallying votes, and should not be used in an election. 
 
 If indeed it is discovered that ballot images were turned off in any tabulators in Minnesota during the 2020 election, it calls the entire election into question immediately based on the utilization of equipment in a manner not certified. 
 
-which resolves much of the confusion I'd had up to this point regarding cast vote records (CVR) and the seeming *lack* of any in Minnesota from the 2020 election.
+Such a decision would resolve much of the confusion I'd had up to this point regarding cast vote records (CVR) and the seeming *lack* of any in Minnesota from the 2020 election. But if this function HAD been turned off, then the entire election was a scam. On this line of thinking, with ballot images turned off, the results would have had to have been generated with an algorithm, assigning results to precincts that the Secretary of State's websites then reported. (Then the work would begin to prepare ballots to match during the post-election reviews... as has been discussed, over 60%, or more than 800 ballots, were found to be missing in just ONE of Dakota County's randomly chosen precincts.) 
 
 Page 57 of the ES&S Operator's Manual explains how if the ballot images are turned off, **so are the cast vote records**. I was so excited to find this that I immediately posted the following on [my Telegram channel](https://t.me/erikmn).
 
@@ -218,7 +216,7 @@ So, how did Secretary Simon respond?
 
 If the Secretary of State *had* complied with the commissioners' request, election materials and machines may have been audited. This would have been a proper audit instead of a post-election review or a recount which simply audits the *results*.
 
-Why should the machines and data be audited? Because, as was shown by Jeff Lensburg in the Antrim County, Michigan case, [votes can easily be swapped](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) which would not be identified in a canvass, postelection review, or risk-limiting audit (recount).
+Why should the machines and data be audited? Because, as was shown by Jeff Lensburg in the Antrim County, Michigan case, [votes can easily be swapped](https://rumble.com/vgi89t-hacking-democracy-antrim-county-mi-edition.html) which would not be identified in a canvass, postelection review, or risk-limiting audit (recount). I had also seen this for myself when Sean Smith, Mark Cook, and Draza Smith along with Patrick Colbeck created a mock election at the Cyber Symposium in 2021 where they demonstrated a similar concept. 
 
 However, if the machines and full chain of custody—of both materials and data— were to be audited, the vulnerabilities described in earlier chapters could be exposed.
 
@@ -232,7 +230,7 @@ When the people with Rick Weible's help found indications that the results Dakot
 
 To this day, the data in the statewide voter registration system and the reported results from the county and the reported results from the school district have not been reconciled.
 
-In May I sat in a closed door meeting where the county election officials tried to explain what they thought happened but were unable to satisfyingly do so. This meeting in particular gave me insight into the depth of the problem we face, since it is my opinion that some election officials simply do not understand the technical details of the software and hardware (it is complicated), whereas others may very well understand but be held back from helping us by some as yet to be discovered reason. 
+In May of 2022 I sat in a closed door meeting where the county election officials tried to explain what they thought happened but were unable to satisfyingly do so. This meeting in particular gave me insight into the depth of the problem we face, since it is my opinion that some election officials simply do not understand the technical details of the software and hardware (it is complicated), whereas others may very well understand but be held back from helping us by some as yet to be discovered reason. 
 
 In that particular meeting also was the election official's boss, who tried to steer the meeting. He previously had said I could not record the county commissioner meetings, when of course I could (and did) seeing as they are open meetings, an indication that he didn't know the laws governing county commissioner meetings or an intent to dissaude me.
 
@@ -248,13 +246,13 @@ The teams in Wright County were successful in convincing the county commissioner
 
 At the close of this meeting, it was decided that a joint task force would be put in place involving county commissioners, election officials, and members of the public.
 
-On August 1, 2022, I attended the counties public accuracy test (PAT) ahead of the August 9 primary election. One of the employees took a photo of me and a few others while we sat and waited for the election manager to be ready to take questions. Eventually I got to ask questions and had almost a half hour conversation with several employees, including their tech team, about the value of cast vote records.
+On August 1, 2022, I attended the counties public accuracy test (PAT) ahead of the August 9 primary election. One of the employees took a photo of me and a few others while we sat and waited for the election manager to be ready to take questions. Eventually I got to ask questions and had almost a half hour conversation with several employees, including their tech team, about the value of cast vote records. One of the IT people, who claimed to have worked on a nuclear sub, said that because of the air gap, their systems were secure.
 
 ## Morrison County
 
 After Jeremy Pekula went on the radio asking whether the county commissioners were going to take action, he received another invitation to meet.
 
-In mid May, after speaking on the radio alongside Jeremy in the morning, we met that afternoon with the County Administrator, two county commissioners, the head election official, and the deputy election official.
+In mid May 2022, after speaking on the radio alongside Jeremy in the morning, we met that afternoon with the County Administrator, two county commissioners, the head election official, and the deputy election official.
 
 We shared some of the information already discussed in this book.
 
@@ -264,7 +262,7 @@ So far they have not agreed to do so.
 
 ## Stearns County
 
-Growing up, even while living overseas in Gabon, Indonesia, or China, my family would return to Minnesota every year, usually over the summer, to visit our family. Often we would stay at my aunt and uncle's home in St. Cloud (sometimes in Stevens County, where my mother grew up).
+Growing up, even while living overseas in Gabon, Indonesia, or China, my family would return to Minnesota every year, usually over the summer, to visit our family. Often we would stay at my aunt and uncle's home in St. Cloud (and sometimes in Stevens County, where my mother grew up).
 
 Sandy Klocker and I first met outside the building at the Cyber Symposium held in Sioux Falls, South Dakota, in August 2021.
 
@@ -276,7 +274,7 @@ Sandy went to many commissioner meetings, alongside others, and was a leading vo
 
 ![Collegeville Township Supervisors](collegeville.jpg)
 
-Stearns County seems to be going the wrong direction with regard to integrity, having recently, in Collegeville, seemed poised to move away from in-person in-precinct voting, choosing to limit voters to the mail-in only option. After making that decision, Sandy spread the word, and 150 people showed up in the pouring rain... her township reversed the decision.
+Stearns County seems to be going the wrong direction with regard to integrity, where in Collegevill in 2024 they seemed poised to move away from in-person in-precinct voting, choosing to limit voters to the mail-in only option. After making that decision, Sandy spread the word, and 150 people showed up in the pouring rain... her township reversed the decision.
 
 ![Collegeville Township Supervisors](150.jpg)
 
@@ -284,9 +282,9 @@ Advocates like Sandy have raised awareness and continue to hold strong even when
 
 ## Sherburne County
 
-Teri Dickinson was very effective in organizing people to attend county commissioner meetings in Sherburne County starting in early 2022 if not well before. She even once gave up her precious speaking slot to give me three minutes to anchor a slate of speakers including Kari Watkins, who that day shared details from the Halderman report. I stressed the opportunity for the commissioners to take in all the information and find it in themselves to make history by removing the machines. Later I learned that on that day, 246 years prior, was the Battle of Lexington and Concord. History indeed!
+Teri Dickinson was very effective in organizing people to attend county commissioner meetings in Sherburne County starting in early 2022 if not well before. She even once gave up her precious speaking slot to give me three minutes to anchor a slate of speakers including Kari Watkins, on April 19, 2022, my first time speaking in a county commissioner setting. I stressed the opportunity for the commissioners to take in all the information and find it in themselves to make history by removing the machines. Later I learned that on that day, 246 years prior, was the Battle of Lexington and Concord, if the history can be relied upon... History indeed!
 
-The Sherburne county commissioners refused to (so far) have a public hearing or agenda item during the county commissioner board meeting despite multiple weeks of open forum comments [like Rick Weible's here](https://rumble.com/v15hs5h-voting-improvements-sherburne-county-may-3-2022.html) sharing critical vulnerabilities with Sherburne's modern electronic voting equipment. This inability to listen or disinterest in the facts led Kari Watkins to step up and run for county commissioner herself.
+The Sherburne county commissioners refused to (so far) have a public hearing or agenda item during the county commissioner board meeting despite multiple weeks of open forum comments [like Rick Weible's here](https://rumble.com/v15hs5h-voting-improvements-sherburne-county-may-3-2022.html) sharing critical vulnerabilities with Sherburne's modern electronic voting equipment. This inability to listen or disinterest in the facts led Kari Watkins to step up and run for county commissioner herself. She later would become a town board supervisor.
 
 Sherburne would later take center stage in two cases. 
 
@@ -336,7 +334,7 @@ Now, interestingly, after some considerable delays from county auditors, county 
 
 With the cast vote record file, the ballot images, and the paper ballots, those three pieces of information let anyone see that elections are secure without any detriment to the security of those systems. This was ostensibly the tradeoff Americans made when ushering in the electronic voting systems in the early 2,000s. (There is whistleblower testimony from the warehouses that produced the hanging chads for Palm Beach County, Florida, that even that spectacle was planned, as discussed in Chapter 1.) 
 
-As awareness about cast vote records grew, articles appeared, such as in MinnPost, contributed to by Max Hailperin, who is close with Secretary Simon, indicating that cast vote records are not very useful. This was a pivot once Mike Lindell’s nationwide call for these records encouraged many to not merely ask for them but properly request them. In Minnesota, Chapter 13 details data practices. It could no longer be denied that they existed, as had occurred for me the first time receiving such a notice from the Todd County Attorney in early Spring 2022.
+As awareness about cast vote records grew, articles appeared, such as in MinnPost, contributed to by Max Hailperin, who is close with Secretary Simon, indicating that cast vote records are not very useful. This was a pivot once Mike Lindell’s nationwide call for these records encouraged many to not merely ask for them but properly request them. In Minnesota Statutes, Chapter 13 details data practices. It could no longer be denied that they existed, as had occurred for me the first time receiving such a notice from the Todd County Attorney in early Spring 2022.
 
 Curiously, in the 93rd Legislature, in May 2023, two things happened that were far from the only notable amendments to what is now about 536 pages of election law (much longer than all the laws in the [original Minnesota law book from 1849](https://erikvanmechelen.substack.com/p/too-many-laws)). 
 
@@ -359,15 +357,15 @@ The team in Anoka County grew.
 
 They meet weekly, on Mondays. Emails go out, which I’m cc’d on, before and after the meeting, with agenda topics, and follow-ups. They work in small groups between meetings, on the six main topics they are focusing on, including hand counts.
 
-One of their team, Lisa, invited me to a town board meeting in Linwood where I learned the clerk knew about cast vote records and was in my opinion in favor of hand counts. 
+One of their team, Lisa, invited me to a town board meeting in Linwood in 2022 where I learned the clerk knew about cast vote records and was in my opinion in favor of hand counts. 
 
-The group is a steady 16 or 17 people now. 
+The group is a steady 15-20 people now, as of 2025, including from nearby counties. 
 
 What groups do you know about that meet every week, face to face, spending hours before and after these meetings, and between meetings, preparing and following up on to-dos, open questions, and activities to educate the public, their local political parties, and elected officials? 
 
-I don’t know many with such commitment. Most church-goers, and this group is mostly if not all of a Christian faith, only attend service once per week and don’t do much in-between.
+I don’t know many with such commitment.
 
-One day, seemingly out of the blue (this happens a lot in our world—we plant the seeds and God brings the rain) the commissioners decided to put in a public comment period, at the end of the commissioner board meeting. Anyone could speak on any topic, but it was a good opportunity to help them learn and get on the public record about election integrity. I spoke two or three times more alongside the team before the commissioners and we started putting [recordings of these speeches online](https://projectminnesota.com/anoka) because the county turned off the live recording during this public comment period, strangely.
+One day, the commissioners decided to put in a public comment period, at the end of the commissioner board meeting. Anyone could speak on any topic, but it was a good opportunity to help them learn and get on the public record about election integrity. I spoke two or three times more alongside the team before the commissioners and we started putting [recordings of these speeches online](https://projectminnesota.com/anoka) because the county turned off the live recording during this public comment period, strangely.
 
 The team gave about 80 speeches to the Anoka County commissioner board before shifting focus to cities.
 
@@ -382,19 +380,11 @@ The fact that they are being invited speaks volumes about their credibility, the
 Relevant too are the two election integrity resolutions which have been passed in multiple counties at the precinct caucus and basic political organizing unit (BPOU) level, including in the Minneapolis BPOU where the party still advocates openly for misplaced ideas like early voting, which actually help those with access to those systems cheat, if they want to. 
 Finally, in Anoka, what is further relevant is I predict the southern cities will one day soon take interest as well. 
 
-Because, besides what is happening to the children, of which the United States of America is the major customer and consumer if not worst offender of any country in the world, election integrity is what will unite Minnesotans and Americans. 
-
-Because election integrity ensures a process that can replace representatives, officials, and legislators if they forget who they work for. 
-
-These are our elections. We need to know how they work. The German Supreme Court banned electronic voting, deciding that every voter should understand how their vote is counted. 90% of countries use a hand count. Mail in ballots are not tried almost anywhere outside the United States.
-
-The fact is that most Americans could not tell you how their vote is counted. And although that is by design, to believe our elections are legit is a lie we cannot continue living. 
-
-I’ve been in a few dozen counties worth of county commissioner meetings, mostly in 2022, and these men and women of ACEIT are some of the best, if not the best, as a group, that I’ve seen. And I don't see them ever stopping until everyone in Minnesota has a chance to learn what they've learned.
-
-Or, at least in Anoka County, where they call home.
-
 On April 29, 2024, one of their projects bore fruit, when the Oak Grove City Council voted 5-0 in favor of expanding their post-election reviews—**a hand count audit**—to all four of their city's precincts for all races with more than one candidate. I imagine this will ignite the spirit of many more city councils in Anoka County and around the state.
+
+Oak Grove and Ramsey later canceled their electronic poll pad agreements as well. In Oak Grove's case, it was prior to the 2024 general election, prompting a letter which included input from the county auditor, county attorney (threatening felonies if paper poll books were used instead of electronic) and input from the Minnesota Secretary of State, Steve Simon, all trying to argue that cities HAD to use electronic poll pads, even though the Minnesota Statutes say the cities can decide for themselves. 
+
+In 2025, two commissioners voted AGAINST buying new KNOWiNK poll pads, what some view as the Trojan horse of Minnesota elections. 
 
 ## Other Counties
 
@@ -406,12 +396,8 @@ Each conversation keeps me up to speed on the goings-on and helps me learn or im
 
 Never think that your work is going unnoticed. And even if it does seem to be, remember that small actions ripple outward to affect those around you...
 
-In the coming months, I expect to be able to help more counties and teams again as we prepare for 2024 and look forward also to the 2026 midterms where there is a chance to flip our state toward the revival it needs.
-
-When we have free and honest elections with integrity, every Minnesotan, and every American, wins, especially the children and those yet to come.
-
 ***
 
 Even with the defense phase (cover up and destruction of evidence) of the election coup falling apart, so far no county commissions (in Minnesota) have decided to return to hand counting paper ballots as many of their constituents desire—instead, counties plan to run elections on very similar if not the same software which managed the 2020 election. This would be unwise if fair and transparent elections are desired.
 
-I fully support the many people continuing to go to their county commissioner board meetings to inform them of available fixes to restore trust to all voters.
+I fully support the many people continuing to go to their county commissioner board meetings to inform them of available fixes and simple alternatives to voter registration, tabulation, reporting, and verification. [Examples exist](https://basedelections.org/pep).
