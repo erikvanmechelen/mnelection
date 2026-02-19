@@ -5,71 +5,49 @@
 
 — Nathan
 
-*"Be the change you seek."*
-
-— Andrei
-
 ***
 
-In Minnesota, we have paper ballots, yes, but computer scans of those ballots are counted instead of the ballots themselves. There's no clear path to reviewing or auditing the digital records and therefore, with ballots and records likely not retained from previous elections, it's becoming difficult to even say, for sure, what happened. All this has led to the people wanting change. 
+In Minnesota, we have paper ballots, yes, but computer scans of those ballots are interpreted instead of the ballots themselves. That is called a cast vote record, which has two components, the record itself (detailing which candidate received a vote for each election on the ballot) and the ballot image that this designation was decided upon by the same computer (the electronic tabulator) which scanned in the voter's ballot.
 
-What change? To a process that everyone can understand and verify for themselves. That would be [beautiful](https://projectminnesota.com/beautiful), wouldn't it?
+Even though ballot images (standard since 2005 - CHECK DATE) COULD be included in a standard audit, they are not required to even be reviewed by any election judge, city clerk, elections manager, or county auditor. It may seem there's no clear path to reviewing or auditing the digital records and therefore, with ballots and records likely not retained from previous elections, it's becoming difficult to even say, for sure, what happened, in ANY election occurring prior to 22 months ago (this is the federal preservation of records duration under 52 USC § 20701, with penalties outlined in § 20702). 
 
-Measureable desire for change was already clear on August 9, 2022. My roughly 90-day Minnesota Secretary of State campaign garnered about 36.8% of the vote (nearly 111,000 votes) running as a republican alternative to the MNGOP-endorsed candidate—after being effectively blocked from the endorsement process—but that was only part of the beginning of my education into the system of control that is our election system. 
+The basic sense that audits are not being done has decreased confidence and led increasing numbers wanting change. 
 
-During the brief campaign, input from political consultants was not sought and no campaign donations were accepted. Instead of a traditional campaign, which allows money to be funneled around and messages to be diluted or tailored to the political machine's liking, the focus was on education and action. Instead of focusing on events, county commissioner meetings were attended with the people. When invited to speak, in one case by a non-party affiliated group, and another time by an endorsed Republican candidate, uniparty operatives tried to influence the organizers, who did not back down to the pressure.
+What change? To a process that everyone can both comprehend and verify for themselves. That would be [beautiful](https://projectminnesota.com/beautiful), wouldn't it?
 
-Running on a single issue, to repair elections with a particular focus on the tangled yet sophisticated web of the electronic voting system, was surprisingly simple and welcome. A bulk of the campaign was spent trying to get counties to turn over their cast vote records and ballot images; only one Minnesota county did for 2020 (Fillmore), about a month after I was given the first cast vote record file to my knowledge ever shown to the public, from the Chisago County primary election of August 9, 2022. 
+Measureable desire for change was already clear on August 9, 2022. A scarcely 90-day campaign for Minnesota Secretary of State achieved about 36.8% of the vote (nearly 111,000 votes) running as a republican alternative to the MNGOP-endorsed candidate—after being effectively blocked from the endorsement process—but that was only part of the beginning of my education into the system of control that is our election system. It wasn't until later that I sat down to read the more than 500-page rule book known as the election statutes and combine that information with my experience speaking with advocates, county auditors, city clerks, county commissioners, and numerous non-government advocates for fair and auditable elections. 
 
-At the end of the previous year (2021), Crow Wing County commissioners with great encouragement from the people passed a resolution seeking to audit their county's 2020 election, a request which Minnesota Secretary of State Steve Simon promptly denied in early January, 2022, keeping the inner workings of the system closed to public viewing. 
+During the brief campaign, input from political consultants was not sought and no campaign donations were accepted. Instead of a traditional campaign, which allows money to be funneled around and messages to be diluted or tailored to the political machine's liking, the focus was on education and action. Instead of focusing on speaking events, county commissioner meetings were attended with the people. When invited to speak, in one case by a non-party affiliated group, and another time by an MNGOP-endorsed Republican candidate, MNGOP operatives tried to influence the organizers into cancelling: they did not back down to the pressure.
 
-But even with the above 'run for office', I was somewhat late to the game. But there's no doubt I became fascinated. Maybe my early career work in an IT-adjacent department for a Fortune 100 helped me have just enough understanding about computers to follow the basic plot. Or maybe it was my interest in the tabletop board game Diplomacy, apparently one of JFK's favorites, where there are no rules against nor to penalize cheating. 
+Running on a single issue, to repair elections with a particular focus on the tangled yet sophisticated web of the electronic voting system, was surprisingly simple and welcome. A bulk of the campaign was spent trying to get counties to turn over their cast vote records and ballot images (which at the time were still unclassified, public records); only one Minnesota county did for 2020 (Fillmore), about a month after I was given the first cast vote record file to my knowledge ever shown to the public, from the Chisago County primary election of August 9, 2022. 
+
+At the end of the previous year (2021), Crow Wing County commissioners with great encouragement from the people passed a resolution seeking to audit their county's 2020 election. Instead of doing the audit themselves, though, they sent a request for help from the Secretary of State, Steve Simon. He rather quickly denied this request in early January, 2022, keeping the inner workings of the system closed to public viewing.
+
+But even with the above 'run for office', I was somewhat late to the thinking about the Election System. Maybe my early career work in IT for a Fortune 100 helped me learn just enough about computers to follow the basic plot. Or maybe it was my interest in the tabletop board game Diplomacy, apparently one of JFK's favorites, where there are no rules against nor to penalize cheating. 
 
 My vantage point into the opaque election system had only begun months earlier in an inquisitive way, around summer of 2021, online, through a Telegram group seeking Minnesota's first true audit. Shortly after joining the online chat channel and volunteering to help out with communications, I was invited to a convention in South Dakota.
 
-I would become one of perhaps only a few dozen people at each of the Cyber Symposium in Sioux Falls, South Dakota in August 2021, The Moment of Truth Summit in Springfield, Missouri, August 2022, and the Election Crime Bureau, Springfield, Missouri, in August 2023. From preparation for, participation in, and reflection on those multi-day events, I learned a great deal and realized how much more there was to learn. 
+I would become one of perhaps only a few dozen people at each of the Cyber Symposium in Sioux Falls, South Dakota in August 2021, The Moment of Truth Summit in Springfield, Missouri, August 2022, and the Election Crime Bureau, Springfield, Missouri, in August 2023. From preparation for, participation in, and reflection on those multi-day events, I learned a great deal and realized how much more there was to learn. Those events were hosted by Mike Lindell, currently running for Governor of Minnesota in 2026.
 
 In 2022 I attended a number of county commissioner, city council, and township supervisor meetings in a number of Minnesota counties, such as Dakota, Sherburne, and Wright, as well as various meetings with election officials, county election managers, and clerks included in the normal flow of elections (public accuracy tests in Wright or a canvassing/certification meeting in Hennepin) and sometimes because something had gone wrong (e.g. Dakota's 2021 school board election).
 
-In late 2022 and into 2023 my focus shifted to the budding group in Anoka County, which later decided to call themselves the Anoka County Election Integrity Team, or simply ACEIT, pronounced "Ace it". That team became a hub for advocates from a number of counties, including Ramsey, Washington, Hennepin, and between 5 and 7 counties were represented (at the citizen level) for the 2024 Anoka County Canvassing/Certification Board meeting, an example of ACEIT's impact. The group had educated its commissioners and supported a number of cities in not only asking to be including in the automatic hand count audits (called post-election reviews) but also in one case, the City of Oak Grove, of cancelling their KNOWiNK electronic poll pad leasing contract with Anoka County. ACEIT has done great work to help raise considerable awareness about the increasingly centralized system.
+In late 2022 and into 2023 my focus shifted to the budding group in Anoka County, which later decided to call themselves the Anoka County Election Integrity Team, or simply ACEIT, pronounced "Ace it". That team became a hub for advocates from a number of counties, including Ramsey, Washington, Hennepin, and between 5 and 7 counties were represented (at the citizen level) for the 2024 Anoka County Canvassing/Certification Board meeting, an example of ACEIT's impact. The group had educated its commissioners and supported a number of cities in not only asking to be including in the automatic hand count audits (called post-election reviews) but also in one case, the City of Oak Grove, of cancelling their KNOWiNK electronic poll pad leasing contract with Anoka County. ACEIT has done great work to help raise considerable awareness about the increasingly centralized system. Oak Grove's action led to a letter, ostensibly sent by Anoka Elections Manager Tom Hunt, with clear help from Anoka County Auditor Brad Johnson, which also quotes Steve Simon, the Minnesota Secretary of State, to the election judges throughout Anoka County just ahead of the 2024 general election warning them not to use paper poll books, or else face a felony charge. 
 
-It is a system with many features. Cheating can happen before and after the polls close. Absentee mail-in voting is out of control. Votes can be hijacked from people who didn't even vote. A ballot inserted into a tabulator won't necessarily read a voter's choices accurately. After unofficial results are in and after those unofficial results are made official through certifications at the county and then state canvassing boards, without properly checking the accuracy of the results, legitimate and proper audits—sometimes called full forensic audits—are avoided by the powers that be at all costs. 
+The Election System is a system with many features. Cheating, the definition of which differs from what is legal, can happen before and after the polls close. Absentee mail-in voting, in my opinion, is an avenue for cheating, even if the process is legal. There are many more areas open to cheating, as will be discussed at length. 
 
-Indeed, the attempts to block even basic questions being asked has alerted many, many more to the seriousness of the issue. So you're saying I can't ask questions, but you're also saying everything is fine? There's a moment in Star Wars: A New Hope, where, in the detention corridor command post, while he and Luke Skywalker are in the process of rescuing the Princess, Han Solo decides to blast the communication link because he wasn't able to answer the questions being asked. "Boring conversation anyway... LUKE, WE'RE GONNA HAVE COMPANY!"
+The first edition in 2022 of this book was written quickly during the 2022 SOS campaign and contained many mistakes. (The second edition edited in even less time, 2024, with this quick update occuring on a single day, March 9, 2025.) Thankfully readers were forgiving and even shared it both with one another and with their county commissioners, making it an uncensorable resource for truth and an antidote to wilful ignorance and plausible deniability. Indeed, one of the commissioners shown this resource in 2022 in early 2025 voted against the purchase of new KNOWiNK electronic poll pads. Even though he was on the losing side of the vote, that commissioner showed he was listening and working to improve things from his position.
 
-The administrators of elections did get company. A deluge of emails. Phone calls. In-person meetings. And yet, despite the questions and clear demand for openness with respect to public government work and records, as if to demonstrate they'd learned little from the aftermath of 2020, only 1 of the 87 Minnesota counties even released the automatically-generated cast vote record (CVR) reports from Minnesota's August 9, 2022 primary election. (Or they had learned it was best not to give the people anything to go on.)
+In this now fourth edition, corrections have been made and updates are offered in the following areas:
+- The Rules of the Game
+- Every Voter Wins
+- An Input/Output System
+- The 6 Phases: Voter Registration, Absentee Ballots, Election Day, Election Night, Reporting, Audits
+- Freedom of Information
+- Hennepin County Data Requests (KNOWiNK ePoll Pad Ballot Printers) 
+- Beautiful Elections
+- Potential Legislation 
 
-Readers may wonder how the solitary report was attained. It was by email in PDF format [from Chisago after a phone conversation](https://www.projectminnesota.com/how-one-voice-can-be-the-change/), whose county election manager had promised to provide the report (but not the ballot images, which the computers read to interpret the vote tallies) after admitting election records from 2020 were not retained the federally required 22 months thanks to a Hart vendor software update seemingly quite similar to the Trusted Build that led to the Tina Peters story in Mesa County, Colorado.
-
-Like any election, without a full forensic audit of ballots, ballot envelopes, election equipment, and registration systems, the integrity of the systems, process, and results can never be confirmed by the voters, which was reason enough for countries like Germany to do away with electronic voting equipment altogether. Many countries have banned both mail-in voting and electronic equipment, for obvious reasons, but reasons that will be unpacked in this book. 
-
-A friend asked me in early 2024: How *unreliable* do we want our elections to be?
-
-Fifth graders, who cannot lawfully vote (yet)—although 16 and 17-year olds are now pre-registered in Minnesota—should be able to understand how votes are counted. From the optimistic viewpoint, we are poised as a country and state to return to manual hand counting and tallying of paper ballots (which fifth graders could understand) in small, manageable precincts on election day. Examples from France to Taiwan are there for us to learn from if need be. Mail-in voting could be outlawed and voters will have to show some form of identification to prove citizenship and local residence to receive a ballot. Then everything gets counted by humans under video surveillance (even livestreamed) for anyone to watch or review after the fact.
-
-The simplicity of this overall approach, and its extremely low cost, when considering many have and will volunteer for such a service to their local city, town, or county, will make future generations frown in disbelief at how we even went down the insecure electronic road (combined with mass mail-in) and indeed how long it took to right the ship, to reclaim control over our government, a necessary task given larger issues of contention to come.
-
-To distract from genuine reports from citizen journalists depicting this lack of transparency and obstruction of public data releases, election corruption deniers—starting with the mainstream media—endlessly parroted and continue to repeat tired talking points. Safest and most secure! Not connected to the internet! A perfect election! So effective is their repetition that some come to believe their banal lies. The narrative is very important. Propaganda, with the current tools, is VERY cheap, especially to a population that on balance does not think, that is meanwhile addicted to propaganda. A neighbor recently said, "The election is over." Maybe that's what they want you to think.
-
-So strange is this effect that it might be compared to Mr. Smith taking over a civilian's body in *The Matrix*. Most election clerks and auditors robotically claim they are following election law and election guides from the secretary of state—some making these remarks with a smirk on the edge of their mouths—while withholding basic data requested from their offices in violation of data practice laws. This effect is so odd that one can start to seriously consider whether AI-implemented mind control tech has not already been rolled out en masse, or if indeed the thought of upsetting one's superiors, or the electronic vendor, is too much to bother with. 
-
-And still potential allies ask, Where's the proof? 
-
-But we can counter... Were there ever any actual problems with a simple hand count of paper ballots in small precincts? Was the purpose of more technology concentrated in a handful of companies really to make our elections *less* transparent? Less comprehensible? With databases like the voter rolls and registrations and poll worker data increasingly centralized in the hands of secretaries of state? (And in cases like Konnech, Inc., alleged to be stored on Chinese servers, whose product, PollChief, operates in cities like Minneapolis and used to, in cities like Detroit, where the revelation caused backlash and cancellation.)
-
-Or could it be that the intricately connected companies and organizations comprising the election process like Runbeck, Dominion, Election Systems & Software (ES&S), Scytl, Edison Research, ERIC, Konnech, BPro, and KNOWiNK (and all the various private entities and sources of funding) be exactly what it looks like? 
-
-In 1910 men representing a quarter of the planet's wealth [secretly met on Jekyll Island](https://rumble.com/v1cbydb-eustace-mullins-secrets-of-the-federal-reserve-speech.html) to prepare the way for The Federal Reserve Act of 1913 (originally the Aldridge Act, which was then copied from the opposing political party), which Minnesota's Charles A. Lindbergh Sr. opposed, suggesting its passage meant selling the nation's children and grandchildren into slavery. 
-
-The Federal Reserve Act of 1913 established a banking cartel. What we are witnessing now is the exposure of the election cartel and all its players, who play for keeps.
-
-At day's end the illusion of a functioning election process is just one of many programs to uninstall from society, alongside global financial controls like the Fed and central banks, medical tyranny orchestrated by the WHO and its allies, the captivity instantiated by one's USA Inc. birth certificate and social security number, and the daily chem trails threatening all of Life.
-
-This deprogramming, deconditioning, and cleanup is necessary because the current settings enable too much harm to be done, especially to those who cannot protect themselves, like children.
-
-The first edition in 2022 of this book was written quickly during the SOS campaign and contained many mistakes. (The second edition edited in even less time, 2024, with this quick update occuring on a single day, March 9, 2025.) Thankfully readers were forgiving and even shared it both with one another and with their county commissioners, making it an uncensorable resource for truth and an antidote to wilful ignorance and plausible deniability. Indeed, one of the commissioners shown this resource in 2022 in early 2025 voted against the purchase of new KNOWiNK electronic poll pads. Even though he was on the losing side of the vote, that commissioner showed he was listening and working to improve things from his position.
-
-In this now third edition, corrections have been made and updates are offered in the following areas—lists for 2nd edition and 3rd below: 
+Lists for 3rd and 2nd editions below: 
 
 3rd edition
 - missing information related to the Trojan horse of Minnesota elections, the electronic poll pad software system from KNOWiNK, a 3rd party private vendor with considerable access to election data, with the capability to monitor and modify data
@@ -86,8 +64,11 @@ In this now third edition, corrections have been made and updates are offered in
 - anecdotes and snippets from meetings and conversations with grassroots leaders country-wide (throughout)
 - moved the anecdote about living one year in Beijing (Appendix)
 - included Susan Smith's post-trial brief relevant to all Minnesotans (Chapter 6) - [read the brief now right here](https://www.dropbox.com/scl/fi/crysjx7m3pae19bexqqpy/24-04-26-Smith-Post-Trial-Brief.pdf?rlkey=q7pwxrtuqgz83y2mc6iv428ow&dl=0) as well as a FICTIONAL version as an excerpt from an upcoming book
+(REMOVE THIS ONE?) 
 
 As a mentor has said, the stories of these times will be told around the campfire, passed down from generation to generation. Please bear that in mind as what is shared in this book comes merely from my experience, a way to put my observations, recollections, and insights into readers' hands. 
+
+It is intended to start a statewide conversation. 
 
 Therefore, do not take anything here as authoritative but rather take the information on board to consider and to verify for oneself. It is sometimes hard but often refreshing to discover one has been quite wrong about something. If only to take responsibility for any harm done and to prepare to learn the next thing one is wrong about or about which he had barely even considered.
 
@@ -97,3 +78,6 @@ And there is much more to do.
 
 Erik van Mechelen
 March 9, 2025
+
+NOW 2026 WHOA 
+March ??? 2026
