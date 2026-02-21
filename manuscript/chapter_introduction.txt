@@ -72,6 +72,7 @@ In this now fourth edition, corrections have been made and updates are offered i
 - Hennepin County Data Requests (KNOWiNK ePoll Pad Ballot Printers) 
 - Beautiful Elections
 - Potential Legislation 
+- Previous chapters such as Preparation, Attack, Backup Attack, and Defense have moved to the Appendices
 
 Lists for 3rd and 2nd editions below: 
 
