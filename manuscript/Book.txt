@@ -1,4 +1,5 @@
 chapter_introduction.txt
+sosrole.txt
 rulesofthegame.txt
 chapter_everyvoterwins.txt
 foia.txt
