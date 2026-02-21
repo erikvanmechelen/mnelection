@@ -4,15 +4,17 @@ Currently the elected Minnesota secretary of state gets to appoint several leade
 
 The Minnesota secretary of state himself/herself, is also the head elections official, and counted on for partnerships with counties, municipalities, and school districts for election education and administration. 
 
-The Office is currently scored, according to the governor's annual report, on items like voter turnout and proportion of absentee ballots.
-
-[insert image showing governor report card]
-
 In the almost 12-year tenure of the current secretary of state, the Office has influenced considerable legislative changes to the rules of elections. The current 500-page PDF containing statutes and rules is made up of 368 pages of statutes and a further 132 pages of rules.
 
 To consider the impact of these rules, let's for take voter registration and the voter registration system specifically (see § 201.022). Subd 1. Establishment. reads, "The secretary of state shall maintain a statewide voter registration system to facilitate voter registration and to provide a central database containing voter registration information from around the state. The system must be accessible to the county auditor of each county in the state..." while Subd. 2. Rules. reads "The secretary of state shall make permanent rules necessary to administer the system required in subdivision 1."
 
 But in a decentralized system, shouldn't the county auditors control their registration data instead of having to access the centralized system, for which rules are made by a third party (in this case, the secretary of state)? This is just one specific example where a simple legislative change starts in motion the technical and architectural changes required to truly decentralize away from the Office of the Secretary of State, while empowering county auditors and election managers to step up and own their own processes. 
+
+## The Potential Function of the Elections Division: Auditing Elections
+
+The Office of the Secretary of State is currently scored, according to the governor's annual report, on items like voter turnout and proportion of absentee ballots.
+
+[insert image showing governor report card]
 
 I think the Office should have an entirely different focus: auditing elections. 
 
@@ -21,6 +23,8 @@ Yes, there is already a state auditor, also elected every four years. That role 
 So, besides the county auditors and city clerks, whose ability to audit their own elections is currently limited by state statutes (the rules of the game), who within the governing body of Minnesota is responsible for carefully auditing the election results? 
 
 What if the Office of the Secretary of State's main elections function was to provide resources, assistance, and creative help to counties, municipalities, and school districts to not only properly run their elections but also to thoroughly audit them? This change of course could possibly represent the greatest impact to overall confidence in the governance model used in Minnesota today by providing verification of the key election steps at the most local level. 
+
+(There is also an argument for creating an elections auditor role within the Office of the State Auditor, where this role could serve as a check against overreach or negligence in the Office of the Secretary of State.)
 
 Since elections are rather frequent and occur on predictable timing, audit steps can be worked into [existing election calendars](https://www.sos.mn.gov/election-administration-campaigns/election-administration/election-calendars/). This minimizes 'startup investment' as the audits can be built into the regular election cadence. Probably a new role would be created with the Office, perhaps appointed by the secretary of state, called Director of Audits, or similar. This position would work closely with the Director of Elections but be focused exclusively on auditing. Probably it could be encouraged that campaigning secretary of state's name their intended Director of Audits before the election so that voters can also evaluate that individual's prior work experience related to election auditing, whether done as for just two examples, a county auditor or a citizen auditor. 
 
