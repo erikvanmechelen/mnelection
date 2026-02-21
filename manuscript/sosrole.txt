@@ -8,11 +8,11 @@ The Office is currently scored, according to the governor's annual report, on it
 
 [insert image showing governor report card]
 
-In the almost 12-year tenure of the current secretary of state, the Office has influenced considerable legislative changes to the rules of elections.
+In the almost 12-year tenure of the current secretary of state, the Office has influenced considerable legislative changes to the rules of elections. The current 500-page PDF containing statutes and rules is made up of 368 pages of statutes and a further 132 pages of rules.
 
-In recent years, 2020 - 2026, the secretary of state... voter registration, statewide voter registration system managed by the secretary of state (§ 201.022). Subd 1. Establishment. reads, "The secretary of state shall maintain a statewide voter registration system to facilitate voter registration and to provide a central database containing voter registration information from around the state. The system must be accessible to the county auditor of each county in the state..." while Subd. 2. Rules. reads "The secretary of state shall make permanent rules necessary to administer the system required in subdivision 1."
+To consider the impact of these rules, let's for take voter registration and the voter registration system specifically (see § 201.022). Subd 1. Establishment. reads, "The secretary of state shall maintain a statewide voter registration system to facilitate voter registration and to provide a central database containing voter registration information from around the state. The system must be accessible to the county auditor of each county in the state..." while Subd. 2. Rules. reads "The secretary of state shall make permanent rules necessary to administer the system required in subdivision 1."
 
-But in a decentralized system, shouldn't the county auditors control their registration data instead of having to access the centralized system? This is just one specific example where a simple legislative change starts in motion the technical and architectural changes required to truly decentralize away from the Office. 
+But in a decentralized system, shouldn't the county auditors control their registration data instead of having to access the centralized system, for which rules are made by a third party (in this case, the secretary of state)? This is just one specific example where a simple legislative change starts in motion the technical and architectural changes required to truly decentralize away from the Office of the Secretary of State, while empowering county auditors and election managers to step up and own their own processes. 
 
 I think the Office should have an entirely different focus: auditing elections. 
 
