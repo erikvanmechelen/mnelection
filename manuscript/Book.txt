@@ -1,4 +1,5 @@
 chapter_introduction.txt
+rulesofthegame.txt
 chapter_everyvoterwins.txt
 chapter_1_brief_history.txt
 chapter_2_beginning_to_audit.txt
