@@ -1,34 +1,14 @@
 Auditing MN: The Rules of the Election Game
-
-Sos should be non-partisan - referee ONLY - and not have influence like they do today 
-
-
-ELECTIONS BUILT FOR/BY YOU (by you?) where EVERY VOTER WINS
-NEED A TRUSTLESS SYSTEM
-Also don’t trust the administrators 
-Shouldn’t have an SOS office with so much oversight/influence in elections. Should be the county auditors with WAY more power. 
-Andy lokken - should have been another review under § 206.89. 
-County question - asks SOS? (Don’t want to get sued)
-But county takes information that is bad from sos, then they can be opened up
-Association of County Attorneys (volunteer organization!) which meets to discuss election issues trending across the state 
-45-day thing
-Elections Measure the will of the people
-	Guy can’t get off couch to go vote… (he doesn’t want to vote) 
-	You can go to local precinct and vote (don’t need someone knocking on door)
-	Difficult to illegally cheat - there are legal cheats
-		Register US citizen, Hand count, … 
 		
-
-In Minnesota elections, as in every state, there are rules. These are referred to, sometimes, as election laws. They may be referred to as codes or statutes, too. The statutes aren’t the only rules: the statutes have been written to give the Minnesota Secretary of State the option to add rules or to clarify the statutes. (I think this is unnecessary.)
-
-INSERT - look at The United States Department of Defense Law of War Manual, section 7.7.1.1 (how to treat enemy dead)
-Lots of interesting rulebooks out there. For awhile in 2023 and 2024 I became quite interested in the DOJ’s Law of War Manual, which is basically describing the United States of America’s approach to (conflict). (Ruse’s are allowed… <— derek johnson, dufus! Lol ) It explains what is allowable by armed forces, In this way, if any non-American reads its..  non-American warriors know how they will be treated. More so, it is more likely a guide for training American forces. So they know what is on and not on. 
-END INSERT
-
 In any game, the point of rules is to provide for and to support fair play and general enjoyment for all involved. Pick a sport: if, in a game of that sport, a player goes outside the rules, other players, the referee, and sometimes the fans too bring the offending player or party back into line, whether through encouragement, enforcement authority innate to the referee’s position, or, in the case of fans, through booing or whistling aiming to embarrass. 
-Minnesota statutes for elections have developed in length and complication since the first Minnesota Statutes were published in 1858, shortly after Minnesota joined the union of states. Here, at the beginning of 2026, the current 2025 statutes fill about 500 pages in a PDF document, which is a decrease of 36 pages from the 2023 version. (If including the MNSOS’s additional rules, there are more than 500 pages.)
-The decrease from 2023 to 2025 is, for me, trending in the right direction—less is more—and I have throughout my last five years of thinking about this been able to reduce those 500 pages to a single page. That version (found in the Appendices), however, is only my ideal version. The goal of this book is to start a conversation among many, many thousands of Minnesotans. Last year, in 2025, I helped to send a three-page version of the statutes that I liked (written by someone else) to nearly every (if not every) legislator, to which there were exactly zero responses. 
-Maybe the legislators want to hear from you; after all, it is you who has decided to read this and think about it at depth—up your game and they will likely up theirs. To have a productive conversation, we need something to look at. These rules can be looked at, even examined in depth, tracing the history of amendments, through the Minnesota Revisor’s website. Downloading the most recent 2023 and 2025 statutes is a start in surveying the rules of this game we call elections. I encourage you to read not only those sections where you feel comfortable (election judges will have experience with election day statutes, or IT specialists will be at home in the software-related sections), but also those areas where you have previously spent less effort or time.
-One may further get a sense of the administrative side of elections by downloading the 2024 Election Judge Guide or the 2026 Combined Elections Calendar in .xlsx format here: https://www.sos.mn.gov/election-administration-campaigns/election-administration/election-calendars/ 
+
+In Minnesota elections, as in every state, there are rules. These are referred to, sometimes, as election laws. They may be referred to as codes or statutes, too. Minnesota statutes for elections have developed in length and complication since the first Minnesota Statutes were published in 1858, shortly after Minnesota joined the union of states. The statutes aren’t the only rules: the statutes have been written to give the Minnesota Secretary of State the option to add rules or to clarify the statutes. I think this is unnecessary and allows for secretary of state to push his or her agenda outside the realm of the statutes. The current rules, here at the beginning of 2026, make up 132 pages of the 500-page PDF of statutes and rules.
+
+The 36-page decrease from 2023 to 2025 is, for me, trending in the right direction—less is more—and I have throughout my last five years of thinking about this been able to reduce those 500 pages to a single page. That version (found in the Appendices), however, is only *my* ideal version. The goal of this book is to start a conversation among many, many thousands of Minnesotans. Last year, in 2025, I helped to send a three-page version of the statutes that I liked (written by someone else) to nearly every (if not every) legislator, to which there were exactly zero responses. 
+
+Maybe the legislators want to hear from you; after all, it is you who has decided to read this and think about it at depth—up your game and they will likely up theirs. To have a productive conversation, we need something to look at. These rules can be looked at, even examined in depth, tracing the history of amendments, through the Minnesota Revisor’s website. Downloading the most recent [2023](https://www.sos.mn.gov/media/d1tbgjsj/2023-minnesota-election-laws-statutes-and-rules.pdf) and [2025 statutes](https://www.sos.mn.gov/media/3k4hu2if/minnesota-election-laws-statutes-and-rules.pdf) is a start in surveying the rules of this game we call elections. I encourage you to read not only those sections where you feel comfortable (election judges will have experience with election day statutes, or IT specialists will be at home in the software-related sections), but also those areas where you have previously spent less effort or time.
+One may further get a sense of the administrative side of elections by downloading the [2024 Election Judge Guide](https://www.sos.mn.gov/media/4905/election-judge-guide.pdf) or the [2026 Combined Elections Calendar](https://www.sos.mn.gov/election-administration-campaigns/election-administration/election-calendars/).
+
 If one is interested in following current events (or examine previous proposed bills) in the Minnesota House or the Minnesota Senate, look for the Minnesota House Elections Finance and Government Operations Committee (meeting Mondays and Wednesdays, 1pm, in Capitol G23) and the Minnesota Senate Elections Committee (meeting Tuesdays and Thursdays at 3pm in Room 1200 Minnesota Senate Bldg)—both also have YouTube channels. Authored bills relating to elections would generally come before these committees before going to the full House or Senate. 
+
 But from what framework shall we analyze them? 
