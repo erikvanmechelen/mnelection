@@ -1,4 +1,5 @@
 chapter_introduction.txt
+constitution.txt
 sosrole.txt
 rulesofthegame.txt
 everyvoterwins.txt
