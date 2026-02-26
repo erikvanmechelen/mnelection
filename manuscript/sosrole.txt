@@ -16,7 +16,7 @@ But in a decentralized system, shouldn't the county auditors control their regis
 
 The Office of the Secretary of State is currently scored, according to the governor's annual report, on items like voter turnout and proportion of absentee ballots.
 
-[insert image showing governor report card]
+![Revised 2026-27 Biennial Budget, Office of Secretary of State Results](sos2023.png)
 
 I think the Office should have an entirely different focus: auditing elections. 
 
@@ -28,10 +28,12 @@ What if the Office of the Secretary of State's main elections function was to pr
 
 (There is also an argument for creating an elections auditor role within the Office of the State Auditor, where this role could serve as a check against overreach or negligence in the Office of the Secretary of State.)
 
+What's more, careful auditing could turn up issues which open the discussion for welcome changes. Detailed auditing, at present, is in service to all voters because, in part, our overworked elections staff may not be trained, not be skilled enough (cyber), or not be expected to audit areas that could be vulnerable.
+
 Since elections are rather frequent and occur on predictable timing, audit steps can be worked into [existing election calendars](https://www.sos.mn.gov/election-administration-campaigns/election-administration/election-calendars/). This minimizes 'startup investment' as the audits can be built into the regular election cadence. Probably a new role would be created with the Office, perhaps appointed by the secretary of state, called Director of Audits, or similar. This position would work closely with the Director of Elections but be focused exclusively on auditing. Probably it could be encouraged that campaigning secretary of state's name their intended Director of Audits before the election so that voters can also evaluate that individual's prior work experience related to election auditing, whether done as for just two examples, a county auditor or a citizen auditor. 
 
 When town clerks, city election officials, and county election managers are working together to show the people, each and every election, that their process was not only within the rules but truly legitimate, then a foundation of a competent auditing skillset and mindset will be birthed, bottom up. 
 
-A long term vision for the Office of the Secretary of State is likely to wind down its overall influence across three branches and limit it to the executive functions. Further, its overall influence at the local levels could be considerably decreased. Perhaps it can remain as a check against legislative ideas that reduce the auditability of the election process, from voter registration through to results, but one day this function may also no longer be needed. 
+A long term vision for the Office of the Secretary of State is likely to wind down its overall influence across three branches (it is an executive branch role with significant influence legislatively and judicially) and limit it to the executive functions. Further, its overall influence at the local levels could be considerably decreased. Often, local officials ask the Office of the Secretary of State for opinions about their election options when they might be better served inquiring of the legislators. Even in a significantly reduced role, perhaps the Office can remain as a check against legislative ideas that reduce the auditability of the election process, from voter registration through to results, but one day this function may also no longer be needed. 
 
-Finally, and this is probably the most obvious change needed: the secretary of state must be non-partisan, independent. No matter what the political parties look like today or tomorrow, the secretary needs the flexibility to embrace ideas from any major or minor political party and even ideas that are independent from the platforms of those parties, which can often themselves be influenced by what are today known as special interests, instead of the interest of the whole, which is the 'All Voters Win' philosophy of election administration. 
+Finally, and this is probably the most obvious change needed: the secretary of state must be non-partisan, independent. No matter what the political parties look like today or tomorrow, the secretary needs the flexibility to embrace ideas from any major or minor political party and even ideas that are independent from the platforms of those parties, which can often themselves be influenced by what are today known as special interests, instead of the interest of the whole, which is the "every voter wins" philosophy of election administration. 
