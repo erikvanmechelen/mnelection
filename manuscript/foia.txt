@@ -1,56 +1,35 @@
 {sample: true}
 # Freedom of Information
 
-*"Turn every page."
+In Robert A. Caro's autobiography, *Working*, he shares a lesson: "Turn every page." At the time, Caro was sifting through millions of files related to Lyndon B. Johnson. Since, the number of files declassified on topics from JFK to 9/11 to UFO/UAP are almost too many to read. 
 
-- Robert A. Caro in his autobiography, *Working*
+One of my Minnesota acquaintances who has educated me on regenerative farming has said that FOIA is one of the most powerful tools we currently have. I agree. Just focusing on election-related freedom of information requests, or what are sometimes called data requests or records requests in Minnesota, has left me with more avenues to explore than I can take on. "Turn every page," is, like any advice, situational. 
 
-*"Money is a constraint. Time is a constraint. Expertise is a constraint. Emotional stamina is a constraint. Reopening a question — tracing a chain of authority, reconciling contradictory records, holding an institution to its own rules — requires resources most citizens simply do not have. So disputes often terminate early, not because the citizen is persuaded, but because they are exhausted..."*
+As Martin Geddes has noted in his research in the UK court system, "Money is a constraint. Time is a constraint. Expertise is a constraint. Emotional stamina is a constraint. Reopening a question — tracing a chain of authority, reconciling contradictory records, holding an institution to its own rules — requires resources most citizens simply do not have. So disputes often terminate early, not because the citizen is persuaded, but because they are exhausted..."
 
-— Martin Geddes
+This reminded me of how it took former Michigan senator Patrick Colbeck several *years* and $2,500 just to force the government to give him public video of the election office where he was observing on November 3rd, 2020.
 
-OR Quote from Patrick Colbeck on the Video evidence, that he spent $2,500 to get, and 4 years
+## Minnesota Records Requests
 
-https://letsfixstuff.org/2024/05/exposed-detroit-election-night-reporting-process/
+The current election system does not immediately show the public that the rules are being followed. For just one example, consider that, while you are given an ‘I voted’ sticker, there is no confirmation that the computer tabulator that just took your ballot has 1) properly scanned a ballot image (essentially taking a picture of the ballot), or 2) interpreted the ovals you filled in accurately, or 3) saved the ballot image on the tabulator itself or any removable media (like a thumb drive). Neither can any of the election judges (poll workers) verify any of these three for you. Actually, there is currently no process existing that would demonstrate this to you. If the process cannot verify even one voter’s selections, how can it verify the aggregate? 
+
+Since the current system does not immediately show the work, FOIA is a useful tool to attempt to learn whether election process and rules have been followed. Instead of immediate gratification, which, I think, for elections, is a worthy aim, a voter who wants to learn about aspects of the election system is on balance made to wait quite a while. One must be patient. For instance, a simple request of the voter file (the voter rolls or voter histories) usually takes a matter of days to be delivered. 
+
+There are a number of areas one could look into, from any of the inputs (registration, ballots, vote counts) to the output (results) across the six phases (voter registration, absentee ballots, election day, election night, reporting, audits). For example, from an electronic process perspective, some Minnesotans wanted to know why modems (with network capability, and internet capability) were used in tabulators. One blocked records request in Rice County turned into [a three-year court case](https://bendasense.substack.com/p/rice-county-modem-case-argued-at) that went on appeal to the Minnesota Supreme Court, relating to non-certified modems in tabulators. 
+
+Prior to that, in 2020, one postelection review was missing ballots (about 800) and had ordered and had received delivery of a Dominion printer on the day of the postelection review. As this is not my story, but rather one for Dakota County and those in attendance, I will not go into details. One wonders how more information about this could have been requested officially and why not, for just one question, if ballots were missing, there needed to be a closed-door review three days later. If there were missing ballots, this should have triggered additional postelection reviews under § 206.89. 
+
+For my part, I participated in seeking cast vote records from all the counties. In 2022, if one wanted the ballot images or cast vote record reports (sometimes call ballot review reports for ES&S systems), one was promptly turned away, even though these are essential components of an audit of the computer tabulators themselves—if there are no ballot images, from which the tabulator immediatly interprets the ovals to add to its running tallies, then there is actually no proof at all that the computer scanners even performed to their most basic function, which is to tabulate votes. 
+
+Only one county (Fillmore) managed to produce its cast vote record report for the 2020 general election. Only one county (Chisago) did the same for the 2022 primary election, although this was done after it was admitted the county had committed (perhaps unknowingly) a federal violation by allowing their vendor, Hart Intercivic to, during a software update, archive the 2020 election in advance of the 22-month data retention period. 
+
+For emphasis: To my knowledge, no ballot images have ever been reviewed by a county auditor, much less shared with the public. In 2023, ballot images were made non-public (classified) data by the Minnesota Legislature. 
 
 
-***
 
-Difficult to turn every page if given WAY too many pages or if pages are heavily redacted OR the relevant information actually withheld for long periods.
 
-analogies/metaphors to chess/Go/Diplomacy - as seen on my substack comment here:
-also
-https://substack.com/@patelpatriot/note/c-205189493
-https://substack.com/@patelpatriot/note/c-207268462
-what are effective dates of SAVE act? - why would politicians save us? vs save themselves? 
 
-The current system does not immediately show the public that the rules are being followed. For just one example, consider that, while you are given an ‘I voted’ sticker, there is no confirmation that the computer tabulator that just took your ballot has 1) properly scanned a ballot image, or 2) interpreted the ovals you filled in accurately, or 3) saved the ballot image on the tabulator itself or any removable media (like a thumb drive). Neither can any of the election judges (poll workers) verify any of these three for you. Actually, there is currently no process existing that would demonstrate this to you. If the process cannot verify even one voter’s selections, how can it verify the aggregate? 
 
-Instead of immediate gratification, which, I think, for elections, is a worthy aim, a voter who wants to learn about aspects of the Election System is on balance made to wait quite a while. 
-(^ Expand on what is meant here…) 
-
-For instance, a simple request of the voter file (the voter rolls or voter histories) usually takes a matter of days to be delivered. In 2022, if one wanted the ballot images or cast vote record reports (sometimes call ballot review reports for ES&S systems), one was promptly turned away, even though these are essential components of an audit of the computer tabulators themselves—if there are no ballot images, from which the tabulator immediatly interprets the ovals to add to its running tallies, then there is actually no proof at all that the computer scanners even performed to their most basic function, which is to tabulate votes. Only one county (Fillmore) managed to produce its cast vote record report for the 2020 general election. Only one county (Chisago) did the same for the 2022 primary election, although this was done after it was admitted the county had committed (perhaps unknowingly) a federal violation by allowing their vendor, Hart Intercivic to, during a software update, archive the 2020 election in advance of the 22-month data retention period. 
-
-below is not MY story, so someone else should tell it - though i have seen pictures ... should have resulted in another set of postelection reviews in additional precincts, according to the rules laid out in Minnesota Statute § 206.89.
-^
-(ANDY LOKKEN, precinct 4950, didn’t have ballots, had ordered dominion printers, did a closed-door review 3 days later and came up with the ballots?, or at least submitted to SOS that they did… never verified by any observers or participants.) 
-
-More recent inquiries into new developments in computer technology have taken even longer for public access. (PUT STORY OF THE BALLOT PRINTERS KNOWINK NOW)
-
-Riff on this using EXAMPLE FROM SIMON SENSORS w/ Electronic Poll Pads: 
-https://newsletter.martingeddes.com/p/the-mother-of-all-ai-audits
-
-“
-AI changes the economics of attribution
-
-Modern democracies already give citizens formal tools: freedom of information laws, complaint mechanisms, judicial review, consultation processes, public records. In theory, the architecture of accountability exists.
-In practice, those tools are costly to use.
-
-Money is a constraint. Time is a constraint. Expertise is a constraint. Emotional stamina is a constraint. Reopening a question — tracing a chain of authority, reconciling contradictory records, holding an institution to its own rules — requires resources most citizens simply do not have.
-So disputes often terminate early, not because the citizen is persuaded, but because they are exhausted.
-“
-https://www.revisor.mn.gov/statutes/cite/13 
-https://www.revisor.mn.gov/statutes/cite/13.15
 
 Before going step by step through the Minnesota election system, I’d like to share by way of an example what it takes to gather data, records, and general information relating to the system through the normal records request process. 
 
@@ -78,17 +57,6 @@ I doubt many residents of Hennepin County were aware that ballot printers may ha
 
 Is such a flagrant violation of the law in Hennepin County (relating to absentee ballot processing) relevant for my inquiry into the electronic poll pad ballot printers?
 
-The Future of Freedom of Information
-
-Recent changes in the Minnesota legislature essentially required electronic tabulators to be used while precluding the public viewing of ballot images. Who cares? If one does not know, the ballot images are the computer picture that the tabulator (which is a computer) has taken of the ballot as it is fed or scanned in. The computer is incapable of directly reading the ballot to learn which ovals are filled in. Once it has the picture, it can then use its logic to read it—the stored results (the choices for each candidate or question) are the cast vote record for that ballot. The cast vote record concept is a standard set by the National Institute of Science and Technology (NIST) and the functionality is a requirement of electronic tabulators. The tabulator is unable to read the voter’s choices unless it has taken a picture of the ballot. Therefore, any ballot that has a cast vote record would have had to, at one point, have a picture taken of it. It is technically possible for the pictures to be deleted once the cast vote record assessment has been done. It is technically possible for both ballot images and cast vote records to be changed by the computer itself, and this has been found to have occurred (WHERE?). 
-
-The paragraph before this one gets to the heart of basic election records in Minnesota. Every ballot must go through a tabulator in Minnesota. Every one has a picture. That picture should match the ballot and should match the tallies associated. Yet this is not part of our normal audit process and the ballot images have been made classified. If ballot images are not declassified, the government should expect to receive requests to demonstrate they are being reviewed. 
-
-The ballot image example shows how legislative changes have made public auditing difficult, if not impossible. 
-However, there are numerous other areas, just in the election system, where the public records request process could be smoothened to increase confidence in government administrators and the overall election process. 
-(Have you ever done a records request for election data?) 
-
-
 Amendments to Chapter 13? 
 
 What would it take to strike the amendment to § 13… which made ballot images non-public (classified)? 
@@ -109,3 +77,47 @@ Look at § 203B.12 ABSENTEE VOTER NAMES. In Subd. 8. Names of persons; accepted 
 Within a town, city, or even county level - Number of EDR (election day registrations) by precinct (that occurred IN-PERSON vs by Absentee Ballot Application <-- WILD)
 
 Cast vote records... (since 2022, and even in 2025?, Hennepin County, receive 'no responsive data' lol) 
+
+
+
+
+
+***
+
+Difficult to turn every page if given WAY too many pages or if pages are heavily redacted OR the relevant information actually withheld for long periods.
+
+analogies/metaphors to chess/Go/Diplomacy - as seen on my substack comment here:
+also
+https://substack.com/@patelpatriot/note/c-205189493
+https://substack.com/@patelpatriot/note/c-207268462
+what are effective dates of SAVE act? - why would politicians save us? vs save themselves? 
+
+
+
+Instead of immediate gratification, which, I think, for elections, is a worthy aim, a voter who wants to learn about aspects of the Election System is on balance made to wait quite a while. 
+(^ Expand on what is meant here…) 
+
+
+
+below is not MY story, so someone else should tell it - though i have seen pictures ... should have resulted in another set of postelection reviews in additional precincts, according to the rules laid out in Minnesota Statute § 206.89.
+^
+(ANDY LOKKEN, precinct 4950, didn’t have ballots, had ordered dominion printers, did a closed-door review 3 days later and came up with the ballots?, or at least submitted to SOS that they did… never verified by any observers or participants.) 
+
+More recent inquiries into new developments in computer technology have taken even longer for public access. (PUT STORY OF THE BALLOT PRINTERS KNOWINK NOW)
+
+Riff on this using EXAMPLE FROM SIMON SENSORS w/ Electronic Poll Pads: 
+https://newsletter.martingeddes.com/p/the-mother-of-all-ai-audits
+
+“
+AI changes the economics of attribution
+
+Modern democracies already give citizens formal tools: freedom of information laws, complaint mechanisms, judicial review, consultation processes, public records. In theory, the architecture of accountability exists.
+In practice, those tools are costly to use.
+
+Money is a constraint. Time is a constraint. Expertise is a constraint. Emotional stamina is a constraint. Reopening a question — tracing a chain of authority, reconciling contradictory records, holding an institution to its own rules — requires resources most citizens simply do not have.
+So disputes often terminate early, not because the citizen is persuaded, but because they are exhausted.
+“
+https://www.revisor.mn.gov/statutes/cite/13 
+https://www.revisor.mn.gov/statutes/cite/13.15
+
+
