@@ -1,0 +1,119 @@
+# Audits
+
+Election auditor within Office of the State Auditor 
+
+
+
+Then we get to audits. The basic sense that audits are not being done has decreased confidence and led increasing numbers wanting change. What change? To a process that everyone can both comprehend and verify for themselves. That would be [beautiful](https://projectminnesota.com/beautiful), wouldn't it?
+
+
+TEST DECKS
+
+This public accuracy test is used as proof that the election machines ran smoothly - even though it happens BEFORE the election…
+The test is not adequate to consider a variety of scenarios…
+Blank ballots. Extra ballots provided by the public in the room. 
+Can it check the BALLOT IMAGES?  (No)
+Etc. 
+
+
+8220.1550 PUBLIC ACCURACY TEST. The election jurisdiction must hold a public accuracy test within 14 days prior to the election for the 
+purpose of demonstrating the accuracy of the computer programs and voting systems to be used at the election. The public accuracy test must be conducted according to Minnesota Statutes, section 206.83. 
+The time and place of the public accuracy test must be designated by the election jurisdiction providing the computer program, which must give at least 48 hours’ public notice of the time and place of the test by publication in official newspapers and by posting a notice in the office of the county auditor and each local election official conducting the test. 
+The test must be open to the public. At least two election judges of different political parties must witness the test. The chief election official of the election jurisdiction shall explain the methods and test procedures used to determine the accuracy of the computer programs. This will include submitting as public record the certificate prepared in accordance with part 8220.1450 that all precincts have been tested using the test deck prepared under the direction of the election jurisdiction. 
+2025 Minnesota Election Laws Page 439 
+The sealed container containing the computer programs, test deck, and predetermined results must be opened and the computer programs tested to determine their accuracy on the voting systems on which they are to be used on election day. The testing of the voting systems and programs must be with the test deck prepared under the direction of the election jurisdiction. In election jurisdictions with three or fewer precincts, all the precincts must be tested. In election jurisdictions with more than three precincts, a minimum of three precincts must be tested. One precinct from each congressional district, legislative district, county commissioner district, ward, and school district on the ballot must be tested. The official conducting the election shall select the precincts to be tested. 
+If an error is detected in any part of the testing, the cause must be ascertained, the error corrected, and an errorless count must be made on all precincts. At the discretion of the election jurisdiction, the meeting may be adjourned to a time and date certain. 
+Statutory Authority: MS s 206.57; 206.81; 206.82 
+History: 10 SR 1690; 20 SR 2787; 23 SR 459; 25 SR 616 
+8220.1650 ADDITIONAL TEST DECKS. Upon request, the secretary of state must be provided a set of blank ballots to be used as a test deck for 
+any state, county, municipal, special district, or school district election computer program. The secretary’s request shall indicate the number of blank ballots to be delivered for the test deck. The use of test decks provided by the secretary of state does not substitute for the requirement for an election jurisdiction to prepare and use a test deck in accordance with parts 8220.1050 and 8220.1150. 
+Statutory Authority: MS s 206.57; 206.81 
+History: 10 SR 1690; 17 SR 8; 23 SR 459 
+8220.1750 CERTIFICATE OF PUBLIC ACCURACY TEST. After the completion of the public accuracy test and an errorless count has been made, the election 
+jurisdiction must certify the results of the test conducted. The certificate must be signed by the witnesses. The certificate may be combined with the certificate required in part 8220.1450, item D. 
+Statutory Authority: MS s 206.57; 206.81 
+History: 10 SR 1690; 23 SR 459 
+8220.1850 SECURING COMPUTER PROGRAMS. 
+Immediately after certifying the results of the public accuracy test, the election jurisdiction must secure all computer programs, software utilized, test decks, certified computer results of the test, and the predetermined results in a container which must be sealed in a manner so that the container cannot be opened without breaking the seal. If a precinct count voting system is used to count ballots, it must be sealed with the memory pack containing the election programs inside. Attached to or inside the container must be a certificate describing its contents. The certificate must be signed by the witnesses. 
+All computer programs, test decks, and other related materials must be clearly identified to the voting system on which they were tested and must be used on no other voting system until tested in accordance with parts 8220.1550 to 8220.1850. 
+Statutory Authority: MS s 206.57; 206.81 
+History: 10 SR 1690; 23 SR 459 
+8220.1950 [Repealed, 20 SR 2787] 8220.2000 [Repealed, 10 SR 1690] 
+
+
+ELECTION NIGHT
+
+8230.4390 CERTIFICATE OF ELECTION JUDGES. The election judges shall sign a “certificate of election judges.” The certificate must state: A. the number of persons voting as shown on the summary statement; B. that the order of the offices and questions to be voted on and the candidates’ names on the ballots was 
+the same on the zero tape and the sample ballot; C. the number of ballots in the transfer case; D. that the ballots have been counted and agree with the number of names as shown on the summary 
+statement or that any discrepancy has been noted on the incident report; E. the number of excess ballots, if any; F. that all ballots requiring duplication were duplicated and are in the proper envelope; G. that the number of write-in votes for each office has been properly recorded, if this process was done 
+at the polling place; H. that all ballots used in the election and all ballots that have been duplicated have been placed in the 
+transfer case and the case was securely sealed with an official seal in such a manner as to render it impossible to open the case without breaking the seal; and 
+I. the numbers of any seals used to seal the transfer cases. 
+Statutory Authority: MS s 206.57; 206.81 
+History: 23 SR 459; 25 SR 616 
+
+
+
+
+
+
+
+BACKGROUND
+
+When I gained an interest in learning all about Minnesota elections, it made sense that an audit should be sought. I was told, that will not be easy. Surely we have audit capabilities in Minnesota, don’t we? 
+
+I have asked election judges, How were you able to sign the summary statement if there was no way of you knowing how the computer tabulator actually tallied the votes, or whether it even created a ballot image from which to tabulate them? This is a tough question if one doesn’t get how the electronic tabulators are supposed to function but I have also met election judges who have been dismissed by city clerks for even asking this question; another two resigned in protest at witnessing the (unethical) firing. 
+Usually about two weeks after the election an audit is done. Let us examine the advantages and disadvantages of this audit. 
+§ 206.89 POSTELECTION REVIEW OF VOTING SYSTEMS is the main statute to look at. 
+In Subd. 2. Selection for review; notice, it reads “At the canvass of the state primary, the county canvassing board in each county must set the date, time, and place for the postelection review of the state general election to be held under this section. The postelection review must not begin before the ninth day after the state general election and must be complete no later than the 14th day after the state general election.”
+Right away, the careful reader will notice a couple items: 
+1) There is no postelection audit for primary elections.
+2) The county-level certifications—which is the point of the county canvassing board meeting—will have already occurred, in every county, by the time the postelection reviews occur. To me, it is odd that the county-level certifications happen prior to doing this audit. (For further research, consider what options a candidate has if something significant were to be found in the postelection review occurring between the ninth and fourteenth day after a state general election.) 
+The second paragraph of Subd. 2 lays out how many precincts within each county will be selected for the audit. For simplicity, this averages out to about three percent (3%) of all precincts.
+Subd. 3. Scope and conduct of review. states that the only mandatory elections to review are for president or governor; United States senator; and United States representative. The last sentence reads: “The postelection review official may conduct postelection review of the votes cast for additional offices.”
+History: in 2024, 7 city councils within Anoka County had voted to pass resolutions in aggregate asking for 17 of their precincts to be included in Anoka County’s postelection review (including competitive down ballot races); the five-member canvassing board ignored this request and made no statement about it during the meeting, although they did increase the county-level reviews from four (4) to eight (8), again without providing any explanation as to what prompted that decision. When I wanted to make a point about this, the assistant attorney said no comments or questions were allowed. (When the meeting concluded, I stood up and explained to the crowd from at least seven counties, which included legislative experts friendly to the Office of the Secretary of State, what in my opinion had happened.) This was a significant opportunity for local government (at the city and county level) to use decision-making authority which was theirs to exercise. It should be noted that the official position from the Office of the Secretary of State’s Office is that a city cannot ask for all of its precincts to be audited because that would not be random (proof of this in a letter sent to Big Lake, in Sherburne County). 
+ [2/18/26, 7:17 PM
+
+did i let that go, or speak up?] 
+What ISN’T audited? 
+- The absentee ballot chain of custody - for instance, at the county canvass for the 2024 general election in Hennepin County, which I attended, there was no mention of the approximately 40-day violation of election law. I and others wondered, what sort of violation would constitute some form of accountability? (The election staff is quite senior in Hennepin County—this was not an honest mistake.) 
+(I’VE WRITTEN ABOUT THIS ELSEWHERE - PASTE HERE, Ginny Gelms, LOL.) At that meeting, I happened to be sitting next to the Deputy Elections Manager for Minneapolis. He had opened his laptop to show me some absentee ballot numbers on a spreadsheet. Moments later, I approached the table where the county canvassing board members sat and was told there were no comments or questions. I asked anyway whether some basic numbers for absentee ballots could be shared. The Hennepin County Elections Manager, Ginny Gelms (are we naming names?) was unable to provide them. Having been made to persist in even asking the question, one wonders what the right forum would be for the question and the answer. (For a separate illustration of Hennepin County’s approach to election transparency, see the Electronic Poll Pad Ballot Printer Pilot Data Request Conversation in the Appendices.) 
+- … 
+- …. 
+
+
+BALLOT IMAGES
+
+For ballot images MS 206.845 BALLOT RECORDING AND COUNTING SECURITY. Subd. 3 Cast vote records. shows, after the ordered list of 5 items, an additional line of text: ''Data stored as images are protected nonpublic data under section 13.02. It is unclear why a sixth item with this information was not put into the numbered list, but rather listed below. Perhaps it was a late addition during drafting? 
+The entire subdivision on cast vote records was added in 2023 after many Minnesota county auditors, county attorneys, and even the MN Secretary of State suggested they either were turned off, did not exist, or were not accessible. Note: If cast vote records were to be somehow turned off, this action would decertify that tabulator according to the Election Assistance Commission (EAC). 
+
+https://www.sos.mn.gov/elections-voting/how-elections-work/post-election-reviews/
+
+Not included Dakota county precinct 4950
+
+
+ANDY LOKKEN - did STEVE SIMON KNOW? 
+
+Dakota County Elections Manager…
+Did the Secretary of State know about it? How could he not have? 
+Apparently, Andy Lokken conducted a second post-election review days later, without public viewing, and declared the precent acceptable. (Had the ballots been found? Printed? Perhaps only Andy Lokken knows the truth. He now works in the judicial branch of the Minnesota government.) 
+
+Post-election reviews
+Susan’s story - suspended license
+
+ELECTIONS BUILT FOR/BY YOU (by you?) where EVERY VOTER WINS
+NEED A TRUSTLESS SYSTEM
+Also don’t trust the administrators 
+Shouldn’t have an SOS office with so much oversight/influence in elections. Should be the county auditors with WAY more power. 
+Andy lokken - should have been another review under § 206.89. 
+County question - asks SOS? (Don’t want to get sued)
+But county takes information that is bad from sos, then they can be opened up
+Association of County Attorneys (volunteer organization!) which meets to discuss election issues trending across the state 
+45-day thing
+Elections Measure the will of the people
+	Guy can’t get off couch to go vote… (he doesn’t want to vote) 
+	You can go to local precinct and vote (don’t need someone knocking on door)
+	Difficult to illegally cheat - there are legal cheats
+		Register US citizen, Hand count, … 
+
+
