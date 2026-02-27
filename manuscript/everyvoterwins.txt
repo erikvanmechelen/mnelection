@@ -1,13 +1,7 @@
 {sample: true}
 # Principles: Every Voter Wins
 
-*"Is it possible to make an election system where every voter wins?"*
-
-— the Author
-
-***
-
-The Principle of Fair Elections: Every Voter Wins
+Are there foundational principles about which everyone can agree? 
 
 Probably most would agree that the statutes, the rules, must align with the Minnesota Constitution, which is Minnesota’s founding document. 
 
@@ -17,9 +11,11 @@ One man one vote seems obvious enough. The current requirement in state statutes
 
 A secret ballot. This has multiple interpretations. For how long should the choices of the voter remain secret? For me, the original idea of the secret ballot came from a vision of removing outside influence from a voter’s selections. (Consider the story of pro-Washington voters who quickly lined up to persuade fence-sitters and even anti-Washington voters to vote for him so as not to be seen as having voted against a landslide winner.) So, a semi-private booth (or even a fully private one) to think quietly for himself and fill in the choices. After a few hours or days, I personally don’t mind if my choices become known—indeed, there are already sophisticated ways to learn an individual’s choices. For example, I tend to receive more candidate promotions in the mail from one of the two major political parties, even though I think both parties are part of the problem inherent to our current system, and when I consider labeling myself politically, which is a fairly low-priority aspect of my overall identity, it is as an independent. 
 
-Perhaps most important to me is the ability to check our work. Verifiability. Proof. If a process cannot be audited, if certain parts of the overall election system are hidden (by design or through legislative acts) from public view, then the election game is no longer fair. 
+# Can We Show Our Work?
 
-Here it is prudent to pause and consider the following concept borrowed from Martin Geddes: [corruption versus capacity](https://newsletter.martingeddes.com/p/conspiracy-vs-capacity-why-anti-corruption). In earlier sections of this book, it has already been argued that a simpler system would reduce election staff workload and open up time for custom audits (that are allowed by the rules). For much of 2021-2023, especially when time and again data requests for cast vote records came back with form replies, I was discouraged enough to leap to the conclusion that even local level staff were in on the rig. However, the article linked above has offered a framework to explore classes of institutional failure: 1) collapse—repair capacity is exceeded, 2) drift-process substitutes for truth, and 3) entrenchment—re-grounding is feasible but deliberately blocked. And now to quote from the article directly: "The decisive test is not whether authority is imperfect. It is whether formal re-grounding was possible and refused."
+Perhaps most important to me is the ability to check the work. Verifiability. Proof. If a process cannot be audited, if certain parts of the overall election system are hidden (by design or through legislative acts) from public view, then the election game is no longer fair. 
+
+D> Here it is prudent to pause and consider the following concept borrowed from Martin Geddes: [corruption versus capacity](https://newsletter.martingeddes.com/p/conspiracy-vs-capacity-why-anti-corruption). In earlier sections of this book, it has already been argued that a simpler system would reduce election staff workload and open up time for custom audits (that are allowed by the rules). For much of 2021-2023, especially when time and again data requests for cast vote records came back with form replies, I was discouraged enough to leap to the conclusion that even local level staff were in on the rig. However, the article linked above has offered a framework to explore classes of institutional failure: 1) collapse—repair capacity is exceeded, 2) drift-process substitutes for truth, and 3) entrenchment—re-grounding is feasible but deliberately blocked. And now to quote from the article directly: "The decisive test is not whether authority is imperfect. It is whether formal re-grounding was possible and refused."
 
 So, perhaps, an election system should be simple. This at least reduces tension between the people and the administrators. Now to an analogy to help unpack what is meant by "every voter wins". 
 
