@@ -1,4 +1,4 @@
-Auditing MN: The Rules of the Election Game
+# The Rules of the Election Game
 		
 In any game, the point of rules is to provide for and to support fair play and general enjoyment for all involved. Pick a sport: if, in a game of that sport, a player goes outside the rules, then other players, the referee, and sometimes the fans bring the offending player or party back into line, whether through encouragement, enforcement authority innate to the referee’s position, or, in the case of fans, through booing or whistling aiming to embarrass. Audits, whether through random drug tests or video replay, have begun to be introduced from cycling to football (American and international). Such audits are not without controversy. And then there is the layer of debate about what the rules ought to be, and why, and in the case of audits, how they ought to be done.
 
