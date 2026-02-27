@@ -11,9 +11,11 @@
 
 ***
 
-How much should verification, transparency, and accuracy be valued in elections? What about security? And timeliness of results? Or the capability to remedy mistakes? To what extent should the rules be flexible, including the statutes as well as the administrative rules which the Minnesota secretary of state may add on? What is the relationship between Federal and State rules for elections, if candidates for both are on the same ballot?
+How much should verification, transparency, and accuracy be valued in elections? What about security? And timeliness of results? Or the capability to remedy mistakes? To what extent should the rules be flexible, including the statutes as well as the administrative rules which the Minnesota secretary of state may add on? What is the relationship between Federal and State rules for elections and what happens if the rules for each are in conflict and yet candidates are all on the same ballot? 
 
-Is it possible to design an election system where every voter wins? 
+There are more questions. Such as: Would it be outside the Minnesota Constitution or the rules governing how statutes are written and applied to prevent someone like me, who thinks we should have a bigger discussion about all this, from voting?; Why not pass a law to use artificial intelligence programs to decide who is fit and unfit to cast a ballot?; Then, couldn't a program be run within the voter rolls on election day to remove votes from those who have lost favor with the government?
+
+The line of questioning in the preceding paragraph leads to a utopia of which I wish not to be a part. Instead, suppose there is an alternative... Is it possible to design an election system where every voter wins? 
 
 Elections have been describe as an input/output system, with inputs being 1) registered voters, 2) ballots, and 3) vote counts; and the output being 1) the reported results. Narrowing the scope to these four areas allows a succinct introduction into surveying the current system, before embarking to create a new version. 
 
