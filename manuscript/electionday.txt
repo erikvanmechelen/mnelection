@@ -1,0 +1,15 @@
+# Election Day
+
+Tabulators mandatory. 
+
+Electronic poll pads (iPads) highly encouraged. 
+
+Weston + UMLC case
+
+Recent changes in the Minnesota legislature essentially required electronic tabulators to be used while precluding the public viewing of ballot images. Who cares? If one does not know, the ballot images are the computer picture that the tabulator (which is a computer) has taken of the ballot as it is fed or scanned in. The computer is incapable of directly reading the ballot to learn which ovals are filled in. Once it has the picture, it can then use its logic to read it—the stored results (the choices for each candidate or question) are the cast vote record for that ballot. The cast vote record concept is a standard set by the National Institute of Science and Technology (NIST) and the functionality is a requirement of electronic tabulators. The tabulator is unable to read the voter’s choices unless it has taken a picture of the ballot. Therefore, any ballot that has a cast vote record would have had to, at one point, have a picture taken of it. It is technically possible for the pictures to be deleted once the cast vote record assessment has been done. It is technically possible for both ballot images and cast vote records to be changed by the computer itself, and this has been found to have occurred (WHERE?). 
+
+The paragraph before this one gets to the heart of basic election records in Minnesota. Every ballot must go through a tabulator in Minnesota. Every one has a picture. That picture should match the ballot and should match the tallies associated. Yet this is not part of our normal audit process and the ballot images have been made classified. If ballot images are not declassified, the government should expect to receive requests to demonstrate they are being reviewed. 
+
+The ballot image example shows how legislative changes have made public auditing difficult, if not impossible. 
+However, there are numerous other areas, just in the election system, where the public records request process could be smoothened to increase confidence in government administrators and the overall election process. 
+(Have you ever done a records request for election data?) 
