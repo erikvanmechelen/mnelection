@@ -13,3 +13,95 @@ The paragraph before this one gets to the heart of basic election records in Min
 The ballot image example shows how legislative changes have made public auditing difficult, if not impossible. 
 However, there are numerous other areas, just in the election system, where the public records request process could be smoothened to increase confidence in government administrators and the overall election process. 
 (Have you ever done a records request for election data?) 
+
+
+In Minnesota, we have paper ballots, yes, but instead of counting and tallying manually, we are compelled to use computers to do so. The computer first scans the ballot. Then it interprets the scan. This two-part process generates what's called a cast vote record, which has two components: 1) the ballot image, which is a computer image file created by the computer scan of the paper ballot, and 2) a record detailing which candidate received a vote for each election on the ballot. (In Minnesota, as of 2023, the ballot images portion has become hidden from the public through data classification; prior, they were never shown publically nor were they ever officially used in audits; their classification may have been prompted by the volume of requests to see the cast vote records.)
+
+Complicating matters is the fact, shown during testing in Tarrant County, Texas, that the computers (at least the particular model of the Hart Intercivic tabulator being used there) can apparently alter the ballot images after scanning the ballot. This manipulation was obviously technically possible even before the direct evidence gathered and witnessed. It looks like this: 1) computer scans ballot, 2) computer runs a program to change the image, either altering the image directly or making a duplicate with a change and deleting the original. Even if this feature hasn't yet been demonstrated in Minnesota, what safeguards might be put in place to ensure it doesn't? Are any counties using Hart's tabulators looking into this? Are the other counties, which are using ES&S or Dominion tabulators, preparing to defend against this programmatic subversion?
+
+Even though ballot images were standard since the electronic tabulators were distributed nationwide in the early 2000s, they have not yet—after more than 20 years—been included in a standard audit in Minnesota. These images are not required to even be reviewed by any election judge, city clerk, elections manager, or county auditor. During the 2021 and 2022 period, it became apparent that communications were occurring between county auditor offices and the Office of the Secretary of State about how to best respond to requests for the cast vote records. 
+
+One of the most common and annoying questions I’ve received through the years is, “Have you been an election judge?”, or, “Why don’t you try being an election judge.” The implication is that one can learn much more by doing—don’t read too much! I have also encountered a number of people who have served as election judges and have through that process developed a close-minded approach to thinking about the election process. Yes, they have experienced one part of the election process. As the reader is learning and likely very attuned with at this point in the book, there is much more to an election than election day. 
+As I have not played the role of election judge, I’ve done the next best thing, which is speak to those who have. Over the course of many months the cashier at my grocery store shared stories about the electronic rosters and the number of same day registrations (this helped me prepare for my side-by-side presentation with the Isanti County Auditor in March 2025, transcribed in the Appendices.) One election judge from Anoka County was fired for asking a serious question, while two others resigned in protest at the decision (this was regarding whether the signing of the summary statement was possible given an election judge’s lack of knowledge as to how the computer interpreted the vote choices on all the ballots scanned into it that day). 
+
+(There’s lots of things that happen on election day… polling place operations, voter check-in, tabulation, securing ballots… )    see § 789 789 789 for those
+
+Electronic systems (Tabulators)
+
+As seen in MS 206.58 AUTHORIZATION FOR USE. Subd. 1 Municipalities. ''Once a municipality has adopted the use of an electronic voting system in one or more precincts, the municipality must continue to use an electronic voting system for state elections in those precincts.''.
+This statute does not address the ex post facto nature of the law: When counties chose to use electronic equipment they would not have known this law was going to be passed later, removing their choice. Additionally, it is unclear whether redrawing precinct lines would refresh the option for the county. 
+
+Electronic systems (Rosters)
+
+
+Jen (Carver) about the ballots NOT being sealed (link to video …) 
+Jodi’s story about… 
+^
+These stories can go in the Auditing section, Part 2
+
+BUT 
+
+For election day, this guide will focus on § 201.225, a lesser-acknowledged section of the statutes that plays a key role in the overall electronic ecosystem. 
+
+(See “Freedom of Information” section, either in front material OR Appendices) 
+
+Can we pull from the book I already wrote? 
+
+It is important to remember that the Office of the Secretary of State usually writes and provides an Election Judge Guide to supplement the statutes, on the one hand minimizing the preparation an election judge needs to do (imagine reading 500 pages of statutes), and on the other potentially preventing the election judges from learning and thinking for themselves, as the reader is doing now. 
+
+
+
+Here’s a succinct, statute-only checklist for what happens on Election Day in Minnesota, with emphasis on electronic tabulators and electronic poll books. This is the core set most people review.
+
+Core Election Day Framework
+	•	Minn. Stat. ch. 204C — Voting Procedures (primary Election Day chapter) 
+
+Polling Place Operations & Voter Check-In
+	•	§ 204C.05 — Opening the polling place; election judge duties 
+	•	§ 204C.10 — Voter signature and verification (paper or electronic poll book) 
+	•	§ 204C.11 — Challenges to voters 
+	•	§ 204C.12 — Ballot distribution and secrecy 
+
+Electronic Poll Books
+	•	§ 201.225 — Electronic rosters / electronic poll books
+	◦	Authorizes use, security, backups, and data integrity 
+	•	§ 204C.10, subd. 1a — Use of electronic rosters at the polling place 
+	•	§ 201.021, subd. 3 — Statewide voter registration system integration 
+
+Electronic Voting Systems & Tabulators
+	•	Minn. Stat. ch. 206 — Electronic Voting Systems 
+Key sections:
+	•	§ 206.57 — Use of electronic voting systems at precincts 
+	•	§ 206.58 — Testing and certification of tabulators (pre-election testing) 
+	•	§ 206.83 — Security, retention, and chain of custody of voting systems 
+
+Casting, Tabulating, and Securing Ballots
+	•	§ 204C.15 — Voting process and ballot handling 
+	•	§ 204C.18 — Spoiled ballots and replacement ballots 
+	•	§ 204C.19 — Closing the polls 
+	•	§ 204C.20 — Counting ballots using tabulators 
+	•	§ 204C.21 — Summary statements from electronic tabulators 
+
+Results Transmission & Security
+	•	§ 204C.24 — Delivery of ballots, tabulators, and election materials 
+	•	§ 204C.25 — Electronic transmission of results (unofficial) 
+
+If you want next
+I can:
+	•	Highlight “must-do vs may-do” duties for judges 
+	•	Create a tabulator lifecycle chart (test → seal → use → secure) 
+	•	Compare paper poll books vs electronic poll books side-by-side 
+	•	Flag common legal misunderstandings about Election Day tech 
+Just tell me where you want to zoom in 🔍
+
+
+
+
+
+
+
+Registration: 
+
+Calling attention also to ‘their absentee ballot has already been counted’
+
+From the 2024 Election Judge Guide (https://www.sos.mn.gov/media/4905/election-judge-guide.pdf) 
