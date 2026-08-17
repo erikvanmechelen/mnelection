@@ -1,0 +1,58 @@
+# Preface: August 12, 2026
+
+Minnesota's 2026 primary election was last night, the last day of a 47-day election process, tied for longest in the nation with South Dakota, kicked off by the 45-day mail-in absentee period begun on June 26. The statutory deadline for auditors to update the voter histories in the statewide voter registration system is 42 days after August 11, or September 22, according to Minn. Stat. § 201.171. Notice that this due date for balanced books (loosely matching number of voters to accepted ballots to reported votes) occurs well after the primary election will have been certified (without citizen auditors being able to review those entries), and also subsequent to the beginning of the general election absentee mail in period, which is scheduled to start on September 18, 2026. 
+
+Unless one should wonder whether this is relevant, or has ever been historically, look no further than the consequential 2020 general election, where in Minnesota, twenty-five (25) days post-election, there were still more than 700,000 reported ballots not yet attached to any voter in the statewide voter registration system. The date was November 29, and five (5) days earlier, the Minnesota State Canvassing Board, including Secretary of State Steve Simon, met to certify the election. This gap, which I have seen with my own eyes in the state's own data set, shown to me by 30-year computer expert Rick Weible, was apparently of no concern—the election was certified. This conclusions of this data review, to my knowledge, have never been denied by the Minnesota Office of the Secretary of State (OSS), and at any rate, if asked, the response would likely be that this is legal (see Minn. Stat. § 201.171, as well as Minn. Stat. § 201.121 for an optional 28-day extension for a total of 70 days to update voter histories).
+
+Readers will realize, that because county auditors have often not yet balanced their books until after county and even state level certification, citizen auditors have little hope of reviewing such data to ask questions themselves ahead of those meetings (usually referred to as canvassing board meetings). 
+
+This is just one example of a procedural issue preventing a timely, thorough, and complete audit. 
+
+For another example, let's consider the election records themselves, which must be retained in any election that includes federal races for a minimum of 22 months. Consider that the ballot images (the ballot scans), the cast vote records (computer interpretation of voter's filled-in ovals), and the paper ballots are never reviewed side by side. In fact, as far as is known, even the ballot images are never compared in aggregate to the cast vote records. The triangulation of these three data points would be the beginning of a true audit. This is never done and is probably illegal in the current legal structure surrounding Minnesota's elections. 
+
+So far we've now covered two examples, and there are more. Frequently discussed lately is vouching—a resident can vouch for up to eight others. The fact that influencers and the media focus so much on vouching, to me, suggests a misdirection away from the many other electronic and process-related issues (e.g. mail in ballots and lack of true audits). Vouching could be perhaps 3% of the overall problem. 
+
+Combined with the first two issues outlined and the additional problems presented in this book, readers will appreciate something closer to a more complete picture. It will still likely be an incomplete overview, but together we can learn much more about what's really happening within the electronic, procedural, and legal apparatus. 
+
+While I have personally concluded, using terms borrowed from engineering, that the election equipment, software, and process is not fit for purpose, and therefore must be discontinued, you may discover that you disagree. And then we can help to inform one another. Or, perhaps, you will go deeper than I have and notice unique solutions to some of the areas addressed. Remember, with this work, there is no need to prove court-level instances of election fraud. We've already witnessed at least four election cycles worth of an unworkable system. Solutions are available, but until every proper approach to resolution has been given a go, more direct approaches, such as Article 2 powers, are unlikely to be used.
+
+## Thinking, and Auditing, for Oneself
+
+The only honest way to come to any conclusions is through one's own effort and failure. 
+
+From 2021 until now, I've failed to audit the Minnesota election system. At every juncture, I've been blocked by election officials, election managers, county auditors, county attorneys, vendor representatives, carveouts in the legal language, and other data denial techniques. 
+
+Especially the Office of the Secretary of State, led by Secretary Simon, who himself is quite confident in his election results, one wonders about the need for such obfuscation. The Secretary went further in a public 2020 hearing, suggesting that anyone bringing up questions of election fraud would bear a stain of shame that would never wear off. What need is there for such a comment, if the system could actually show its work? 
+
+## Data Denial
+
+A phrase popularized by Richard Dolan of USO documentation (where USO's are able to stall propulsion, jam communications, or prevent recording of their presence), the most effective approach against my citizen audit work has been exactly this: denying me access to data. 
+
+Without access, then I cannot confirm or deny a hypothesis. I'm left without something to analyze. We will see that this data denial approach has not been entirely effective, though. This book will mention those efforts I've personally undertaken and those I learned about that show that election data can get back to the people. 
+
+## Auditing Your Primary Election
+
+Since Minnesota's primary election was yesterday, August 11, anyone, whether voting DFL, GOP, whether seeing oneself as a party member or as an independent, can (and should) try to audit their local election. 
+
+The word 'try' is used intentionally in the previous sentence: look at the etymology of try, at its core definition, which suggests continuous purposeful effort where failure results. However, it is useful to try. Then, at least, one can learn for oneself. Many, many, have chosen NOT to do this, yet. But once more do, then awareness will inevitably rise regarding the election process, what works, what doesn't, how the rules fit together to keep the people generally in the dark. 
+
+## Earlier this year...
+
+It is Summer 2026 in Minnesota, where the consequences of fraud, of numerous kinds, are all around us. Few seem to care; others who know feign ignorance; some even protect those who have committed crimes.
+
+This book won't try to sort out that mess. But it will show readers what their current election system looks like. As of today, it can produce fake voters, ballots, and results without even county auditors—if they were even interested in looking—being able to detect the fraud.
+
+In Summer 2021 when I decided to audit Minnesota's election system, I was naive. Someone who later became a friend said at the time that I wouldn't be successful. Being stubborn, I tried anyway, and it turned out he was right. Our elections cannot be audited. Not even close.
+
+If there can be no real check on the substantive parts of a system, then on its face it cannot be trusted.
+
+But it is worse than that. Those currently in roles of presumed authority within the governmental structure have aimed to block anyone seeking answers in the years since I began asking questions, and probably for years and years prior to that. Sometimes, those blocking answers being sought have done so legally. Sometimes not.
+
+Meanwhile, the election statutes have increasingly been rewritten to make what most people off the street would consider as cheating, legal.
+
+This book will take Minnesota readers one rule at a time, to show how almost every aspect of the overall election system, including the electronic aspects, are cemented in place.
+
+Readers will certainly recognize that cement is strong, but it is hardly unbreakable.
+(don't know if i love the cement metaphor)
+
+(something about both d and r (uniparty) want/need this... therefore why one republican senator put a hand on my chest (which i took as him checking if i wore a protective vest) and said 'they' hate me, referring to the elite within the mngop - i and many are starting to see that trump and his admin are not only bringing down the dfl, but also the gop arm of the uniparty... the gop is unlikely to be recognizeable in ten years, but i already digress){type: video, title: "Public Accuracy Tests 2026"}
