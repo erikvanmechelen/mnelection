@@ -3,8 +3,8 @@
 003_chapter_introduction.txt
 004_never_audit.txt
 005_rules_of_the_game.txt
-sosrole.txt
-everyvoterwins.txt
+006_sos_role.txt
+007_every_voter_wins.txt
 foia.txt
 registration.txt
 absenteeballots.txt

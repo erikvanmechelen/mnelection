@@ -1,0 +1,41 @@
+# The Role of the Office of the Secretary of State
+
+The secretary of state has considerable power. It is a constitutional, executive branch role, with influence in the legislative branch, and the ability to make judicial-type decisions within the realm of elections (not technically overtaking the judicial branch's role, but starting to blend into that area). 
+
+The reader can look at the following to get a sense of not only the secretary of state but the scope of his or her overall office, the Office of the Secretary of State: Minnesota Statutes, Chapter 5, 5A, 5B, 15, 201, 202A, 203B, 204B, 204C, 204D, 206, 211A, 302A, 303, 304A, 308A, 308B, 317A, 319B, 321, 322A, 322B, 322C, 323A, 333, 336, 336A, 358, 359, 549.
+
+Let's focus first just on the elections side of the Office's duties, roles, and influence...
+
+Currently the elected Minnesota secretary of state gets to appoint several leadership positions, such as elections director, head of voter outreach, legislative liasion, and several deputy secretary of state roles. The Minnesota secretary of state himself/herself, is also the head elections official, and counted on for partnerships with counties, municipalities, and school districts for election education and administration. 
+
+In the almost twelve-year tenure (three four-year terms) of the current secretary of state, the Office has influenced considerable legislative changes to the rules of elections. The 2025 version of the election laws is a 500-page PDF containing statutes and rules is made up of 368 pages of statutes and a further 132 pages of rules. The 2026 version is a slightly short 494 total pages, with about 130 pages of rules. If one reviews the most current hearing on these rules (Fall 2025), it will be seen that I and others rejected the idea of the additional rules, while some pointed to specific rules they did not like. Consider whether it is proper for a member of the Executive Branch, not the Legislative Branch, to write rules that have the power of law, to the tune of thirty percent (30%) of the current [2026 Minnesota Election Laws](https://www.sos.mn.gov/media/3k4hu2if/minnesota-election-laws-statutes-and-rules.pdf).
+
+To consider the impact of the statutes and rules overall, let's take voter registration and the voter registration system specifically (see § 201.022). Subd 1. Establishment. reads, "The secretary of state shall maintain a statewide voter registration system to facilitate voter registration and to provide a central database containing voter registration information from around the state. The system must be accessible to the county auditor of each county in the state..." while Subd. 2. Rules. reads "The secretary of state shall make permanent rules necessary to administer the system required in subdivision 1."
+
+But in a decentralized system, shouldn't the county auditors control their registration data instead of having to access the centralized system, for which rules are made by a third party (in this case, the secretary of state)? This is just one specific example where a simple legislative change starts in motion the technical and architectural changes required to truly decentralize away from the Office of the Secretary of State, while empowering county auditors and election managers to step up and own their own processes. To pose a simple question: What happens if one county would like to work with the DOJ to analyze their voter rolls? Should the Minnesota secretary of state be able to deny that county the ability to work with the DOJ on such an audit just because § 201.022 says "The secretary of state shall maintain a statewide voter registration system..." Doesn't the same statute also say "The system must be accessible to the county auditor of each county in the state..."?
+
+## The Potential Function of the Elections Division: Auditing Elections
+
+The Office of the Secretary of State is currently scored, according to the governor's annual report, on items like voter turnout and proportion of absentee ballots.
+
+![Revised 2026-27 Biennial Budget, Office of Secretary of State Results](sos2023.png)
+
+I think the Office should have an entirely different focus: auditing elections. 
+
+Yes, there is already a state auditor, also elected every four years. That role covers many areas outside elections. 
+
+So, besides the county auditors and city clerks, whose ability to audit their own elections is currently limited by state statutes (the rules of the game), who within the governing body of Minnesota is responsible for carefully auditing the election results? 
+
+What if the Office of the Secretary of State's main elections function was to provide resources, assistance, and creative help to counties, municipalities, and school districts to not only properly run their elections but also to thoroughly audit them? This change of course could possibly represent the greatest impact to overall confidence in the governance model used in Minnesota today by providing verification of the key election steps at the most local level. 
+
+(There is also an argument for creating an elections auditor role within the Office of the State Auditor, where this role could serve as a check against overreach, negligence, nonfeasance or malfeasance in the Office of the Secretary of State.)
+
+What's more, careful auditing could turn up issues which open the discussion for welcome changes. Detailed auditing, at present, is in service to all voters because, in part, our overworked elections staff may not be trained, not be skilled enough (in areas like cybersecurity), or not be expected to audit areas that could be vulnerable.
+
+Since elections are rather frequent and occur on predictable timing, audit steps can be worked into [existing election calendars](https://www.sos.mn.gov/election-administration-campaigns/election-administration/election-calendars/). This minimizes 'startup investment' as the audits can be built into the regular election cadence. Probably a new role would be created with the Office, perhaps appointed by the secretary of state, called Director of Audits, or similar. This position would work closely with the Director of Elections but be focused exclusively on auditing. Probably it could be encouraged that campaigning secretary of state's name their intended Director of Audits before the election so that voters can also evaluate that individual's prior work experience related to election auditing, whether done as for just two examples, a county auditor or a citizen auditor. 
+
+When town clerks, city election officials, and county election managers are working together to show the people, each and every election, that their process was not only within the rules but truly legitimate, then a foundation of a competent auditing skillset and mindset will be birthed, bottom up. 
+
+A long term vision for the Office of the Secretary of State is likely to wind down its overall influence across three branches (it is an executive branch role with significant influence legislatively and judicially) and limit it to the executive functions. Further, its overall influence at the local levels could be considerably decreased. Often, local officials ask the Office of the Secretary of State for opinions about their election options when they might be better served inquiring of the legislators (though I understand why the OSS is contacted, as it is more responsive generally than legislators might be). Even in a significantly reduced role, perhaps the Office can remain as a check against legislative ideas that reduce the auditability of the election process, from voter registration through to results, but one day this function may also no longer be needed. 
+
+Finally, and this is probably the most obvious change needed: the secretary of state must be non-partisan, independent. No matter what the political parties look like today or tomorrow, the secretary needs the flexibility to embrace ideas from any major or minor political party and even ideas that are independent from the platforms of those parties, which can often themselves be influenced by what are today known as special interests, instead of the interest of the whole, which is, essentially, the "every voter wins" philosophy of election administration. 
