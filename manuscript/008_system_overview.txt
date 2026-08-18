@@ -1,0 +1,36 @@
+# System Overview
+
+Before beginning our search for auditability within the current system, let's prepare by reviewing the overarching system. 
+
+Perhaps the simplest way to look at the overall election system is an input-output program. At its simplest, we are putting in ballots and getting out tallies for candidates, or vote totals.
+
+Who is putting in the ballots? Voters. (This is not the only way, but in essence this is how many readers probably are thinking about it.)
+
+So, for inputs, we have voters and ballots. For outputs, we have the reported vote totals.
+
+An election should be able to equalize voters, ballots, and votes. 
+
+## The Six Phases
+
+These phases are inspired by Mark Cook's work. 
+
+We will look at: 
+1. Registration
+2. Absentee Voting
+3. Election Day
+4. Election Night
+5. Reporting 
+6. Audits
+
+In Minnesota, the Registration process puts voters into a database, called the statewide voter registration system (SVRS). 
+
+In the 46 days of mail-in, absentee, and early voting, ballots can be mailed in, or inserted directly into a tabulator by the voter (if early voting). On election day, ballots are put into the tabulators at polling places, also called precincts. Because of the detail involved with mail-in and absentee voting, this book will take this as its own election phase. 
+
+Election Day will then be its own phase. 
+
+Election Night follows that, where tabulation is finalized and reporting begins. 
+
+Reporting also gets its own phase because, at present, there are many steps involved, manual and electronic. 
+
+Audits, which are limited, for the moment, in Minnesota, is a critical phase. Note, however, that this book will encourage readers to discover ways to audit every one of the six phases, including the audit phase itself. 
+

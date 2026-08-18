@@ -54,44 +54,44 @@ It is important to remember that the Office of the Secretary of State usually wr
 Here’s a succinct, statute-only checklist for what happens on Election Day in Minnesota, with emphasis on electronic tabulators and electronic poll books. This is the core set most people review.
 
 Core Election Day Framework
-	•	Minn. Stat. ch. 204C — Voting Procedures (primary Election Day chapter) 
+	•	Minn. Stat. ch. 204C — Voting Procedures (primary Election Day chapter)
 
 Polling Place Operations & Voter Check-In
-	•	§ 204C.05 — Opening the polling place; election judge duties 
-	•	§ 204C.10 — Voter signature and verification (paper or electronic poll book) 
-	•	§ 204C.11 — Challenges to voters 
-	•	§ 204C.12 — Ballot distribution and secrecy 
+	•	§ 204C.05 — Opening the polling place; election judge duties
+	•	§ 204C.10 — Voter signature and verification (paper or electronic poll book)
+	•	§ 204C.11 — Challenges to voters
+	•	§ 204C.12 — Ballot distribution and secrecy
 
 Electronic Poll Books
 	•	§ 201.225 — Electronic rosters / electronic poll books
-	◦	Authorizes use, security, backups, and data integrity 
-	•	§ 204C.10, subd. 1a — Use of electronic rosters at the polling place 
-	•	§ 201.021, subd. 3 — Statewide voter registration system integration 
+	◦	Authorizes use, security, backups, and data integrity
+	•	§ 204C.10, subd. 1a — Use of electronic rosters at the polling place
+	•	§ 201.021, subd. 3 — Statewide voter registration system integration
 
 Electronic Voting Systems & Tabulators
-	•	Minn. Stat. ch. 206 — Electronic Voting Systems 
+	•	Minn. Stat. ch. 206 — Electronic Voting Systems
 Key sections:
-	•	§ 206.57 — Use of electronic voting systems at precincts 
-	•	§ 206.58 — Testing and certification of tabulators (pre-election testing) 
-	•	§ 206.83 — Security, retention, and chain of custody of voting systems 
+	•	§ 206.57 — Use of electronic voting systems at precincts
+	•	§ 206.58 — Testing and certification of tabulators (pre-election testing)
+	•	§ 206.83 — Security, retention, and chain of custody of voting systems
 
 Casting, Tabulating, and Securing Ballots
-	•	§ 204C.15 — Voting process and ballot handling 
-	•	§ 204C.18 — Spoiled ballots and replacement ballots 
-	•	§ 204C.19 — Closing the polls 
-	•	§ 204C.20 — Counting ballots using tabulators 
-	•	§ 204C.21 — Summary statements from electronic tabulators 
+	•	§ 204C.15 — Voting process and ballot handling
+	•	§ 204C.18 — Spoiled ballots and replacement ballots
+	•	§ 204C.19 — Closing the polls
+	•	§ 204C.20 — Counting ballots using tabulators
+	•	§ 204C.21 — Summary statements from electronic tabulators
 
 Results Transmission & Security
-	•	§ 204C.24 — Delivery of ballots, tabulators, and election materials 
-	•	§ 204C.25 — Electronic transmission of results (unofficial) 
+	•	§ 204C.24 — Delivery of ballots, tabulators, and election materials
+	•	§ 204C.25 — Electronic transmission of results (unofficial)
 
 If you want next
 I can:
-	•	Highlight “must-do vs may-do” duties for judges 
-	•	Create a tabulator lifecycle chart (test → seal → use → secure) 
-	•	Compare paper poll books vs electronic poll books side-by-side 
-	•	Flag common legal misunderstandings about Election Day tech 
+	•	Highlight “must-do vs may-do” duties for judges
+	•	Create a tabulator lifecycle chart (test → seal → use → secure)
+	•	Compare paper poll books vs electronic poll books side-by-side
+	•	Flag common legal misunderstandings about Election Day tech
 Just tell me where you want to zoom in 🔍
 
 

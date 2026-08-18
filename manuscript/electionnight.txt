@@ -17,57 +17,57 @@ Here’s a clean “statute → timeline” view of Minnesota Election Night, st
 
 🕗 8:00 p.m. — Polls Close
 	•	§ 204C.19 — Closing the polling place
-	◦	Voting ends at 8:00 p.m. 
-	◦	Anyone already in line may still vote. 
-	◦	No new voters admitted after 8:00 p.m. 
+	◦	Voting ends at 8:00 p.m.
+	◦	Anyone already in line may still vote.
+	◦	No new voters admitted after 8:00 p.m.
 
 🕗 Immediately After Close — Tabulators Closed
 	•	§ 204C.20 — Counting ballots
-	◦	Ballot tabulators are closed. 
-	◦	No further ballots may be inserted. 
-	◦	Judges begin the official precinct count process. 
+	◦	Ballot tabulators are closed.
+	◦	No further ballots may be inserted.
+	◦	Judges begin the official precinct count process.
 
 🕗 Shortly After — Precinct Results Generated
 	•	§ 204C.21 — Summary statements
-	◦	Election judges print precinct summary statements from tabulators. 
-	◦	Judges verify totals, sign reports, and resolve discrepancies if any. 
+	◦	Election judges print precinct summary statements from tabulators.
+	◦	Judges verify totals, sign reports, and resolve discrepancies if any.
 
 🕗 After Results Are Generated — Unofficial Reporting
 	•	§ 204C.25 — Electronic transmission of results
-	◦	Precincts may electronically transmit unofficial results to election officials. 
-	◦	Results may be publicly released only after polls close. 
+	◦	Precincts may electronically transmit unofficial results to election officials.
+	◦	Results may be publicly released only after polls close.
 	•	§ 204C.28 — Prohibition on early disclosure
-	◦	Confirms no vote totals may be released before 8:00 p.m. 
+	◦	Confirms no vote totals may be released before 8:00 p.m.
 
 🕘 Evening — Absentee Ballots Finalized
 	•	§ 203B.08 — Receipt deadline
-	◦	Only absentee ballots received by 8:00 p.m. may be counted. 
+	◦	Only absentee ballots received by 8:00 p.m. may be counted.
 	•	§ 203B.121 — Absentee ballot board
-	◦	Ballot boards complete acceptance/rejection and counting of eligible absentee ballots. 
-	◦	Accepted absentee ballots are added to election totals. 
+	◦	Ballot boards complete acceptance/rejection and counting of eligible absentee ballots.
+	◦	Accepted absentee ballots are added to election totals.
 
 🕘–🕛 Late Evening — Securing Ballots & Equipment
 	•	§ 204C.24 — Delivery of ballots and materials
-	◦	Ballots, memory devices, tabulators, and records are sealed and transported. 
+	◦	Ballots, memory devices, tabulators, and records are sealed and transported.
 	•	§ 204C.27 — Disposition of ballots
-	◦	Ballots are sealed, labeled, and secured for retention. 
+	◦	Ballots are sealed, labeled, and secured for retention.
 	•	§ 206.83 — Security of electronic voting systems
-	◦	Chain-of-custody and physical security requirements apply to machines and data. 
+	◦	Chain-of-custody and physical security requirements apply to machines and data.
 
 🕛 After Election Night — Preservation
 	•	§ 204B.40 — Preservation of election materials
-	◦	Ballots, summaries, electronic records, and envelopes are retained for statutory periods. 
+	◦	Ballots, summaries, electronic records, and envelopes are retained for statutory periods.
 
 📅 Following Days — Canvass Begins
 	•	§ 204C.31 — Local canvassing board
-	◦	Begins review of results after Election Day. 
-	•	§§ 204C.32–204C.40 — Corrections, certification, recount triggers 
+	◦	Begins review of results after Election Day.
+	•	§§ 204C.32–204C.40 — Corrections, certification, recount triggers
 
 One-line summary
 Election Night law is about closing polls, counting ballots, reporting unofficial results, and locking everything down for canvassing and audits—not declaring winners.
 If you want, I can:
-	•	Turn this into a visual timeline graphic 
-	•	Make a judge-facing checklist 
-	•	Overlay absentee vs precinct timelines 
-	•	Add “what cannot legally happen yet” at each step 
+	•	Turn this into a visual timeline graphic
+	•	Make a judge-facing checklist
+	•	Overlay absentee vs precinct timelines
+	•	Add “what cannot legally happen yet” at each step
 Just say what format you want next.

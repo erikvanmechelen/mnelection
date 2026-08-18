@@ -5,8 +5,9 @@
 005_rules_of_the_game.txt
 006_sos_role.txt
 007_every_voter_wins.txt
-foia.txt
-registration.txt
+008_system_overview.txt
+009_foia.txt
+010_registration.txt
 absenteeballots.txt
 electionday.txt
 electionnight.txt

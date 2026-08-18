@@ -7,7 +7,7 @@ One of my Minnesota acquaintances who has educated me on regenerative farming ha
 
 As Martin Geddes has noted in his research in the UK court system, "Money is a constraint. Time is a constraint. Expertise is a constraint. Emotional stamina is a constraint. Reopening a question — tracing a chain of authority, reconciling contradictory records, holding an institution to its own rules — requires resources most citizens simply do not have. So disputes often terminate early, not because the citizen is persuaded, but because they are exhausted..."
 
-This reminded me of how it took former Michigan senator Patrick Colbeck several *years* and $2,500 just to force the government to give him public video of the election office where he was observing on November 3rd, 2020.
+This reminded me of how it took former Michigan senator Patrick Colbeck several *years* and $2,500 just to force the government to give him a public video of the election office where he was observing on November 3rd, 2020.
 
 ## Minnesota Records Requests
 
@@ -18,6 +18,8 @@ Since the current system does not immediately show the work, FOIA is a useful to
 There are a number of areas one could look into, from any of the inputs (registration, ballots, vote counts) to the output (results) across the six phases (voter registration, absentee ballots, election day, election night, reporting, audits). For example, from an electronic process perspective, some Minnesotans wanted to know why modems (with network capability, and internet capability) were used in tabulators. One blocked records request in Rice County turned into [a three-year court case](https://bendasense.substack.com/p/rice-county-modem-case-argued-at) that went on appeal to the Minnesota Supreme Court, relating to non-certified modems in tabulators. 
 
 Prior to that, in 2020, one postelection review was missing ballots (about 800) and had ordered and had received delivery of a Dominion printer on the day of the postelection review. As this is not my story, but rather one for Dakota County and those in attendance, I will not go into details. One wonders how more information about this could have been requested officially and why not, for just one question, if ballots were missing, there needed to be a closed-door review three days later. If there were missing ballots, this should have triggered additional postelection reviews under § 206.89. 
+
+![Precinct 4950 Post Election Review Report Before Revision](/4950_863_65.png)
 
 For my part, I participated in seeking cast vote records from all the counties. In 2022, if one wanted the ballot images or cast vote record reports (sometimes call ballot review reports for ES&S systems), one was promptly turned away, even though these are essential components of an audit of the computer tabulators themselves—if there are no ballot images, from which the tabulator immediatly interprets the ovals to add to its running tallies, then there is actually no proof at all that the computer scanners even performed to their most basic function, which is to tabulate votes. 
 
