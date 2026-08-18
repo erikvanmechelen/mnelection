@@ -1,8 +1,9 @@
-why.txt
-chapter_introduction.txt
-constitution.txt
+001_why.txt
+002_ready.txt
+003_chapter_introduction.txt
+004_never_audit.txt
+005_rules_of_the_game.txt
 sosrole.txt
-rulesofthegame.txt
 everyvoterwins.txt
 foia.txt
 registration.txt
@@ -11,6 +12,7 @@ electionday.txt
 electionnight.txt
 reporting.txt
 audits.txt
+constitution.txt
 chapter_7_what_we_can_do.txt
 chapter_conclusion.txt
 isanti.txt
