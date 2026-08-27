@@ -5,15 +5,13 @@
 
 Why am I writing this book? 
 
-*Selections in Minnesota: The Election Game and How to Play It*
-^ this just borrows directly
-^ even murakami did this with his running title, what i think about when... 
-^ describes the Game (it is a game, an illusion, a business, and a game WITHIN the book itself, for citizen auditors and election process designers, & etc., à la Pattern language)
-^ 
+We are in the midst of removing the threat to our election system and therefore our current governmental system. Who can say how it will turn out? Each individual nonetheless has his vision and each may participate in creating that reality. And arguably there is much more going on than merely how we organize ourselves in areas of the human world where there are governments. What happens when USO/UFO/UAP is acknowledged? That will dwarf the impact of this report on Minnesota [s]elections.
 
-*Every Voter Wins: How to Play the Elections Game*
+But if I do answer the question, Why am I writing this book?, here it is: If we are to have a government system that has any similarity to the present one, then there must be a functioning election process that satisfies the requirement that Every Voter Wins. 
 
-In part, because my sons will ask me, and one day their sons: Dad, Grandpa, what were you doing during the Great American Revolution? Indeed, these are exciting times, and probably the Revolution is only the beginning of yet more interesting times. If they should read this book, they will have the beginning of an answer.
+Ahead of that, it's required to remove the elements that have already subverted elections and to demonstrate basic accountability in keeping with the laws of the land, because showing how subversions occurred will help to increase awareness and also encourage many to participate in creating the new election process. 
+
+Also, in a few years, my sons will ask me, and then their sons: Dad, Grandpa, what were you doing during the Great American Revolution? Indeed, these are exciting times, and probably the Revolution is only the beginning of yet more interesting times. If they should read this book, they will have the beginning of an answer.
 
 "Well, Sons, Grandsons," I will say, "at first, I tried to audit Minnesota elections, for five years; and then, I tried writing several books about it. Considerable effort, with many starts and stops occurred, before I could get it right." 
 
@@ -23,7 +21,9 @@ There was a personal boomerang for my efforts. The karma, or the effects of the 
 
 I know, that if I had slowed down long enough to think, that I might have seen the outcome in advance. But I rushed in. Like the eager young swimmer who for the first time sees playful, crashing ocean waves but is unaware of the hidden, forceful undercurrents beneath them. It took only a moment to splash into the auditing game around Summer 2021 but five years later, here I am, finally up for air...
 
-Between then and now, I wrote three books. In 2022, the first was *[S]elections in Minnesota*, about how electronics control outcomes, how elections are essentially a computer simulation. Then, in 2025, *Auditing Minnesota: The 2022 SOS Campaign*, about a ninety-day entry into the election for Minnesota secretary of state. Shortly after came *Simon's Sensors: The Secret of the iPads*, focused on the electronic poll pads (electronic rosters) from the vendor, KNOWiNK, tracing their rollout, functionality, and certain municipalities and counties attempting to or deciding to opt out, and just use paper poll books for voter registration on election day. If you're coming to my writing, you're probably already reading the best book (of these four) in which to start.
+Between then and now, I wrote three books. In 2022, the first was *[S]elections in Minnesota: An Introduction to How Machines Controlled 2020 and Why We Must Return to Hand Counted Paper Ballots*, about how electronics control outcomes, how elections are essentially a computer simulation. Then, in 2025, *Auditing Minnesota: The 2022 SOS Campaign*, about a ninety-day entry into the election for Minnesota secretary of state. Shortly after came *Simon's Sensors: The Secret of the iPads*, focused on the electronic poll pads (electronic rosters) from the vendor, KNOWiNK, tracing their rollout, functionality, and certain municipalities and counties attempting to or deciding to opt out, and just use paper poll books for voter registration on election day. 
+
+I think each of those volumes carries historical significance as they give the reader hints at what was happening for the election researchers. If you're coming to my writing fresh, in 2026 or beyond, you're probably already reading the best book (of these four) in which to start. It shares the same name as the first book I wrote, *Selections in Minnesota*, with a different subtitle.
 
 Coming back to this story... Naturally, the media was not going to tell it, not this way. Nor were the influencers connected to them, all proxies for the intelligence agencies, themselves orchestrating the 'politics' that are the entertainment division for the military industrial complex. Nor locally the tax-payer funded Minnesota Historical Society, established more than nine years prior to Minnesota becoming a state in the union, with the Minnesota Territory legislature's fifth act, with an interesting purpose: "...and the object of said Society shall be the collection and preservation of a Library, Mineralogical and Geological specimens, Indian curiosities and other matters and things connected with, and **calculated to illustrate and perpetuate the history** [emphasis added] and settlement of said Territory."
 
@@ -31,7 +31,7 @@ https://www.revisor.mn.gov/laws/1849/0/General+Laws/Chapter/44/pdf/
 
 Included in the latter organization's executive council today are ex officio members: the current governor, lieutenant governor, secretary of state, state auditor, and attorney general. One can imagine their view of the recent history. The people, meanwhile, must endeavor to record our version, to illustrate and perpetuate what we have observed for ourselves and how we have participated. Historians can later compare accounts to learn and determine what they may. Likely, this era is to be carefully studied. If we succeed in preserving the essence, then unlike so many previous eras, where tangible evidence is scarce, there will be something for the historians and anthropologists and anyone else monitoring Earth, from near range or from afar, to go on.
 
-This book may be updated periodically on Leanpub, or a similar service, until the time when Minnesota succeeds in conducting an election where every voter wins. That is, an actual, real, election, as defined in part by the foundations this guide lays out. At present, in every election, every voter loses because we cannot check the work of our administrators nor the electronic programming nor any access to those electronics, authorized or unauthorized. The longer this continues, the more each and every man, woman, and child will see their trust wane in regard to the government and the State. Perhaps this is a necessary part of the pendulum away from dependence *back toward* self governance.
+This book may be updated periodically on Leanpub, or a similar service, until the time when Minnesota succeeds in conducting an election where Every Voter Wins. That is, an actual, real, election, as defined in part by the foundations this guide lays out. At present, in every election, every voter loses because we cannot check the work of our administrators nor the electronic programming nor any access to those electronics, authorized or unauthorized. The longer this continues, the more each and every man, woman, and child will see their trust wane in regard to the government and the State. Perhaps this is a necessary part of the pendulum away from dependence *back toward* self governance.
 
 This book begins a discussion that asks, How can every voter win? Every voter wins when we can meaningfully audit every part of the election process, that it is reconstructable, that it can be shown substantively that the inputs equal the outputs. 
 
@@ -40,3 +40,5 @@ Meaningful elections can only occur, though, when the people are ready to reclai
 Therefore, this book will serve, until that time and until the related conditions are met (such as lawful accountability for wrongdoing), as a resource and a reference and a starting point, for experts and election workers and ordinary citizens doing extraordinary work to create the change needed. If we succeed, we will have taken an important step toward self governance.
 
 To fully answer the Why question above, simply refer to the quote that began this section. It is related to the encouraging refrain, If not you, who? If not now, when? Perhaps you, too, will find the place that you are to fill that no one else can, and to do that which no one else is able. 
+
+NOTE: Option for subtitle - The Election Game and How to Play It
