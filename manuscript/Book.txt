@@ -1,3 +1,4 @@
+0001_hudson_dismiss_lindell_parrish.txt
 001_why.txt
 002_ready.txt
 003_chapter_introduction.txt
@@ -8,7 +9,7 @@
 008_system_overview.txt
 009_foia.txt
 010_registration.txt
-absenteeballots.txt
+011_absentee_ballots.txt
 electionday.txt
 electionnight.txt
 reporting.txt

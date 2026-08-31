@@ -1,0 +1,73 @@
+# Chief Justice Dismisses Recount
+
+In one line…
+
+The Court decision is that candidates cannot recount all candidates, only their own ballots and the canvassing-board certified winner, if the canvassing board determines that is the scope of the requested discretionary recount, although this rule is written by the Executive Branch (not the Legislative Branch) found here: 8235.0800 COUNTING AND CHALLENGING BALLOTS. Subp.2. Sorting ballots: 
+
+The recount official must review each ballot and sort the ballots into piles based upon the recount official’s determination as to which candidate, if any, the voter intended to vote for: one pile for each candidate that is the subject of the recount and one pile for all other ballots (those for other candidates, overvotes, undervotes, etc.). 
+
+Summary Details:
+
+Chief Justice Natalie Hudson and I have at least two things in common: we both took the Law School Admissions Test and we both have been reading mentors at the Benjamin E. Mays Elementary School.
+
+As Hudson will be retiring on September 30, 2026 (announced April 2026), this could be one of her last consequential decisions from the bench. “MOORE, III, PROCACCINI, and GAÏTAS, JJ., took no part in the consideration” and former Chief Justice Kathleen Blatz was appointed as a fill-in for this case.
+
+On Saturday Hudson’s statement dismissed the Republican candidate for Minnesota Governor Mike Lindell’s filing; in part, she claimed that the Minnesota Secretary of State’s plan to limit the requested discretionary recount to only two (2) out of the seven (7) candidates had no errors nor omissions. 
+
+Actually, it has an obvious omission, which is the recounting of the ballots of the remaining five (5) candidates. (I think Lindell was also asking for all the ballots in the primary, including those where voters had reportedly selected DFL candidates.) 
+
+Why would setting aside the ballots of those five (5) other candidates make a difference? Why did Lindell’s team opt not to pay when presented with this 11th-hour change from the Office of the Secretary of State? 
+
+Overall, let’s bear in mind that recounts tend not to represent a thorough audit anyway, so it was peculiar if not unsurprising that the Office of the Secretary of State played this game of first changing the price tag, then narrowing the scope to just Lindell/Demuth ballots (the workload would be the same—workers would need to pre-sort the ballots in the OSS’s scheme), then did not apparently negotiate in good faith with Lindell’s team, calculating that the § 204B.44 provision is too weak or that the Supreme Court would return a favorable decision if Lindell sued, which is what happened.
+
+https://www.revisor.mn.gov/statutes/cite/204b.44
+
+I’ve personally been on the receiving end of this Supreme Court’s ruling in a § 204B.44 case in 2022, which the Court dismissed based on another of its technical tools, laches. (Susan Shogren Smith, who was punished by the System for challenging the 2020 election, has suggested that there might be a better remedy system than having to sue the Office of the Secretary of State via a Supreme Court Petition to have basic election data and records reviewed.)
+
+Focusing here on Lindell’s case here, why wasn’t the Office of the Secretary of State even willing to count AND tally all seven (7) governor candidates? Why was the price tag initially around $500,000 and then raised to $825,000, if Lindell’s claim on same is true? This Minnesota hand counting video demonstrates that the overall price should probably have been about 10% of what was quoted, perhaps well under $100,000. (This also leaves out the possibility that using paid staff plus ready volunteers could bring the number down even further.)
+
+Further, is it true that the OSS and Lindell’s legal team spent many hours on the phone debating and negotiating? What is there to negotiate if the statute is clear? Why should the Office of the Secretary of State have—or think they have—so much discretion in determining the scope? The officially certified result had Demuth defeating Lindell by 45,000 votes. Should it be so hard to confirm that?
+
+A separate point. Some citizens have filed Election Contests, including Phillip Parrish, Lindell’s Lieutenant Governor candidate; however, these were not before the court in this particular decision. 
+
+Although the Chief Justice does not call the following out in her 6-page decision, the Executive-Branch (MNSOS)-written rules in chapter 8235, specifically 8235.0800, read in part: 
+
+
+
+The recount official must review each ballot and sort the ballots into piles based upon the recount official’s determination as to which candidate, if any, the voter intended to vote for: one pile for each candidate that is the subject of the recount and one pile for all other ballots (those for other candidates, overvotes, undervotes, etc.).
+
+Personally, I’ll have to dig in more, but it looks like the narrower scope is allowable by these MNSOS-created (Executive Branch) rules, even though I too would want to see all the ballots (for any candidate on that ballot for that election, or that race) if paying such a quantity of money, and even if it was a free recount conducted by already-paid staff and volunteers. It is trivial to make seven (7) piles instead of three (3) when the counters/talliers are going to be touching EVERY ballot anyway. Then, the candidates and the voters and the public get more value, too, because it could be confirmed whether the tallies are accurate for all seven (7) candidates, regardless of whether inaccuracies affect the top two candidates (the machines are always right, aren’t they?). 
+
+Every Voter Loses (Until Every Voter Wins)
+
+The result of this Supreme Court decision is, again, Every Voter Loses. No one can even confirm the basic tally of the electronic equipment. Anyone saying so is lying because the only way to do so would be to perform the recount. (In 2024 the Minnesota Legislature effectively outlawed hand counting by election judges in precinct polling places on election night by changing language to ~immediately seal the ballots. Even hand recounting (during the statutory recount process) does not even get into whether those ballots were cast legally by U.S. citizens, & etc. (In a Morrison County commissioner election discretionary recount in 2022, I was an observer and was not permitted to challenge a ballot even though election judge initials were missing from some ballots.)
+
+Today’s post will be inserted into the developing book, one which may be used in high schools throughout the state—shouldn’t high schoolers be up to speed on how their government and election system functions? Shouldn’t high schoolers have a chance to audit the elections that affect their present and future?
+
+
+
+INTERNET SEARCH NOTES:
+
+The Decision (Court Order)
+
+Minnesota Supreme Court Order denying the §204B.44 petition — Lindell v. Simon, Case No. A26-1510, dated August 29, 2026, signed by Chief Justice Natalie E. Hudson:
+
+📄 Order-Deny-1.pdf (hosted by KAAL-TV)
+
+From the snippet, this is confirmed as the authentic order: “IT IS HEREBY ORDERED that Lindell’s section 204B.44 petition is denied. Dated: August 29, 2026. BY THE COURT: Natalie E. Hudson, Chief Justice.” It also notes Justices Moore, III, Procaccini, and Gaïtas took no part, and that Blatz, Acting Justice was appointed pursuant to Minn. Const. art. VI, § 2.
+
+The Filings
+
+Parrish’s “Errors, Omissions and Wrongful Acts” Petition (§204B.44):
+
+📄 Parrish 204B.44 Petition PDF (hosted by lindelloffensefund.org)
+
+Notice of contest & petition filed by Lindell and Parrish in Ramsey County District Court (demanding preservation of ballots and a three-judge panel) — this one isn’t directly linked to a PDF in my results, but Law&Crime published a detailed report on it:
+
+📄 Law&Crime coverage of the notice of contest
+
+Case Numbers I Found Referenced
+
+DocumentCase NumberLindell’s §204B.44 petition (decision issued Aug 29) A26-1510
+
+Parrish’s petition (per MPR-related discussion) A26-1462
